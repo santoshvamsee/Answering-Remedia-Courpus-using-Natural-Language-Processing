@@ -1,0 +1,343 @@
+0		
+	$<p>	
+
+0		
+1	Doctors	doctor	attr:>2	@A> N
+2	Find	find	attr:>3	@A> N
+3	Cause	cause	main:>0	@NH N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	Yellow	yellow	attr:>6	@A> A
+6	Fever	fever	pcomp:>4	@<P N
+	$<p>	
+
+0		
+	$(	
+2	HAVANA	Havana	main:>1	@NH N
+	$,	
+4	CUBA	Cuba	cc:>2	@NH N
+	$,	
+6	February	February		@NH N
+7	22	22	mod:>6	@<NOM NUM
+	$,	
+9	1902	1902	mod:>7	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	At_long_last	at_long_last		@ADVL ADV
+	$,	
+3	science	science	subj:>4	@SUBJ N
+4	has	have	v-ch:>5	@+FAUXV V
+5	learned	learn		@-FMAINV EN
+6	how	how	man:>8	@ADVL ADV
+7	people	people	subj:>8	@SUBJ N
+8	get	get	obj:>5	@+FMAINV V
+9	yellow	yellow	attr:>10	@A> A
+10	fever	fever	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	dreaded	dread	attr:>3	@A> A
+3	disease	disease	subj:>4	@SUBJ N
+4	kills	kill	main:>0	@+FMAINV V
+5	thousands	thousand	obj:>4	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	people	people	pcomp:>6	@<P N
+8	around	around	mod:>7	@<NOM PREP
+9	the	the	det:>10	@DN> DET
+10	world	world	pcomp:>8	@<P N
+11	each	each	det:>12	@DN> DET
+12	year	year	tmp:>4	@ADVL N
+	$.	
+	$<p>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	team	team	subj:>6	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	army	army	attr:>5	@A> N
+5	doctors	doctor	pcomp:>3	@<P N
+6	has	have	v-ch:>7	@+FAUXV V
+7	learned	learn	main:>0	@-FMAINV EN
+8	that	that	pm:>12	@CS CS
+9	the	the	det:>10	@DN> DET
+10	disease	disease	subj:>11	@SUBJ N
+11	is	be	v-ch:>12	@+FAUXV V
+12	carried	carry	obj:>7	@-FMAINV EN
+13	by	by	agt:>12	@ADVL PREP
+14	a	a	det:>16	@DN> DET
+15	certain	certain	attr:>16	@A> A
+16	kind	kind	pcomp:>13	@<P N
+17	of	of	mod:>16	@<NOM-OF PREP
+18	mosquito	mosquito	pcomp:>17	@<P N
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	it	it	subj:>3	@SUBJ PRON
+3	bites	bite	tmp:>9	@+FMAINV V
+4	its	it	attr:>5	@A> PRON
+5	victim	victim	obj:>3	@OBJ N
+	$,	
+7	the	the	det:>8	@DN> DET
+8	germs	germ	subj:>9	@SUBJ N
+9	enter	enter	main:>0	@+FMAINV V
+10	the	the	det:>11	@DN> DET
+11	bloodstream	bloodstream	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Within	within	cla:>9	@ADVL PREP
+2	a_few	a_few	det:>3	@DN> DET
+3	days	day	pcomp:>1	@<P N
+4	or	or	cc:>3	@CC CC
+5	weeks	week	cc:>3	@<P N
+	$,	
+7	the	the	det:>8	@DN> DET
+8	person	person	subj:>9	@SUBJ N
+9	comes	come	main:>0	@+FMAINV V
+10	down	down	>9	@ADVL ADV
+11	with	with	ha:>9	@ADVL PREP
+12	a	a	det:>14	@DN> DET
+13	high	high	attr:>14	@A> A
+14	fever	fever	pcomp:>11	@<P N
+15	and	and	cc:>14	@CC CC
+16	tires	tire	cc:>14	@<P N
+17	easily	easy		@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	skin	skin	subj:>3	@SUBJ N
+3	takes	take	main:>0	@+FMAINV V
+4	on	on	phr:>3	@ADVL ADV
+5	the	the	det:>6	@DN> DET
+6	color	color	obj:>3	@OBJ N
+7	that	that	subj:>8	@SUBJ PRON
+8	gives	give	mod:>6	@+FMAINV V
+9	the	the	det:>10	@DN> DET
+10	disease	disease	dat:>8	@I-OBJ N
+11	its	it	attr:>12	@A> PRON
+12	name	name	obj:>8	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Major	major	attr:>2	@A> A
+2	Walter	Walter	attr:>3	@A> N
+3	Reed	reed	subj:>4	@SUBJ N
+4	heads	head	main:>0	@+FMAINV V
+5	the	the	det:>6	@DN> DET
+6	team	team	obj:>4	@OBJ N
+7	that	that	subj:>8	@SUBJ PRON
+8	discovered	discover	mod:>6	@+FMAINV V
+9	the	the	det:>10	@DN> DET
+10	cause	cause	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	His	he	attr:>2	@A> PRON
+2	helper	helper	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	Dr.	Dr.	attr:>5	@A> ABBR
+5	James	James	attr:>6	@A> N
+6	Carroll	Carroll	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	These	this	det:>2	@DN> DET
+2	men	man	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	very	very	ad:>5	@AD-A> ADV
+5	brave	brave	comp:>3	@PCOMPL-S A
+6	and	and	cc:>3	@CC CC
+7	risked	risk	cc:>3	@+FMAINV V
+8	their	they	attr:>9	@A> PRON
+9	own	own	attr:>10	@A> A
+10	lives	life	obj:>7	@OBJ N
+11	while	while	tmp:>12	@ADVL ADV
+12	working	work	tmp:>7	@-FMAINV ING
+13	with	with	ha:>12	@ADVL PREP
+14	these	this	det:>15	@DN> DET
+15	mosquitoes	mosquito	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	One	one	subj:>11	@SUBJ NUM
+2	of	of	mod:>1	@<NOM-OF PREP
+3	their	they	attr:>4	@A> PRON
+4	team	team	attr:>5	@A> N
+5	members	member	pcomp:>2	@<P N
+	$,	
+7	Dr.	Dr.	attr:>8	@A> ABBR
+8	Jesse	Jesse	attr:>9	@A> N
+9	Lazear	lazear	mod:>5	@APP N
+	$,	
+11	died	die	main:>0	@+FMAINV V
+12	when	when	tmp:>14	@ADVL ADV
+13	he	he	subj:>14	@SUBJ PRON
+14	was	be	tmp:>11	@+FMAINV V
+15	bit	bit	comp:>14	@PCOMPL-S N
+16	while	while	tmp:>18	@ADVL ADV
+17	he	he	subj:>18	@SUBJ PRON
+18	worked	work	mod:>15	@+FMAINV V
+19	in	in	loc:>18	@ADVL PREP
+20	his	he	attr:>21	@A> PRON
+21	lab	lab	pcomp:>19	@<P N
+	$.	
+	$<p>	
+
+0		
+1	For	for	tmp:>6	@ADVL PREP
+2	years	year	pcomp:>1	@<P N
+	$,	
+4	it	it	subj:>5	@SUBJ PRON
+5	was	be	v-ch:>6	@+FAUXV V
+6	known	know	main:>0	@-FMAINV EN
+7	that	that	pm:>11	@CS CS
+8	yellow	yellow	attr:>9	@A> A
+9	fever	fever	subj:>10	@SUBJ N
+10	is	be	v-ch:>11	@+FAUXV V
+11	found	find	obj:>6	@-FMAINV EN
+12	mostly	most	>11	@ADVL ADV
+13	in	in	loc:>11	@ADVL PREP
+14	warm	warm	pcomp:>13	@<P A
+	$,	
+16	wet	wet	attr:>17	@A> A
+17	climates	climate		@SUBJ N	@OBJ N	@PCOMPL-O N	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	cases	case	subj:>3	@SUBJ N
+3	have	have	v-ch:>4	@+FAUXV V
+4	been	be	v-ch:>5	@-FAUXV EN
+5	reported	report	main:>0	@-FMAINV EN
+6	in	in	loc:>5	@ADVL PREP
+7	Cuba	Cuba	pcomp:>6	@<P N
+8	and	and	cc:>7	@CC CC
+9	the	the	det:>11	@DN> DET
+10	Philippine	Philippine	attr:>11	@A> A
+11	Islands	island	cc:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	city	city	subj:>5	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	Havana	Havana	pcomp:>3	@<P N
+5	plans	plan	main:>0	@+FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	spray	spray	obj:>5	@-FMAINV V
+8	all	all	det:>9	@DN> DET
+9	neighborhoods	neighborhood	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	help	help	main:>0	@-FMAINV V
+4	kill	kill	obj:>3	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	mosquitoes	mosquito	obj:>4	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	heads	head	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	team	team	obj:>2	@OBJ N
+5	that	that	subj:>6	@SUBJ PRON
+6	found	find	mod:>4	@+FMAINV V
+7	the	the	det:>8	@DN> DET
+8	cause	cause	dat:>6	@I-OBJ N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	yellow	yellow	attr:>11	@A> A
+11	fever	fever	pcomp:>9	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	carries	carry	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	yellow	yellow	attr:>5	@A> A
+5	fever	fever	attr:>6	@A> N
+6	disease	disease	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	team	team	subj:>2	@SUBJ N
+5	find	find	main:>0	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	cause	cause	obj:>5	@OBJ N
+8	for	for	phr:>5	@ADVL PREP
+9	yellow	yellow	attr:>10	@A> A
+10	fever	fever	pcomp:>8	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	have	have	main:>0	@+FMAINV V
+3	many	many	det:>4	@DN> DET
+4	cases	case	obj:>2	@OBJ N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	fever	fever	pcomp:>5	@<P N
+8	been	be	v-ch:>9	@-FAUXV EN
+9	reported	report	mod:>7	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	did	do	main:>0	@+FMAINV V
+3	Dr.	Dr.	attr:>4	@A> ABBR
+4	Lazear	lazear	attr:>5	@A> A
+5	die	die	obj:>2	@OBJ N
+	$?	
+	$<p>	
+

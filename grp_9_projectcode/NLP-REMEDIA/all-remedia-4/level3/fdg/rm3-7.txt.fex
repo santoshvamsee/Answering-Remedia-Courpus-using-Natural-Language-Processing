@@ -1,0 +1,264 @@
+ 9999 99       0       O      A             Rare           attr/A            -----      1
+ 9999 99       1       O      N              Egg          main/NH            -----     -1
+ 9999 99       2       O     EN           T_find       mod/FMAINV            -----      1
+
+ 9999 99       0       O    SEP                (       mod/FMAINV            ?????     -1
+ 9999 99       1       O      N             UTAH        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O      N            March          main/NH            -----      0
+ 9999 99       4       O    NUM          31,1989          mod/NOM            -----      3
+ 9999 99       5       O    SEP                )          mod/NOM            ?????     -1
+ 9999 99       6       O     --               $-          NOFUNC/            -----     -1
+ 9999 99       7       O    DET                A           det/DN            -----      9
+ 9999 99       8       O      A             rare           attr/A            -----      9
+ 9999 99       9       O      N              egg        subj/SUBJ            -----     10
+ 9999 99      10       O      V           T_have       v-ch/FAUXV            -----     11
+ 9999 99      11       O     EN             T_be       v-ch/FAUXV            -----     12
+ 9999 99      12       O     EN           T_find      main/FMAINV            -----     -1
+ 9999 99      13       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O     EN           T_find      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      N           bird's           attr/A            -----      7
+ 9999 99       7       O      N             nest          obj/OBJ            -----      3
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      1
+ 9999 99       1       O      N              egg        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       3       O    ADV            never         frq/ADVL            -----      4
+ 9999 99       4       O      V          T_hatch      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V        T_contain      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N          remains          obj/OBJ            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      A             tiny           attr/A            -----      7
+ 9999 99       7       O      N         dinosaur          pcomp/P            -----      4
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM              one           comp/S            -----      1
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      7
+ 9999 99       5       O      A           oldest           attr/A            -----      6
+ 9999 99       6       O      N         dinosaur           attr/A            -----      7
+ 9999 99       7       O      N             eggs          pcomp/P            -----      3
+ 9999 99       8       O    ADV             ever         frq/ADVL            -----      9
+ 9999 99       9       O     EN           T_find    NOFUNC/FMAINV            -----     -1
+ 9999 99      10       O    SEP                .    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV            about             ad/A            -----      3
+ 9999 99       3       O    NUM              100            qn/QN            -----      4
+ 9999 99       4       O    NUM          million            qn/QN            -----      5
+ 9999 99       5       O      A        years_old           comp/S            -----      1
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET             Some           det/DN            -----      1
+ 9999 99       1       O      N       scientists        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O    ING            T_dig      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N           ground          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       3       O    DET                a           det/DN            -----      4
+ 9999 99       4       O      N             spot          pcomp/P            -----      2
+ 9999 99       5       O    ADV            where         loc/ADVL            -----     11
+ 9999 99       6       O    NUM           12,000            qn/QN            -----      8
+ 9999 99       7       O      N         dinosaur           attr/A            -----      8
+ 9999 99       8       O      N            bones        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_have       v-ch/FAUXV            -----     10
+ 9999 99      10       O     EN             T_be       v-ch/FAUXV            -----     11
+ 9999 99      11       O     EN           T_find       mod/FMAINV            -----      4
+ 9999 99      12       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    ADV               So        meta/ADVL            -----      5
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       3       O NEG-PART              not         neg/ADVL            -----      4
+ 9999 99       4       O    ADV              too      NOFUNC/ADVL            -----     -1
+ 9999 99       5       O     EN       T_surprise      main/FMAINV            -----     -1
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V           T_find       cnt/FMAINV            -----      5
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N              egg          obj/OBJ            -----      7
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N              egg        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_find      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      A              dry           attr/A            -----      7
+ 9999 99       7       O      N             spot          pcomp/P            -----      4
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O   PREP               at         cla/ADVL            -----      7
+ 9999 99       2       O    NUM              one            qn/QN            -----      3
+ 9999 99       3       O      N             time          pcomp/P            -----      1
+ 9999 99       4       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N             area        subj/SUBJ            -----      7
+ 9999 99       7       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       8       O    DET                a           det/DN            -----     10
+ 9999 99       9       O      A          shallow           attr/A            -----     10
+ 9999 99      10       O      N             lake           comp/S            -----      7
+ 9999 99      11       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      N       dinosaur's           attr/A            -----      2
+ 9999 99       2       O      N           mother        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_must       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V           T_have       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O    ING          T_stand      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP               in         loc/ADVL            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N             lake          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_get      main/FMAINV            -----     -1
+ 9999 99       2       O      A            stuck           comp/S            -----      1
+ 9999 99       3       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N              mud          pcomp/P            -----      3
+ 9999 99       6       O     CC              and            cc/CC            -----      1
+ 9999 99       7       O      V          T_could       v-ch/FAUXV            -----      9
+ 9999 99       8       O NEG-PART              not         neg/ADVL            -----      7
+ 9999 99       9       O      V            T_get        cc/FMAINV            -----      1
+ 9999 99      10       O    ADV              out         phr/ADVL            -----      9
+ 9999 99      11       O    SEP                .         phr/ADVL            ?????     -1
+
+ 9999 99       0       O    DET             Some           det/DN            -----      1
+ 9999 99       1       O      N           people        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      A          special           attr/A            -----      5
+ 9999 99       5       O      N          picture          obj/OBJ            -----      2
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N              egg          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       3       O    DET               an           det/DN            -----      4
+ 9999 99       4       O      N            X-ray           comp/S            -----      2
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_let      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON             them         subj/OBJ            -----      3
+ 9999 99       3       O      V            T_see       obj/FMAINV            -----      1
+ 9999 99       4       O   PREP           inside          ha/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N              egg          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            shell        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       3       O NEG-PART              not         neg/ADVL            -----      2
+ 9999 99       4       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V             T_be       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN          T_crack       obj/FMAINV            -----      4
+ 9999 99       8       O      A             open           comp/S            -----      7
+ 9999 99       9       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PREP           Inside         cla/ADVL            -----      6
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N              egg          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O   PRON             they        subj/SUBJ            -----      5
+ 9999 99       5       O      V            T_can       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       7       O    DET                a           det/DN            -----      8
+ 9999 99       8       O      N         creature          obj/OBJ            -----      6
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             size           comp/S            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      A            small           attr/A            -----      7
+ 9999 99       7       O      N           animal          pcomp/P            -----      4
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N              egg          obj/OBJ            -----      1
+ 9999 99       4       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP           inside          ha/ADVL            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N              egg          pcomp/P            -----      2
+ 9999 99       5       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      5
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      5
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      N           mother           attr/A            -----      4
+ 9999 99       4       O      N         dinosaur        subj/SUBJ            -----      1
+ 9999 99       5       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       6       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_do      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N           mother          dat/OBJ            -----      1
+ 9999 99       4       O      N         dinosaur           attr/A            -----      5
+ 9999 99       5       O      N              die          obj/OBJ            -----      1
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      5
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      5
+ 9999 99       2       O NEG-PART              n't         neg/ADVL            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N            shell        subj/SUBJ            -----      1
+ 9999 99       5       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V             T_be       v-ch/FAUXV            -----      8
+ 9999 99       8       O     EN          T_crack       obj/FMAINV            -----      5
+ 9999 99       9       O      A             open           comp/S            -----      8
+ 9999 99      10       O    SEP                ?           comp/S            ?????     -1
+

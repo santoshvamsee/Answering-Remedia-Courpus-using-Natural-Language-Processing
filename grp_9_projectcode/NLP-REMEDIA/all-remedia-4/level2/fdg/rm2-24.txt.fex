@@ -1,0 +1,282 @@
+ 9999 99       0       O    ING           T_have      main/FMAINV            -----     -1
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N             Ball          obj/OBJ            -----      0
+ 9999 99       3       O   PREP               in         loc/ADVL            -----      0
+ 9999 99       4       O      N           Darwin          pcomp/P            -----      3
+
+ 9999 99       0       O    SEP                (          pcomp/P            ?????     -1
+ 9999 99       1       O      N           DARWIN        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O      N        MINNESOTA       NOFUNC/APP            -----     -1
+ 9999 99       4       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       5       O      N            March          main/NH            -----      0
+ 9999 99       6       O    NUM                1          mod/NOM            -----      5
+ 9999 99       7       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       8       O    NUM             1978        NOFUNC/NH            -----     -1
+ 9999 99       9       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99      10       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      A          biggest           attr/A            -----      2
+ 9999 99       2       O      N             ball        subj/SUBJ            -----      6
+ 9999 99       3       O   PREP               in          mod/NOM            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N            world          pcomp/P            -----      3
+ 9999 99       6       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       7       O    NUM               28            qn/QN            -----      8
+ 9999 99       8       O      A        years_old           comp/S            -----      6
+ 9999 99       9       O      N            today         tmp/ADVL            -----      6
+ 9999 99      10       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      N            beach           attr/A            -----      5
+ 9999 99       5       O      N             ball           comp/S            -----      1
+ 9999 99       6       O     CC               or            cc/CC            -----      5
+ 9999 99       7       O    DET                a           det/DN            -----      9
+ 9999 99       8       O      N           soccer           attr/A            -----      9
+ 9999 99       9       O      N             ball             cc/S            -----      5
+ 9999 99      10       O    SEP                .             cc/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      A          biggest           attr/A            -----      2
+ 9999 99       2       O      N             ball        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP             from         sou/ADVL            -----      4
+ 9999 99       6       O      N           string          pcomp/P            -----      5
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      2
+ 9999 99       1       O      A              odd           attr/A            -----      2
+ 9999 99       2       O      N             ball        subj/SUBJ            -----      3
+ 9999 99       3       O      V         T_belong      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               to          ha/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N           farmer          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              His           attr/A            -----      1
+ 9999 99       1       O      N             name        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      N          Francis           attr/A            -----      4
+ 9999 99       4       O      N          Johnson           comp/S            -----      2
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PREP               In         tmp/ADVL            -----      4
+ 9999 99       1       O    NUM             1950          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O   PRON               he        subj/SUBJ            -----      4
+ 9999 99       4       O      V          T_start      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP             with          ha/ADVL            -----      4
+ 9999 99       6       O    NUM              one            qn/QN            -----      7
+ 9999 99       7       O      N            piece          pcomp/P            -----      5
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O      N           string          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_think      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON               it        subj/SUBJ            -----      3
+ 9999 99       3       O      V          T_would       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V             T_be       obj/FMAINV            -----      1
+ 9999 99       5       O      N              fun           comp/S            -----      4
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V            T_see       mod/FMAINV            -----      5
+ 9999 99       8       O    ADV              how             ad/A            -----      9
+ 9999 99       9       O    DET             much           det/DN            -----     10
+ 9999 99      10       O      N           string          obj/OBJ            -----     13
+ 9999 99      11       O   PRON               he        subj/SUBJ            -----     12
+ 9999 99      12       O      V          T_could       v-ch/FAUXV            -----     13
+ 9999 99      13       O      V           T_save       obj/FMAINV            -----      7
+ 9999 99      14       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_keep      main/FMAINV            -----     -1
+ 9999 99       2       O    ING           T_roll       obj/FMAINV            -----      1
+ 9999 99       3       O      A    more_and_more           attr/A            -----      4
+ 9999 99       4       O      N           string          obj/OBJ            -----      2
+ 9999 99       5       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP               In         tmp/ADVL            -----      5
+ 9999 99       1       O      N             time          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N             ball        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       6       O    ADV              too             ad/A            -----      7
+ 9999 99       7       O      A              big           comp/S            -----      5
+ 9999 99       8       O   PREP              for         mod/ADVL            -----      7
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N            table          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      2
+ 9999 99       1       O   PRON               it        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV              too             ad/A            -----      4
+ 9999 99       4       O      A              big           comp/S            -----      2
+ 9999 99       5       O   PREP              for         mod/ADVL            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N          kitchen          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP            After         tmp/ADVL            -----      4
+ 9999 99       1       O    ADV           awhile      NOFUNC/ADVL            -----     -1
+ 9999 99       2       O    SEP                ,      NOFUNC/ADVL            ?????     -1
+ 9999 99       3       O   PRON               he        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V           T_roll       obj/FMAINV            -----      4
+ 9999 99       7       O   PRON               it          obj/OBJ            -----      6
+ 9999 99       8       O      N          outside       copred/OBJ            -----      6
+ 9999 99       9       O    SEP                .       copred/OBJ            ?????     -1
+
+ 9999 99       0       O      N            Today         tmp/ADVL            -----      5
+ 9999 99       1       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       2       O   PRON               it        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_can       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN            T_see      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP               in          ha/ADVL            -----      5
+ 9999 99       7       O   ABBR              Mr.           attr/A            -----      8
+ 9999 99       8       O      N        Johnson's           attr/A            -----      9
+ 9999 99       9       O      N         backyard          pcomp/P            -----      6
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV              How             ad/A            -----      1
+ 9999 99       1       O      A              big           comp/S            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    DET             this           det/DN            -----      4
+ 9999 99       4       O      N             ball        subj/SUBJ            -----      2
+ 9999 99       5       O    SEP                ?        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_stand      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM               13            qn/QN            -----      3
+ 9999 99       3       O      N             feet       NOFUNC/OBJ            -----     -1
+ 9999 99       4       O      A             tall         NOFUNC/S            -----     -1
+ 9999 99       5       O    SEP                .         NOFUNC/S            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N              man        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_could       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V          T_stand      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               on         loc/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N        shoulders          pcomp/P            -----      4
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O    DET                a           det/DN            -----     10
+ 9999 99       9       O    NUM           second           attr/A            -----     10
+ 9999 99      10       O      N              man          pcomp/P            -----      7
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_would       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O      A             able           comp/S            -----      3
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V            T_see       mod/FMAINV            -----      4
+ 9999 99       7       O   PREP             over          ha/ADVL            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N             ball          pcomp/P            -----      7
+ 9999 99      10       O   PREP               of           mod/OF            -----      9
+ 9999 99      11       O      N           string          pcomp/P            -----     10
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             ball        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      N              fat           comp/S            -----      2
+ 9999 99       4       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       5       O    ADV              too        meta/ADVL            -----      2
+ 9999 99       6       O    SEP                .        meta/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM               38            qn/QN            -----      3
+ 9999 99       3       O      N             feet           comp/S            -----      1
+ 9999 99       4       O      A             wide         copred/S            -----      1
+ 9999 99       5       O   PREP           around          ha/ADVL            -----      1
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N           center          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CS               If            pm/CS            -----      4
+ 9999 99       1       O   PRON               it        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_could       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN         T_unwind       cnd/FMAINV            -----      8
+ 9999 99       5       O    SEP                ,       cnd/FMAINV            ?????     -1
+ 9999 99       6       O   PRON               it        subj/SUBJ            -----      7
+ 9999 99       7       O      V          T_would       v-ch/FAUXV            -----      8
+ 9999 99       8       O      V        T_stretch      main/FMAINV            -----     -1
+ 9999 99       9       O    ADV             well             ad/A            -----     10
+ 9999 99      10       O    ADV             over             ad/A            -----     11
+ 9999 99      11       O    NUM            1,000            qn/QN            -----     12
+ 9999 99      12       O      N            miles          obj/OBJ            -----      8
+ 9999 99      13       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      A          biggest           attr/A            -----      4
+ 9999 99       4       O      N             ball          obj/OBJ            -----      1
+ 9999 99       5       O   PREP               in          mod/NOM            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            world          pcomp/P            -----      5
+ 9999 99       8       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    DET             What           det/DN            -----      1
+ 9999 99       1       O      N             kind          obj/OBJ            -----      6
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O      N             ball          pcomp/P            -----      2
+ 9999 99       4       O      V             T_do       v-ch/FAUXV            -----      6
+ 9999 99       5       O      N          Johnson        subj/SUBJ            -----      4
+ 9999 99       6       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       7       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O      N           Farmer           attr/A            -----      3
+ 9999 99       3       O      N          Johnson        subj/SUBJ            -----      1
+ 9999 99       4       O      V          T_start      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N             ball          obj/OBJ            -----      4
+ 9999 99       7       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      5
+ 9999 99       1       O      V            T_can       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             ball        subj/SUBJ            -----      1
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN            T_see      main/FMAINV            -----     -1
+ 9999 99       6       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON               he        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_move      main/FMAINV            -----     -1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N             ball          obj/OBJ            -----      3
+ 9999 99       6       O    ADV          outside         loc/ADVL            -----      3
+ 9999 99       7       O    SEP                ?         loc/ADVL            ?????     -1
+

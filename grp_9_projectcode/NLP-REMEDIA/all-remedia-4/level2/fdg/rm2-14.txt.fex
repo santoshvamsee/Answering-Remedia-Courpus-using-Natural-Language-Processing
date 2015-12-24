@@ -1,0 +1,254 @@
+ 9999 99       0       O      N         Climbers           attr/A            -----      1
+ 9999 99       1       O      N            Reach           attr/A            -----      2
+ 9999 99       2       O      N              Top          main/NH            -----     -1
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N            World          pcomp/P            -----      3
+
+ 9999 99       0       O    SEP                (          pcomp/P            ?????     -1
+ 9999 99       1       O      N            NEPAL        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O    NUM             1953        NOFUNC/NH            -----     -1
+ 9999 99       4       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       5       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O    NUM              Two            qn/QN            -----      2
+ 9999 99       1       O      N         mountain           attr/A            -----      2
+ 9999 99       2       O      N         climbers        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN          T_reach      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N              top          obj/OBJ            -----      4
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----     11
+ 9999 99       9       O      N          world's           attr/A            -----     10
+ 9999 99      10       O      A          tallest           attr/A            -----     11
+ 9999 99      11       O      N         mountain          pcomp/P            -----      7
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      2
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_get       tmp/FMAINV            -----     14
+ 9999 99       3       O   PREP               to          ha/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N              top          pcomp/P            -----      3
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O      N            Mount           attr/A            -----      8
+ 9999 99       8       O      N          Everest          pcomp/P            -----      6
+ 9999 99       9       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99      10       O    DET              the           det/DN            -----     12
+ 9999 99      11       O    NUM              two            qn/QN            -----     12
+ 9999 99      12       O      N              men        subj/SUBJ            -----     13
+ 9999 99      13       O      V           T_have       v-ch/FAUXV            -----     14
+ 9999 99      14       O     EN          T_climb      main/FMAINV            -----     -1
+ 9999 99      15       O    NUM           29,028            qn/QN            -----     16
+ 9999 99      16       O      N             feet         qua/ADVL            -----     14
+ 9999 99      17       O    SEP                .         qua/ADVL            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N              men        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_help      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               by         agt/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N             team          pcomp/P            -----      4
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O      N         climbers          pcomp/P            -----      7
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM            First        meta/ADVL            -----      3
+ 9999 99       1       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       2       O   PRON             they        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_set      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV               up         phr/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      N             base           attr/A            -----      7
+ 9999 99       7       O      N             camp          obj/OBJ            -----      3
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV            where         loc/ADVL            -----      5
+ 9999 99       3       O      N         supplies        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_keep      comp/FMAINV            -----      1
+ 9999 99       6       O    SEP                .      comp/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET            Other           det/DN            -----      1
+ 9999 99       1       O      N            camps        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       4       O      A           higher           comp/S            -----      3
+ 9999 99       5       O   PREP               up          ha/ADVL            -----      3
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N         mountain          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Here      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    SEP                ,      NOFUNC/ADVL            ?????     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N         climbers        subj/SUBJ            -----      4
+ 9999 99       4       O      V          T_could       v-ch/FAUXV            -----      5
+ 9999 99       5       O      V            T_get      main/FMAINV            -----     -1
+ 9999 99       6       O    ADV             away         loc/ADVL            -----      5
+ 9999 99       7       O   PREP             from         sou/ADVL            -----      5
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N             wind          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP               At         tmp/ADVL            -----      4
+ 9999 99       1       O      N            times          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O      N       snowstorms        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON               it          obj/OBJ            -----      4
+ 9999 99       6       O      A             hard             oc/O            -----      4
+ 9999 99       7       O INFMARK               to       pm/INFMARK            -----      8
+ 9999 99       8       O      V          T_climb       mod/FMAINV            -----      6
+ 9999 99       9       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    ADV               So        meta/ADVL            -----      2
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_stay      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               in         loc/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N            camps          pcomp/P            -----      3
+ 9999 99       6       O     CS            until            pm/CS            -----      9
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N          weather        subj/SUBJ            -----      9
+ 9999 99       9       O      V            T_get       tmp/FMAINV            -----      2
+ 9999 99      10       O      A           better           comp/S            -----      9
+ 9999 99      11       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N           storms        subj/SUBJ            -----      3
+ 9999 99       3       O      V          T_clear       tmp/FMAINV            -----      6
+ 9999 99       4       O    SEP                ,       tmp/FMAINV            ?????     -1
+ 9999 99       5       O   PRON             they        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_move      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP               on          ha/ADVL            -----      6
+ 9999 99       8       O    SEP                .          ha/ADVL            ?????     -1
+
+ 9999 99       0       O      N           Edmund           attr/A            -----      1
+ 9999 99       1       O      N          Hillary        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O      A             best           attr/A            -----      5
+ 9999 99       5       O      N          climber           comp/S            -----      2
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP            along          ha/ADVL            -----      1
+ 9999 99       3       O   PRON              his           attr/A            -----      4
+ 9999 99       4       O      N            guide          pcomp/P            -----      2
+ 9999 99       5       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       6       O     EN           T_name       mod/FMAINV            -----      4
+ 9999 99       7       O      N          Tenzing          obj/OBJ            -----      6
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP            After         tmp/ADVL            -----     10
+ 9999 99       1       O      N            hours          pcomp/P            -----      0
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O    ING          T_fight     pcomp/FMAINV            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N             snow          obj/OBJ            -----      3
+ 9999 99       6       O     CC              and            cc/CC            -----      5
+ 9999 99       7       O      N              ice           cc/OBJ            -----      5
+ 9999 99       8       O    SEP                ,           cc/OBJ            ?????     -1
+ 9999 99       9       O   PRON             they        subj/SUBJ            -----     10
+ 9999 99      10       O      V          T_reach      main/FMAINV            -----     -1
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N              top          obj/OBJ            -----     10
+ 9999 99      13       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99      14       O     EN           T_call       mod/FMAINV            -----     12
+ 9999 99      15       O    DET              the           det/DN            -----     16
+ 9999 99      16       O      N           summit          obj/OBJ            -----     14
+ 9999 99      17       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM            Eight            qn/QN            -----      1
+ 9999 99       1       O      N            teams        subj/SUBJ            -----      4
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O      N         climbers          pcomp/P            -----      2
+ 9999 99       4       O      V            T_try      main/FMAINV            -----     -1
+ 9999 99       5       O     CC              and            cc/CC            -----      4
+ 9999 99       6       O      V           T_fail        cc/FMAINV            -----      4
+ 9999 99       7       O   PREP           before         tmp/ADVL            -----      6
+ 9999 99       8       O   PRON             them          pcomp/P            -----      7
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O      N          Hillary          cc/SUBJ            -----      3
+ 9999 99       2       O     CC              and            cc/CC            -----      3
+ 9999 99       3       O      N          Tenzing        subj/SUBJ            -----      4
+ 9999 99       4       O      V          T_prove      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON               it        subj/SUBJ            -----      6
+ 9999 99       6       O      V            T_can       v-ch/FAUXV            -----      7
+ 9999 99       7       O      V             T_be       v-ch/FAUXV            -----      8
+ 9999 99       8       O     EN             T_do       obj/FMAINV            -----      4
+ 9999 99       9       O    SEP                !       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_reach      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N              top          obj/OBJ            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O      N            Mount           attr/A            -----      6
+ 9999 99       6       O      N          Everest          pcomp/P            -----      4
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET          another           det/DN            -----      3
+ 9999 99       3       O      N             name           comp/S            -----      1
+ 9999 99       4       O   PREP              for          mod/NOM            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      N         mountain           attr/A            -----      7
+ 9999 99       7       O      N              top          pcomp/P            -----      4
+ 9999 99       8       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N         climbers        subj/SUBJ            -----      1
+ 9999 99       4       O      V          T_reach      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N              top          obj/OBJ            -----      4
+ 9999 99       7       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N            Mount           attr/A            -----      3
+ 9999 99       3       O      N          Everest        subj/SUBJ            -----      1
+ 9999 99       4       O    SEP                ?        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON              you        subj/SUBJ            -----      1
+ 9999 99       3       O      V          T_think      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON               it        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be       obj/FMAINV            -----      3
+ 9999 99       6       O    ADV               so             ad/A            -----      7
+ 9999 99       7       O      A             hard             oc/O            -----      3
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V          T_reach       mod/FMAINV            -----      7
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N              top          obj/OBJ            -----      9
+ 9999 99      12       O    SEP                ?          obj/OBJ            ?????     -1
+

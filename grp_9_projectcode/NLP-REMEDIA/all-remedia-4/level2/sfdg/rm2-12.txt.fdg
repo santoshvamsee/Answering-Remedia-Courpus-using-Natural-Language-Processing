@@ -1,0 +1,368 @@
+0		
+1	Owens	Owens	attr:>2	@A> N
+2	Wins	win	main:>0	@NH N
+3	4th	4th	attr:>4	@A> NUM
+4	Gold	gold	attr:>5	@A> N
+5	Medal	medal		@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	MUNICH	Munich	main:>1	@NH N
+	$,	
+4	GERMANY	Germany		@NH N
+	$,	
+6	1936	1936		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Jesse	Jesse	attr:>2	@A> N
+2	Owens	Owens	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	the	the	det:>6	@DN> DET
+5	fastest	fast	attr:>6	@A> A
+6	man	man	comp:>3	@PCOMPL-S N
+7	in	in	mod:>6	@<NOM PREP
+8	the	the	det:>9	@DN> DET
+9	world	world	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	runs	run	main:>0	@+FMAINV V
+3	and	and	cc:>2	@CC CC
+4	wins	win	cc:>2	@+FMAINV V
+5	for	for	ha:>4	@ADVL PREP
+6	the	the	det:>9	@DN> DET
+7	United	unite	attr:>8	@A> A
+8	States	state	attr:>9	@A> N
+9	team	team	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Today	today	tmp:>4	@ADVL N
+	$,	
+3	Jesse	Jesse	subj:>4	@SUBJ N
+4	won	win	main:>0	@+FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	fourth	fourth	attr:>7	@A> NUM
+7	gold	gold	attr:>8	@A> N
+8	medal	medal	obj:>4	@OBJ N
+9	in	in	loc:>4	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	Olympics	Olympic	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	time	time		@NH N	@SUBJ N	@OBJ N	@PCOMPL-S N	@<P N	@ADVL N
+3	he	he	subj:>4	@SUBJ PRON
+4	wins	win		@+FMAINV V
+5	a	a	det:>6	@DN> DET
+6	medal	medal	obj:>4	@OBJ N
+	$,	
+8	it	it	subj:>9	@SUBJ PRON
+9	is	be	v-ch:>10	@+FAUXV V
+10	placed	place		@-FMAINV EN
+11	around	around	ha:>10	@ADVL PREP
+12	his	he	attr:>13	@A> PRON
+13	neck	neck	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	band	band	subj:>3	@SUBJ N
+3	plays	play	main:>0	@+FMAINV V
+4	the	the	det:>7	@DN> DET
+	$"_	
+6	Star-Spangled	Star-Spangled	attr:>7	@A> A
+7	Banner	banner	obj:>3	@OBJ N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	the	the	det:>7	@DN> DET
+5	first	first	attr:>6	@A> NUM
+6	time	time	attr:>7	@A> N
+7	Jesse	Jesse	subj:>8	@SUBJ N
+8	has	have	v-ch:>9	@+FAUXV V
+9	shown	show		@-FMAINV EN
+10	his	he	attr:>11	@A> PRON
+11	speed	speed	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	A_few	a_few	det:>2	@DN> DET
+2	years	year	tmp:>6	@ADVL N
+3	ago	ago	ad:>2	@<AD-A ADV
+	$,	
+5	he	he	subj:>6	@SUBJ PRON
+6	broke	break	main:>0	@+FMAINV V
+7	five	five	qn:>9	@QN> NUM
+8	world	world	attr:>9	@A> N
+9	records	record	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>5	@ADVL PREP
+2	fact	fact	pcomp:>1	@<P N
+	$,	
+4	he	he	subj:>5	@SUBJ PRON
+5	did	do	main:>0	@+FMAINV V
+6	this	this	obj:>5	@OBJ PRON
+7	in	in	dur:>5	@ADVL PREP
+8	one	one	qn:>9	@QN> NUM
+9	hour	hour	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Jesse's	Jesse	attr:>2	@A> N
+2	future	future	subj:>3	@SUBJ N
+3	was	be	main:>0	@+FMAINV V
+4	not	not	neg:>5	@ADVL NEG-PART
+5	always	always	frq:>3	@ADVL ADV
+6	bright	bright	comp:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	As	as	cla:>6	@ADVL PREP
+2	a	a	det:>3	@DN> DET
+3	boy	boy	pcomp:>1	@<P N
+	$,	
+5	he	he	subj:>6	@SUBJ PRON
+6	was	be	main:>0	@+FMAINV V
+7	quite	quite	ad:>8	@AD-A> ADV
+8	sick	sick	comp:>6	@PCOMPL-S A
+9	and	and	cc:>8	@CC CC
+10	weak	weak	cc:>8	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	winters	winter		@NH N	@SUBJ N	@PCOMPL-S N
+	$,	
+4	he	he	subj:>5	@SUBJ PRON
+5	could	could	v-ch:>7	@+FAUXV V
+6	not	not	neg:>5	@ADVL NEG-PART
+7	go	go	main:>0	@-FMAINV V
+8	to	to	goa:>7	@ADVL PREP
+9	school	school	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	All	all	qn:>2	@QN> PRON
+2	he	he	subj:>3	@SUBJ PRON
+3	could	could	v-ch:>4	@+FAUXV V
+4	do	do		@-FMAINV V
+5	was	be		@+FMAINV V
+6	stay	stay	comp:>5	@PCOMPL-S N
+7	in	in	ha:>5	@ADVL PREP
+8	bed	bed	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>6	@ADVL PREP
+2	high	high	attr:>3	@A> A
+3	school	school	pcomp:>1	@<P N
+	$,	
+5	he	he	subj:>6	@SUBJ PRON
+6	began	begin	main:>0	@+FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	train	train	obj:>6	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	could	could	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	run	run	main:>0	@-FMAINV V
+5	after	after	ha:>4	@ADVL PREP
+6	school	school	pcomp:>5	@<P N
+7	because	because	pm:>9	@CS CS
+8	he	he	subj:>9	@SUBJ PRON
+9	had	have	cnt:>4	@+FMAINV V
+10	a	a	det:>11	@DN> DET
+11	job	job	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	So	so	meta:>4	@ADVL ADV
+2	he	he	subj:>3	@SUBJ PRON
+3	would	would	v-ch:>4	@+FAUXV V
+4	get	get	main:>0	@-FMAINV V
+5	up	up	phr:>4	@ADVL ADV
+6	early	early	tmp:>4	@ADVL ADV
+7	and	and	cc:>4	@CC CC
+8	run	run	cc:>4	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	At	at	cla:>6	@ADVL PREP
+2	first	first	pcomp:>1	@<P NUM
+	$,	
+4	he	he	subj:>6	@SUBJ PRON
+5	just	just	meta:>6	@ADVL ADV
+6	wanted	want	main:>0	@+FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	build	build	obj:>6	@-FMAINV V
+9	his	he	attr:>10	@A> PRON
+10	strength	strength	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Later	late	tmp:>4	@ADVL ADV
+	$,	
+3	he	he	subj:>4	@SUBJ PRON
+4	began	begin	main:>0	@+FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	race	race	obj:>4	@-FMAINV V
+7	against	against	ha:>6	@ADVL PREP
+8	others	other	pcomp:>7	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>5	@DN> DET
+2	sick	sick	cc:>4	@A> A
+	$,	
+4	young	young	attr:>5	@A> A
+5	boy	boy	subj:>6	@SUBJ N
+6	grew	grow	main:>0	@+FMAINV V
+7	into	into	goa:>6	@ADVL PREP
+8	a	a	det:>10	@DN> DET
+9	strong	strong	attr:>10	@A> A
+10	man	man	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>6	@ADVL ADV
+2	Jesse's	Jesse	attr:>3	@A> N
+3	name	name	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	v-ch:>6	@-FAUXV V
+6	known	know	main:>0	@-FMAINV EN
+7	around	around	ha:>6	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	world	world	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	earned	earn	main:>0	@-FMAINV EN
+4	a	a	det:>5	@DN> DET
+5	place	place	obj:>3	@OBJ N
+6	in	in	loc:>3	@ADVL PREP
+7	sports	sports	attr:>8	@A> N
+8	history	history	pcomp:>6	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	fastest	fast	attr:>5	@A> A
+5	man	man	comp:>2	@PCOMPL-S N
+6	in	in	mod:>5	@<NOM PREP
+7	the	the	det:>8	@DN> DET
+8	world	world	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	music	music	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	played	play		@-FMAINV EN
+5	when	when	tmp:>7	@ADVL ADV
+6	Jesse	Jesse	subj:>7	@SUBJ N
+7	wins	win	tmp:>4	@+FMAINV V
+8	a	a	det:>10	@DN> DET
+9	gold	gold	attr:>10	@A> N
+10	medal	medal	obj:>7	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	he	he	subj:>2	@SUBJ PRON
+4	begin	begin	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	train	train	obj:>4	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	he	he	subj:>2	@SUBJ PRON
+4	win	win	main:>0	@-FMAINV V
+5	four	four	qn:>6	@QN> NUM
+6	medals	medal	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	was	be	main:>0	@+FMAINV V
+3	Jesse's	Jesse	attr:>4	@A> N
+4	future	future	subj:>2	@SUBJ N
+5	not	not	neg:>6	@ADVL NEG-PART
+6	bright	bright	comp:>2	@PCOMPL-S A
+7	at	at	tmp:>2	@ADVL PREP
+8	one	one	qn:>9	@QN> NUM
+9	time	time	pcomp:>7	@<P N
+	$?	
+	$<p>	
+

@@ -1,0 +1,307 @@
+0		
+	$<p>	
+
+0		
+1	Palace	palace	subj:>4	@SUBJ N
+2	for	for	mod:>1	@<NOM PREP
+3	Shoppers	shopper	pcomp:>2	@<P N
+4	Opens	open	main:>0	@+FMAINV V
+	$<p>	
+
+0		
+	$(	
+2	NEW	new	attr:>3	@A> A
+3	YORK	York	attr:>4	@A> N
+4	CITY	city		@APP N
+	$,	
+6	December	December	main:>1	@NH N
+7	20	20	mod:>6	@<NOM NUM
+	$,	
+9	1862	1862	mod:>7	@<NOM NUM
+	$)	
+11	The	the	det:>13	@DN> DET
+12	best	good	attr:>13	@A> A
+13	place	place		@NH N	@SUBJ N	@PCOMPL-S N	@APP N
+14	to	to	pm:>15	@INFMARK> INFMARK>
+15	do	do	mod:>13	@-FMAINV V
+16	all	all	det:>19	@DN> DET
+17	your	you	attr:>18	@A> PRON
+18	holiday	holiday	attr:>19	@A> N
+19	shopping	shop	subj:>22	@SUBJ N
+20	this	this	det:>21	@DN> DET
+21	year	year	mod:>19	@ADVL N
+22	is	be		@+FMAINV V
+23	Stewart's	Stewart	attr:>24	@A> N
+24	Cast	cast	attr:>25	@A> N
+25	Iron	iron	attr:>26	@A> N
+26	Palace	palace	comp:>22	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	new	new	attr:>3	@A> A
+3	building	build	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	eight	eight	qn:>6	@QN> NUM
+6	stories	story	comp:>4	@PCOMPL-S N
+7	tall	tall	copred:>4	@PCOMPL-S A
+8	and	and	cc:>4	@CC CC
+9	is	be	cc:>4	@+FMAINV V
+10	the	the	det:>12	@DN> DET
+11	biggest	big	attr:>12	@A> A
+12	store	store	comp:>9	@PCOMPL-S N
+13	in	in	mod:>12	@<NOM PREP
+14	the	the	det:>15	@DN> DET
+15	world	world	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	named	name	main:>0	@-FMAINV EN
+4	for	for	ha:>3	@ADVL PREP
+5	A.T.	A.T	attr:>6	@A> ABBR
+6	Stewart	Stewart	pcomp:>4	@<P N
+	$,	
+8	the	the	det:>9	@DN> DET
+9	builder	builder	mod:>6	@APP N
+	$.	
+	$<p>	
+
+0		
+1	Stewart's	Stewart	subj:>2	@SUBJ N
+2	has	have	main:>0	@+FMAINV V
+3	more	more	qua:>2	@ADVL PRON
+4	than	than	mod:>3	@<NOM PREP	@ADVL PREP
+5	2,000	2,000	qn:>6	@QN> NUM
+6	clerks	clerk	cc:>4	@<P N
+7	ready	ready		@PCOMPL-O A
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	serve	serve	mod:>7	@-FMAINV V
+10	you	you	obj:>9	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	Whether	whether	pm:>3	@CS CS
+2	you	you	subj:>3	@SUBJ PRON
+3	need	need	cnd:>15	@+FMAINV V
+4	gloves	glove	obj:>3	@OBJ N
+	$,	
+6	an	an	det:>7	@DN> DET
+7	umbrella	umbrella	mod:>4	@APP N
+	$,	
+9	or	or		@CC CC
+10	a	a	det:>11	@DN> DET
+11	suitcase	suitcase		@SUBJ N	@OBJ N
+	$,	
+13	you	you	subj:>14	@SUBJ PRON
+14	can	can	v-ch:>15	@+FAUXV V
+15	find	find	main:>0	@-FMAINV V
+16	it	it	obj:>15	@OBJ PRON
+17	at	at	loc:>15	@ADVL PREP
+18	Stewart's	Stewart	pcomp:>17	@<P N
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	new	new	attr:>3	@A> A
+3	kind	kind	subj:>7	@SUBJ N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	shopping	shop	pcomp:>4	@<P-FMAINV ING
+6	place	place	obj:>5	@OBJ N
+7	is	be	v-ch:>8	@+FAUXV V
+8	called	call	main:>0	@-FMAINV EN
+9	a	a	det:>11	@DN> DET
+10	department	department	attr:>11	@A> N
+11	store	store	comp:>8	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	looks	look	main:>0	@+FMAINV V
+3	different	different	comp:>2	@PCOMPL-S A
+4	on	on	loc:>2	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	outside	outside	pcomp:>4	@<P N
+7	as_well_as	as_well_as	cc:>6	@CC CC
+8	the	the	det:>9	@DN> DET
+9	inside	inside	cc:>6	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Stewart's	Stewart	attr:>2	@A> N
+2	Palace	palace	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	made	make	main:>0	@-FMAINV EN
+5	from	from	ha:>4	@ADVL PREP
+6	a	a	det:>10	@DN> DET
+7	material	material	attr:>8	@A> N
+8	called	call	attr:>9	@A> A
+9	cast	cast	attr:>10	@A> N
+10	iron	iron	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>6	@DN> DET
+4	very	very	ad:>5	@AD-A> ADV
+5	strong	strong	attr:>6	@A> A
+6	iron	iron	comp:>2	@PCOMPL-S N
+7	that	that	subj:>8	@SUBJ PRON
+8	can	can	v-ch:>9	@+FAUXV V
+9	support	support	mod:>1	@-FMAINV V
+10	a	a	det:>12	@DN> DET
+11	tall	tall	attr:>12	@A> A
+12	building	build	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	On	on	cla:>5	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	ground	ground	pcomp:>1	@<P N
+4	floor	floor	subj:>5	@SUBJ N
+5	are	be	main:>0	@+FMAINV V
+6	many	many	det:>8	@DN> DET
+7	huge	huge	attr:>8	@A> A
+8	windows	window	comp:>5	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Shoppers	shopper	subj:>8	@SUBJ N
+2	who	who	subj:>3	@SUBJ PRON
+3	are	be	v-ch:>4	@+FAUXV V
+4	walking	walk	mod:>1	@-FMAINV ING
+5	along	along	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	sidewalks	sidewalk	pcomp:>5	@<P N
+8	can	can	v-ch:>9	@+FAUXV V
+9	stroll	stroll	main:>0	@-FMAINV V
+10	past	past	det:>12	@DN> DET
+11	and	and		@CC CC
+12	look	look	obj:>9	@OBJ N
+13	into	into		@ADVL PREP
+14	the	the	det:>15	@DN> DET
+15	store	store	pcomp:>13	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Inside	inside	loc:>5	@ADVL ADV
+	$,	
+3	the	the	det:>4	@DN> DET
+4	store	store	subj:>5	@SUBJ N
+5	looks	look	main:>0	@+FMAINV V
+6	like	like	man:>5	@ADVL PREP
+7	a	a	det:>8	@DN> DET
+8	palace	palace	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	contains	contain	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	grand	grand	attr:>5	@A> A
+5	staircase	staircase	obj:>2	@OBJ N
+6	and	and	cc:>5	@CC CC
+7	a	a	det:>9	@DN> DET
+8	glass	glass	attr:>9	@A> N
+9	roof	roof	cc:>5	@OBJ N
+10	which	which	subj:>11	@SUBJ PRON
+11	lets	let	mod:>9	@+FMAINV V
+12	the	the	det:>13	@DN> DET
+13	sunshine	sunshine	obj:>11	@OBJ N
+14	enter	enter		@-FMAINV V	@<P-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	built	build	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	new	new	attr:>5	@A> A
+5	kind	kind	obj:>2	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	store	store	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	kind	kind	main:>0	@NH N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	store	store	pcomp:>3	@<P N
+5	is	be		@+FMAINV V
+6	Stewart's	Stewart	comp:>5	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	great	great	attr:>5	@A> A
+5	time	time	subj:>2	@SUBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	shop	shop	mod:>5	@-FMAINV V
+8	at	at	loc:>7	@ADVL PREP
+9	Stewart's	Stewart	pcomp:>8	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	was	be	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	store	store	subj:>2	@SUBJ N
+5	built	build	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	this	this	subj:>2	@SUBJ PRON
+4	a	a	det:>6	@DN> DET
+5	new	new	attr:>6	@A> A
+6	kind	kind	comp:>2	@PCOMPL-S N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	store	store	pcomp:>7	@<P N
+	$?	
+	$<p>	
+

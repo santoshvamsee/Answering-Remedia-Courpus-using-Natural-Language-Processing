@@ -1,0 +1,387 @@
+0		
+	$<p>	
+
+0		
+1	Titanic	titanic	attr:>2	@A> A
+2	Sinks	sink	main:>0	@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	Mid-Atlantic	mid-Atlantic	attr:>3	@A> A
+3	Ocean	ocean		@APP N
+	$,	
+5	April	April		@APP N	@A> N	@ADVL N
+6	16,1912	16,1912		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	terrible	terrible	attr:>3	@A> A
+3	tragedy	tragedy	subj:>4	@SUBJ N
+4	has	have	v-ch:>5	@+FAUXV V
+5	happened	happen	main:>0	@-FMAINV EN
+6	in	in	loc:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	middle	middle	pcomp:>6	@<P N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>11	@DN> DET
+11	ocean	ocean	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	huge	huge	attr:>3	@A> A
+3	ship	ship	subj:>4	@SUBJ N
+4	sank	sink	main:>0	@+FMAINV V
+5	last	last	det:>6	@DN> DET
+6	night	night	obj:>4	@OBJ N
+7	after	after	tmp:>4	@ADVL PREP
+8	hitting	hit	pcomp:>7	@<P-FMAINV ING
+9	an	an	det:>10	@DN> DET
+10	iceberg	iceberg	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	crew	crew	cc:>4	@SUBJ N
+3	and	and	cc:>4	@CC CC
+4	most	many	subj:>8	@SUBJ PRON
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	passengers	passenger	pcomp:>5	@<P N
+8	have	have	v-ch:>9	@+FAUXV V
+9	been	be	v-ch:>10	@-FAUXV EN
+10	lost	lose	main:>0	@-FMAINV EN
+11	at	at	loc:>10	@ADVL PREP
+12	sea	sea	pcomp:>11	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	name	name	subj:>6	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	the	the	det:>5	@DN> DET
+5	ship	ship	pcomp:>3	@<P N
+6	is	be	main:>0	@+FMAINV V
+7	the	the	det:>8	@DN> DET
+8	Titanic	titanic	comp:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	a	a	det:>6	@DN> DET
+4	new	new	attr:>5	@A> A
+5	ship	ship	attr:>6	@A> N
+6	making	make	comp:>2	@PCOMPL-S N
+7	its	it	attr:>8	@A> PRON
+8	first	first	attr:>9	@A> NUM
+9	trip	trip		@SUBJ N	@PCOMPL-S N
+10	between	between	ha:>2	@ADVL PREP
+11	England	England	pcomp:>10	@<P N
+12	and	and	cc:>11	@CC CC
+13	the	the	det:>15	@DN> DET
+14	United	unite	attr:>15	@A> A
+15	States	state	cc:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ship	ship	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	made	make	main:>0	@-FMAINV EN
+5	of	of	phr:>4	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	finest	fine	attr:>8	@A> A
+8	steel	steel	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Before	before	pm:>3	@CS CS
+2	it	it	subj:>3	@SUBJ PRON
+3	set	set	tmp:>7	@+FMAINV V
+4	sail	sail	obj:>3	@OBJ N
+	$,	
+6	people	people	subj:>7	@SUBJ N
+7	said	say	main:>0	@+FMAINV V
+8	that	that	pm:>10	@CS CS
+9	it	it	subj:>10	@SUBJ PRON
+10	was	be	obj:>7	@+FMAINV V
+11	unsinkable	unsinkable	comp:>10	@PCOMPL-S A
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	good	good	attr:>3	@A> A
+3	news	news	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	that	that	pm:>8	@CS CS
+6	some	some	det:>7	@DN> DET
+7	passengers	passenger	subj:>8	@SUBJ N
+8	are	be	comp:>4	@+FMAINV V
+9	alive	alive	comp:>8	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	managed	manage	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	crawl	crawl	obj:>2	@-FMAINV V
+5	into	into	goa:>4	@ADVL PREP
+6	lifeboats	lifeboat	pcomp:>5	@<P N
+7	as	as	copred:>4	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	ship	ship	pcomp:>7	@<P N
+10	tilted	tilt	mod:>9	@-FMAINV EN
+11	on	on	ha:>10	@ADVL PREP
+12	its	it	attr:>13	@A> PRON
+13	side	side	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	feared	fear	main:>0	@-FMAINV EN
+4	that	that		@CS CS
+5	1,000	1,000	qn:>6	@QN> NUM
+6	people	people		@SUBJ N	@OBJ N
+7	or	or		@CC CC
+8	more	many		@SUBJ PRON	@OBJ PRON	@ADVL PRON	@ADVL ADV
+9	were	be		@+FMAINV V
+10	not	not	neg:>9	@ADVL NEG-PART
+11	so	so	ad:>12	@AD-A> ADV
+12	lucky	lucky	comp:>9	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Men	man	cc:>6	@SUBJ N
+	$,	
+3	women	woman		@NH N	@SUBJ N	@PCOMPL-S N	@APP N
+	$,	
+5	and	and	cc:>6	@CC CC
+6	children	child	subj:>7	@SUBJ N
+7	are	be	main:>0	@+FMAINV V
+8	among	among	ha:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	dead	dead	pcomp:>8	@<P A
+	$.	
+	$<p>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	said	say	main:>0	@-FMAINV EN
+4	that	that	pm:>10	@CS CS
+5	most	many	det:>6	@DN> DET
+6	people	people	subj:>7	@SUBJ N
+7	did	do	v-ch:>10	@+FAUXV V
+8	not	not	neg:>7	@ADVL NEG-PART
+9	even	even	meta:>10	@ADVL ADV
+10	feel	feel	obj:>3	@-FMAINV V
+11	a	a	det:>12	@DN> DET
+12	bump	bump	comp:>10	@PCOMPL-S N
+13	as	as		@<NOM PREP	@ADVL PREP	@CS CS
+14	the	the	det:>15	@DN> DET
+15	ship	ship		@SUBJ N	@OBJ N	@PCOMPL-S N	@<P N
+16	hit	hit		@-FMAINV V	@<P-FMAINV V	@+FMAINV V
+17	the	the	det:>18	@DN> DET
+18	iceberg	iceberg	obj:>16	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	it	it	subj:>3	@SUBJ PRON
+3	must	must	v-ch:>4	@+FAUXV V
+4	have	have	v-ch:>5	@-FAUXV V
+5	made	make	main:>0	@-FMAINV EN
+6	a	a	det:>8	@DN> DET
+7	large	large	attr:>8	@A> A
+8	hole	hole	obj:>5	@OBJ N
+9	because	because	pm:>12	@CS CS
+10	the	the	det:>11	@DN> DET
+11	ship	ship	subj:>12	@SUBJ N
+12	sank	sink	cnt:>5	@+FMAINV V
+13	very	very	ad:>14	@AD-A> ADV
+14	fast	fast	obj:>12	@OBJ A
+	$.	
+	$<p>	
+
+0		
+1	As	as	pm:>3	@CS CS
+2	it	it	subj:>3	@SUBJ PRON
+3	sank	sink	man:>8	@+FMAINV V
+	$,	
+5	the	the	det:>7	@DN> DET
+6	ship's	ship	attr:>7	@A> N
+7	crew	crew	subj:>8	@SUBJ N
+8	sent	send	main:>0	@+FMAINV V
+9	a	a	det:>10	@DN> DET
+10	cry	cry	obj:>8	@OBJ N
+11	for	for	phr:>8	@ADVL PREP
+12	help	help	pcomp:>11	@<P N
+13	across	across	mod:>12	@<NOM PREP
+14	their	they	attr:>15	@A> PRON
+15	radio	radio	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	heard	hear	main:>0	@-FMAINV EN
+4	in	in	loc:>3	@ADVL PREP
+5	New	new	attr:>6	@A> A
+6	York	York	pcomp:>4	@<P N
+7	by	by	agt:>3	@ADVL PREP
+8	a	a	det:>11	@DN> DET
+9	young	young	attr:>10	@A> A
+10	radio	radio	attr:>11	@A> N
+11	operator	operator	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	sent	send	main:>0	@+FMAINV V
+3	messages	message	obj:>2	@OBJ N
+4	to	to	dat:>2	@ADVL PREP
+5	other	other	det:>7	@DN> DET
+6	nearby	nearby	attr:>7	@A> A
+7	ships	ship	pcomp:>4	@<P N
+	$,	
+9	asking	ask	ha:>2	@-FMAINV ING
+10	them	they	subj:>12	@OBJ PRON
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	help	help	obj:>9	@-FMAINV V
+13	rescue	rescue	obj:>12	@-FMAINV V
+14	the	the	det:>15	@DN> DET
+15	people	people	obj:>13	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Some	some	subj:>5	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>4	@DN> DET
+4	passengers	passenger	pcomp:>2	@<P N
+5	are	be	main:>0	@+FMAINV V
+6	well-known	well-known	comp:>5	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	leaders	leader	comp:>2	@PCOMPL-S N
+4	in	in	ha:>2	@ADVL PREP
+5	business	business	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Their	they	attr:>2	@A> PRON
+2	names	name	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	announced	announce	main:>0	@-FMAINV EN
+6	when	when	tmp:>9	@ADVL ADV
+7	it	it	subj:>8	@SUBJ PRON
+8	is	be	v-ch:>9	@+FAUXV V
+9	learned	learn	tmp:>5	@-FMAINV EN
+10	whether	whether	pm:>12	@CS CS
+11	they	they	subj:>12	@SUBJ PRON
+12	lived	live	obj:>9	@+FMAINV V
+13	or	or	cc:>12	@CC CC
+14	not	not	cc:>12	@ADVL NEG-PART
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	heard	hear	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	crew's	crew	attr:>5	@A> N
+5	cry	cry	obj:>2	@OBJ N
+6	for	for	mod:>5	@<NOM PREP
+7	help	help	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	ship	ship	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	ship	ship	subj:>2	@SUBJ N
+5	sink	sink	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	ship	ship	subj:>2	@SUBJ N
+5	sink	sink	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	ship	ship	subj:>2	@SUBJ N
+5	sink	sink	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+

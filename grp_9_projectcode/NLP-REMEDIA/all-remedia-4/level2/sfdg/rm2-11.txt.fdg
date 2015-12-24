@@ -1,0 +1,375 @@
+0		
+1	Sailors	sailor	attr:>2	@A> N
+2	End	end	attr:>3	@A> N
+3	Long	long	attr:>4	@A> N
+4	Trip	trip	main:>0	@NH N
+	$<p>	
+
+0		
+	$(	
+2	SOUTH	south	attr:>3	@A> N
+3	SEA	sea	attr:>4	@A> N
+4	ISLANDS	island	main:>1	@APP N
+	$,	
+6	August	August		@NH N
+7	1	1	mod:>6	@<NOM NUM
+	$,	
+9	1947	1947	mod:>7	@<NOM NUM
+	$)	
+11	Six	six	qn:>12	@QN> NUM
+12	sailors	sailor	subj:>13	@SUBJ N
+13	finished	finish	main:>0	@+FMAINV V
+14	a	a	det:>17	@DN> DET
+15	5,000-mile	5,000-mile	attr:>16	@A> A
+16	sailboat	sailboat	attr:>17	@A> N
+17	trip	trip	obj:>13	@OBJ N
+18	yesterday	yesterday	tmp:>13	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	men	man	subj:>3	@SUBJ N
+3	crossed	cross		@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	sea	sea	obj:>3	@OBJ N
+6	just	just	ad:>7	@AD-A> ADV
+7	like	like	ha:>3	@ADVL PREP
+8	people	people	pcomp:>7	@<P N
+9	did	do		@+FMAINV V
+10	long_ago	long_ago	ha:>9	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Their	they	attr:>2	@A> PRON
+2	boat	boat	subj:>3	@SUBJ N
+3	did	do	v-ch:>5	@+FAUXV V
+4	not	not	neg:>3	@ADVL NEG-PART
+5	have	have	main:>0	@-FMAINV V
+6	an	an	det:>7	@DN> DET
+7	engine	engine	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	All	all	subj:>4	@SUBJ PRON
+2	they	they	subj:>3	@SUBJ PRON
+3	had	have	mod:>1	@+FMAINV V
+4	were	be	main:>0	@+FMAINV V
+5	oars	oar	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	men	man	subj:>3	@SUBJ N
+3	left	leave	main:>0	@+FMAINV V
+4	Peru	Peru	obj:>3	@OBJ N
+5	on	on	tmp:>3	@ADVL PREP
+6	April	April	pcomp:>5	@<P N
+7	28	28	mod:>6	@<NOM NUM
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	wanted	want		@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	show	show	obj:>2	@-FMAINV V
+5	how	how		@ADVL ADV
+	$,	
+7	in	in	meta:>12	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	past	past	pcomp:>7	@<P N
+	$,	
+11	people	people	subj:>12	@SUBJ N
+12	traveled	travel		@+FMAINV V
+13	miles	mile	qua:>12	@ADVL N
+14	across	across	ha:>12	@ADVL PREP
+15	the	the	det:>16	@DN> DET
+16	seas	sea	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	For	for	cla:>5	@ADVL PREP
+2	supplies	supply	pcomp:>1	@<P N
+	$,	
+4	they	they	subj:>5	@SUBJ PRON
+5	took	take	main:>0	@+FMAINV V
+6	food	food	obj:>5	@OBJ N
+7	and	and	cc:>6	@CC CC
+8	water	water	cc:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	cooked	cook	main:>0	@+FMAINV V
+3	fish	fish	obj:>2	@OBJ N
+4	on	on	loc:>2	@ADVL PREP
+5	a	a	det:>7	@DN> DET
+6	small	small	attr:>7	@A> A
+7	stove	stove	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	For	for	cla:>5	@ADVL PREP
+2	company	company	pcomp:>1	@<P N
+	$,	
+4	they	they	subj:>5	@SUBJ PRON
+5	took	take	main:>0	@+FMAINV V
+6	along	along	ha:>5	@ADVL PREP
+7	a	a	det:>8	@DN> DET
+8	parrot	parrot	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	captain's	captain	attr:>3	@A> N
+3	name	name	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	Thor	Thor	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Since	since	pm:>3	@CS CS
+2	he	he	subj:>3	@SUBJ PRON
+3	landed	land	cnt:>7	@+FMAINV V
+	$,	
+5	he	he	subj:>6	@SUBJ PRON
+6	has	have	v-ch:>7	@+FAUXV V
+7	told	tell	main:>0	@-FMAINV EN
+8	many	many	det:>9	@DN> DET
+9	tales	tale	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Often	often	meta:>7	@ADVL ADV
+	$,	
+3	he	he	cc:>6	@SUBJ PRON
+4	and	and	cc:>6	@CC CC
+5	his	he	attr:>6	@A> PRON
+6	crew	crew	subj:>7	@SUBJ N
+7	ran	run	main:>0	@+FMAINV V
+8	into	into	goa:>7	@ADVL PREP
+9	storms	storm	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	One	one	qn:>2	@QN> NUM
+2	time	time	tmp:>5	@ADVL N	@ADVL N	@ADVL N
+	$,	
+4	someone	someone	subj:>5	@SUBJ PRON
+5	fell	fall	main:>0	@+FMAINV V
+6	overboard	overboard	ha:>5	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>3	@SUBJ PRON
+2	quickly	quick	man:>3	@ADVL ADV
+3	saved	save	main:>0	@+FMAINV V
+4	him	he	obj:>3	@OBJ PRON
+5	with	with	ins:>3	@ADVL PREP
+6	ropes	rope	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	For	for	tmp:>6	@ADVL PREP
+2	months	month	pcomp:>1	@<P N
+3	they	they	subj:>4	@SUBJ PRON
+4	did	do	v-ch:>6	@+FAUXV V
+5	not	not	neg:>4	@ADVL NEG-PART
+6	see	see	main:>0	@-FMAINV V
+7	land	land	obj:>6	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	At	at	cla:>5	@ADVL PREP
+2	last	last		@+FMAINV V
+	$,	
+4	they	they	subj:>5	@SUBJ PRON
+5	spotted	spot	main:>0	@+FMAINV V
+6	some	some	det:>7	@DN> DET
+7	birds	bird	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	more	many	det:>3	@DN> DET
+3	weeks	week	subj:>4	@SUBJ N
+4	went	go	main:>0	@+FMAINV V
+5	by	by	ha:>4	@ADVL ADV
+6	without	without		@ADVL PREP
+7	land	land	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	On	on	cla:>9	@ADVL PREP
+2	day	day	pcomp:>1	@<P N
+3	101	101	mod:>2	@<NOM NUM
+4	of	of	mod:>3	@<NOM-OF PREP
+5	the	the	det:>6	@DN> DET
+6	trip	trip	pcomp:>4	@<P N
+	$,	
+8	they	they	subj:>9	@SUBJ PRON
+9	reached	reach	main:>0	@+FMAINV V
+10	the	the	det:>11	@DN> DET
+11	shores	shore	obj:>9	@OBJ N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	the	the	det:>16	@DN> DET
+14	South	south	attr:>15	@A> N
+15	Sea	sea	attr:>16	@A> N
+16	Islands	island	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	name	name	subj:>6	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	their	they	attr:>5	@A> PRON
+5	boat	boat	pcomp:>3	@<P N
+6	is	be	main:>0	@+FMAINV V
+7	the	the	det:>9	@DN> DET
+8	Kon	Kon	attr:>9	@A> N
+9	Tiki	tiki	comp:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	traveled	travel	main:>0	@+FMAINV V
+3	4,950	4,950	qn:>4	@QN> NUM
+4	miles	mile	qua:>2	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	the	the	det:>3	@DN> DET
+3	men	man	subj:>4	@SUBJ N
+4	do_	do	v-ch:>6	@+FAUXV V
+5	n't	not	neg:>4	@ADVL NEG-PART
+6	plan	plan	main:>0	@-FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	sail	sail	obj:>6	@-FMAINV V
+9	it	it	obj:>8	@OBJ PRON
+10	back	back		@ADVL ADV
+11	to	to	ad:>10	@ADVL PREP
+12	Peru	Peru	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	take	take	main:>0	@-FMAINV V
+4	a	a	det:>6	@DN> DET
+5	ship	ship	attr:>6	@A> N
+6	home	home	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	v-ch:>3	@+FAUXV V
+3	going	go	main:>0	@-FMAINV ING
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	let	let	cnt:>3	@-FMAINV V
+6	someone_else	someone_else	subj:>7	@OBJ PRON
+7	do	do	obj:>5	@-FMAINV V
+8	all	all		@DN> DET
+9	that	that		@SUBJ PRON
+10	hard	hard	mod:>9	@APP A
+11	work	work	obj:>7	@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	captain	captain	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	sailboat	sailboat	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	boat	boat	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	reach	reach	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	shore	shore	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	trip	trip	subj:>2	@SUBJ N
+5	start	start	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	make	make	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	trip	trip	obj:>4	@OBJ N
+	$?	
+	$<p>	
+

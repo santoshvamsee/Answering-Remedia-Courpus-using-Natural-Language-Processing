@@ -1,0 +1,264 @@
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N              Sun        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V           T_rise      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV              But      NOFUNC/ADVL            -----     -1
+ 9999 99       5       O NEG-PART              Not         neg/ADVL            -----      6
+ 9999 99       6       O     EN            T_set    NOFUNC/FMAINV            -----     -1
+ 9999 99       7       O      N            Today         tmp/ADVL            -----      6
+
+ 9999 99       0       O    SEP                (         tmp/ADVL            ?????     -1
+ 9999 99       1       O      N        GREENLAND          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N            April        NOFUNC/NH            -----     -1
+ 9999 99       4       O    NUM               21          mod/NOM            -----      3
+ 9999 99       5       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       6       O    NUM             1989          mod/NOM            -----      4
+ 9999 99       7       O    SEP                )          mod/NOM            ?????     -1
+ 9999 99       8       O    SEP                .          mod/NOM            ?????     -1
+
+ 9999 99       0       O      N            Today        NOFUNC/NH            -----     -1
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N              sun      NOFUNC/SUBJ            -----     -1
+ 9999 99       3       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V           T_rise    NOFUNC/FMAINV            -----     -1
+ 9999 99       5       O     CC              but        NOFUNC/CC            -----     -1
+ 9999 99       6       O   PRON               it        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_will       v-ch/FAUXV            -----      9
+ 9999 99       8       O NEG-PART              n't         neg/ADVL            -----      7
+ 9999 99       9       O      V            T_set    NOFUNC/FMAINV            -----     -1
+ 9999 99      10       O   PREP              for         dur/ADVL            -----      9
+ 9999 99      11       O    NUM             four            qn/QN            -----     12
+ 9999 99      12       O      N           months          pcomp/P            -----     10
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              You        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON             this          obj/OBJ            -----      2
+ 9999 99       4       O    ADV             only          ha/ADVL            -----      2
+ 9999 99       5       O     CS               if            pm/CS            -----      7
+ 9999 99       6       O   PRON              you        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_live       cnd/FMAINV            -----      2
+ 9999 99       8       O   PREP               in         loc/ADVL            -----      7
+ 9999 99       9       O      N        Greenland          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N        Greenland        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      A             cold           attr/A            -----      4
+ 9999 99       4       O      N            place           comp/S            -----      1
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O     CS          Because            pm/CS            -----      2
+ 9999 99       1       O   PRON               it        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       cnt/FMAINV            -----      7
+ 9999 99       3       O    ADV              far         loc/ADVL            -----      2
+ 9999 99       4       O      N            north           comp/S            -----      2
+ 9999 99       5       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       6       O   PRON               it        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       8       O    NUM             four            qn/QN            -----      9
+ 9999 99       9       O      N           months          obj/OBJ            -----      7
+ 9999 99      10       O   PREP               of           mod/OF            -----      9
+ 9999 99      11       O      N         sunlight          pcomp/P            -----     10
+ 9999 99      12       O    DET             each           det/DN            -----     13
+ 9999 99      13       O      N             year         tmp/ADVL            -----      7
+ 9999 99      14       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N              sun        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       3       O NEG-PART              not         neg/ADVL            -----      2
+ 9999 99       4       O      V            T_set      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP            until         tmp/ADVL            -----      4
+ 9999 99       6       O      N           August          pcomp/P            -----      5
+ 9999 99       7       O    NUM               21          mod/NOM            -----      6
+ 9999 99       8       O    SEP                .          mod/NOM            ?????     -1
+
+ 9999 99       0       O    ADV            There        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      A             dark           attr/A            -----      4
+ 9999 99       4       O      N             side           comp/S            -----      1
+ 9999 99       5       O   PREP               to       NOFUNC/NOM            -----     -1
+ 9999 99       6       O    DET             this           det/DN            -----      7
+ 9999 99       7       O      N            story          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV            About             ad/A            -----      1
+ 9999 99       1       O      N          October        NOFUNC/NH            -----     -1
+ 9999 99       2       O    NUM                1          mod/NOM            -----      1
+ 9999 99       3       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N              sun          mod/APP            -----      2
+ 9999 99       6       O      V           T_will       v-ch/FAUXV            -----      7
+ 9999 99       7       O      V          T_start      main/FMAINV            -----     -1
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V            T_set       obj/FMAINV            -----      7
+ 9999 99      10       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      3
+ 9999 99       1       O   PRON               it        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V           T_stay      main/FMAINV            -----     -1
+ 9999 99       4       O      A              low           comp/S            -----      3
+ 9999 99       5       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N              sky          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O      V           T_rise      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP              for         dur/ADVL            -----      3
+ 9999 99       5       O    NUM             four            qn/QN            -----      6
+ 9999 99       6       O      N           months          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             land        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in          ha/ADVL            -----      3
+ 9999 99       5       O      N         darkness          pcomp/P            -----      4
+ 9999 99       6       O   PREP            until         tmp/ADVL            -----      3
+ 9999 99       7       O      N         February          pcomp/P            -----      6
+ 9999 99       8       O    NUM               22          mod/NOM            -----      7
+ 9999 99       9       O    SEP                .          mod/NOM            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      A             only           attr/A            -----      2
+ 9999 99       2       O      N            light        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP             from          ha/ADVL            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N             moon          pcomp/P            -----      5
+ 9999 99       8       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       9       O      N            stars             cc/P            -----      7
+ 9999 99      10       O    SEP                ,             cc/P            ?????     -1
+ 9999 99      11       O     CC              and            cc/CC            -----      9
+ 9999 99      12       O      N             snow             cc/P            -----      9
+ 9999 99      13       O    SEP                .             cc/P            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV              why         cnt/ADVL            -----      6
+ 9999 99       3       O      N        Greenland        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       5       O    ADV            often         frq/ADVL            -----      6
+ 9999 99       6       O     EN           T_call      comp/FMAINV            -----      1
+ 9999 99       7       O    SEP                ,      comp/FMAINV            ?????     -1
+ 9999 99       8       O    SEP               "_      comp/FMAINV            ?????     -1
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N             land      NOFUNC/SUBJ            -----     -1
+ 9999 99      11       O   PREP               of           mod/OF            -----     10
+ 9999 99      12       O    DET              the           det/DN            -----     14
+ 9999 99      13       O      N         midnight           attr/A            -----     14
+ 9999 99      14       O      N              sun          pcomp/P            -----     11
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+ 9999 99      16       O    SEP               _"          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              You        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_might       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V         T_wonder      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON              who        subj/SUBJ            -----      4
+ 9999 99       4       O      V          T_could       v-ch/FAUXV            -----      5
+ 9999 99       5       O      V           T_live       obj/FMAINV            -----      2
+ 9999 99       6       O   PREP               in         loc/ADVL            -----      5
+ 9999 99       7       O    DET             such           det/DN            -----      8
+ 9999 99       8       O    DET                a           det/DN            -----     10
+ 9999 99       9       O      A          strange           attr/A            -----     10
+ 9999 99      10       O      N            place          pcomp/P            -----      6
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N          Eskimos        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       3       O      N        Greenland          pcomp/P            -----      2
+ 9999 99       4       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV            close          ha/ADVL            -----      1
+ 9999 99       3       O   PREP               to          mod/NOM            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N            water          pcomp/P            -----      3
+ 9999 99       6       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       7       O    ADV            where         loc/ADVL            -----      9
+ 9999 99       8       O   PRON             they        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_fish       mod/FMAINV            -----      5
+ 9999 99      10       O   PREP              for          ha/ADVL            -----      9
+ 9999 99      11       O      N             food          pcomp/P            -----     10
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_wear      main/FMAINV            -----     -1
+ 9999 99       2       O      N           animal           attr/A            -----      3
+ 9999 99       3       O      N             furs          obj/OBJ            -----      1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_keep       cnt/FMAINV            -----      1
+ 9999 99       6       O      A             warm           comp/S            -----      5
+ 9999 99       7       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       3       O      N        Greenland          pcomp/P            -----      2
+ 9999 99       4       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V         T_happen      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               on         phr/ADVL            -----      1
+ 9999 99       3       O      N            April          pcomp/P            -----      2
+ 9999 99       4       O    NUM               21          mod/NOM            -----      3
+ 9999 99       5       O    SEP                ?          mod/NOM            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N              sun        subj/SUBJ            -----      1
+ 9999 99       4       O      V            T_set      main/FMAINV            -----     -1
+ 9999 99       5       O     CC              and            cc/CC            -----      4
+ 9999 99       6       O NEG-PART              not         neg/ADVL            -----      7
+ 9999 99       7       O      V           T_rise        cc/FMAINV            -----      4
+ 9999 99       8       O    SEP                ?        cc/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    SEP               "_      main/FMAINV            ?????     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N             land        subj/SUBJ            -----      1
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O      N         midnight           attr/A            -----      8
+ 9999 99       8       O      N              sun          pcomp/P            -----      5
+ 9999 99       9       O    SEP               _"          pcomp/P            ?????     -1
+ 9999 99      10       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N        Greenland        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       4       O      A          strange           attr/A            -----      5
+ 9999 99       5       O      N          seasons         tmp/ADVL            -----      3
+ 9999 99       6       O    SEP                ?         tmp/ADVL            ?????     -1
+

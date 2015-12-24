@@ -1,0 +1,400 @@
+0		
+	$<p>	
+
+0		
+1	Railroad	railroad	attr:>2	@A> N
+2	Time	time	attr:>3	@A> N
+3	Starts	start	main:>0	@NH N
+4	Today	today		@NH N	@<NOM N
+	$<p>	
+
+0		
+	$(	
+2	CHICAGO	Chicago		@NH N	@APP N
+	$,	
+4	ILL	ill	mod:>2	@APP N
+	$.	
+	$<s>	
+
+0		
+	$,	
+2	November	November		@NH N	@ADVL N
+3	8	8	mod:>2	@<NOM NUM
+	$,	
+5	1883	1883	mod:>3	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	At	at		@ADVL PREP
+2	noon	noon		@ADVL N
+3	today	today	tmp:>7	@ADVL N
+	$,	
+5	time	time	subj:>6	@SUBJ N
+6	will	will	v-ch:>7	@+FAUXV V
+7	stand	stand	main:>0	@-FMAINV V
+8	still	still	meta:>7	@ADVL ADV
+9	$...		
+10	but	but		@CC CC
+11	only	only	meta:>12	@ADVL ADV
+12	for	for		@ADVL PREP
+13	a	a	det:>14	@DN> DET
+14	moment	moment	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	At	at	tmp:>8	@ADVL PREP
+2	that	that	det:>3	@DN> DET
+3	time	time	pcomp:>1	@<P N
+4	all	all	det:>5	@DN> DET
+5	the	the	det:>6	@DN> DET
+6	railroads	railroad	subj:>7	@SUBJ N
+7	will	will	v-ch:>8	@+FAUXV V
+8	stop	stop	main:>0	@-FMAINV V
+9	their	they	attr:>10	@A> PRON
+10	clocks	clock	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>5	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	reset	reset	main:>0	@-FMAINV EN
+6	so	so	pm:>8	@CS CS
+7	they	they	subj:>8	@SUBJ PRON
+8	tell	tell	cnt:>5	@+FMAINV V
+9	the	the	det:>11	@DN> DET
+10	same	same	attr:>11	@A> A
+11	time	time	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	new	new	attr:>3	@A> A
+3	time	time	subj:>4	@SUBJ N
+4	is	be	v-ch:>5	@+FAUXV V
+5	called	call	main:>0	@-FMAINV EN
+	$"_	
+7	railroad	railroad	attr:>8	@A> N
+8	time	time	comp:>5	@PCOMPL-S N
+	$.	
+	$_"	
+	$<p>	
+
+0		
+1	Up	up		@ADVL ADV
+2	until_now	until_now		@ADVL ADV
+	$,	
+4	everyone	everyone	subj:>5	@SUBJ PRON
+5	has	have	v-ch:>6	@+FAUXV V
+6	set	set	main:>0	@-FMAINV EN
+7	their	they	attr:>8	@A> PRON
+8	clocks	clock	obj:>6	@OBJ N
+9	by	by	loc:>6	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	sun	sun	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	means	mean	main:>0	@+FMAINV V
+3	that	that	pm:>15	@CS CS
+4	the	the	det:>5	@DN> DET
+5	time	time	subj:>14	@SUBJ N
+6	in	in	mod:>5	@<NOM PREP
+7	a	a	det:>8	@DN> DET
+8	town	town	pcomp:>6	@<P N
+9	20	20	qn:>10	@QN> NUM
+10	miles	mile		@<P N
+11	east	east	mod:>10	@<NOM N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	Chicago	Chicago	pcomp:>12	@<P N
+14	has	have	v-ch:>15	@+FAUXV V
+15	been	be	obj:>2	@-FMAINV EN
+16	four	four	qn:>17	@QN> NUM
+17	minutes	minute	ad:>18	@A> N
+18	later	late	tmp:>15	@ADVL ADV
+19	than	than	ha:>15	@ADVL PREP
+20	Chicago	Chicago	attr:>21	@A> N
+21	time	time	pcomp:>19	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	time	time	subj:>11	@SUBJ N
+3	in	in	mod:>2	@<NOM PREP
+4	a	a	det:>5	@DN> DET
+5	town	town	pcomp:>3	@<P N
+6	20	20	qn:>7	@QN> NUM
+7	miles	mile		@<P N
+8	west	west	mod:>7	@<NOM N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	Chicago	Chicago	pcomp:>9	@<P N
+11	has	have	v-ch:>12	@+FAUXV V
+12	been	be	main:>0	@-FMAINV EN
+13	four	four	qn:>14	@QN> NUM
+14	minutes	minute	ad:>15	@ADVL N
+15	earlier	early	tmp:>12	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	It_	it	subj:>2	@SUBJ PRON
+2	's	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	same	same	comp:>2	@PCOMPL-S PRON
+5	all_over	all_over	ha:>2	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	country	country	pcomp:>5	@<P N
+	$.	
+	$<p>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	this	this	det:>3	@DN> DET
+3	way	way	subj:>7	@SUBJ N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	keeping	keep	pcomp:>4	@<P-FMAINV ING
+6	time	time	obj:>5	@OBJ N
+7	has	have	v-ch:>9	@+FAUXV V
+8	often	often	frq:>9	@ADVL ADV
+9	caused	cause	main:>0	@-FMAINV EN
+10	problems	problem	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	For	for	cla:>7	@ADVL PREP
+2	one	one	qn:>3	@QN> NUM
+3	thing	thing	pcomp:>1	@<P N
+	$,	
+5	no	no	det:>6	@DN> DET
+6	one	one	subj:>7	@SUBJ PRON
+7	is	be	main:>0	@+FMAINV V
+8	ever	ever	frq:>7	@ADVL ADV
+9	on	on	tmp:>7	@ADVL PREP
+10	time	time	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It_	it	subj:>2	@SUBJ PRON
+2	's	be	main:>0	@+FMAINV V
+3	easy	easy	comp:>2	@PCOMPL-S A
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	be	be	mod:>1	@-FMAINV V
+6	one	one	cc:>8	@QN> NUM
+7	or	or	cc:>8	@CC CC
+8	two	two	qn:>9	@QN> NUM
+9	minutes	minute		@SUBJ N	@PCOMPL-S N	@ADVL N
+10	off	off		@ADVL ADV
+11	in	in		@ADVL PREP
+12	guessing	guess	pcomp:>11	@<P-FMAINV ING
+13	the	the	det:>14	@DN> DET
+14	time	time	obj:>12	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	There	there	subj:>2	@F-SUBJ ADV
+2	will	will	v-ch:>4	@+FAUXV V
+3	now	now	meta:>4	@ADVL ADV
+4	be	be	main:>0	@-FMAINV V
+5	only	only	ad:>6	@AD-A> ADV
+6	four	four	qn:>8	@QN> NUM
+7	different	different		@A> A
+8	times	time	frq:>4	@ADVL N
+9	in	in	ha:>4	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	country	country	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>3	@DN> DET
+2	time	time	attr:>3	@A> N
+3	zone	zone	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	main:>0	@-FMAINV V
+6	hundreds	hundred	comp:>5	@PCOMPL-S N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	miles	mile	pcomp:>7	@<P N
+9	wide	wide	mod:>8	@<NOM A
+	$.	
+	$<p>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	upset	upset	main:>0	@-FMAINV EN
+5	about	about	ha:>4	@ADVL PREP
+6	this	this	det:>8	@DN> DET
+7	time	time	pcomp:>5	@<P N
+8	change	change		@SUBJ N
+	$.	
+	$<s>	
+
+0		
+	$"_	
+2	The	the	det:>3	@DN> DET
+3	sun	sun	subj:>4	@SUBJ N
+4	is	be	obj:>12	@+FMAINV V
+5	no_longer	no_longer	ha:>4	@ADVL ADV
+6	boss	boss	comp:>4	@PCOMPL-S N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	the	the	det:>9	@DN> DET
+9	job	job	pcomp:>7	@<P N
+	$,	
+	$_"	
+12	wrote	write	main:>0	@+FMAINV V
+13	one	one	qn:>14	@QN> NUM
+14	person	person	subj:>12	@SUBJ N
+	$.	
+	$<s>	
+
+0		
+	$"_	
+2	People	people	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	have	have	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	marry	marry	obj:>4	@-FMAINV V
+7	by	by	ha:>6	@ADVL PREP
+8	railroad	railroad	attr:>9	@A> N
+9	time	time	pcomp:>7	@<P N
+10	and	and	cc:>6	@CC CC
+11	die	die	cc:>6	@-FMAINV V
+12	by	by	ha:>11	@ADVL PREP
+13	railroad	railroad	attr:>14	@A> N
+14	time	time	pcomp:>12	@<P N
+	$,	
+	$_"	
+17	wrote	write		@+FMAINV V
+18	another	another	obj:>17	@OBJ PRON
+	$.	
+	$<p>	
+
+0		
+1	Railroad	railroad	attr:>2	@A> N
+2	time	time	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	idea	idea	comp:>3	@PCOMPL-S N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	William	William	attr:>8	@A> N
+8	Allen	Allen	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	thinks	think	main:>0	@+FMAINV V
+3	it_	it	subj:>4	@SUBJ PRON
+4	's	be	obj:>2	@+FMAINV V
+5	important	important	oc:>2	@PCOMPL-O A
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	have	have	mod:>5	@-FMAINV V
+8	all	all	det:>9	@DN> DET
+9	the	the	det:>10	@DN> DET
+10	trains	train	obj:>7	@OBJ N
+11	leave	leave		@-FMAINV V
+12	and	and	cc:>11	@CC CC
+13	arrive	arrive	cc:>11	@-FMAINV V
+14	on	on	tmp:>13	@ADVL PREP
+15	time	time	pcomp:>14	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	had	have	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	idea	idea	obj:>2	@OBJ N
+5	for	for	mod:>4	@<NOM PREP
+	$"_	
+7	railroad	railroad		@A> N
+8	time	time	main:>6	@SUBJ N	@APP N	@A> N	@<P N
+	$_"	
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>5	@OBJ PRON
+2	will	will	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	railroads	railroad	subj:>2	@SUBJ N
+5	do	do	main:>0	@-FMAINV V
+6	to	to	ha:>5	@ADVL PREP
+7	their	they	attr:>8	@A> PRON
+8	clocks	clock	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	will	will	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	do	do	main:>0	@-FMAINV V
+5	this	this	obj:>4	@OBJ PRON
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	time	time	subj:>2	@SUBJ N
+5	four	four	qn:>6	@QN> NUM
+6	minutes	minute	ad:>7	@ADVL N
+7	earlier	early	tmp:>2	@ADVL ADV
+8	than	than		@CS CS
+9	in	in	>8	@ADVL PREP
+10	Chicago	Chicago	pcomp:>9	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	Allen	Allen	subj:>2	@SUBJ N
+4	want	want	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	have	have	v-ch:>7	@-FAUXV V
+7	fixed	fix	obj:>4	@-FMAINV EN
+8	times	time		@SUBJ N	@OBJ N	@ADVL N
+	$?	
+	$<p>	
+

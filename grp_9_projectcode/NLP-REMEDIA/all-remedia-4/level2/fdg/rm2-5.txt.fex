@@ -1,0 +1,288 @@
+ 9999 99       0       O    ING          T_write      subj/FMAINV            -----      2
+ 9999 99       1       O      N          Machine          obj/OBJ            -----      0
+ 9999 99       2       O      V         T_invent      main/FMAINV            -----     -1
+ 9999 99       3       O    SEP                !      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    SEP                (      main/FMAINV            ?????     -1
+ 9999 99       1       O      N        MILWAUKEE          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N        WISCONSIN            cc/NH            -----      1
+ 9999 99       4       O    SEP                ,            cc/NH            ?????     -1
+ 9999 99       5       O      N             June       NOFUNC/APP            -----     -1
+ 9999 99       6       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       7       O    NUM             1873         mod/ADVL            -----      5
+ 9999 99       8       O    SEP                )         mod/ADVL            ?????     -1
+ 9999 99       9       O    SEP                .         mod/ADVL            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      2
+ 9999 99       1       O      A              new           attr/A            -----      2
+ 9999 99       2       O      N          machine        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       6       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O   PREP             With         cla/ADVL            -----      5
+ 9999 99       1       O    DET             this           det/DN            -----      2
+ 9999 99       2       O      N          machine          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O   PRON               it        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       6       O      A             easy           comp/S            -----      5
+ 9999 99       7       O INFMARK               to       pm/INFMARK            -----      8
+ 9999 99       8       O      V          T_write       mod/FMAINV            -----      6
+ 9999 99       9       O      N            words          obj/OBJ            -----      8
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N          machine        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N       typewriter           comp/S            -----      3
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be    NOFUNC/FMAINV            -----     -1
+ 9999 99       2       O    ADV              how         man/ADVL            -----      4
+ 9999 99       3       O   PRON               it        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_work      comp/FMAINV            -----      1
+ 9999 99       5       O    SEP                :      comp/FMAINV            ?????     -1
+ 9999 99       6       O      V        T_suppose    NOFUNC/FMAINV            -----     -1
+ 9999 99       7       O   PRON              you        subj/SUBJ            -----      8
+ 9999 99       8       O      V           T_want       obj/FMAINV            -----      6
+ 9999 99       9       O INFMARK               to       pm/INFMARK            -----     10
+ 9999 99      10       O      V          T_write       obj/FMAINV            -----      8
+ 9999 99      11       O    DET                a           det/DN            -----     12
+ 9999 99      12       O      N             note          obj/OBJ            -----     10
+ 9999 99      13       O   PREP               to         dat/ADVL            -----     10
+ 9999 99      14       O    DET                a           det/DN            -----     15
+ 9999 99      15       O      N           friend          pcomp/P            -----     13
+ 9999 99      16       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP             With         cla/ADVL            -----      7
+ 9999 99       1       O      N              pen          pcomp/P            -----      0
+ 9999 99       2       O     CC              and            cc/CC            -----      1
+ 9999 99       3       O      N              ink             cc/P            -----      1
+ 9999 99       4       O    SEP                ,             cc/P            ?????     -1
+ 9999 99       5       O   PRON              you        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_must       v-ch/FAUXV            -----      7
+ 9999 99       7       O      V          T_write      main/FMAINV            -----     -1
+ 9999 99       8       O    DET             each           det/DN            -----      9
+ 9999 99       9       O      N           letter          obj/OBJ            -----      7
+ 9999 99      10       O   PREP               by         man/ADVL            -----      7
+ 9999 99      11       O      N             hand          pcomp/P            -----     10
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N       typewriter        subj/SUBJ            -----      4
+ 9999 99       3       O    ADV          already        meta/ADVL            -----      4
+ 9999 99       4       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N          letters          obj/OBJ            -----      4
+ 9999 99       7       O     CC              and            cc/CC            -----      6
+ 9999 99       8       O      N          numbers           cc/OBJ            -----      6
+ 9999 99       9       O   PREP               on         loc/ADVL            -----      4
+ 9999 99      10       O      N             keys          pcomp/P            -----      9
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CS               As            pm/CS            -----      2
+ 9999 99       1       O   PRON              you        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_press       man/FMAINV            -----      7
+ 9999 99       3       O    DET             each           det/DN            -----      4
+ 9999 99       4       O      N              key          obj/OBJ            -----      2
+ 9999 99       5       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       6       O   PRON               it        subj/SUBJ            -----      7
+ 9999 99       7       O      V          T_touch      main/FMAINV            -----     -1
+ 9999 99       8       O    ADV           apiece          ha/ADVL            -----      7
+ 9999 99       9       O   PREP               of        NOFUNC/OF            -----     -1
+ 9999 99      10       O      N            paper          pcomp/P            -----      9
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N           letter        subj/SUBJ            -----      2
+ 9999 99       2       O      V         T_appear      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               in         man/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N            order          pcomp/P            -----      3
+ 9999 99       6       O   PRON              you        subj/SUBJ            -----      7
+ 9999 99       7       O      V          T_press       mod/FMAINV            -----      5
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N             keys          obj/OBJ            -----      7
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON              You        subj/SUBJ            -----      2
+ 9999 99       1       O    ADV        no_longer      NOFUNC/ADVL            -----     -1
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V          T_write       obj/FMAINV            -----      2
+ 9999 99       5       O   PRON             them          obj/OBJ            -----      4
+ 9999 99       6       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_save      main/FMAINV            -----     -1
+ 9999 99       3       O    DET         a_lot_of           det/DN            -----      4
+ 9999 99       4       O      N             time       NOFUNC/OBJ            -----     -1
+ 9999 99       5       O     CC              and            cc/CC            -----      2
+ 9999 99       6       O      V           T_work        cc/FMAINV            -----      2
+ 9999 99       7       O    SEP                .        cc/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      4
+ 9999 99       1       O      N              man           attr/A            -----      2
+ 9999 99       2       O      A            named           attr/A            -----      3
+ 9999 99       3       O   ABBR              Mr.           attr/A            -----      4
+ 9999 99       4       O      N           Sholes        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       6       O   PRON              his           attr/A            -----      7
+ 9999 99       7       O    NUM            first           attr/A            -----      8
+ 9999 99       8       O      N       typewriter          obj/OBJ            -----      5
+ 9999 99       9       O    NUM               16            qn/QN            -----     10
+ 9999 99      10       O      N            years         tmp/ADVL            -----      5
+ 9999 99      11       O    ADV              ago             ad/A            -----     10
+ 9999 99      12       O    SEP                .             ad/A            ?????     -1
+
+ 9999 99       0       O    ADV       Since_then        meta/ADVL            -----      5
+ 9999 99       1       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       2       O   PRON               he        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O    ING            T_try      main/FMAINV            -----     -1
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V           T_make       obj/FMAINV            -----      5
+ 9999 99       8       O   PRON               it          obj/OBJ            -----      7
+ 9999 99       9       O      A           better             oc/O            -----      7
+ 9999 99      10       O    SEP                .             oc/O            ?????     -1
+
+ 9999 99       0       O   PREP               At         cla/ADVL            -----      4
+ 9999 99       1       O    NUM            first          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O   PRON               he        subj/SUBJ            -----      4
+ 9999 99       4       O      V            T_put      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              all           det/DN            -----      6
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N             keys          obj/OBJ            -----      4
+ 9999 99       8       O   PREP             with         ins/ADVL            -----      4
+ 9999 99       9       O      N          letters          pcomp/P            -----      8
+ 9999 99      10       O   PREP               in          mod/NOM            -----      9
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N            order          pcomp/P            -----     10
+ 9999 99      13       O   PREP               of           mod/OF            -----     12
+ 9999 99      14       O    DET              the           det/DN            -----     15
+ 9999 99      15       O      N         alphabet          pcomp/P            -----     13
+ 9999 99      16       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              n't         neg/ADVL            -----      1
+ 9999 99       3       O      V           T_work      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             keys        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_keep      main/FMAINV            -----     -1
+ 9999 99       3       O    ING            T_hit       obj/FMAINV            -----      2
+ 9999 99       4       O   PRON       each_other          obj/OBJ            -----      3
+ 9999 99       5       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV               So      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    SEP                ,      NOFUNC/ADVL            ?????     -1
+ 9999 99       2       O   ABBR              Mr.           attr/A            -----      3
+ 9999 99       3       O      N           Sholes        NOFUNC/NH            -----     -1
+ 9999 99       4       O      A         mixed_up          mod/NOM            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N          letters        NOFUNC/NH            -----     -1
+ 9999 99       7       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_do      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON             this          dat/OBJ            -----      1
+ 9999 99       3       O     CS            until            pm/CS            -----      5
+ 9999 99       4       O   PRON               he        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_find       tmp/FMAINV            -----      1
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N              way          obj/OBJ            -----      5
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V           T_make       mod/FMAINV            -----      7
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N             keys         subj/OBJ            -----     12
+ 9999 99      12       O      V           T_stop       obj/FMAINV            -----      9
+ 9999 99      13       O    ING            T_hit       obj/FMAINV            -----     12
+ 9999 99      14       O   PRON       each_other          obj/OBJ            -----     13
+ 9999 99      15       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV              Now        meta/ADVL            -----      4
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N          letters        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN         T_jumble      main/FMAINV            -----     -1
+ 9999 99       5       O     CC              and            cc/CC            -----      4
+ 9999 99       6       O   PREP           out_of          cc/ADVL            -----      4
+ 9999 99       7       O      N            order          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O    DET              the           det/DN            -----      3
+ 9999 99       2       O      N          machine           attr/A            -----      3
+ 9999 99       3       O      N            works        subj/SUBJ            -----      5
+ 9999 99       4       O    ADV             just        meta/ADVL            -----      5
+ 9999 99       5       O      V           T_fine      main/FMAINV            -----     -1
+ 9999 99       6       O    SEP                !      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_think      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               of         phr/ADVL            -----      1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      A              new           attr/A            -----      5
+ 9999 99       5       O      N          machine          pcomp/P            -----      2
+ 9999 99       6       O   PREP              for         cnt/ADVL            -----      1
+ 9999 99       7       O    ING          T_write     pcomp/FMAINV            -----      6
+ 9999 99       8       O    SEP                ?     pcomp/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What          obj/OBJ            -----      5
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      A              new           attr/A            -----      4
+ 9999 99       4       O      N          machine        subj/SUBJ            -----      1
+ 9999 99       5       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       6       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O   ABBR              Mr.           attr/A            -----      3
+ 9999 99       3       O      N           Sholes        subj/SUBJ            -----      1
+ 9999 99       4       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      7
+ 9999 99       6       O    NUM            first           attr/A            -----      7
+ 9999 99       7       O   PRON              one          obj/OBJ            -----      4
+ 9999 99       8       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON             this        subj/SUBJ            -----      1
+ 9999 99       3       O      V         T_happen      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      4
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N          letters        subj/SUBJ            -----      1
+ 9999 99       4       O     EN         T_jumble      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ?      main/FMAINV            ?????     -1
+

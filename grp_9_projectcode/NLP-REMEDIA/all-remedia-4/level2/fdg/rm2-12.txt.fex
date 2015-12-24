@@ -1,0 +1,304 @@
+ 9999 99       0       O      N            Owens           attr/A            -----      1
+ 9999 99       1       O      N             Wins          main/NH            -----     -1
+ 9999 99       2       O    NUM              4th           attr/A            -----      3
+ 9999 99       3       O      N             Gold           attr/A            -----      4
+ 9999 99       4       O      N            Medal        NOFUNC/NH            -----     -1
+ 9999 99       5       O    SEP                !        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O    SEP                (        NOFUNC/NH            ?????     -1
+ 9999 99       1       O      N           MUNICH          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N          GERMANY        NOFUNC/NH            -----     -1
+ 9999 99       4       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       5       O    NUM             1936        NOFUNC/NH            -----     -1
+ 9999 99       6       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       7       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O      N            Jesse           attr/A            -----      1
+ 9999 99       1       O      N            Owens        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O      A          fastest           attr/A            -----      5
+ 9999 99       5       O      N              man           comp/S            -----      2
+ 9999 99       6       O   PREP               in          mod/NOM            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N            world          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_run      main/FMAINV            -----     -1
+ 9999 99       2       O     CC              and            cc/CC            -----      1
+ 9999 99       3       O      V            T_win        cc/FMAINV            -----      1
+ 9999 99       4       O   PREP              for          ha/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      8
+ 9999 99       6       O      A           United           attr/A            -----      7
+ 9999 99       7       O      N           States           attr/A            -----      8
+ 9999 99       8       O      N             team          pcomp/P            -----      4
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N            Today         tmp/ADVL            -----      3
+ 9999 99       1       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       2       O      N            Jesse        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_win      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON              his           attr/A            -----      5
+ 9999 99       5       O    NUM           fourth           attr/A            -----      6
+ 9999 99       6       O      N             gold           attr/A            -----      7
+ 9999 99       7       O      N            medal          obj/OBJ            -----      3
+ 9999 99       8       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N         Olympics          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N             time        NOFUNC/NH            -----     -1
+ 9999 99       2       O   PRON               he        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_win    NOFUNC/FMAINV            -----     -1
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N            medal          obj/OBJ            -----      3
+ 9999 99       6       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       7       O   PRON               it        subj/SUBJ            -----      8
+ 9999 99       8       O      V             T_be       v-ch/FAUXV            -----      9
+ 9999 99       9       O     EN          T_place    NOFUNC/FMAINV            -----     -1
+ 9999 99      10       O   PREP           around          ha/ADVL            -----      9
+ 9999 99      11       O   PRON              his           attr/A            -----     12
+ 9999 99      12       O      N             neck          pcomp/P            -----     10
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N             band        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_play      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      6
+ 9999 99       4       O    SEP               "_           det/DN            ?????     -1
+ 9999 99       5       O      A    Star-Spangled           attr/A            -----      6
+ 9999 99       6       O      N           Banner          obj/OBJ            -----      2
+ 9999 99       7       O    SEP                .          obj/OBJ            ?????     -1
+ 9999 99       8       O    SEP               _"          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      6
+ 9999 99       4       O    NUM            first           attr/A            -----      5
+ 9999 99       5       O      N             time           attr/A            -----      6
+ 9999 99       6       O      N            Jesse        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_have       v-ch/FAUXV            -----      8
+ 9999 99       8       O     EN           T_show    NOFUNC/FMAINV            -----     -1
+ 9999 99       9       O   PRON              his           attr/A            -----     10
+ 9999 99      10       O      N            speed          obj/OBJ            -----      8
+ 9999 99      11       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET            A_few           det/DN            -----      1
+ 9999 99       1       O      N            years         tmp/ADVL            -----      5
+ 9999 99       2       O    ADV              ago             ad/A            -----      1
+ 9999 99       3       O    SEP                ,             ad/A            ?????     -1
+ 9999 99       4       O   PRON               he        subj/SUBJ            -----      5
+ 9999 99       5       O      V          T_break      main/FMAINV            -----     -1
+ 9999 99       6       O    NUM             five            qn/QN            -----      8
+ 9999 99       7       O      N            world           attr/A            -----      8
+ 9999 99       8       O      N          records          obj/OBJ            -----      5
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP               In         cla/ADVL            -----      4
+ 9999 99       1       O      N             fact          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O   PRON               he        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_do      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON             this          obj/OBJ            -----      4
+ 9999 99       6       O   PREP               in         dur/ADVL            -----      4
+ 9999 99       7       O    NUM              one            qn/QN            -----      8
+ 9999 99       8       O      N             hour          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N          Jesse's           attr/A            -----      1
+ 9999 99       1       O      N           future        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O NEG-PART              not         neg/ADVL            -----      4
+ 9999 99       4       O    ADV           always         frq/ADVL            -----      2
+ 9999 99       5       O      A           bright           comp/S            -----      2
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PREP               As         cla/ADVL            -----      5
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N              boy          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O   PRON               he        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       6       O    ADV            quite             ad/A            -----      7
+ 9999 99       7       O      A             sick           comp/S            -----      5
+ 9999 99       8       O     CC              and            cc/CC            -----      7
+ 9999 99       9       O      A             weak             cc/S            -----      7
+ 9999 99      10       O    SEP                .             cc/S            ?????     -1
+
+ 9999 99       0       O    DET             Some           det/DN            -----      1
+ 9999 99       1       O      N          winters        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O   PRON               he        subj/SUBJ            -----      4
+ 9999 99       4       O      V          T_could       v-ch/FAUXV            -----      6
+ 9999 99       5       O NEG-PART              not         neg/ADVL            -----      4
+ 9999 99       6       O      V             T_go      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP               to         goa/ADVL            -----      6
+ 9999 99       8       O      N           school          pcomp/P            -----      7
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              All            qn/QN            -----      1
+ 9999 99       1       O   PRON               he        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_could       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_do    NOFUNC/FMAINV            -----     -1
+ 9999 99       4       O      V             T_be    NOFUNC/FMAINV            -----     -1
+ 9999 99       5       O      N             stay           comp/S            -----      4
+ 9999 99       6       O   PREP               in          ha/ADVL            -----      4
+ 9999 99       7       O      N              bed          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP               In         cla/ADVL            -----      5
+ 9999 99       1       O      A             high           attr/A            -----      2
+ 9999 99       2       O      N           school          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O   PRON               he        subj/SUBJ            -----      5
+ 9999 99       5       O      V          T_begin      main/FMAINV            -----     -1
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V          T_train       obj/FMAINV            -----      5
+ 9999 99       8       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_could       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O      V            T_run      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP            after          ha/ADVL            -----      3
+ 9999 99       5       O      N           school          pcomp/P            -----      4
+ 9999 99       6       O     CS          because            pm/CS            -----      8
+ 9999 99       7       O   PRON               he        subj/SUBJ            -----      8
+ 9999 99       8       O      V           T_have       cnt/FMAINV            -----      3
+ 9999 99       9       O    DET                a           det/DN            -----     10
+ 9999 99      10       O      N              job          obj/OBJ            -----      8
+ 9999 99      11       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV               So        meta/ADVL            -----      3
+ 9999 99       1       O   PRON               he        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_would       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V            T_get      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV               up         phr/ADVL            -----      3
+ 9999 99       5       O    ADV            early         tmp/ADVL            -----      3
+ 9999 99       6       O     CC              and            cc/CC            -----      3
+ 9999 99       7       O      V            T_run        cc/FMAINV            -----      3
+ 9999 99       8       O    SEP                .        cc/FMAINV            ?????     -1
+
+ 9999 99       0       O   PREP               At         cla/ADVL            -----      5
+ 9999 99       1       O    NUM            first          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O   PRON               he        subj/SUBJ            -----      5
+ 9999 99       4       O    ADV             just        meta/ADVL            -----      5
+ 9999 99       5       O      V           T_want      main/FMAINV            -----     -1
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V          T_build       obj/FMAINV            -----      5
+ 9999 99       8       O   PRON              his           attr/A            -----      9
+ 9999 99       9       O      N         strength          obj/OBJ            -----      7
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV            Later         tmp/ADVL            -----      3
+ 9999 99       1       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       2       O   PRON               he        subj/SUBJ            -----      3
+ 9999 99       3       O      V          T_begin      main/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_race       obj/FMAINV            -----      3
+ 9999 99       6       O   PREP          against          ha/ADVL            -----      5
+ 9999 99       7       O   PRON           others          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      4
+ 9999 99       1       O      A             sick             cc/A            -----      3
+ 9999 99       2       O    SEP                ,             cc/A            ?????     -1
+ 9999 99       3       O      A            young           attr/A            -----      4
+ 9999 99       4       O      N              boy        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_grow      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP             into         goa/ADVL            -----      5
+ 9999 99       7       O    DET                a           det/DN            -----      9
+ 9999 99       8       O      A           strong           attr/A            -----      9
+ 9999 99       9       O      N              man          pcomp/P            -----      6
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV              Now        meta/ADVL            -----      5
+ 9999 99       1       O      N          Jesse's           attr/A            -----      2
+ 9999 99       2       O      N             name        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_know      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP           around          ha/ADVL            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N            world          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_earn      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      4
+ 9999 99       4       O      N            place          obj/OBJ            -----      2
+ 9999 99       5       O   PREP               in         loc/ADVL            -----      2
+ 9999 99       6       O      N           sports           attr/A            -----      7
+ 9999 99       7       O      N          history          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      A          fastest           attr/A            -----      4
+ 9999 99       4       O      N              man           comp/S            -----      1
+ 9999 99       5       O   PREP               in          mod/NOM            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            world          pcomp/P            -----      5
+ 9999 99       8       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    DET             What           det/DN            -----      1
+ 9999 99       1       O      N            music        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_play    NOFUNC/FMAINV            -----     -1
+ 9999 99       4       O    ADV             when         tmp/ADVL            -----      6
+ 9999 99       5       O      N            Jesse        subj/SUBJ            -----      6
+ 9999 99       6       O      V            T_win       tmp/FMAINV            -----      3
+ 9999 99       7       O    DET                a           det/DN            -----      9
+ 9999 99       8       O      N             gold           attr/A            -----      9
+ 9999 99       9       O      N            medal          obj/OBJ            -----      6
+ 9999 99      10       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON               he        subj/SUBJ            -----      1
+ 9999 99       3       O      V          T_begin      main/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V          T_train       obj/FMAINV            -----      3
+ 9999 99       6       O    SEP                ?       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON               he        subj/SUBJ            -----      1
+ 9999 99       3       O      V            T_win      main/FMAINV            -----     -1
+ 9999 99       4       O    NUM             four            qn/QN            -----      5
+ 9999 99       5       O      N           medals          obj/OBJ            -----      3
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N          Jesse's           attr/A            -----      3
+ 9999 99       3       O      N           future        subj/SUBJ            -----      1
+ 9999 99       4       O NEG-PART              not         neg/ADVL            -----      5
+ 9999 99       5       O      A           bright           comp/S            -----      1
+ 9999 99       6       O   PREP               at         tmp/ADVL            -----      1
+ 9999 99       7       O    NUM              one            qn/QN            -----      8
+ 9999 99       8       O      N             time          pcomp/P            -----      6
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+

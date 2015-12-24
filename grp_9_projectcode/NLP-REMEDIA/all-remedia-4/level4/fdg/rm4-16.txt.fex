@@ -1,0 +1,280 @@
+
+ 9999 99       0       O      V          T_watch      main/FMAINV            -----     -1
+ 9999 99       1       O    ADV              Out         phr/ADVL            -----      0
+ 9999 99       2       O   PREP              for      NOFUNC/ADVL            -----     -1
+ 9999 99       3       O      V           T_sear    NOFUNC/FMAINV            -----     -1
+ 9999 99       4       O    SEP                !    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O    SEP                (    NOFUNC/FMAINV            ?????     -1
+ 9999 99       1       O      N            North           attr/A            -----      2
+ 9999 99       2       O      N          Redwood       NOFUNC/APP            -----     -1
+ 9999 99       3       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       4       O   ABBR            Minn.          mod/NOM            -----      2
+ 9999 99       5       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       6       O      N        September         main/APP            -----      0
+ 9999 99       7       O    SEP                ,         main/APP            ?????     -1
+ 9999 99       8       O    NUM             1889         mod/ADVL            -----      6
+ 9999 99       9       O    SEP                )         mod/ADVL            ?????     -1
+ 9999 99      10       O    DET                A           det/DN            -----     11
+ 9999 99      11       O      N              man        subj/SUBJ            -----     14
+ 9999 99      12       O     EN           T_name       mod/FMAINV            -----     11
+ 9999 99      13       O      N          Richard          obj/OBJ            -----     12
+ 9999 99      14       O      V           T_sear      subj/FMAINV            -----     15
+ 9999 99      15       O      V           T_have       v-ch/FAUXV            -----     16
+ 9999 99      16       O     EN             T_be       v-ch/FAUXV            -----     17
+ 9999 99      17       O    ING           T_play      main/FMAINV            -----     -1
+ 9999 99      18       O    DET                a           det/DN            -----     19
+ 9999 99      19       O      N             joke           comp/S            -----     17
+ 9999 99      20       O   PREP               on         phr/ADVL            -----     17
+ 9999 99      21       O      N         shoppers          pcomp/P            -----     20
+ 9999 99      22       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      V           T_sear      main/FMAINV            -----     -1
+ 9999 99       1       O      N            likes          obj/OBJ            -----      0
+ 9999 99       2       O INFMARK               to       pm/INFMARK            -----      3
+ 9999 99       3       O      V           T_sell       cnt/FMAINV            -----      0
+ 9999 99       4       O      N            items          obj/OBJ            -----      3
+ 9999 99       5       O   PREP               by         man/ADVL            -----      3
+ 9999 99       6       O      N             mail          pcomp/P            -----      5
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O NEG-PART              Not         neg/ADVL            -----      1
+ 9999 99       1       O    ADV         long_ago        meta/ADVL            -----      4
+ 9999 99       2       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       3       O   PRON               he        subj/SUBJ            -----      4
+ 9999 99       4       O      V            T_run      main/FMAINV            -----     -1
+ 9999 99       5       O    DET               an           det/DN            -----      6
+ 9999 99       6       O      N               ad          obj/OBJ            -----      4
+ 9999 99       7       O   PREP               in         loc/ADVL            -----      4
+ 9999 99       8       O    DET             some           det/DN            -----      9
+ 9999 99       9       O      N       newspapers          pcomp/P            -----      7
+ 9999 99      10       O   PREP               In          mod/NOM            -----      9
+ 9999 99      11       O      A            small           attr/A            -----     12
+ 9999 99      12       O      N            towns          pcomp/P            -----     10
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N               ad        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_show      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      4
+ 9999 99       4       O      N          drawing          obj/OBJ            -----      2
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O      A           lovely           attr/A            -----      7
+ 9999 99       7       O      N        furniture          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV            There        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N             sofa           comp/S            -----      1
+ 9999 99       4       O     CC              and            cc/CC            -----      3
+ 9999 99       5       O    NUM              two            qn/QN            -----      6
+ 9999 99       6       O      N           chairs             cc/S            -----      3
+ 9999 99       7       O    SEP                .             cc/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N               ad        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N        furniture        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be       obj/FMAINV            -----      2
+ 9999 99       6       O   PREP              for          ha/ADVL            -----      5
+ 9999 99       7       O      N             sale          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N           pieces        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_make       obj/FMAINV            -----      1
+ 9999 99       6       O   PREP               of         phr/ADVL            -----      5
+ 9999 99       7       O      A             fine           attr/A            -----      8
+ 9999 99       8       O      N            metal           attr/A            -----      9
+ 9999 99       9       O      N           frames          pcomp/P            -----      6
+ 9999 99      10       O     CC              and            cc/CC            -----      5
+ 9999 99      11       O      V             T_be        cc/FMAINV            -----      5
+ 9999 99      12       O      A        beautiful           comp/S            -----     11
+ 9999 99      13       O INFMARK               to       pm/INFMARK            -----     14
+ 9999 99      14       O      V            T_see       mod/FMAINV            -----     12
+ 9999 99      15       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N               ad        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       3       O     CS             that            pm/CS            -----     14
+ 9999 99       4       O   PREP              for         cla/ADVL            -----     14
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      A            short           attr/A            -----      7
+ 9999 99       7       O      N             time          pcomp/P            -----      4
+ 9999 99       8       O    ADV             only      NOFUNC/ADVL            -----     -1
+ 9999 99       9       O    SEP                ,      NOFUNC/ADVL            ?????     -1
+ 9999 99      10       O    DET            these           det/DN            -----     11
+ 9999 99      11       O      N           chairs        subj/SUBJ            -----     12
+ 9999 99      12       O      V          T_would       v-ch/FAUXV            -----     13
+ 9999 99      13       O      V             T_be       v-ch/FAUXV            -----     14
+ 9999 99      14       O     EN           T_ship       obj/FMAINV            -----      2
+ 9999 99      15       O   PREP               to          ha/ADVL            -----     14
+ 9999 99      16       O   PRON              all          pcomp/P            -----     15
+ 9999 99      17       O   PRON              who        subj/SUBJ            -----     18
+ 9999 99      18       O      V            T_pay       mod/FMAINV            -----     16
+ 9999 99      19       O    NUM               95            qn/QN            -----     20
+ 9999 99      20       O      N            cents          obj/OBJ            -----     18
+ 9999 99      21       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      1
+ 9999 99       1       O      N          message        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_sound      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV              too             ad/A            -----      4
+ 9999 99       4       O      A             good           comp/S            -----      2
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V             T_be       mod/FMAINV            -----      4
+ 9999 99       7       O      A             true           comp/S            -----      6
+ 9999 99       8       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV            Still        meta/ADVL            -----      4
+ 9999 99       1       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       2       O    DET         a_lot_of           det/DN            -----      3
+ 9999 99       3       O      N           people        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_send      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP               in         loc/ADVL            -----      4
+ 9999 99       6       O   PRON            their           attr/A            -----      7
+ 9999 99       7       O      N            money          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      V        T_imagine      main/FMAINV            -----     -1
+ 9999 99       1       O   PRON            their           attr/A            -----      2
+ 9999 99       2       O      N         surprise          obj/OBJ            -----      0
+ 9999 99       3       O    ADV             when         tmp/ADVL            -----      5
+ 9999 99       4       O   PRON             they        subj/SUBJ            -----      5
+ 9999 99       5       O      V        T_receive       tmp/FMAINV            -----      0
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N        furniture          obj/OBJ            -----      5
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N        furniture        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP              for          ha/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      N             doll           attr/A            -----      7
+ 9999 99       7       O      N            house          obj/OBJ            -----      3
+ 9999 99       8       O    SEP                !          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      A             tiny           attr/A            -----      3
+ 9999 99       3       O      N           pieces           comp/S            -----      1
+ 9999 99       4       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET             Some           det/DN            -----      1
+ 9999 99       1       O      N           people        subj/SUBJ            -----      2
+ 9999 99       2       O      V       T_complain      main/FMAINV            -----     -1
+ 9999 99       3       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON            That_        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV             when         tmp/ADVL            -----      3
+ 9999 99       3       O      V           T_sear       tmp/FMAINV            -----      1
+ 9999 99       4       O      V           T_show      comp/FMAINV            -----      1
+ 9999 99       5       O   PRON             them          dat/OBJ            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O      A             tiny           attr/A            -----      8
+ 9999 99       8       O      N            print          obj/OBJ            -----      4
+ 9999 99       9       O   PREP               in         loc/ADVL            -----      4
+ 9999 99      10       O   PRON              his           attr/A            -----     11
+ 9999 99      11       O      N               ad          pcomp/P            -----      9
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP               In         cla/ADVL            -----      7
+ 9999 99       1       O    ADV             very             ad/A            -----      2
+ 9999 99       2       O      A            small           attr/A            -----      3
+ 9999 99       3       O      N          letters          pcomp/P            -----      0
+ 9999 99       4       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       5       O   PRON               he        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_have       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN        T_include      main/FMAINV            -----     -1
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N             word          obj/OBJ            -----      7
+ 9999 99      10       O    SEP               "_          obj/OBJ            ?????     -1
+ 9999 99      11       O      N        miniature          mod/APP            -----      9
+ 9999 99      12       O    SEP                .          mod/APP            ?????     -1
+ 9999 99      13       O    SEP               _"          mod/APP            ?????     -1
+
+ 9999 99       0       O   PRON             That        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_mean      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N        furniture        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be       obj/FMAINV            -----      1
+ 9999 99       5       O NEG-PART              not         neg/ADVL            -----      4
+ 9999 99       6       O      A             full           attr/A            -----      7
+ 9999 99       7       O      N             size           comp/S            -----      4
+ 9999 99       8       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O      V           T_sear      subj/FMAINV            -----      1
+ 9999 99       1       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON               he        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_do       obj/FMAINV            -----      1
+ 9999 99       4       O   PRON             this          obj/OBJ            -----      3
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V            T_get       cnt/FMAINV            -----      3
+ 9999 99       7       O      N        attention          obj/OBJ            -----      6
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_play      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N             joke          obj/OBJ            -----      1
+ 9999 99       4       O   PREP               on         phr/ADVL            -----      1
+ 9999 99       5       O      N         shoppers          pcomp/P            -----      4
+ 9999 99       6       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What          obj/OBJ            -----      5
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      5
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      N            Sears           attr/A            -----      4
+ 9999 99       4       O      N               ad        subj/SUBJ            -----      1
+ 9999 99       5       O      V          T_offer      main/FMAINV            -----     -1
+ 9999 99       6       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      2
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_sear      main/FMAINV            -----     -1
+ 9999 99       3       O      N             play          obj/OBJ            -----      2
+ 9999 99       4       O    DET             this           det/DN            -----      5
+ 9999 99       5       O      N             joke        subj/SUBJ            -----      2
+ 9999 99       6       O    SEP                ?        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             word        subj/SUBJ            -----      1
+ 9999 99       4       O    SEP               "_        subj/SUBJ            ?????     -1
+ 9999 99       5       O      N        miniature           comp/S            -----      1
+ 9999 99       6       O    SEP               _"           comp/S            ?????     -1
+ 9999 99       7       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_sear      main/FMAINV            -----     -1
+ 9999 99       3       O      N             play          obj/OBJ            -----      2
+ 9999 99       4       O    DET             this           det/DN            -----      5
+ 9999 99       5       O      N             joke        subj/SUBJ            -----      2
+ 9999 99       6       O    SEP                ?        subj/SUBJ            ?????     -1
+

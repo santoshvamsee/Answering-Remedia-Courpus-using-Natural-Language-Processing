@@ -1,0 +1,332 @@
+0		
+	$<p>	
+
+0		
+1	Hula	hula	attr:>2	@A> N
+2	Hoops	hoop	main:>0	@NH N
+3	Sent	send	mod:>2	@-FMAINV EN
+4	to	to	ha:>3	@ADVL PREP
+5	South	south	attr:>6	@A> N
+6	Pole	pole	pcomp:>4	@<P N
+	$<p>	
+
+0		
+	$(	
+2	South	south	attr:>3	@A> N
+3	Pole	pole		@APP N
+	$,	
+5	February	February	main:>1	@NH N
+6	2	2	mod:>5	@<NOM NUM
+	$,	
+8	1959	1959	mod:>6	@<NOM NUM
+	$)	
+10	Sometime	sometime		@ADVL ADV
+11	this	this	det:>12	@DN> DET
+12	month	month	tmp:>18	@ADVL N
+	$,	
+14	the	the	det:>16	@DN> DET
+15	latest	late	attr:>16	@A> A
+16	fad	fad	subj:>17	@SUBJ N
+17	will	will	v-ch:>18	@+FAUXV V
+18	reach	reach	main:>0	@-FMAINV V
+19	the	the	det:>21	@DN> DET
+20	South	south	attr:>21	@A> N
+21	Pole	pole	obj:>18	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	shipment	shipment	subj:>6	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	hula	hula	attr:>5	@A> N
+5	hoops	hoop	pcomp:>3	@<P N
+6	is	be	v-ch:>7	@+FAUXV V
+7	expected	expect	main:>0	@-FMAINV EN
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	arrive	arrive	cnt:>7	@-FMAINV V
+10	any	any	det:>11	@DN> DET
+11	day	day	tmp:>9	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	scientists	scientist		@NH N	@SUBJ N	@OBJ N	@PCOMPL-S N	@APP N	@<P N
+3	who	who	subj:>4	@SUBJ PRON
+4	live	live	mod:>2	@+FMAINV V
+5	there	there	subj:>6	@F-SUBJ ADV
+6	will	will	v-ch:>8	@+FAUXV V
+7	probably	probable	meta:>8	@ADVL ADV
+8	use	use	main:>0	@-FMAINV V
+9	them	they	subj:>11	@OBJ PRON
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	exercise	exercise	obj:>8	@-FMAINV V
+12	and	and	cc:>11	@CC CC
+13	to	to	pm:>14	@INFMARK> INFMARK>
+14	keep	keep	cc:>11	@-FMAINV V
+15	warm	warm	comp:>14	@PCOMPL-S A
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	hula	hula	attr:>3	@A> N
+3	hoop	hoop	subj:>4	@SUBJ N
+4	has	have	v-ch:>5	@+FAUXV V
+5	been	be	v-ch:>6	@-FAUXV EN
+6	taking	take	main:>0	@-FMAINV ING
+7	the	the	det:>8	@DN> DET
+8	world	world	obj:>6	@OBJ N
+9	by	by	loc:>6	@ADVL PREP
+10	storm	storm	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>5	@DN> DET
+2	simple	simple	cc:>4	@A> A
+	$,	
+4	round	round	attr:>5	@A> A
+5	piece	piece	subj:>8	@SUBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	plastic	plastic	pcomp:>6	@<P N
+8	was	be	v-ch:>10	@+FAUXV V
+9	first	first		@SUBJ NUM	@ADVL NUM	@<NOM NUM	@ADVL NUM
+10	made	make	main:>0	@-FMAINV EN
+11	in	in	loc:>10	@ADVL PREP
+12	Australia	Australia	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Two	two	qn:>2	@QN> NUM
+2	men	man	subj:>3	@SUBJ N
+3	took	take	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	idea	idea	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	made	make	main:>0	@+FMAINV V
+3	a_few	a_few	det:>4	@DN> DET
+4	changes	change	obj:>2	@OBJ N
+5	and	and	cc:>2	@CC CC
+6	brought	bring	cc:>2	@+FMAINV V
+7	it	it	obj:>6	@OBJ PRON
+8	to	to	dat:>6	@ADVL PREP
+9	the	the	det:>11	@DN> DET
+10	United	unite	attr:>11	@A> A
+11	States	state	pcomp:>8	@<P N
+	$.	
+	$<p>	
+
+0		
+1	In	in	tmp:>11	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	past	past	det:>4	@DN> DET
+4	few	few	attr:>5	@DN> DET
+5	months	month	pcomp:>1	@<P N
+	$,	
+7	the	the	det:>9	@DN> DET
+8	Wham-O	wham-o	attr:>9	@A> N
+9	Company	company	subj:>10	@SUBJ N
+10	has	have	v-ch:>11	@+FAUXV V
+11	sold	sell	main:>0	@-FMAINV EN
+12	30	30	qn:>13	@QN> NUM
+13	million	million	qn:>14	@QN> NUM
+14	hoops	hoop	obj:>11	@OBJ N
+15	in	in	loc:>11	@ADVL PREP
+16	the	the	det:>18	@DN> DET
+17	United	unite	attr:>18	@A> A
+18	States	state	pcomp:>15	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	price	price	subj:>3	@SUBJ N
+3	has	have	v-ch:>4	@+FAUXV V
+4	dropped	drop	main:>0	@-FMAINV EN
+5	from	from	sou:>4	@ADVL PREP
+6	$2.79	$2.79	pcomp:>5	@<P NUM
+7	to	to	pth:>5	@ADVL PREP
+8	50	50	qn:>9	@QN> NUM
+9	cents	cent	pcomp:>7	@<P N
+10	per	per	mod:>9	@<NOM PREP
+11	hoop	hoop	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Adults	adult	subj:>2	@SUBJ N
+2	seem	seem	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	have	have	comp:>2	@-FMAINV V
+5	trouble	trouble	obj:>4	@OBJ N
+	$,	
+7	but	but	cc:>2	@CC CC
+8	children	child	subj:>9	@SUBJ N
+9	catch	catch	cc:>2	@+FMAINV V
+10	on	on		@ADVL ADV
+11	right_away	right_away	ha:>9	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	idea	idea	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	see	see	comp:>3	@-FMAINV V
+6	how	how	ad:>7	@AD-A> ADV
+7	long	long	comp:>11	@PCOMPL-S A
+8	the	the	det:>9	@DN> DET
+9	hoop	hoop	subj:>10	@SUBJ N
+10	can	can	v-ch:>11	@+FAUXV V
+11	stay	stay	obj:>5	@-FMAINV V
+12	in	in	loc:>11	@ADVL PREP
+13	motion	motion	pcomp:>12	@<P N
+14	around	around	mod:>13	@<NOM PREP
+15	your	you	attr:>16	@A> PRON
+16	waist	waist	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	To	to	pm:>2	@INFMARK> INFMARK>
+2	keep	keep	cnt:>8	@-FMAINV V
+3	it	it	subj:>4	@OBJ PRON
+4	moving	move	obj:>2	@-FMAINV ING
+	$,	
+6	you	you	subj:>7	@SUBJ PRON
+7	must	must	v-ch:>8	@+FAUXV V
+8	swing	swing	main:>0	@-FMAINV V
+9	your	you	attr:>10	@A> PRON
+10	hips	hip	obj:>8	@OBJ N
+11	in	in	loc:>8	@ADVL PREP
+12	a	a	det:>13	@DN> DET
+13	circle	circle	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>4	@CS CS
+2	the	the	det:>3	@DN> DET
+3	hoop	hoop	subj:>4	@SUBJ N
+4	starts	start	main:>0	@+FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	slip	slip	obj:>4	@-FMAINV V
+7	down	down	ha:>6	@ADVL PREP
+8	your	you	attr:>9	@A> PRON
+9	legs	leg	pcomp:>7	@<P N
+	$,	
+11	just	just	ad:>12	@AD-A> ADV
+12	swing	swing		@SUBJ N	@OBJ N	@APP N	@A> N	@<P N
+13	harder	hard	man:>6	@ADVL A	@ADVL ADV
+14	and	and	cc:>13	@CC CC
+15	faster	fast	cc:>13	@ADVL ADV
+16	to	to	pm:>17	@INFMARK> INFMARK>
+17	keep	keep	cnt:>6	@-FMAINV V
+18	it	it	obj:>17	@OBJ PRON
+19	from	from	phr:>17	@ADVL PREP
+20	hitting	hit	pcomp:>19	@<P-FMAINV ING
+21	the	the	det:>22	@DN> DET
+22	ground	ground	obj:>20	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	about	about	man:>2	@ADVL ADV
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	receive	receive	comp:>2	@-FMAINV V
+6	a	a	det:>7	@DN> DET
+7	shipment	shipment	obj:>5	@OBJ N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	hula	hula	attr:>10	@A> N
+10	hoops	hoop	pcomp:>8	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	company	company	subj:>3	@SUBJ N
+3	has	have	v-ch:>4	@+FAUXV V
+4	sold	sell	main:>0	@-FMAINV EN
+5	30	30	qn:>6	@QN> NUM
+6	million	million	qn:>8	@QN> NUM
+7	hula	hula	attr:>8	@A> N
+8	hoops	hoop	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	hula	hula	attr:>4	@A> N
+4	hoops	hoop	subj:>2	@SUBJ N
+5	be	be	v-ch:>6	@-FAUXV V
+6	sent	send	main:>0	@-FMAINV EN
+7	to	to	dat:>6	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	South	south	attr:>10	@A> N
+10	Pole	pole	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	did	do	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	hula	hula	attr:>5	@A> N
+5	hoop	hoop	attr:>6	@A> N
+6	start	start	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	do	do	v-ch:>4	@+FAUXV V
+3	you	you	subj:>2	@SUBJ PRON
+4	think	think	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	price	price	subj:>10	@SUBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	hula	hula	attr:>9	@A> N
+9	hoops	hoop	pcomp:>7	@<P N
+10	has	have	v-ch:>11	@+FAUXV V
+11	dropped	drop	obj:>4	@-FMAINV EN
+12	so	so	ad:>13	@AD-A> ADV
+13	much	much	qua:>11	@ADVL PRON
+	$?	
+	$<p>	
+

@@ -1,0 +1,310 @@
+0		
+	$<p>	
+
+0		
+1	Shoppers	shopper	attr:>2	@A> N
+2	Love	love	attr:>3	@A> N
+3	Woolworth's	Woolworth	main:>0	@NH N
+	$<p>	
+
+0		
+	$(	
+2	Manhattan	Manhattan	attr:>3	@A> N
+3	Island	island		@NH N	@APP N
+	$,	
+5	N	n		@APP ABBR	@NH ABBR	@<NOM ABBR
+	$.	
+	$<s>	
+
+0		
+1	Y.	y.		@SUBJ ABBR	@NH ABBR	@<NOM ABBR
+	$,	
+3	April	April	subj:>12	@SUBJ N
+4	24	24	mod:>3	@<NOM NUM
+	$,	
+6	1914	1914	mod:>4	@<NOM NUM
+	$)	
+8	The	the	det:>11	@DN> DET
+9	world's	world	attr:>10	@A> N
+10	tallest	tall	attr:>11	@A> A
+11	building	build		@SUBJ N	@PCOMPL-S N	@APP N
+12	is	be	main:>0	@+FMAINV V
+13	one	one	qn:>14	@QN> NUM
+14	year	year	tmp:>12	@ADVL N
+15	old	old		@PCOMPL-S A	@A> A
+16	today	today		@SUBJ N	@PCOMPL-S N	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	On	on		@ADVL PREP
+2	this	this	det:>3	@DN> DET
+3	day	day	pcomp:>1	@<P N
+4	last	last	det:>5	@DN> DET
+5	year	year	tmp:>10	@ADVL N
+	$,	
+7	the	the	det:>9	@DN> DET
+8	Woolworth	Woolworth	attr:>9	@A> N
+9	Building	build	subj:>10	@SUBJ A
+10	opened	open	main:>0	@+FMAINV V
+11	its	it	attr:>12	@A> PRON
+12	doors	door	obj:>10	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	giant	giant	attr:>3	@A> N
+3	building	build	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	760	760	qn:>6	@QN> NUM
+6	feet	foot	attr:>7	@A> N
+7	high	high	comp:>4	@PCOMPL-S A
+8	and	and	cc:>7	@CC CC
+9	55	55	qn:>10	@QN> NUM
+10	stories	story	attr:>11	@A> N
+11	tall	tall	cc:>7	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Some	some	ad:>2	@AD-A> ADV
+2	15,000	15,000	qn:>4	@QN> NUM
+3	office	office	attr:>4	@A> N
+4	workers	worker	subj:>5	@SUBJ N
+5	pass	pass	main:>0	@+FMAINV V
+6	through	through	ha:>5	@ADVL PREP
+7	its	it	attr:>8	@A> PRON
+8	doors	door	pcomp:>6	@<P N
+9	each	each	det:>10	@DN> DET
+10	day	day	tmp:>5	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	ride	ride	main:>0	@+FMAINV V
+3	to	to	goa:>2	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	top	top	pcomp:>3	@<P N
+6	in	in	tmp:>2	@ADVL PREP
+7	one	one	pcomp:>6	@<P NUM
+8	of	of	mod:>7	@<NOM-OF PREP
+9	30	30	qn:>10	@QN> NUM
+10	elevators	elevator	pcomp:>8	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	visit	visit	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	building	build	obj:>3	@OBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	shop	shop	cnt:>3	@-FMAINV V
+8	at	at	ha:>7	@ADVL PREP
+9	the	the	det:>12	@DN> DET
+10	Woolworth's	Woolworth	attr:>11	@A> N
+11	store	store	attr:>12	@A> N
+12	inside	inside	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It_	it	subj:>2	@SUBJ PRON
+2	's	be	v-ch:>4	@+FAUXV V	@+FAUXV V
+3	also	also	ad:>4	@ADVL ADV
+4	known	know	main:>0	@-FMAINV EN
+5	as	as	pm:>11	@CS CS
+6	the	the	det:>10	@DN> DET
+7	5	5	cc:>9	@QN> NUM
+8	and	and	cc:>9	@CC CC
+9	10	10	qn:>10	@QN> NUM
+10	cent	cent	subj:>11	@SUBJ N
+11	store	store	man:>4	@+FMAINV V
+	$,	
+13	because	because	pm:>15	@CS CS
+14	that_	that	subj:>15	@SUBJ PRON
+15	's	be	cnt:>11	@+FMAINV V
+16	the	the	det:>17	@DN> DET
+17	price	price	comp:>15	@PCOMPL-S N
+18	of	of	mod:>17	@<NOM-OF PREP
+19	many	many	pcomp:>18	@<P PRON
+20	of	of	mod:>19	@<NOM-OF PREP
+21	the	the	det:>22	@DN> DET
+22	items	item	pcomp:>20	@<P N
+23	sold	sell	mod:>22	@-FMAINV EN
+	$.	
+	$<p>	
+
+0		
+1	A_lot_of	a_lot_of	det:>2	@DN> DET
+2	shopping	shop	subj:>3	@SUBJ N
+3	has	have	v-ch:>4	@+FAUXV V
+4	taken	take	main:>0	@-FMAINV EN
+5	place	place	obj:>4	@OBJ N
+6	here	here	loc:>4	@ADVL ADV
+7	in	in	dur:>4	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	first	first	attr:>10	@A> NUM
+10	year	year	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	store	store	subj:>3	@SUBJ N
+3	has	have	v-ch:>4	@+FAUXV V
+4	sold	sell	main:>0	@-FMAINV EN
+5	almost	almost	ad:>6	@AD-A> ADV
+6	two	two	qn:>7	@QN> NUM
+7	million	million	qn:>8	@QN> NUM
+8	mousetraps	mousetrap	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Shoppers	shopper	subj:>2	@SUBJ N
+2	have	have	v-ch:>3	@+FAUXV V
+3	bought	buy	main:>0	@-FMAINV EN
+4	186	186	qn:>5	@QN> NUM
+5	tons	ton	obj:>3	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	hair	hair	attr:>8	@A> N
+8	pins	pin	pcomp:>6	@<P N
+9	and	and	cc:>8	@CC CC
+10	27	27	qn:>11	@QN> NUM
+11	million	million	qn:>12	@QN> NUM
+12	pairs	pair	cc:>8	@<P N
+13	of	of	mod:>12	@<NOM-OF PREP
+14	stockings	stocking	pcomp:>13	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	store	store	cc:>4	@SUBJ N
+3	and	and	cc:>4	@CC CC
+4	building	build	subj:>5	@SUBJ N
+5	are	be	v-ch:>6	@+FAUXV V
+6	named	name	main:>0	@-FMAINV EN
+7	for	for	ha:>6	@ADVL PREP
+8	their	they	attr:>9	@A> PRON
+9	owner	owner	obj:>6	@OBJ N
+	$,	
+11	Frank	Frank	attr:>12	@A> N
+12	Woolworth	Woolworth	mod:>9	@APP N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	grew	grow	main:>0	@+FMAINV V
+3	up	up	phr:>2	@ADVL ADV
+4	very	very	ad:>5	@AD-A> ADV
+5	poor	poor	comp:>2	@PCOMPL-S A
+	$,	
+7	but	but	cc:>2	@CC CC
+8	became	become	cc:>2	@+FMAINV V
+9	a	a	det:>11	@DN> DET
+10	smart	smart	attr:>11	@A> A
+11	businessman	businessman	comp:>8	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	With	with	cla:>5	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	money	money	pcomp:>1	@<P N
+4	he	he	subj:>5	@SUBJ PRON
+5	made	make	main:>0	@+FMAINV V
+	$,	
+7	he	he	subj:>8	@SUBJ PRON
+8	built	build		@+FMAINV V
+9	this	this	det:>11	@DN> DET
+10	landmark	landmark	attr:>11	@A> N
+11	building	build	obj:>8	@OBJ N	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	has	have	subj:>7	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	world's	world	attr:>5	@A> N
+5	tallest	tall	attr:>6	@A> A
+6	building	build	obj:>2	@OBJ N
+7	named	name	main:>0	@+FMAINV V
+8	after	after	ha:>7	@ADVL PREP
+9	him	he	pcomp:>8	@<P PRON
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	Woolworth's	Woolworth	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	did	do	v-ch:>6	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	Woolworth	Woolworth	subj:>2	@SUBJ N
+5	Building	build		@SUBJ A	@OBJ A	@I-OBJ A
+6	open	open	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	is	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	building	build	subj:>2	@SUBJ N
+5	located	locate	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	is	be	v-ch:>6	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	store	store	subj:>2	@SUBJ N
+5	also	also	>6	@ADVL ADV
+6	called	call	main:>0	@-FMAINV EN
+7	the	the	det:>12	@DN> DET
+8	5	5	cc:>10	@QN> NUM
+9	and	and	cc:>10	@CC CC
+10	10	10	qn:>12	@QN> NUM
+11	cent	cent	attr:>12	@A> N
+12	store	store	obj:>6	@OBJ N
+	$?	
+	$<p>	
+

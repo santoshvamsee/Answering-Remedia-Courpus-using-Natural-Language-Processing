@@ -1,0 +1,254 @@
+ 9999 99       0       O      N          Sailors        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       2       O      A          Strange           attr/A            -----      3
+ 9999 99       3       O      N        Discovery          obj/OBJ            -----      1
+ 9999 99       4       O    SEP                !          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    SEP                (          obj/OBJ            ?????     -1
+ 9999 99       1       O      N          HOLLAND          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N            April        NOFUNC/NH            -----     -1
+ 9999 99       4       O    NUM               10          mod/NOM            -----      3
+ 9999 99       5       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       6       O    NUM             1723          mod/NOM            -----      4
+ 9999 99       7       O    SEP                )          mod/NOM            ?????     -1
+ 9999 99       8       O     --               $-          NOFUNC/            -----     -1
+ 9999 99       9       O    NUM              One            qn/QN            -----     10
+ 9999 99      10       O      N             year      NOFUNC/ADVL            -----     -1
+ 9999 99      11       O    ADV              ago             ad/A            -----     10
+ 9999 99      12       O      N            today         tmp/ADVL            -----     16
+ 9999 99      13       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99      14       O      A            Dutch           attr/A            -----     15
+ 9999 99      15       O      N          sailors        subj/SUBJ            -----     16
+ 9999 99      16       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99      17       O    DET                a           det/DN            -----     21
+ 9999 99      18       O      A          strange             cc/A            -----     20
+ 9999 99      19       O    SEP                ,             cc/A            ?????     -1
+ 9999 99      20       O      A              new           attr/A            -----     21
+ 9999 99      21       O      N           island          obj/OBJ            -----     16
+ 9999 99      22       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_name      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON               it          dat/OBJ            -----      1
+ 9999 99       3       O      N           Easter           attr/A            -----      4
+ 9999 99       4       O      N           Island          obj/OBJ            -----      1
+ 9999 99       5       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       6       O   PREP               in         tmp/ADVL            -----      1
+ 9999 99       7       O      N            honor          pcomp/P            -----      6
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N              day          pcomp/P            -----      8
+ 9999 99      11       O   PRON             they        subj/SUBJ            -----     12
+ 9999 99      12       O      V           T_find       mod/FMAINV            -----     10
+ 9999 99      13       O   PRON               it          obj/OBJ            -----     12
+ 9999 99      14       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O    SEP                ,            cc/CC            ?????     -1
+ 9999 99       2       O    ADV             only      NOFUNC/ADVL            -----     -1
+ 9999 99       3       O    ADV              now        meta/ADVL            -----      4
+ 9999 99       4       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N          sailors          obj/OBJ            -----      4
+ 9999 99       7       O     EN         T_return        oc/FMAINV            -----      4
+ 9999 99       8       O   PREP             from         sou/ADVL            -----      7
+ 9999 99       9       O   PRON            their           attr/A            -----     10
+ 9999 99      10       O      A             long           attr/A            -----     11
+ 9999 99      11       O      N             trip          pcomp/P            -----      8
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O      A          strange           attr/A            -----      3
+ 9999 99       3       O      N            tales          obj/OBJ            -----      1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_tell       mod/FMAINV            -----      3
+ 9999 99       6       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       2       O     CS             that            pm/CS            -----      5
+ 9999 99       3       O      N           Easter           attr/A            -----      4
+ 9999 99       4       O      N           Island        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be       obj/FMAINV            -----      1
+ 9999 99       6       O      A             full           comp/S            -----      5
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O      A             huge           attr/A            -----      9
+ 9999 99       9       O      N          statues          pcomp/P            -----      7
+ 9999 99      10       O   PREP             with          mod/NOM            -----      9
+ 9999 99      11       O      N            faces          pcomp/P            -----     10
+ 9999 99      12       O     EN          T_carve       mod/FMAINV            -----     11
+ 9999 99      13       O   PREP               on          ha/ADVL            -----     12
+ 9999 99      14       O   PRON             them          pcomp/P            -----     13
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N          statues        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP             from         sou/ADVL            -----      3
+ 9999 99       5       O      N            rocks          pcomp/P            -----      4
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            rocks        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN          T_carry      main/FMAINV            -----     -1
+ 9999 99       4       O    DET             many           det/DN            -----      5
+ 9999 99       5       O      N            miles         tmp/ADVL            -----      3
+ 9999 99       6       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      3
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN          T_place      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV          upright          ha/ADVL            -----      3
+ 9999 99       5       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N           ground          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET               No           det/DN            -----      1
+ 9999 99       1       O   PRON              one        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_know      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON              who        subj/SUBJ            -----      4
+ 9999 99       4       O      V          T_carve       obj/FMAINV            -----      2
+ 9999 99       5       O    DET            these           det/DN            -----      6
+ 9999 99       6       O      N            faces          obj/OBJ            -----      4
+ 9999 99       7       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N          sailors        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_could       v-ch/FAUXV            -----      4
+ 9999 99       3       O NEG-PART              not         neg/ADVL            -----      2
+ 9999 99       4       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              any           det/DN            -----      6
+ 9999 99       6       O      N           people          obj/OBJ            -----      4
+ 9999 99       7       O   PREP               on         loc/ADVL            -----      4
+ 9999 99       8       O      N           Easter           attr/A            -----      9
+ 9999 99       9       O      N           Island          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N           statue        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_weigh      main/FMAINV            -----     -1
+ 9999 99       3       O    DET             many           det/DN            -----      4
+ 9999 99       4       O      N             tons         qua/ADVL            -----      2
+ 9999 99       5       O    SEP                .         qua/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      A             hard           comp/S            -----      1
+ 9999 99       3       O   PREP              for        subj/ADVL            -----      7
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N          sailors          pcomp/P            -----      3
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V          T_guess       mod/FMAINV            -----      0
+ 9999 99       8       O    ADV              how         man/ADVL            -----     12
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N            rocks        subj/SUBJ            -----     11
+ 9999 99      11       O      V             T_be       v-ch/FAUXV            -----     12
+ 9999 99      12       O     EN           T_move       obj/FMAINV            -----      7
+ 9999 99      13       O    SEP                ,       obj/FMAINV            ?????     -1
+ 9999 99      14       O    ADV             then        meta/ADVL            -----     15
+ 9999 99      15       O     EN           T_lift    NOFUNC/FMAINV            -----     -1
+ 9999 99      16       O    SEP                .    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N          sailors        subj/SUBJ            -----      3
+ 9999 99       2       O    ADV             also      NOFUNC/ADVL            -----     -1
+ 9999 99       3       O      V             T_do       v-ch/FAUXV            -----      5
+ 9999 99       4       O NEG-PART              n't         neg/ADVL            -----      3
+ 9999 99       5       O      V           T_know      main/FMAINV            -----     -1
+ 9999 99       6       O    DET            whose           det/DN            -----      7
+ 9999 99       7       O      N            faces        subj/SUBJ            -----      8
+ 9999 99       8       O      V             T_be       obj/FMAINV            -----      5
+ 9999 99       9       O   PREP               on         loc/ADVL            -----      8
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N            rocks          pcomp/P            -----      9
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            faces        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV             very             ad/A            -----      4
+ 9999 99       4       O      A              big           attr/A            -----      5
+ 9999 99       5       O      N            noses          obj/OBJ            -----      2
+ 9999 99       6       O     CC              and            cc/CC            -----      5
+ 9999 99       7       O      N             lips           cc/OBJ            -----      5
+ 9999 99       8       O    SEP                .           cc/OBJ            ?????     -1
+
+ 9999 99       0       O      N           Easter        NOFUNC/NH            -----     -1
+ 9999 99       1       O      N           Island        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV              far         loc/ADVL            -----      2
+ 9999 99       4       O    ADV             away      NOFUNC/ADVL            -----     -1
+ 9999 99       5       O   PREP               in          ha/ADVL            -----      2
+ 9999 99       6       O    DET              the           det/DN            -----      9
+ 9999 99       7       O      N            South           attr/A            -----      8
+ 9999 99       8       O      N          Pacific           attr/A            -----      9
+ 9999 99       9       O      N            Ocean          pcomp/P            -----      5
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV            Maybe         cla/ADVL            -----      6
+ 9999 99       1       O    SEP                ,         cla/ADVL            ?????     -1
+ 9999 99       2       O    ADV          someday        meta/ADVL            -----      6
+ 9999 99       3       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       4       O      N           people        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_will       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V         T_return      main/FMAINV            -----     -1
+ 9999 99       7       O INFMARK               to       pm/INFMARK            -----      8
+ 9999 99       8       O      V          T_solve       obj/FMAINV            -----      6
+ 9999 99       9       O    DET            these           det/DN            -----     10
+ 9999 99      10       O      N        mysteries          obj/OBJ            -----      8
+ 9999 99      11       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who          obj/OBJ            -----      1
+ 9999 99       1       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON        something        subj/SUBJ            -----      1
+ 9999 99       3       O      A          strange          dat/OBJ            -----      1
+ 9999 99       4       O    SEP                ?          dat/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What          obj/OBJ            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON             they        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON             they        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N           island          obj/OBJ            -----      3
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET             this           det/DN            -----      3
+ 9999 99       3       O      N           island        subj/SUBJ            -----      1
+ 9999 99       4       O    SEP                ?        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N          statues        subj/SUBJ            -----      1
+ 9999 99       4       O    ADV            there          ha/ADVL            -----      1
+ 9999 99       5       O    SEP                ?          ha/ADVL            ?????     -1
+

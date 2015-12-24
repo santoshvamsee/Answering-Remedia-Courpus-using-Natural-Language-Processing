@@ -1,0 +1,336 @@
+
+ 9999 99       0       O      N         Railroad           attr/A            -----      1
+ 9999 99       1       O      N             Time           attr/A            -----      2
+ 9999 99       2       O      N           Starts          main/NH            -----     -1
+ 9999 99       3       O      N            Today        NOFUNC/NH            -----     -1
+
+ 9999 99       0       O    SEP                (        NOFUNC/NH            ?????     -1
+ 9999 99       1       O      N          CHICAGO        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O      N              ILL          mod/APP            -----      1
+ 9999 99       4       O    SEP                .          mod/APP            ?????     -1
+
+ 9999 99       0       O    SEP                ,          mod/APP            ?????     -1
+ 9999 99       1       O      N         November        NOFUNC/NH            -----     -1
+ 9999 99       2       O    NUM                8          mod/NOM            -----      1
+ 9999 99       3       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       4       O    NUM             1883          mod/NOM            -----      2
+ 9999 99       5       O    SEP                )          mod/NOM            ?????     -1
+ 9999 99       6       O    SEP                .          mod/NOM            ?????     -1
+
+ 9999 99       0       O   PREP               At      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      N             noon      NOFUNC/ADVL            -----     -1
+ 9999 99       2       O      N            today         tmp/ADVL            -----      6
+ 9999 99       3       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       4       O      N             time        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_will       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V          T_stand      main/FMAINV            -----     -1
+ 9999 99       7       O    ADV            still        meta/ADVL            -----      6
+ 9999 99       8       O     --             $...          NOFUNC/            -----     -1
+ 9999 99       9       O     CC              but        NOFUNC/CC            -----     -1
+ 9999 99      10       O    ADV             only        meta/ADVL            -----     11
+ 9999 99      11       O   PREP              for      NOFUNC/ADVL            -----     -1
+ 9999 99      12       O    DET                a           det/DN            -----     13
+ 9999 99      13       O      N           moment          pcomp/P            -----     11
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP               At         tmp/ADVL            -----      7
+ 9999 99       1       O    DET             that           det/DN            -----      2
+ 9999 99       2       O      N             time          pcomp/P            -----      0
+ 9999 99       3       O    DET              all           det/DN            -----      4
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N        railroads        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_will       v-ch/FAUXV            -----      7
+ 9999 99       7       O      V           T_stop      main/FMAINV            -----     -1
+ 9999 99       8       O   PRON            their           attr/A            -----      9
+ 9999 99       9       O      N           clocks          obj/OBJ            -----      7
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      4
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN          T_reset      main/FMAINV            -----     -1
+ 9999 99       5       O     CS               so            pm/CS            -----      7
+ 9999 99       6       O   PRON             they        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_tell       cnt/FMAINV            -----      4
+ 9999 99       8       O    DET              the           det/DN            -----     10
+ 9999 99       9       O      A             same           attr/A            -----     10
+ 9999 99      10       O      N             time          obj/OBJ            -----      7
+ 9999 99      11       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      A              new           attr/A            -----      2
+ 9999 99       2       O      N             time        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP               "_      main/FMAINV            ?????     -1
+ 9999 99       6       O      N         railroad           attr/A            -----      7
+ 9999 99       7       O      N             time           comp/S            -----      4
+ 9999 99       8       O    SEP                .           comp/S            ?????     -1
+ 9999 99       9       O    SEP               _"           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV               Up      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    ADV        until_now      NOFUNC/ADVL            -----     -1
+ 9999 99       2       O    SEP                ,      NOFUNC/ADVL            ?????     -1
+ 9999 99       3       O   PRON         everyone        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_have       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN            T_set      main/FMAINV            -----     -1
+ 9999 99       6       O   PRON            their           attr/A            -----      7
+ 9999 99       7       O      N           clocks          obj/OBJ            -----      5
+ 9999 99       8       O   PREP               by         loc/ADVL            -----      5
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N              sun          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_mean      main/FMAINV            -----     -1
+ 9999 99       2       O     CS             that            pm/CS            -----     14
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N             time        subj/SUBJ            -----     13
+ 9999 99       5       O   PREP               in          mod/NOM            -----      4
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N             town          pcomp/P            -----      5
+ 9999 99       8       O    NUM               20            qn/QN            -----      9
+ 9999 99       9       O      N            miles         NOFUNC/P            -----     -1
+ 9999 99      10       O      N             east          mod/NOM            -----      9
+ 9999 99      11       O   PREP               of           mod/OF            -----     10
+ 9999 99      12       O      N          Chicago          pcomp/P            -----     11
+ 9999 99      13       O      V           T_have       v-ch/FAUXV            -----     14
+ 9999 99      14       O     EN             T_be       obj/FMAINV            -----      1
+ 9999 99      15       O    NUM             four            qn/QN            -----     16
+ 9999 99      16       O      N          minutes             ad/A            -----     17
+ 9999 99      17       O    ADV            later         tmp/ADVL            -----     14
+ 9999 99      18       O   PREP             than          ha/ADVL            -----     14
+ 9999 99      19       O      N          Chicago           attr/A            -----     20
+ 9999 99      20       O      N             time          pcomp/P            -----     18
+ 9999 99      21       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             time        subj/SUBJ            -----     10
+ 9999 99       2       O   PREP               in          mod/NOM            -----      1
+ 9999 99       3       O    DET                a           det/DN            -----      4
+ 9999 99       4       O      N             town          pcomp/P            -----      2
+ 9999 99       5       O    NUM               20            qn/QN            -----      6
+ 9999 99       6       O      N            miles         NOFUNC/P            -----     -1
+ 9999 99       7       O      N             west          mod/NOM            -----      6
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O      N          Chicago          pcomp/P            -----      8
+ 9999 99      10       O      V           T_have       v-ch/FAUXV            -----     11
+ 9999 99      11       O     EN             T_be      main/FMAINV            -----     -1
+ 9999 99      12       O    NUM             four            qn/QN            -----     13
+ 9999 99      13       O      N          minutes          ad/ADVL            -----     14
+ 9999 99      14       O    ADV          earlier         tmp/ADVL            -----     11
+ 9999 99      15       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON              It_        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O   PRON             same           comp/S            -----      1
+ 9999 99       4       O   PREP         all_over          ha/ADVL            -----      1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N          country          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O    DET             this           det/DN            -----      2
+ 9999 99       2       O      N              way        subj/SUBJ            -----      6
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O    ING           T_keep     pcomp/FMAINV            -----      3
+ 9999 99       5       O      N             time          obj/OBJ            -----      4
+ 9999 99       6       O      V           T_have       v-ch/FAUXV            -----      8
+ 9999 99       7       O    ADV            often         frq/ADVL            -----      8
+ 9999 99       8       O     EN          T_cause      main/FMAINV            -----     -1
+ 9999 99       9       O      N         problems          obj/OBJ            -----      8
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP              For         cla/ADVL            -----      6
+ 9999 99       1       O    NUM              one            qn/QN            -----      2
+ 9999 99       2       O      N            thing          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O    DET               no           det/DN            -----      5
+ 9999 99       5       O   PRON              one        subj/SUBJ            -----      6
+ 9999 99       6       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       7       O    ADV             ever         frq/ADVL            -----      6
+ 9999 99       8       O   PREP               on         tmp/ADVL            -----      6
+ 9999 99       9       O      N             time          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              It_        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      A             easy           comp/S            -----      1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V             T_be       mod/FMAINV            -----      0
+ 9999 99       5       O    NUM              one            cc/QN            -----      7
+ 9999 99       6       O     CC               or            cc/CC            -----      7
+ 9999 99       7       O    NUM              two            qn/QN            -----      8
+ 9999 99       8       O      N          minutes      NOFUNC/SUBJ            -----     -1
+ 9999 99       9       O    ADV              off      NOFUNC/ADVL            -----     -1
+ 9999 99      10       O   PREP               in      NOFUNC/ADVL            -----     -1
+ 9999 99      11       O    ING          T_guess     pcomp/FMAINV            -----     10
+ 9999 99      12       O    DET              the           det/DN            -----     13
+ 9999 99      13       O      N             time          obj/OBJ            -----     11
+ 9999 99      14       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV            There        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       2       O    ADV              now        meta/ADVL            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV             only             ad/A            -----      5
+ 9999 99       5       O    NUM             four            qn/QN            -----      7
+ 9999 99       6       O      A        different         NOFUNC/A            -----     -1
+ 9999 99       7       O      N            times         frq/ADVL            -----      3
+ 9999 99       8       O   PREP               in          ha/ADVL            -----      3
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N          country          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      2
+ 9999 99       1       O      N             time           attr/A            -----      2
+ 9999 99       2       O      N             zone        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       5       O      N         hundreds           comp/S            -----      4
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O      N            miles          pcomp/P            -----      6
+ 9999 99       8       O      A             wide          mod/NOM            -----      7
+ 9999 99       9       O    SEP                .          mod/NOM            ?????     -1
+
+ 9999 99       0       O    DET             Some           det/DN            -----      1
+ 9999 99       1       O      N           people        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN          T_upset      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP            about          ha/ADVL            -----      3
+ 9999 99       5       O    DET             this           det/DN            -----      7
+ 9999 99       6       O      N             time          pcomp/P            -----      4
+ 9999 99       7       O      N           change      NOFUNC/SUBJ            -----     -1
+ 9999 99       8       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O    SEP               "_      NOFUNC/SUBJ            ?????     -1
+ 9999 99       1       O    DET              The           det/DN            -----      2
+ 9999 99       2       O      N              sun        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       obj/FMAINV            -----     11
+ 9999 99       4       O    ADV        no_longer          ha/ADVL            -----      3
+ 9999 99       5       O      N             boss           comp/S            -----      3
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N              job          pcomp/P            -----      6
+ 9999 99       9       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99      10       O    SEP               _"          pcomp/P            ?????     -1
+ 9999 99      11       O      V          T_write      main/FMAINV            -----     -1
+ 9999 99      12       O    NUM              one            qn/QN            -----     13
+ 9999 99      13       O      N           person        subj/SUBJ            -----     11
+ 9999 99      14       O    SEP                .        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    SEP               "_        subj/SUBJ            ?????     -1
+ 9999 99       1       O      N           People        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V          T_marry       obj/FMAINV            -----      3
+ 9999 99       6       O   PREP               by          ha/ADVL            -----      5
+ 9999 99       7       O      N         railroad           attr/A            -----      8
+ 9999 99       8       O      N             time          pcomp/P            -----      6
+ 9999 99       9       O     CC              and            cc/CC            -----      5
+ 9999 99      10       O      V            T_die        cc/FMAINV            -----      5
+ 9999 99      11       O   PREP               by          ha/ADVL            -----     10
+ 9999 99      12       O      N         railroad           attr/A            -----     13
+ 9999 99      13       O      N             time          pcomp/P            -----     11
+ 9999 99      14       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99      15       O    SEP               _"          pcomp/P            ?????     -1
+ 9999 99      16       O      V          T_write    NOFUNC/FMAINV            -----     -1
+ 9999 99      17       O   PRON          another          obj/OBJ            -----     16
+ 9999 99      18       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      N         Railroad           attr/A            -----      1
+ 9999 99       1       O      N             time        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N             idea           comp/S            -----      2
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O      N          William           attr/A            -----      7
+ 9999 99       7       O      N            Allen          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_think      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON              it_        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       obj/FMAINV            -----      1
+ 9999 99       4       O      A        important             oc/O            -----      1
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V           T_have       mod/FMAINV            -----      4
+ 9999 99       7       O    DET              all           det/DN            -----      8
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N           trains          obj/OBJ            -----      6
+ 9999 99      10       O      V          T_leave    NOFUNC/FMAINV            -----     -1
+ 9999 99      11       O     CC              and            cc/CC            -----     10
+ 9999 99      12       O      V         T_arrive        cc/FMAINV            -----     10
+ 9999 99      13       O   PREP               on         tmp/ADVL            -----     12
+ 9999 99      14       O      N             time          pcomp/P            -----     13
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             idea          obj/OBJ            -----      1
+ 9999 99       4       O   PREP              for          mod/NOM            -----      3
+ 9999 99       5       O    SEP               "_          mod/NOM            ?????     -1
+ 9999 99       6       O      N         railroad         NOFUNC/A            -----     -1
+ 9999 99       7       O      N             time        main/SUBJ            -----      5
+ 9999 99       8       O    SEP               _"        main/SUBJ            ?????     -1
+ 9999 99       9       O    SEP                ?        main/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What          obj/OBJ            -----      4
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N        railroads        subj/SUBJ            -----      1
+ 9999 99       4       O      V             T_do      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP               to          ha/ADVL            -----      4
+ 9999 99       6       O   PRON            their           attr/A            -----      7
+ 9999 99       7       O      N           clocks          pcomp/P            -----      5
+ 9999 99       8       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON             they        subj/SUBJ            -----      1
+ 9999 99       3       O      V             T_do      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON             this          obj/OBJ            -----      3
+ 9999 99       5       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             time        subj/SUBJ            -----      1
+ 9999 99       4       O    NUM             four            qn/QN            -----      5
+ 9999 99       5       O      N          minutes          ad/ADVL            -----      6
+ 9999 99       6       O    ADV          earlier         tmp/ADVL            -----      1
+ 9999 99       7       O     CS             than        NOFUNC/CS            -----     -1
+ 9999 99       8       O   PREP               in      NOFUNC/ADVL            -----     -1
+ 9999 99       9       O      N          Chicago          pcomp/P            -----      8
+ 9999 99      10       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N            Allen        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_want      main/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_have       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN            T_fix       obj/FMAINV            -----      3
+ 9999 99       7       O      N            times      NOFUNC/SUBJ            -----     -1
+ 9999 99       8       O    SEP                ?      NOFUNC/SUBJ            ?????     -1
+

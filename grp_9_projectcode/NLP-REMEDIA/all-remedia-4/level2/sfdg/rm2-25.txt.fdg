@@ -1,0 +1,354 @@
+0		
+1	London	London	attr:>2	@A> N
+2	Bridge	bridge	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	Falling	fall	main:>0	@-FMAINV ING
+5	Down	down	ha:>4	@ADVL ADV
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	LONDON	London	main:>1	@NH N
+	$,	
+4	ENGLAND	England		@NH N
+	$,	
+6	1963	1963		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	London	London	attr:>2	@A> N
+2	Bridge	bridge	subj:>4	@SUBJ N
+3	really	real	meta:>5	@ADVL ADV
+4	is	be	v-ch:>5	@+FAUXV V
+5	falling	fall	main:>0	@-FMAINV ING
+6	down	down	ha:>5	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	bridge	bridge	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	being	be	v-ch:>5	@-FAUXV ING
+5	taken	take	main:>0	@-FMAINV EN
+6	apart	apart		@OBJ A	@PCOMPL-S A	@PCOMPL-O A	@ADVL ADV
+7	and	and	cc:>5	@CC CC
+8	moved	move	cc:>5	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Its	it	attr:>2	@A> PRON
+2	new	new	attr:>3	@A> A
+3	home	home	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	main:>0	@-FMAINV V
+6	a	a	det:>8	@DN> DET
+7	small	small	attr:>8	@A> A
+8	town	town	comp:>5	@PCOMPL-S N
+9	in	in	ha:>5	@ADVL PREP
+10	Arizona	Arizona	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	bridge	bridge	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	hundreds	hundred	comp:>3	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	years_old	years_old	pcomp:>5	@<P A
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	stretches	stretch	main:>0	@+FMAINV V
+3	across	across	ha:>2	@ADVL PREP
+4	the	the	det:>6	@DN> DET
+5	Thames	Thames	attr:>6	@A> N
+6	River	river	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	rich	rich	attr:>3	@A> A
+3	man	man	subj:>4	@SUBJ N
+4	saw	see	main:>0	@+FMAINV V
+5	it	it	obj:>4	@OBJ PRON
+6	and	and	cc:>4	@CC CC
+7	wanted	want	cc:>4	@+FMAINV V
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	buy	buy	obj:>7	@-FMAINV V
+10	it	it	obj:>9	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	paid	pay	main:>0	@+FMAINV V
+3	more	more	qua:>2	@ADVL PRON
+4	than	than	mod:>3	@<NOM PREP	@ADVL PREP
+5	two	two	qn:>6	@QN> NUM
+6	million	million	qn:>7	@QN> NUM
+7	dollars	dollar	cc:>4	@<P N
+8	for	for	phr:>2	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	bridge	bridge	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	cost	cost	main:>0	@-FMAINV V
+4	him	he	dat:>3	@I-OBJ PRON
+5	more	more	qua:>3	@ADVL PRON
+6	than	than	mod:>5	@<NOM PREP	@ADVL PREP
+7	three	three	qn:>8	@QN> NUM
+8	million	million	qn:>9	@QN> NUM
+9	dollars	dollar	cc:>6	@SUBJ N	@<P N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	move	move		@-FMAINV V
+12	it	it	obj:>11	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	stone	stone	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	marked	mark	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	pieces	piece	subj:>3	@SUBJ N
+3	must	must	v-ch:>4	@+FAUXV V
+4	fit	fit	main:>0	@-FMAINV V
+5	when	when	tmp:>7	@ADVL ADV
+6	they	they	subj:>7	@SUBJ PRON
+7	reach	reach	tmp:>4	@+FMAINV V
+8	their	they	attr:>9	@A> PRON
+9	new	new	attr:>10	@A> A
+10	home	home	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	All	all	subj:>4	@SUBJ PRON
+2	that	that	subj:>3	@SUBJ PRON
+3	work	work	mod:>1	@+FMAINV V
+4	will	will	v-ch:>6	@+FAUXV V
+5	not	not	neg:>4	@ADVL NEG-PART
+6	take	take	main:>0	@-FMAINV V
+7	place	place	obj:>6	@OBJ N
+8	overnight	overnight	tmp:>6	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	job	job	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	take	take	main:>0	@-FMAINV V
+5	six	six	qn:>6	@QN> NUM
+6	years	year	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	bridge	bridge	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	not	not	neg:>3	@ADVL NEG-PART
+5	small	small	comp:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	longer	long	comp:>2	@PCOMPL-S A
+4	than	than	mod:>3	@ADVL PREP
+5	three	three	qn:>7	@QN> NUM
+6	football	football	attr:>7	@A> N
+7	fields	field	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	almost	almost	ad:>4	@AD-A> ADV
+4	as	as	ad:>5	@AD-A> ADV
+5	wide	wide	comp:>2	@PCOMPL-S A
+6	as	as	copred:>2	@ADVL PREP
+7	one	one		@QN> NUM
+8	football	football		@A> N	@<P N
+9	field	field		@SUBJ N	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	tmp:>8	@ADVL PREP
+2	time	time	pcomp:>1	@<P N
+	$,	
+4	the	the	det:>6	@DN> DET
+5	London	London	attr:>6	@A> N
+6	Bridge	bridge	subj:>7	@SUBJ N
+7	will	will	v-ch:>8	@+FAUXV V
+8	stand	stand	main:>0	@-FMAINV V
+9	high	high	comp:>8	@PCOMPL-S A
+10	above	above	meta:>8	@ADVL PREP
+11	a	a	det:>13	@DN> DET
+12	new	new	attr:>13	@A> A
+13	river	river	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Flags	flag	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	v-ch:>4	@-FAUXV V
+4	placed	place	main:>0	@-FMAINV EN
+5	at	at	loc:>4	@ADVL PREP
+6	both	both	det:>7	@DN> DET
+7	ends	end	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Cars	car	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	cross	cross	main:>0	@-FMAINV V
+4	it	it	obj:>3	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	small	small	attr:>3	@A> A
+3	town	town	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	v-ch:>6	@-FAUXV V
+6	built	build	main:>0	@-FMAINV EN
+7	next_to	next_to	ha:>6	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	bridge	bridge	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Most	many	det:>2	@DN> DET
+2	people	people	subj:>5	@SUBJ N
+3	in	in	mod:>2	@<NOM PREP
+4	Arizona	Arizona	pcomp:>3	@<P N
+5	will	will	v-ch:>7	@+FAUXV V
+6	never	never	frq:>7	@ADVL ADV
+7	see	see	main:>0	@-FMAINV V
+8	London	London	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	they	they	subj:>3	@SUBJ PRON
+3	will	will	v-ch:>4	@+FAUXV V
+4	see	see	main:>0	@-FMAINV V
+5	a	a	det:>6	@DN> DET
+6	part	part	obj:>4	@OBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	it	it	pcomp:>7	@<P PRON
+9	in	in		@ADVL PREP
+10	their	they	attr:>11	@A> PRON
+11	own	own	attr:>12	@A> A
+12	state	state	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	bought	buy	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	bridge	bridge	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	bridge	bridge	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>9	@ADVL ADV
+2	will	will	v-ch:>8	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	job	job	subj:>2	@SUBJ N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	moving	move	pcomp:>5	@<P-FMAINV ING
+7	it	it	obj:>6	@OBJ PRON
+8	be	be	v-ch:>9	@-FAUXV V
+9	done	do	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>6	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	bridge	bridge	subj:>2	@SUBJ N
+5	be	be	v-ch:>6	@-FAUXV V
+6	re-built	re-build	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	it	it	subj:>2	@SUBJ PRON
+4	hard	hard	comp:>2	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	move	move	mod:>4	@-FMAINV V
+7	a	a	det:>8	@DN> DET
+8	bridge	bridge	obj:>6	@OBJ N
+	$?	
+	$<p>	
+

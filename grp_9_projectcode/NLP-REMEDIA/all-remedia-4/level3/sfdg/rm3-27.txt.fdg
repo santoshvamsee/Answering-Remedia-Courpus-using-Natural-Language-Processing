@@ -1,0 +1,338 @@
+0		
+1	Miracle	miracle	attr:>2	@A> N
+2	Boy	boy	main:>0	@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	BOSTON	Boston	main:>1	@NH N
+	$,	
+4	December	December		@NH N
+5	15	15	mod:>4	@<NOM NUM
+	$,	
+7	1986	1986	mod:>5	@<NOM NUM
+	$)	
+9	$-		
+10	A	a	det:>11	@DN> DET
+11	boy	boy	subj:>12	@SUBJ N
+12	was	be	v-ch:>13	@+FAUXV V
+13	riding	ride	main:>0	@-FMAINV ING
+14	his	he	attr:>15	@A> PRON
+15	sled	sled	obj:>13	@OBJ N
+16	down	down	ha:>13	@ADVL PREP
+17	a	a	det:>18	@DN> DET
+18	hill	hill	pcomp:>16	@<P N
+19	of	of	mod:>18	@<NOM-OF PREP
+20	snow	snow	pcomp:>19	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Suddenly	sudden	meta:>4	@ADVL ADV
+	$,	
+3	he	he	subj:>4	@SUBJ PRON
+4	went	go	main:>0	@+FMAINV V
+5	too	too	ad:>6	@AD-A> ADV
+6	far	far	loc:>4	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	boy	boy	subj:>3	@SUBJ N
+3	landed	land	main:>0	@+FMAINV V
+4	on	on	loc:>3	@ADVL PREP
+5	a	a	det:>7	@DN> DET
+6	frozen	freeze	attr:>7	@A> A
+7	pond	pond	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ice	ice	subj:>3	@SUBJ N
+3	broke	break	main:>0	@+FMAINV V
+	$,	
+5	and	and	cc:>3	@CC CC
+6	he	he	subj:>7	@SUBJ PRON
+7	sank	sink	cc:>3	@+FMAINV V
+8	into	into	goa:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	water	water	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	boy's	boy	attr:>3	@A> N
+3	father	father	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	scared	scare	comp:>4	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	could	could	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	see	see	main:>0	@-FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	son	son	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	ran	run	main:>0	@+FMAINV V
+3	and	and	cc:>2	@CC CC
+4	got	get	cc:>2	@+FMAINV V
+5	help	help	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	By	by	tmp:>5	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	time	time	pcomp:>1	@<P N
+4	they	they	subj:>5	@SUBJ PRON
+5	found	find	main:>0	@+FMAINV V
+6	Tommy	Tommy		@SUBJ N	@OBJ N	@I-OBJ N	@PCOMPL-O N
+	$,	
+8	he	he	subj:>9	@SUBJ PRON
+9	was	be	v-ch:>10	@+FAUXV V
+10	frozen	freeze		@-FMAINV EN
+11	$-		
+12	He	he	subj:>13	@SUBJ PRON
+13	did_	do	v-ch:>15	@+FAUXV V
+14	n't	not	neg:>13	@ADVL NEG-PART
+15	look	look		@-FMAINV V
+16	like	like	pm:>18	@CS CS
+17	he	he	subj:>18	@SUBJ PRON
+18	was	be	man:>15	@+FMAINV V
+19	alive	alive	comp:>18	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Tommy	Tommy	subj:>2	@SUBJ N
+2	was	be	v-ch:>3	@+FAUXV V
+3	rushed	rush	main:>0	@-FMAINV EN
+4	to	to	ha:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	hospital	hospital	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	doctors	doctor	subj:>3	@SUBJ N
+3	warmed	warm	main:>0	@+FMAINV V
+4	his	he	attr:>5	@A> PRON
+5	body	body	attr:>6	@A> N
+6	a_little_bit	a_little_bit	obj:>3	@OBJ N
+7	at	at	tmp:>3	@ADVL PREP
+8	a	a	det:>9	@DN> DET
+9	time	time	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Slowly	slow	meta:>4	@ADVL ADV
+	$,	
+3	he	he	subj:>4	@SUBJ PRON
+4	began	begin	main:>0	@+FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	get	get	obj:>4	@-FMAINV V
+7	warm	warm	comp:>6	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	doctors	doctor	subj:>3	@SUBJ N
+3	were	be	v-ch:>4	@+FAUXV V
+4	surprised	surprise	main:>0	@-FMAINV EN
+5	that	that	pm:>8	@CS CS
+6	he	he	subj:>7	@SUBJ PRON
+7	was	be	v-ch:>8	@+FAUXV V
+8	breathing	breathe	obj:>4	@-FMAINV ING
+	$.	
+	$<s>	
+
+0		
+1	Most	many	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	can_	can	v-ch:>5	@+FAUXV V
+4	not	not	neg:>3	@ADVL NEG-PART
+5	live	live	main:>0	@-FMAINV V
+6	underwater	underwater	loc:>5	@ADVL ADV
+7	for	for	dat:>5	@ADVL PREP
+8	more	more	pcomp:>7	@<P PRON
+9	than	than	mod:>8	@<NOM PREP	@ADVL PREP
+10	three	three	qn:>11	@QN> NUM
+11	minutes	minute	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Yesterday	yesterday	tmp:>4	@ADVL N
+	$,	
+3	Tommy	Tommy	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	well	well	man:>4	@ADVL ADV
+6	enough	enough	ad:>5	@<AD-A ADV
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	go	go	comp:>4	@-FMAINV V
+9	home	home	goa:>8	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	doctors	doctor	subj:>3	@SUBJ N
+3	call	call	main:>0	@+FMAINV V
+4	him	he	obj:>3	@OBJ PRON
+5	a	a	det:>7	@DN> DET
+6	miracle	miracle	attr:>7	@A> N
+7	boy	boy	oc:>3	@PCOMPL-O N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	v-ch:>3	@+FAUXV V
+3	trying	try	main:>0	@-FMAINV ING
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	find	find	obj:>3	@-FMAINV V
+6	out	out	phr:>5	@ADVL ADV
+7	how	how	man:>9	@ADVL ADV
+8	he	he	subj:>9	@SUBJ PRON
+9	lived	live		@+FMAINV V
+10	underwater	underwater	loc:>9	@ADVL ADV
+11	for	for	dur:>9	@ADVL PREP
+12	30	30	qn:>13	@QN> NUM
+13	minutes	minute	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	doctors	doctor	subj:>3	@SUBJ N
+3	think	think		@+FMAINV V
+4	Tommy's	Tommy	attr:>5	@A> N
+5	body	body	subj:>6	@SUBJ N
+6	got	get	obj:>3	@+FMAINV V
+7	so	so	ad:>8	@AD-A> ADV
+8	cold	cold	comp:>6	@PCOMPL-S A
+9	that	that	pm:>13	@CS CS
+10	he	he	subj:>11	@SUBJ PRON
+11	did_	do	v-ch:>13	@+FAUXV V
+12	n't	not	neg:>11	@ADVL NEG-PART
+13	need	need	mod:>7	@-FMAINV V
+14	much	much	det:>15	@DN> DET
+15	air	air	obj:>13	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	must	must	v-ch:>3	@+FAUXV V
+3	have	have	v-ch:>4	@-FAUXV V
+4	had	have	main:>0	@-FMAINV EN
+5	his	he	attr:>6	@A> PRON
+6	face	face	obj:>4	@OBJ N
+7	near	near	ha:>4	@ADVL PREP
+8	an	an	det:>10	@DN> DET
+9	air	air	attr:>10	@A> N
+10	bubble	bubble	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>3	@SUBJ PRON
+2	only	only	meta:>3	@ADVL ADV
+3	breathed	breathe	main:>0	@+FMAINV V
+4	once_or_twice	once_or_twice	ha:>3	@ADVL ADV
+5	a	a	det:>6	@DN> DET
+6	minute	minute		@OBJ N	@ADVL N
+7	underwater	underwater	loc:>3	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	warmed	warm	main:>0	@+FMAINV V
+3	Tommy's	Tommy	attr:>4	@A> N
+4	body	body	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>5	@OBJ PRON
+2	do	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	doctors	doctor	subj:>2	@SUBJ N
+5	call	call	main:>0	@-FMAINV V
+6	Tommy	Tommy	dat:>5	@I-OBJ N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Tommy	Tommy	subj:>2	@SUBJ N
+4	go	go	main:>0	@-FMAINV V
+5	home	home	goa:>4	@ADVL N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	was	be	main:>0	@+FMAINV V
+3	Tommy's	Tommy	attr:>4	@A> N
+4	face	face	subj:>2	@SUBJ N
+5	underwater	underwater	ha:>2	@ADVL ADV
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	do	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	doctors	doctor	subj:>2	@SUBJ N
+5	think	think	main:>0	@-FMAINV V
+6	Tommy	Tommy	subj:>7	@SUBJ N
+7	did_	do	v-ch:>9	@+FAUXV V
+8	n't	not	neg:>7	@ADVL NEG-PART
+9	need	need	obj:>5	@-FMAINV V
+10	much	much	det:>11	@DN> DET
+11	air	air	obj:>9	@OBJ N
+	$?	
+	$<p>	
+

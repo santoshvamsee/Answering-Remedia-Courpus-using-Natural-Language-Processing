@@ -1,0 +1,339 @@
+0		
+	$<p>	
+
+0		
+1	Pests	pest	attr:>2	@A> N
+2	Move	move	main:>0	@NH N
+3	Into	into	mod:>2	@<NOM PREP
+4	Vermont	Vermont	pcomp:>3	@<P N
+	$<p>	
+
+0		
+	$(	
+2	Vermont	Vermont		@NH N
+	$,	
+4	August	August		@APP N	@A> N	@ADVL N
+5	3,1989	3,1989		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Some	some	det:>3	@DN> DET
+2	real	real	attr:>3	@A> A
+3	Pests	pest	subj:>4	@SUBJ N
+4	have	have	v-ch:>5	@+FAUXV V
+5	moved	move	main:>0	@-FMAINV EN
+6	to	to	goa:>5	@ADVL PREP
+7	Vermont	Vermont	pcomp:>6	@<P N
+8	for	for	tmp:>5	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	summer	summer	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	exactly	exact	man:>2	@ADVL ADV
+5	pleasant	pleasant	attr:>6	@A> A
+6	neighbors	neighbor	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	troublemakers	troublemaker	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	mosquitoes	mosquito	comp:>3	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	spring	spring	tmp:>6	@ADVL N
+	$,	
+4	a_lot_of	a_lot_of	det:>5	@DN> DET
+5	rain	rain	subj:>6	@SUBJ N
+6	fell	fall	main:>0	@+FMAINV V
+7	in	in	loc:>6	@ADVL PREP
+8	Vermont	Vermont	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Mosquitoes	mosquito	subj:>2	@SUBJ N
+2	love	love	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	lay	lay	obj:>2	@-FMAINV V
+5	eggs	egg	subj:>7	@SUBJ N
+6	in	in	mod:>5	@<NOM PREP
+7	wet	wet		@+FMAINV V
+8	weather	weather	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	As	as	cla:>12	@ADVL PREP
+2	a	a	det:>3	@DN> DET
+3	result	result	pcomp:>1	@<P N
+	$,	
+5	a	a	det:>7	@DN> DET
+6	huge	huge	attr:>7	@A> A
+7	number	number	subj:>11	@SUBJ N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	these	this	det:>10	@DN> DET
+10	insects	insect	pcomp:>8	@<P N
+11	were	be	v-ch:>12	@+FAUXV V
+12	born	bear	main:>0	@-FMAINV EN
+	$.	
+	$<p>	
+
+0		
+1	Now	now	meta:>4	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	are	be	v-ch:>4	@+FAUXV V
+4	doing	do	main:>0	@-FMAINV ING
+5	their	they	attr:>6	@A> PRON
+6	life's	life	attr:>7	@A> N
+7	work	work	obj:>4	@OBJ N
+	$,	
+9	which	which	subj:>10	@SUBJ PRON
+10	is	be	mod:>7	@+FMAINV V
+11	to	to	ha:>10	@ADVL PREP
+12	bite	bite	comp:>10	@-FMAINV V
+13	people	people	obj:>12	@OBJ N
+14	and	and	cc:>13	@CC CC
+15	animals	animal	cc:>13	@OBJ N
+16	for	for		@ADVL PREP
+17	their	they	attr:>18	@A> PRON
+18	blood	blood	pcomp:>16	@<P N
+	$.	
+	$<s>	
+
+0		
+1	One	one	qn:>2	@QN> NUM
+2	man	man	subj:>3	@SUBJ N
+3	received	receive	main:>0	@+FMAINV V
+4	95	95	qn:>5	@QN> NUM
+5	bites	bite	obj:>3	@OBJ N
+6	while	while	tmp:>7	@ADVL ADV
+7	standing	stand	tmp:>3	@-FMAINV ING
+8	outdoors	outdoors	loc:>7	@ADVL ADV
+9	for	for	dur:>7	@ADVL PREP
+10	one	one	qn:>11	@QN> NUM
+11	minute	minute	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>2	@SUBJ N
+2	ca_	can	v-ch:>4	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	go	go	main:>0	@-FMAINV V
+5	outside	outside	comp:>4	@PCOMPL-S N
+6	in	in	loc:>4	@ADVL PREP
+7	some	some	det:>8	@DN> DET
+8	neighborhoods	neighborhood	pcomp:>6	@<P N
+	$.	
+	$<p>	
+
+0		
+1	In	in	cla:>7	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	past	past	pcomp:>1	@<P N
+	$,	
+5	mosquitoes	mosquito	subj:>6	@SUBJ N
+6	have	have	v-ch:>7	@+FAUXV V
+7	spread	spread	main:>0	@-FMAINV EN
+8	disease	disease	obj:>7	@OBJ N
+	$,	
+10	but	but	cc:>7	@CC CC
+11	that	that	subj:>12	@SUBJ PRON
+12	is	be	cc:>7	@+FMAINV V
+13	not	not	neg:>12	@ADVL NEG-PART
+14	much	much	qua:>12	@ADVL PRON
+15	of	of	mod:>14	@<NOM-OF PREP
+16	a	a	det:>17	@DN> DET
+17	problem	problem	pcomp:>15	@<P N
+18	these	this	det:>19	@DN> DET
+19	days	day	tmp:>12	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Still	still	meta:>5	@ADVL ADV
+	$,	
+3	the	the	det:>4	@DN> DET
+4	bites	bite	subj:>5	@SUBJ N
+5	itch	itch	main:>0	@+FMAINV V
+6	and	and	cc:>5	@CC CC
+7	can	can	v-ch:>8	@+FAUXV V
+8	ruin	ruin	cc:>5	@-FMAINV V
+9	your	you	attr:>10	@A> PRON
+10	plans	plan	obj:>8	@OBJ N
+11	for	for	mod:>10	@<NOM PREP
+12	a	a	det:>16	@DN> DET
+13	picnic	picnic	cc:>15	@A> N
+14	or	or	cc:>15	@CC CC
+15	ball	ball	attr:>16	@A> N
+16	game	game	pcomp:>11	@<P N
+	$.	
+	$<p>	
+
+0		
+1	One	one	qn:>2	@QN> NUM
+2	way	way	subj:>6	@SUBJ N
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	control	control	mod:>2	@-FMAINV V
+5	mosquitoes	mosquito	obj:>4	@OBJ N
+6	is	be	main:>0	@+FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	spray	spray	comp:>6	@-FMAINV V
+9	the	the	det:>10	@DN> DET
+10	air	air	obj:>8	@OBJ N
+11	with	with	ins:>8	@ADVL PREP
+12	a	a	det:>13	@DN> DET
+13	poison	poison	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	wo_	will	v-ch:>4	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	hurt	hurt	main:>0	@-FMAINV V
+5	people	people	obj:>4	@OBJ N
+6	or	or	cc:>5	@CC CC
+7	pets	pet	cc:>5	@OBJ N
+	$,	
+9	but	but	cc:>4	@CC CC
+10	it	it	subj:>11	@SUBJ PRON
+11	will	will	v-ch:>12	@+FAUXV V
+12	kill	kill	cc:>4	@-FMAINV V
+13	the	the	det:>14	@DN> DET
+14	bugs	bug	obj:>12	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Most	many	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	them	they	pcomp:>2	@<P PRON
+4	will	will	v-ch:>5	@+FAUXV V
+5	die	die	main:>0	@-FMAINV V
+6	when	when	tmp:>8	@ADVL ADV
+7	fall	fall	subj:>8	@SUBJ N
+8	comes	come	tmp:>5	@+FMAINV V
+	$,	
+10	anyway	anyway	meta:>8	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	wearing	wear	main:>0	@-FMAINV ING
+5	T-shirts	t-shirt	obj:>4	@OBJ N
+6	with	with	ins:>4	@ADVL PREP
+7	pictures	picture	pcomp:>6	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	the	the	det:>10	@DN> DET
+10	bugs	bug	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	words	word	main:>0	@NH N
+3	on	on	mod:>2	@<NOM PREP
+4	the	the	det:>5	@DN> DET
+5	shirts	shirt	pcomp:>3	@<P N
+6	say	say		@+FMAINV V
+	$,	
+	$"_	
+9	I	I	subj:>10	@SUBJ PRON
+10	gave	give	obj:>6	@+FMAINV V
+11	in	in	loc:>10	@ADVL PREP
+12	Vermont	Vermont	pcomp:>11	@<P N
+	$.	
+	$_"	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	having	have	main:>0	@-FMAINV ING
+4	a	a	det:>5	@DN> DET
+5	problem	problem	obj:>3	@OBJ N
+6	with	with	com:>3	@ADVL PREP
+7	pests	pest	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>5	@OBJ PRON
+2	are	be	v-ch:>5	@+FAUXV V
+3	these	this	det:>4	@DN> DET
+4	mosquitoes	mosquito	subj:>2	@SUBJ N
+5	doing	do	main:>0	@-FMAINV ING
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	will	will	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	die	die	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	must	must	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	people	people	subj:>2	@SUBJ N
+5	stay	stay	main:>0	@-FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	avoid	avoid	comp:>5	@-FMAINV V
+8	the	the	det:>9	@DN> DET
+9	mosquitoes	mosquito	obj:>7	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	problem	problem	subj:>2	@SUBJ N
+5	happen	happen	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+

@@ -1,0 +1,272 @@
+ 9999 99       0       O      N           Barbie        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                A           det/DN            -----      3
+ 9999 99       3       O      N         Birthday          obj/OBJ            -----      1
+ 9999 99       4       O    SEP                !          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    SEP                (          obj/OBJ            ?????     -1
+ 9999 99       1       O      N           DALLAS          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N            TEXAS            cc/NH            -----      1
+ 9999 99       4       O    SEP                ,            cc/NH            ?????     -1
+ 9999 99       5       O      N          January        NOFUNC/NH            -----     -1
+ 9999 99       6       O    NUM                1          mod/NOM            -----      5
+ 9999 99       7       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       8       O    NUM             1989          mod/NOM            -----      6
+ 9999 99       9       O    SEP                )          mod/NOM            ?????     -1
+ 9999 99      10       O     --               $-          NOFUNC/            -----     -1
+ 9999 99      11       O      N           Barbie        subj/SUBJ            -----     16
+ 9999 99      12       O    SEP                ,        subj/SUBJ            ?????     -1
+ 9999 99      13       O    DET              the           det/DN            -----     14
+ 9999 99      14       O      N             doll          mod/APP            -----     11
+ 9999 99      15       O    SEP                ,          mod/APP            ?????     -1
+ 9999 99      16       O      V           T_turn      main/FMAINV            -----     -1
+ 9999 99      17       O    NUM               30            qn/QN            -----     18
+ 9999 99      18       O      A        years_old           comp/S            -----     16
+ 9999 99      19       O   PREP               in         tmp/ADVL            -----     16
+ 9999 99      20       O    NUM             1989          pcomp/P            -----     19
+ 9999 99      21       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_seem      main/FMAINV            -----     -1
+ 9999 99       2       O     CS             that            pm/CS            -----      7
+ 9999 99       3       O      N           Barbie        subj/SUBJ            -----      4
+ 9999 99       4       O      V         T_should       v-ch/FAUXV            -----      5
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      7
+ 9999 99       6       O   PRON              all          mod/APP            -----      3
+ 9999 99       7       O     EN           T_grow      comp/FMAINV            -----      1
+ 9999 99       8       O    ADV               up         phr/ADVL            -----      7
+ 9999 99       9       O    SEP                .         phr/ADVL            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O   PRON              she        subj/SUBJ            -----      3
+ 9999 99       2       O    ADV            still        meta/ADVL            -----      3
+ 9999 99       3       O      V           T_look      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP             like         man/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N         teenager          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CS            Since            pm/CS            -----      2
+ 9999 99       1       O   PRON              she        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       cnt/FMAINV            -----      9
+ 9999 99       3       O    ADV             only        meta/ADVL            -----      5
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N             doll           comp/S            -----      2
+ 9999 99       6       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       7       O   PRON              she        subj/SUBJ            -----      9
+ 9999 99       8       O    ADV            never         frq/ADVL            -----      9
+ 9999 99       9       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99      10       O INFMARK               to       pm/INFMARK            -----     11
+ 9999 99      11       O      V           T_look       obj/FMAINV            -----      9
+ 9999 99      12       O      A            older           comp/S            -----     11
+ 9999 99      13       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      3
+ 9999 99       1       O    NUM            first           attr/A            -----      2
+ 9999 99       2       O      N           Barbie           attr/A            -----      3
+ 9999 99       3       O      N             doll        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP               by         agt/ADVL            -----      5
+ 9999 99       7       O    DET                a           det/DN            -----      8
+ 9999 99       8       O      N           mother          pcomp/P            -----      6
+ 9999 99       9       O   PREP              for         dat/ADVL            -----      5
+ 9999 99      10       O   PRON              her          pcomp/P            -----      9
+ 9999 99      11       O    DET           little           det/DN            -----     12
+ 9999 99      12       O      N             girl         NOFUNC/P            -----     -1
+ 9999 99      13       O    SEP                .         NOFUNC/P            ?????     -1
+
+ 9999 99       0       O    ADV             Soon         tmp/ADVL            -----      3
+ 9999 99       1       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       2       O   PRON              she        subj/SUBJ            -----      3
+ 9999 99       3       O      V          T_start      main/FMAINV            -----     -1
+ 9999 99       4       O    ING           T_make       obj/FMAINV            -----      3
+ 9999 99       5       O    DET            these           det/DN            -----      6
+ 9999 99       6       O      N            dolls          obj/OBJ            -----      4
+ 9999 99       7       O   PREP              for         phr/ADVL            -----      4
+ 9999 99       8       O    DET            other           det/DN            -----     10
+ 9999 99       9       O      A           little           attr/A            -----     10
+ 9999 99      10       O      N            girls          pcomp/P            -----      7
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N           Barbie        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      3
+ 9999 99       3       O   PREP             like         man/ADVL            -----      1
+ 9999 99       4       O    DET            other           det/DN            -----      5
+ 9999 99       5       O      N            dolls          pcomp/P            -----      3
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_wear      main/FMAINV            -----     -1
+ 9999 99       2       O      A             high           attr/A            -----      3
+ 9999 99       3       O      N            heels          obj/OBJ            -----      1
+ 9999 99       4       O     CC              and            cc/CC            -----      1
+ 9999 99       5       O      V           T_look        cc/FMAINV            -----      1
+ 9999 99       6       O      A            grown           comp/S            -----      5
+ 9999 99       7       O    ADV               up          ha/ADVL            -----      5
+ 9999 99       8       O    SEP                .          ha/ADVL            ?????     -1
+
+ 9999 99       0       O    ADV             Over      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N            years        NOFUNC/NH            -----     -1
+ 9999 99       3       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       4       O      N           Barbie        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_have       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN           T_have    NOFUNC/FMAINV            -----     -1
+ 9999 99       7       O    DET             many           det/DN            -----      8
+ 9999 99       8       O      N            looks          obj/OBJ            -----      6
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             Most        subj/SUBJ            -----      4
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N            dolls          pcomp/P            -----      1
+ 9999 99       4       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       5       O      A            blond           attr/A            -----      6
+ 9999 99       6       O      N             hair          obj/OBJ            -----      4
+ 9999 99       7       O     CC              and            cc/CC            -----      6
+ 9999 99       8       O      A             blue           attr/A            -----      9
+ 9999 99       9       O      N             eyes           cc/OBJ            -----      6
+ 9999 99      10       O    SEP                .           cc/OBJ            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O   PRON            a_few        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O      A            brown           attr/A            -----      4
+ 9999 99       4       O      N             hair          obj/OBJ            -----      2
+ 9999 99       5       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      N           Barbie           attr/A            -----      1
+ 9999 99       1       O      N            dolls        subj/SUBJ            -----      3
+ 9999 99       2       O    ADV           always         frq/ADVL            -----      3
+ 9999 99       3       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       4       O      A             long             cc/A            -----      6
+ 9999 99       5       O    SEP                ,             cc/A            ?????     -1
+ 9999 99       6       O      A           lovely           attr/A            -----      7
+ 9999 99       7       O      N             hair       NOFUNC/OBJ            -----     -1
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V           T_comb       cnt/FMAINV            -----      3
+ 9999 99      10       O    SEP                .       cnt/FMAINV            ?????     -1
+
+ 9999 99       0       O      N           Barbie        subj/SUBJ            -----      2
+ 9999 99       1       O    ADV             also      NOFUNC/ADVL            -----     -1
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      A          younger           attr/A            -----      5
+ 9999 99       5       O      N           sister          obj/OBJ            -----      2
+ 9999 99       6       O     EN           T_name       mod/FMAINV            -----      5
+ 9999 99       7       O      N          Scooter          obj/OBJ            -----      6
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    DET         a_lot_of           det/DN            -----      3
+ 9999 99       3       O      N          friends          obj/OBJ            -----      1
+ 9999 99       4       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      A           oldest        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      N            Midge           comp/S            -----      2
+ 9999 99       4       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON              Her           attr/A            -----      1
+ 9999 99       1       O      N      boyfriend's           attr/A            -----      2
+ 9999 99       2       O      N             name        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O      N              Ken           comp/S            -----      3
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV           Almost      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    DET               no           det/DN            -----      2
+ 9999 99       2       O   PRON              one        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_can       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N           Barbie          dat/OBJ            -----      4
+ 9999 99       7       O      N             doll          obj/OBJ            -----      4
+ 9999 99       8       O   PRON             that        subj/SUBJ            -----      9
+ 9999 99       9       O      V             T_be       mod/FMAINV            -----      7
+ 9999 99      10       O    NUM               30            qn/QN            -----     11
+ 9999 99      11       O      A        years_old           comp/S            -----      9
+ 9999 99      12       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O     CS               If            pm/CS            -----      3
+ 9999 99       1       O   PRON              you        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_could       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V           T_find       cnd/FMAINV            -----      8
+ 9999 99       4       O    NUM              one          obj/OBJ            -----      3
+ 9999 99       5       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       6       O   PRON               it        subj/SUBJ            -----      7
+ 9999 99       7       O      V          T_would       v-ch/FAUXV            -----      8
+ 9999 99       8       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       9       O   PREP            worth          ha/ADVL            -----      8
+ 9999 99      10       O    DET         a_lot_of           det/DN            -----     11
+ 9999 99      11       O      N            money          pcomp/P            -----      9
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O    ING      T_celebrate      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON              her           attr/A            -----      4
+ 9999 99       4       O    NUM             30th           attr/A            -----      5
+ 9999 99       5       O      N         birthday          obj/OBJ            -----      2
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON              her           attr/A            -----      3
+ 9999 99       3       O      N         sister's           attr/A            -----      4
+ 9999 99       4       O      N             name           comp/S            -----      1
+ 9999 99       5       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      6
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O    NUM            first           attr/A            -----      4
+ 9999 99       4       O      N           Barbie           attr/A            -----      5
+ 9999 99       5       O      N             doll        subj/SUBJ            -----      1
+ 9999 99       6       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       7       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V          T_might       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON              you        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_look      main/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_find      comp/FMAINV            -----      3
+ 9999 99       6       O    DET               an           det/DN            -----      9
+ 9999 99       7       O      A              old           attr/A            -----      8
+ 9999 99       8       O      N           Barbie           attr/A            -----      9
+ 9999 99       9       O      N             doll          obj/OBJ            -----      5
+ 9999 99      10       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O    NUM            first           attr/A            -----      4
+ 9999 99       4       O      N           Barbie           attr/A            -----      5
+ 9999 99       5       O      N             doll        subj/SUBJ            -----      1
+ 9999 99       6       O      A        different           comp/S            -----      1
+ 9999 99       7       O   PREP             from         sou/ADVL            -----      1
+ 9999 99       8       O    DET            other           det/DN            -----      9
+ 9999 99       9       O      N            dolls          pcomp/P            -----      7
+ 9999 99      10       O    SEP                ?          pcomp/P            ?????     -1
+

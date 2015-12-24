@@ -1,0 +1,296 @@
+
+ 9999 99       0       O      N       Disneyland        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_open      main/FMAINV            -----     -1
+ 9999 99       2       O    SEP                !      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    SEP                (      main/FMAINV            ?????     -1
+ 9999 99       1       O      N          ANAHEIM        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O   ABBR           CALIF.          mod/NOM            -----      1
+ 9999 99       4       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       5       O      N             July       NOFUNC/APP            -----     -1
+ 9999 99       6       O    NUM          24,1955        NOFUNC/NH            -----     -1
+ 9999 99       7       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       8       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O    DET                A        NOFUNC/DN            -----     -1
+ 9999 99       1       O      N            giant        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O      A              new           attr/A            -----      4
+ 9999 99       4       O      N             park        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_open      main/FMAINV            -----     -1
+ 9999 99       6       O    DET             this           det/DN            -----      7
+ 9999 99       7       O      N             week          obj/OBJ            -----      5
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP             like         man/ADVL            -----      1
+ 9999 99       3       O    DET               no           det/DN            -----      4
+ 9999 99       4       O    DET            other          attr/DN            -----      5
+ 9999 99       5       O      N            place          pcomp/P            -----      2
+ 9999 99       6       O   PREP               in          mod/NOM            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N            world          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       3       O      N       Disneyland           comp/S            -----      2
+ 9999 99       4       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       5       O     CC              and            cc/CC            -----      2
+ 9999 99       6       O   PRON               it        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_have        cc/FMAINV            -----      2
+ 9999 99       8       O    DET         a_lot_of           det/DN            -----     10
+ 9999 99       9       O      N              fun           attr/A            -----     10
+ 9999 99      10       O      N            rides          obj/OBJ            -----      7
+ 9999 99      11       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99      12       O   PREP             like          ha/ADVL            -----      7
+ 9999 99      13       O      N           roller           attr/A            -----     14
+ 9999 99      14       O      N         coasters          pcomp/P            -----     12
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N       Disneyland        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N            dream           comp/S            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O      N             Walt           attr/A            -----      6
+ 9999 99       6       O      N           Disney          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_want      main/FMAINV            -----     -1
+ 9999 99       2       O INFMARK               to       pm/INFMARK            -----      3
+ 9999 99       3       O      V          T_build       obj/FMAINV            -----      1
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N            place          obj/OBJ            -----      3
+ 9999 99       6       O    ADV            where         loc/ADVL            -----     11
+ 9999 99       7       O    DET              the           det/DN            -----      9
+ 9999 99       8       O      A            whole           attr/A            -----      9
+ 9999 99       9       O      N           family        subj/SUBJ            -----     10
+ 9999 99      10       O      V          T_could       v-ch/FAUXV            -----     11
+ 9999 99      11       O      V           T_have       mod/FMAINV            -----      5
+ 9999 99      12       O      N              fun          obj/OBJ            -----     11
+ 9999 99      13       O    ADV         together        meta/ADVL            -----     11
+ 9999 99      14       O    SEP                .        meta/ADVL            ?????     -1
+
+ 9999 99       0       O    NUM             Four            qn/QN            -----      1
+ 9999 99       1       O      N            areas        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV               up         phr/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N             park          obj/OBJ            -----      2
+ 9999 99       6       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON              One        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       3       O      N        Adventure           attr/A            -----      4
+ 9999 99       4       O      N             Land           comp/S            -----      2
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV            There        meta/ADVL            -----      3
+ 9999 99       1       O   PRON              you        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V           T_ride      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               on         loc/ADVL            -----      3
+ 9999 99       5       O      N            boats          pcomp/P            -----      4
+ 9999 99       6       O   PRON             that        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_take       mod/FMAINV            -----      5
+ 9999 99       8       O   PRON              you          obj/OBJ            -----      7
+ 9999 99       9       O   PREP          through          ha/ADVL            -----      7
+ 9999 99      10       O      N          forests          pcomp/P            -----      9
+ 9999 99      11       O   PREP             with       NOFUNC/NOM            -----     -1
+ 9999 99      12       O      A     wild-looking           attr/A            -----     13
+ 9999 99      13       O      N          animals          pcomp/P            -----     11
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N             boat        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_name      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP              for          ha/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      A           famous           attr/A            -----      7
+ 9999 99       7       O      N            river          pcomp/P            -----      4
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N            world          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              You        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_can       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V            T_hop      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               on         loc/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      6
+ 9999 99       5       O      N             Nile           attr/A            -----      6
+ 9999 99       6       O      N         Princess          pcomp/P            -----      3
+ 9999 99       7       O     CC               or            cc/CC            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----     10
+ 9999 99       9       O      N           Amazon           attr/A            -----     10
+ 9999 99      10       O      N            Belle             cc/P            -----      6
+ 9999 99      11       O    SEP                .             cc/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O    NUM           second           attr/A            -----      2
+ 9999 99       2       O      N             area        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O      N          Fantasy           attr/A            -----      5
+ 9999 99       5       O      N             Land           comp/S            -----      3
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV             Here      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O   PRON              you        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       4       O      N           ghosts          obj/OBJ            -----      3
+ 9999 99       5       O   PREP               in          ha/ADVL            -----      3
+ 9999 99       6       O      A          haunted           attr/A            -----      7
+ 9999 99       7       O      N           houses          pcomp/P            -----      5
+ 9999 99       8       O   PREP          without       NOFUNC/NOM            -----     -1
+ 9999 99       9       O    ING            T_get     pcomp/FMAINV            -----      8
+ 9999 99      10       O      A           scared           comp/S            -----      9
+ 9999 99      11       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON              It_        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              all           det/DN            -----      3
+ 9999 99       3       O      N     make-believe           comp/S            -----      1
+ 9999 99       4       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       5       O     CC              but            cc/CC            -----      1
+ 9999 99       6       O   PRON               it        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_look        cc/FMAINV            -----      1
+ 9999 99       8       O      A             real           comp/S            -----      7
+ 9999 99       9       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O      N         Frontier           attr/A            -----      1
+ 9999 99       1       O      N             Land        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_show      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON              you          dat/OBJ            -----      2
+ 9999 99       4       O   PRON             what      NOFUNC/SUBJ            -----     -1
+ 9999 99       5       O   PRON               it        subj/SUBJ            -----      6
+ 9999 99       6       O      V             T_be       obj/FMAINV            -----      2
+ 9999 99       7       O   PREP             like          ha/ADVL            -----      6
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V           T_live      comp/FMAINV            -----      6
+ 9999 99      10       O   PREP               in          ha/ADVL            -----      9
+ 9999 99      11       O    DET              the           det/DN            -----     13
+ 9999 99      12       O      A              Old           attr/A            -----     13
+ 9999 99      13       O      N             West          pcomp/P            -----     10
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              And            cc/CC            -----     -1
+ 9999 99       1       O    SEP                ,            cc/CC            ?????     -1
+ 9999 99       2       O      N         Tomorrow         tmp/ADVL            -----      4
+ 9999 99       3       O      N             Land        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_give      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON              you          dat/OBJ            -----      4
+ 9999 99       6       O    DET               an           det/DN            -----      7
+ 9999 99       7       O      N             idea          obj/OBJ            -----      4
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O   PRON             what        subj/SUBJ            -----     12
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N           future         mod/ADVL            -----      9
+ 9999 99      12       O      V          T_might       v-ch/FAUXV            -----     13
+ 9999 99      13       O      V             T_be     pcomp/FMAINV            -----      8
+ 9999 99      14       O   PREP             like          ha/ADVL            -----     13
+ 9999 99      15       O    SEP                .          ha/ADVL            ?????     -1
+
+ 9999 99       0       O    NUM              One        subj/SUBJ            -----      5
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      A             best           attr/A            -----      4
+ 9999 99       4       O      N            rides          pcomp/P            -----      1
+ 9999 99       5       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N       Matterhorn           comp/S            -----      5
+ 9999 99       8       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      N           roller           attr/A            -----      4
+ 9999 99       4       O      N          coaster           comp/S            -----      1
+ 9999 99       5       O   PRON             that        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_take       mod/FMAINV            -----      4
+ 9999 99       7       O   PRON              you          obj/OBJ            -----      6
+ 9999 99       8       O   PREP      up_and_down          ha/ADVL            -----      6
+ 9999 99       9       O    DET                a           det/DN            -----     11
+ 9999 99      10       O      N             fake           attr/A            -----     11
+ 9999 99      11       O      N         mountain          pcomp/P            -----      8
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      A             real           attr/A            -----      2
+ 9999 99       2       O      N       Matterhorn        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       5       O      N      Switzerland          pcomp/P            -----      4
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N            dream          obj/OBJ            -----      1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V          T_build       mod/FMAINV            -----      3
+ 9999 99       6       O    DET                a           det/DN            -----      8
+ 9999 99       7       O      N           family           attr/A            -----      8
+ 9999 99       8       O      N             park          obj/OBJ            -----      5
+ 9999 99       9       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N            names           comp/S            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N            boats          pcomp/P            -----      4
+ 9999 99       7       O   PREP               in          mod/NOM            -----      6
+ 9999 99       8       O      N        Adventure           attr/A            -----      9
+ 9999 99       9       O      N             Land          pcomp/P            -----      7
+ 9999 99      10       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N       Disneyland        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_open      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V          T_would       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON              you        subj/SUBJ            -----      1
+ 9999 99       3       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       4       O      N           ghosts          obj/OBJ            -----      3
+ 9999 99       5       O   PREP               at          ha/ADVL            -----      3
+ 9999 99       6       O      N       Disneyland          pcomp/P            -----      5
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N       Matterhorn        subj/SUBJ            -----      1
+ 9999 99       4       O    NUM              one          mod/NOM            -----      3
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O      A             best           attr/A            -----      8
+ 9999 99       8       O      N            rides          pcomp/P            -----      5
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+

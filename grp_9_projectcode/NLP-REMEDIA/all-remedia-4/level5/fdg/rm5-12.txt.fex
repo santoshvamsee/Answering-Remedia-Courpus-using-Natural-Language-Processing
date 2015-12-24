@@ -1,0 +1,282 @@
+
+ 9999 99       0       O      A            Outer           attr/A            -----      1
+ 9999 99       1       O      N            Space           attr/A            -----      2
+ 9999 99       2       O      N           Active          main/NH            -----     -1
+ 9999 99       3       O    DET             This           det/DN            -----      4
+ 9999 99       4       O      N           Summer        NOFUNC/NH            -----     -1
+
+ 9999 99       0       O    SEP                (        NOFUNC/NH            ?????     -1
+ 9999 99       1       O      A            Outer           attr/A            -----      2
+ 9999 99       2       O      N            Space       NOFUNC/APP            -----     -1
+ 9999 99       3       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       4       O      N           Summer          main/NH            -----      0
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O    NUM             1989         NOFUNC/P            -----     -1
+ 9999 99       7       O    SEP                )         NOFUNC/P            ?????     -1
+ 9999 99       8       O    SEP                .         NOFUNC/P            ?????     -1
+
+ 9999 99       0       O   PRON              You        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              n't         neg/ADVL            -----      1
+ 9999 99       3       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON               it         subj/OBJ            -----      5
+ 9999 99       5       O    ING         T_happen       obj/FMAINV            -----      3
+ 9999 99       6       O    SEP                ,       obj/FMAINV            ?????     -1
+ 9999 99       7       O     CC              but            cc/CC            -----      3
+ 9999 99       8       O    DET             some           det/DN            -----     10
+ 9999 99       9       O      A              big           attr/A            -----     10
+ 9999 99      10       O      N           events        subj/SUBJ            -----     11
+ 9999 99      11       O      V             T_be       v-ch/FAUXV            -----     12
+ 9999 99      12       O    ING             T_go        cc/FMAINV            -----      3
+ 9999 99      13       O    ADV               on         phr/ADVL            -----     12
+ 9999 99      14       O   PREP               in         loc/ADVL            -----     12
+ 9999 99      15       O    DET              the           det/DN            -----     17
+ 9999 99      16       O      N           summer           attr/A            -----     17
+ 9999 99      17       O      N            skies          pcomp/P            -----     14
+ 9999 99      18       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP               In         tmp/ADVL            -----      5
+ 9999 99       1       O      N           August          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O   PRON               we        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_will       v-ch/FAUXV            -----      5
+ 9999 99       5       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       6       O      N         close-up           attr/A            -----      7
+ 9999 99       7       O      N         pictures          obj/OBJ            -----      5
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O    DET              the           det/DN            -----     11
+ 9999 99      10       O      N           planet           attr/A            -----     11
+ 9999 99      11       O      N          Neptune          pcomp/P            -----      8
+ 9999 99      12       O   PREP              for         dur/ADVL            -----      5
+ 9999 99      13       O    DET              the           det/DN            -----     15
+ 9999 99      14       O    NUM            first           attr/A            -----     15
+ 9999 99      15       O      N             time          pcomp/P            -----     12
+ 9999 99      16       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N         pictures        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V           T_come      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP             from         sou/ADVL            -----      3
+ 9999 99       5       O    NUM         Voyager2          pcomp/P            -----      4
+ 9999 99       6       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       7       O    DET                a           det/DN            -----      8
+ 9999 99       8       O      N        satellite      NOFUNC/SUBJ            -----     -1
+ 9999 99       9       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_pass      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP           within          ha/ADVL            -----      2
+ 9999 99       4       O    NUM            3,000            qn/QN            -----      5
+ 9999 99       5       O      N            miles          pcomp/P            -----      3
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O      N          Neptune          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N          Voyager        subj/SUBJ            -----      2
+ 9999 99       1       O    NUM                2          mod/NOM            -----      0
+ 9999 99       2       O      V          T_leave      main/FMAINV            -----     -1
+ 9999 99       3       O      N            Earth          obj/OBJ            -----      2
+ 9999 99       4       O   PREP               in         tmp/ADVL            -----      2
+ 9999 99       5       O    NUM             1977          pcomp/P            -----      4
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_give      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON               us          dat/OBJ            -----      2
+ 9999 99       4       O    ING         T_excite       obj/FMAINV            -----      2
+ 9999 99       5       O      N         pictures          obj/OBJ            -----      4
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O    DET             many           det/DN            -----      8
+ 9999 99       8       O      N          planets          pcomp/P            -----      6
+ 9999 99       9       O    ADV       since_then      NOFUNC/ADVL            -----     -1
+ 9999 99      10       O    SEP                .      NOFUNC/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       2       O      A              new           attr/A            -----      3
+ 9999 99       3       O      N            moons          obj/OBJ            -----      1
+ 9999 99       4       O   PREP             near          ha/ADVL            -----      1
+ 9999 99       5       O      N          Jupiter          pcomp/P            -----      4
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N          Neptune        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_be     NOFUNC/FAUXV            -----     -1
+ 9999 99       3       O   PRON              its         NOFUNC/S            -----     -1
+ 9999 99       4       O    DET             last           det/DN            -----      5
+ 9999 99       5       O      N             stop      NOFUNC/SUBJ            -----     -1
+ 9999 99       6       O     CS           before            pm/CS            -----      8
+ 9999 99       7       O   PRON               it        subj/SUBJ            -----      8
+ 9999 99       8       O      V          T_leave    NOFUNC/FMAINV            -----     -1
+ 9999 99       9       O   PRON              our           attr/A            -----     10
+ 9999 99      10       O      A            solar           attr/A            -----     11
+ 9999 99      11       O      N           system          obj/OBJ            -----      8
+ 9999 99      12       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      N          Voyager        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       2       O    ADV            never         frq/ADVL            -----      3
+ 9999 99       3       O      V         T_return      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               to         goa/ADVL            -----      3
+ 9999 99       5       O      N            Earth          pcomp/P            -----      4
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Last           det/DN            -----      1
+ 9999 99       1       O      N           spring         tmp/ADVL            -----      6
+ 9999 99       2       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O      N            space           attr/A            -----      5
+ 9999 99       5       O      N          shuttle        subj/SUBJ            -----      6
+ 9999 99       6       O      V         T_launch      main/FMAINV            -----     -1
+ 9999 99       7       O    DET                a           det/DN            -----      9
+ 9999 99       8       O      A              new           attr/A            -----      9
+ 9999 99       9       O      N       spacecraft          obj/OBJ            -----      6
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV              Now        meta/ADVL            -----      4
+ 9999 99       1       O    DET             that           det/DN            -----      2
+ 9999 99       2       O      N            craft        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O    ING         T_circle      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N              sun          obj/OBJ            -----      4
+ 9999 99       7       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV             Soon         tmp/ADVL            -----      3
+ 9999 99       1       O   PRON               it        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V           T_move      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP           toward         goa/ADVL            -----      3
+ 9999 99       5       O      N            Venus          pcomp/P            -----      4
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      2
+ 9999 99       1       O   PRON               it        subj/SUBJ            -----      2
+ 9999 99       2       O      V         T_arrive       tmp/FMAINV            -----      9
+ 9999 99       3       O   PREP               in          ha/ADVL            -----      2
+ 9999 99       4       O      A             late           attr/A            -----      5
+ 9999 99       5       O    NUM             1990          pcomp/P            -----      3
+ 9999 99       6       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       7       O   PRON               it        subj/SUBJ            -----      8
+ 9999 99       8       O      V         T_should       v-ch/FAUXV            -----      9
+ 9999 99       9       O      V           T_send      main/FMAINV            -----     -1
+ 9999 99      10       O    ADV             back          ha/ADVL            -----      9
+ 9999 99      11       O      A            great           attr/A            -----     12
+ 9999 99      12       O      N           photos          obj/OBJ            -----      9
+ 9999 99      13       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      1
+ 9999 99       1       O      N       spacecraft        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_name      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP              for          ha/ADVL            -----      3
+ 9999 99       5       O    DET               an           det/DN            -----      6
+ 9999 99       6       O      N         explorer          pcomp/P            -----      4
+ 9999 99       7       O   PREP             from         sou/ADVL            -----      3
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N             past          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       3       O      N         Magellan           comp/S            -----      2
+ 9999 99       4       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV         Sometime      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O   PREP               in         tmp/ADVL            -----      9
+ 9999 99       2       O    NUM             1990          pcomp/P            -----      1
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O    DET                a           det/DN            -----      6
+ 9999 99       5       O      A             huge           attr/A            -----      6
+ 9999 99       6       O      N        telescope        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_will       v-ch/FAUXV            -----      8
+ 9999 99       8       O      V             T_be       v-ch/FAUXV            -----      9
+ 9999 99       9       O     EN           T_send      main/FMAINV            -----     -1
+ 9999 99      10       O   PREP             into         goa/ADVL            -----      9
+ 9999 99      11       O      A            outer           attr/A            -----     12
+ 9999 99      12       O      N            space          pcomp/P            -----     10
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_may       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              all           det/DN            -----      4
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N              way          obj/OBJ            -----      2
+ 9999 99       6       O   PREP               to         goa/ADVL            -----      2
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N             edge          pcomp/P            -----      6
+ 9999 99       9       O   PREP               of           mod/OF            -----      8
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N         universe          pcomp/P            -----      9
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N       spacecraft          obj/OBJ            -----      1
+ 9999 99       4       O     EN           T_name       mod/FMAINV            -----      3
+ 9999 99       5       O   PREP              for          ha/ADVL            -----      4
+ 9999 99       6       O   PRON              him          pcomp/P            -----      5
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    DET             What           det/DN            -----      1
+ 9999 99       1       O      N           planet        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      5
+ 9999 99       3       O      N          Voyager      NOFUNC/SUBJ            -----     -1
+ 9999 99       4       O    NUM                2          mod/NOM            -----      3
+ 9999 99       5       O      V           T_pass      main/FMAINV            -----     -1
+ 9999 99       6       O    DET             this           det/DN            -----      7
+ 9999 99       7       O      N             year          obj/OBJ            -----      5
+ 9999 99       8       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      6
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      5
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      A             huge           attr/A            -----      4
+ 9999 99       4       O      N        telescope        subj/SUBJ            -----      1
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN           T_send      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP             into         goa/ADVL            -----      6
+ 9999 99       8       O      A            outer           attr/A            -----      9
+ 9999 99       9       O      N            space          pcomp/P            -----      7
+ 9999 99      10       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      4
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       2       O      N          Voyager        subj/SUBJ            -----      1
+ 9999 99       3       O    NUM                2          mod/NOM            -----      2
+ 9999 99       4       O      V             T_go      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP            after          ha/ADVL            -----      4
+ 9999 99       6       O      N          Neptune          pcomp/P            -----      5
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      5
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      5
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      A             huge           attr/A            -----      4
+ 9999 99       4       O      N        telescope        subj/SUBJ            -----      1
+ 9999 99       5       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       6       O      A            great           attr/A            -----      7
+ 9999 99       7       O      N           photos          obj/OBJ            -----      5
+ 9999 99       8       O    SEP                ?          obj/OBJ            ?????     -1
+

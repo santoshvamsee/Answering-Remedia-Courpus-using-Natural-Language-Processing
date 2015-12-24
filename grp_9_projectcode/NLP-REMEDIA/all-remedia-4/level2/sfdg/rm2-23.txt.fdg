@@ -1,0 +1,317 @@
+0		
+1	Light	light	attr:>2	@A> N
+2	Bulb	bulb	attr:>3	@A> N
+3	Burns	burn	main:>0	@NH N
+4	for	for	mod:>3	@<NOM PREP
+5	78	78	qn:>6	@QN> NUM
+6	Years	year	pcomp:>4	@<P N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	LIVERMORE	Livermore	main:>1	@NH N
+	$,	
+4	CALIFORNIA	California		@NH N
+	$,	
+6	1979	1979		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	year	year	tmp:>7	@ADVL N
+	$,	
+4	the	the	det:>6	@DN> DET
+5	light	light	attr:>6	@A> N
+6	bulb	bulb	subj:>7	@SUBJ N
+7	is	be	main:>0	@+FMAINV V
+8	100	100	qn:>9	@QN> NUM
+9	years_old	years_old	comp:>7	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Before	before	tmp:>5	@ADVL PREP
+2	1879	1879	pcomp:>1	@<P NUM
+	$,	
+4	people	people	subj:>5	@SUBJ N
+5	used	use	main:>0	@+FMAINV V
+6	candles	candle	obj:>5	@OBJ N
+7	or	or	cc:>6	@CC CC
+8	oil	oil	attr:>9	@A> N
+9	lamps	lamp	cc:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Most	much	ad:>2	@AD-A> ADV
+2	light	light	attr:>3	@A> A
+3	bulbs	bulb	subj:>4	@SUBJ N
+4	are	be	v-ch:>5	@+FAUXV V
+5	used	use	main:>0	@-FMAINV EN
+6	only	only	meta:>8	@ADVL ADV
+7	a_few	a_few	det:>8	@DN> DET
+8	hours	hour		@SUBJ N	@PCOMPL-S N
+9	a	a	det:>10	@DN> DET
+10	day	day	mod:>8	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	last	last	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	year	year	obj:>2	@OBJ N
+5	or	or	cc:>4	@CC CC
+6	two	two	cc:>4	@OBJ NUM
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	a	a	det:>3	@DN> DET
+3	bulb	bulb	subj:>6	@SUBJ N
+4	in	in	mod:>3	@<NOM PREP
+5	Livermore	Livermore	pcomp:>4	@<P N
+6	has	have	v-ch:>7	@+FAUXV V
+7	been	be	v-ch:>8	@-FAUXV EN
+8	shining	shine	main:>0	@-FMAINV ING
+9	day	day	tmp:>8	@ADVL N
+10	and	and	cc:>9	@CC CC
+11	night	night	cc:>9	@ADVL N
+12	since	since	tmp:>11	@ADVL PREP
+13	1901	1901	pcomp:>12	@<P NUM
+	$!	
+	$<s>	
+
+0		
+1	No	no	det:>2	@DN> DET
+2	one	one	subj:>3	@SUBJ PRON
+3	can	can	v-ch:>4	@+FAUXV V
+4	explain	explain	main:>0	@-FMAINV V
+5	why	why	cnt:>9	@ADVL ADV
+6	it	it	subj:>7	@SUBJ PRON
+7	has_	have	v-ch:>9	@+FAUXV V
+8	n't	not	neg:>7	@ADVL NEG-PART
+9	burned	burn	obj:>4	@-FMAINV EN
+10	out	out	loc:>9	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	light	light	attr:>3	@A> N
+3	bulb	bulb	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	in	in	ha:>4	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	fire	fire	attr:>8	@A> N
+8	station	station	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	hand-blown	hand-blown	comp:>2	@PCOMPL-S A
+4	years	year	tmp:>2	@ADVL N
+5	ago	ago	ad:>4	@<AD-A ADV
+6	by	by	ha:>2	@ADVL PREP
+7	the	the	det:>9	@DN> DET
+8	Shelby	Shelby	attr:>9	@A> N
+9	Company	company	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	switch	switch	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	by	by	loc:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	light	light	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	no	no	det:>3	@DN> DET
+3	one	one	subj:>5	@SUBJ PRON
+4	ever	ever	frq:>5	@ADVL ADV
+5	uses	use	main:>0	@+FMAINV V
+6	it	it	obj:>5	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	light	light	subj:>3	@SUBJ N
+3	has	have	v-ch:>4	@+FAUXV V
+4	been	be	main:>0	@-FMAINV EN
+5	out	out	loc:>4	@ADVL ADV
+6	only	only	ad:>7	@AD-A> ADV
+7	twice	twice	frq:>4	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	time	time	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	when	when	tmp:>9	@ADVL ADV
+6	the	the	det:>8	@DN> DET
+7	fire	fire	attr:>8	@A> N
+8	station	station	subj:>9	@SUBJ N
+9	moved	move	comp:>4	@+FMAINV V
+10	to	to	goa:>9	@ADVL PREP
+11	a	a	det:>13	@DN> DET
+12	new	new	attr:>13	@A> A
+13	building	build	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	other	other	attr:>3	@DN> DET
+3	time	time	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	for	for	dur:>4	@ADVL PREP
+6	a	a	det:>7	@DN> DET
+7	week	week	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	work	work	subj:>3	@SUBJ N
+3	had	have	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	be	be	v-ch:>6	@-FAUXV V
+6	done	do	obj:>3	@-FMAINV EN
+	$,	
+8	and	and	cc:>3	@CC CC
+9	the	the	det:>10	@DN> DET
+10	power	power	subj:>11	@SUBJ N
+11	was	be	cc:>3	@+FMAINV V
+12	turned	turn	comp:>11	@PCOMPL-S A
+13	off	off	ha:>11	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	said	say	main:>0	@-FMAINV EN
+4	that	that	pm:>12	@CS CS
+5	the	the	det:>8	@DN> DET
+6	Livermore	Livermore	attr:>7	@A> N
+7	light	light	attr:>8	@A> N
+8	bulb	bulb	subj:>9	@SUBJ N
+9	should	should	v-ch:>10	@+FAUXV V
+10	have	have	v-ch:>11	@-FAUXV V
+11	been	be	v-ch:>12	@-FAUXV EN
+12	changed	change	obj:>3	@-FMAINV EN
+13	more	more	qua:>12	@ADVL PRON
+14	than	than	mod:>13	@<NOM PREP	@ADVL PREP
+15	800	800	qn:>16	@QN> NUM
+16	times	time	pcomp:>14	@<P N
+17	by_now	by_now	meta:>12	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	For	for	cla:>4	@ADVL PREP
+2	all	all	pcomp:>1	@<P PRON
+3	we	we	subj:>4	@SUBJ PRON
+4	know	know	main:>0	@+FMAINV V
+	$,	
+6	it	it	subj:>7	@SUBJ PRON
+7	could	could	v-ch:>8	@+FAUXV V
+8	last	last		@-FMAINV V
+9	78	78	qn:>10	@QN> NUM
+10	more	many	det:>11	@DN> DET
+11	years	year	obj:>8	@OBJ N
+	$!	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	made	make	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	Livermore	Livermore	attr:>5	@A> N
+5	light	light	attr:>6	@A> N
+6	bulb	bulb	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	strange	strange	comp:>2	@PCOMPL-S A
+4	about	about	mod:>3	@ADVL PREP
+5	this	this	det:>6	@DN> DET
+6	light	light	pcomp:>4	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>7	@ADVL ADV
+2	was	be	v-ch:>7	@+FAUXV V
+3	the	the	det:>6	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	light	light	attr:>6	@A> N
+6	bulb	bulb	subj:>2	@SUBJ N
+7	made	make	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	longest-lasting	longest-last*	attr:>5	@A> A
+5	light	light	attr:>6	@A> N
+6	bulb	bulb	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>7	@ADVL ADV
+2	does_	do	v-ch:>7	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	the	the	det:>6	@DN> DET
+5	light	light	attr:>6	@A> N
+6	bulb	bulb	subj:>2	@SUBJ N
+7	burn	burn	main:>0	@-FMAINV V
+8	out	out	loc:>7	@ADVL ADV
+	$?	
+	$<p>	
+

@@ -1,0 +1,390 @@
+0		
+	$<p>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	New	new	attr:>3	@A> A
+3	Year	year	subj:>4	@SUBJ N
+4	Begins	begin	main:>0	@+FMAINV V
+	$<p>	
+
+0		
+	$(	
+2	Anywhere	anywhere		@ADVL ADV
+3	in	in	mod:>2	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	World	world	pcomp:>3	@<P N
+	$,	
+7	January	January	cc:>5	@<P N
+8	1	1	mod:>7	@<NOM NUM
+	$,	
+10	1990	1990	mod:>8	@<NOM NUM
+	$)	
+	$.	
+13	$-		
+14	Today	today	subj:>15	@SUBJ N
+15	marks	mark	main:>0	@+FMAINV V
+16	the	the	det:>17	@DN> DET
+17	start	start	obj:>15	@OBJ N
+18	of	of	mod:>17	@<NOM-OF PREP
+19	a	a	det:>21	@DN> DET
+20	new	new	attr:>21	@A> A
+21	year	year	pcomp:>18	@<P N
+22	for	for	mod:>21	@<NOM PREP
+23	most	many	det:>24	@DN> DET
+24	people	people	pcomp:>22	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	if	if	pm:>4	@CS CS
+3	you	you	subj:>4	@SUBJ PRON
+4	are	be	cnd:>9	@+FMAINV V
+5	Chinese	Chinese	comp:>4	@PCOMPL-S N
+	$,	
+7	you	you	subj:>8	@SUBJ PRON
+8	must	must	v-ch:>9	@+FAUXV V
+9	wait	wait	main:>0	@-FMAINV V
+10	a_few	a_few	det:>11	@DN> DET
+11	more	many	attr:>12	@DN> DET
+12	weeks	week	obj:>9	@OBJ N
+13	for	for	dur:>9	@ADVL PREP
+14	the	the	det:>16	@DN> DET
+15	new	new	attr:>16	@A> A
+16	year	year	pcomp:>13	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	Chinese	Chinese	subj:>3	@SUBJ N
+3	have	have	main:>0	@+FMAINV V
+4	their	they	attr:>5	@A> PRON
+5	own	own	attr:>6	@A> A
+6	way	way	obj:>3	@OBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	keeping	keep	pcomp:>7	@<P-FMAINV ING
+9	time	time		@SUBJ N	@OBJ N	@PCOMPL-O N	@<P N	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	By	by	cla:>7	@ADVL PREP
+2	their	they	attr:>3	@A> PRON
+3	method	method	pcomp:>1	@<P N
+	$,	
+5	this	this	subj:>6	@SUBJ PRON
+6	will	will	v-ch:>7	@+FAUXV V
+7	be	be	main:>0	@-FMAINV V
+8	the	the	det:>9	@DN> DET
+9	year	year	comp:>7	@PCOMPL-S N
+10	4,688	4,688	qua:>7	@ADVL NUM
+	$.	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	is	be		@+FMAINV V
+3	how	how	ad:>4	@AD-A> ADV
+4	long	long	comp:>2	@PCOMPL-S A
+5	they	they	subj:>6	@SUBJ PRON
+6	have	have	v-ch:>7	@+FAUXV V
+7	been	be	v-ch:>8	@-FAUXV EN
+8	measuring	measure		@-FMAINV ING
+9	time	time	obj:>8	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	In	in	cla:>7	@ADVL PREP
+2	China	China	pcomp:>1	@<P N
+	$,	
+4	each	each	det:>5	@DN> DET
+5	year	year	subj:>6	@SUBJ N
+6	is	be	v-ch:>7	@+FAUXV V
+7	named	name	main:>0	@-FMAINV EN
+8	for	for	ha:>7	@ADVL PREP
+9	an	an	det:>10	@DN> DET
+10	animal	animal	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	year	year	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	horse	horse	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Last	last	det:>2	@DN> DET
+2	year	year	subj:>6	@SUBJ N
+3	$--		
+4	4,687	4,687		@NH NUM	@SUBJ NUM	@PCOMPL-S NUM	@QN> NUM	@<NOM NUM	@ADVL NUM
+5	$--		paren:>3
+6	was	be	main:>0	@+FMAINV V
+7	the	the	det:>8	@DN> DET
+8	year	year	comp:>6	@PCOMPL-S N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>11	@DN> DET
+11	snake	snake	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Other	other	det:>2	@DN> DET
+2	years	year	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	named	name	main:>0	@-FMAINV EN
+5	for	for	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	tiger	tiger	pcomp:>5	@<P N
+	$,	
+9	hare	hare	cc:>7	@<P N
+	$,	
+11	dragon	dragon	cc:>9	@<P N
+	$,	
+13	and	and	cc:>11	@CC CC
+14	sheep	sheep	cc:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>3	@CS CS
+2	you	you	subj:>3	@SUBJ PRON
+3	think	think	cnd:>10	@+FMAINV V
+4	that	that	subj:>5	@SUBJ PRON
+5	is	be	obj:>3	@+FMAINV V
+6	strange	strange	oc:>3	@PCOMPL-O A
+	$,	
+8	you	you	subj:>9	@SUBJ PRON
+9	should	should	v-ch:>10	@+FAUXV V
+10	know	know	main:>0	@-FMAINV V
+11	about	about	ha:>10	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	year	year	pcomp:>11	@<P N
+14	of	of	mod:>13	@<NOM-OF PREP
+15	the	the	det:>16	@DN> DET
+16	monkey	monkey	pcomp:>14	@<P N
+	$,	
+18	rooster	rooster	cc:>16	@<P N
+	$,	
+20	dog	dog	cc:>18	@<P N
+	$,	
+22	pig	pig	cc:>20	@<P N
+	$,	
+24	rat	rat	cc:>22	@<P N
+	$,	
+26	and	and	cc:>24	@CC CC
+27	ox	ox	cc:>24	@<P N
+	$.	
+	$<p>	
+
+0		
+1	In	in	cla:>8	@ADVL PREP
+2	all	all	pcomp:>1	@<P PRON
+	$,	
+4	12	12	qn:>6	@QN> NUM
+5	different	different	attr:>6	@A> A
+6	animals	animal	subj:>7	@SUBJ N
+7	are	be	v-ch:>8	@+FAUXV V
+8	used	use	main:>0	@-FMAINV EN
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	tell	tell	cnt:>8	@-FMAINV V
+11	time	time		@SUBJ N	@OBJ N	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	one	one	subj:>3	@SUBJ PRON
+3	has	have	main:>0	@+FMAINV V
+4	its	it	attr:>5	@A> PRON
+5	own	own	attr:>6	@A> A
+6	meaning	mean	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	if	if	pm:>4	@CS CS
+2	you	you	subj:>3	@SUBJ PRON
+3	were	be	v-ch:>4	@+FAUXV V
+4	born	bear	cnd:>14	@-FMAINV EN
+5	in	in	dur:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	year	year	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	the	the	det:>10	@DN> DET
+10	hare	hare	pcomp:>8	@<P N
+	$,	
+12	you	you	subj:>13	@SUBJ PRON
+13	are	be	v-ch:>14	@+FAUXV V
+14	supposed	suppose	main:>0	@-FMAINV EN
+15	to	to	pm:>16	@INFMARK> INFMARK>
+16	be	be	cnt:>14	@-FMAINV V
+17	lucky	lucky	comp:>16	@PCOMPL-S A
+18	and	and	cc:>17	@CC CC
+19	shy	shy	cc:>17	@PCOMPL-S A
+	$,	
+21	like	like		@ADVL PREP
+22	a	a	det:>23	@DN> DET
+23	rabbit	rabbit	pcomp:>21	@<P N
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>4	@CS CS
+2	you	you	subj:>3	@SUBJ PRON
+3	were	be	v-ch:>4	@+FAUXV V
+4	born	bear	cnd:>14	@-FMAINV EN
+5	in	in	dur:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	year	year	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	the	the	det:>10	@DN> DET
+10	dragon	dragon	pcomp:>8	@<P N
+	$,	
+12	you	you	subj:>13	@SUBJ PRON
+13	are	be	v-ch:>14	@+FAUXV V
+14	outgoing	outgo	main:>0	@-FMAINV ING
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>4	@DN> DET
+2	Chinese	Chinese	attr:>3	@A> A
+3	New	new	attr:>4	@A> A
+4	Year	year	subj:>5	@SUBJ N
+5	does	do	v-ch:>7	@+FAUXV V
+6	not	not	neg:>5	@ADVL NEG-PART
+7	fall	fall	main:>0	@-FMAINV V
+8	on	on	phr:>7	@ADVL PREP
+9	the	the	det:>11	@DN> DET
+10	same	same	attr:>11	@A> A
+11	day	day	pcomp:>8	@<P N
+12	each	each	det:>13	@DN> DET
+13	year	year	tmp:>7	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	changes	change	main:>0	@+FMAINV V
+3	because	because		@CS CS
+4	the	the	det:>5	@DN> DET
+5	moon	moon		@SUBJ N	@OBJ N
+	$,	
+7	not	not	neg:>9	@ADVL NEG-PART
+8	the	the	det:>9	@DN> DET
+9	sun	sun		@SUBJ N	@OBJ N
+	$,	
+11	is	be	v-ch:>12	@+FAUXV V
+12	used	use		@-FMAINV EN
+13	to	to	pm:>14	@INFMARK> INFMARK>
+14	mark	mark	cnt:>12	@-FMAINV V
+15	time	time		@SUBJ N	@OBJ N	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Chinese	Chinese	attr:>2	@A> A
+2	New	new	attr:>3	@A> A
+3	Year	year	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	most	much	ad:>6	@AD-A> ADV
+6	often	often	frq:>4	@ADVL ADV
+7	between	between	tmp:>4	@ADVL PREP
+8	January	January	pcomp:>7	@<P N
+9	20	20	mod:>8	@<NOM NUM
+10	and	and	cc:>8	@CC CC
+11	February	February	cc:>8	@<P N
+12	20	20	mod:>11	@<NOM NUM
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	uses	use	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	moon	moon	obj:>2	@OBJ N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	mark	mark	cnt:>2	@-FMAINV V
+7	the	the	det:>8	@DN> DET
+8	time	time	obj:>6	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	animal	animal	subj:>3	@SUBJ N
+3	stands	stand	main:>0	@+FMAINV V
+4	for	for	ha:>3	@ADVL PREP
+5	the	the	det:>7	@DN> DET
+6	year	year	attr:>7	@A> N
+7	4,687	4,687	pcomp:>4	@<P NUM
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	Chinese	Chinese	attr:>5	@A> A
+5	New	new	attr:>6	@A> A
+6	Year	year	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	do	do	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	name	name	main:>0	@-FMAINV V
+5	years	year	obj:>4	@OBJ N
+6	after	after	ha:>4	@ADVL PREP
+7	animals	animal	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	does	do	main:>0	@+FMAINV V
+3	the	the	det:>8	@DN> DET
+4	Chinese	Chinese	attr:>5	@A> A
+5	New	new	attr:>6	@A> A
+6	Year	year	attr:>7	@A> N
+7	date	date	attr:>8	@A> N
+8	change	change	obj:>2	@OBJ N
+	$?	
+	$<p>	
+

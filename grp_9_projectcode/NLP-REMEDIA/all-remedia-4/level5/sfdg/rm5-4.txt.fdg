@@ -1,0 +1,353 @@
+0		
+	$<p>	
+
+0		
+1	President	president	attr:>2	@A> N
+2	Lincoln	Lincoln	attr:>3	@A> N
+3	Shot	shot	main:>0	@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	WASHINGTON	Washington		@NH N	@APP N
+	$,	
+4	D	d	mod:>2	@APP ABBR
+	$.	
+	$<s>	
+
+0		
+1	C.	c.	main:>0	@NH ABBR
+	$,	
+3	April	April		@NH N	@ADVL N
+4	15	15	mod:>3	@<NOM NUM
+	$,	
+6	1865	1865	mod:>4	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	country	country	subj:>3	@SUBJ N
+3	is	be		@+FMAINV V
+4	very	very	ad:>5	@AD-A> ADV
+5	sad	sad	comp:>3	@PCOMPL-S A
+6	today	today	tmp:>3	@ADVL N
+7	$-		
+8	President	president	attr:>9	@A> N
+9	Abraham	Abraham	attr:>10	@A> N
+10	Lincoln	Lincoln		@NH N	@SUBJ N	@PCOMPL-S N	@APP N
+11	died	die		@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V
+12	after	after	ha:>11	@ADVL PREP
+13	being	be		@-FAUXV ING
+14	shot	shoot	obj:>11	@-FMAINV EN
+15	last	last	det:>16	@DN> DET
+16	night	night	tmp:>14	@ADVL N
+	$.	
+	$<p>	
+
+0		
+1	President	president	attr:>2	@A> N
+2	Lincoln	Lincoln	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	watching	watch	main:>0	@-FMAINV ING
+5	a	a	det:>6	@DN> DET
+6	play	play	obj:>4	@OBJ N
+7	with	with	ins:>4	@ADVL PREP
+8	his	he	attr:>9	@A> PRON
+9	wife	wife	pcomp:>7	@<P N
+10	when	when	tmp:>12	@ADVL ADV
+11	he	he	subj:>12	@SUBJ PRON
+12	was	be	tmp:>4	@+FMAINV V
+13	killed	kill	comp:>12	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	search	search	attr:>3	@A> N
+3	party	party	subj:>4	@SUBJ N
+4	is	be	v-ch:>5	@+FAUXV V
+5	looking	look	main:>0	@-FMAINV ING
+6	for	for	ha:>5	@ADVL PREP
+7	a	a	det:>12	@DN> DET
+8	man	man	attr:>9	@A> N
+9	named	name	attr:>10	@A> A
+10	John	John	attr:>11	@A> N
+11	Wilkes	Wilkes	attr:>12	@A> N
+12	Booth	booth	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	may	may	v-ch:>3	@+FAUXV V
+3	have	have	v-ch:>4	@-FAUXV V
+4	pulled	pull	main:>0	@-FMAINV EN
+5	the	the	det:>6	@DN> DET
+6	trigger	trigger	obj:>4	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	President	president	attr:>2	@A> N
+2	Lincoln	Lincoln	subj:>3	@SUBJ N
+3	will	will	v-ch:>5	@+FAUXV V
+4	always	always	frq:>6	@ADVL ADV
+5	be	be	v-ch:>6	@-FAUXV V
+6	thought	think	main:>0	@-FMAINV EN
+7	of	of	phr:>6	@ADVL PREP
+8	as	as	mod:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	leader	leader	pcomp:>8	@<P N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	the	the	det:>13	@DN> DET
+13	land	land	pcomp:>11	@<P N
+14	during	during	mod:>13	@<NOM PREP
+15	the	the	det:>17	@DN> DET
+16	Civil	civil	attr:>17	@A> A
+17	War	war	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	spent	spend	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	past	past	det:>6	@DN> DET
+5	four	four	qn:>6	@QN> NUM
+6	years	year	tmp:>2	@ADVL N
+7	leading	lead	mod:>6	@-FMAINV ING
+8	the	the	det:>10	@DN> DET
+9	Union	union	attr:>10	@A> N
+10	states	state	obj:>7	@OBJ N
+11	in	in	loc:>7	@ADVL PREP
+12	their	they	attr:>13	@A> PRON
+13	fight	fight	pcomp:>11	@<P N
+14	to	to	pm:>15	@INFMARK> INFMARK>
+15	keep	keep	cnt:>7	@-FMAINV V
+16	all	all	det:>17	@DN> DET
+17	people	people	obj:>15	@OBJ N
+18	free	free	oc:>15	@PCOMPL-O A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	President	president	subj:>3	@SUBJ N
+3	lived	live	main:>0	@+FMAINV V
+4	long	long		@ADVL ADV	@AD-A> ADV	@OBJ A	@A> A	@<NOM A
+5	enough	enough		@<AD-A ADV
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	see	see	cnt:>3	@-FMAINV V
+8	the	the	det:>10	@DN> DET
+9	war	war	attr:>10	@A> N
+10	end	end	obj:>7	@OBJ N
+11	just	just	ha:>7	@ADVL ADV
+12	a_few	a_few	det:>13	@DN> DET
+13	weeks	week	tmp:>7	@ADVL N
+14	ago	ago	ad:>13	@<AD-A ADV
+	$.	
+	$<p>	
+
+0		
+1	Lincoln	Lincoln	subj:>2	@SUBJ N
+2	was	be	main:>0	@+FMAINV V
+3	our	we	attr:>4	@A> PRON
+4	country's	country	attr:>5	@A> N
+5	16th	16th	attr:>6	@A> NUM
+6	President	president	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	born	bear	main:>0	@-FMAINV EN
+4	in	in	tmp:>3	@ADVL PREP
+5	1809	1809	pcomp:>4	@<P NUM
+6	to	to		@<NOM PREP	@ADVL PREP
+7	a	a	det:>9	@DN> DET
+8	poor	poor	attr:>9	@A> A
+9	family	family	pcomp:>6	@<P N
+10	in	in	mod:>9	@<NOM PREP
+11	Kentucky	Kentucky	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	he	he	subj:>3	@SUBJ PRON
+3	was	be	tmp:>8	@+FMAINV V
+4	small	small	comp:>3	@PCOMPL-S A
+	$,	
+6	his	he	attr:>7	@A> PRON
+7	mother	mother	subj:>8	@SUBJ N
+8	died	die	main:>0	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	As	as	pm:>3	@CS CS
+2	he	he	subj:>3	@SUBJ PRON
+3	grew	grow	man:>7	@+FMAINV V
+4	older	old	man:>3	@ADVL A
+	$,	
+6	he	he	subj:>7	@SUBJ PRON
+7	learned	learn	main:>0	@+FMAINV V
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	do	do	obj:>7	@-FMAINV V
+10	farm	farm	attr:>11	@A> N
+11	chores	chore	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Still	still	meta:>5	@ADVL ADV
+	$,	
+3	he	he	subj:>5	@SUBJ PRON
+4	always	always	frq:>5	@ADVL ADV
+5	found	find	main:>0	@+FMAINV V
+6	time	time	obj:>5	@OBJ N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	read	read	mod:>6	@-FMAINV V
+9	books	book	obj:>8	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Before	before	pm:>3	@CS CS
+2	he	he	subj:>3	@SUBJ PRON
+3	was	be	tmp:>9	@+FMAINV V
+4	our	we	attr:>5	@A> PRON
+5	country's	country	attr:>6	@A> N
+6	leader	leader	comp:>3	@PCOMPL-S N
+	$,	
+8	Lincoln	Lincoln	subj:>9	@SUBJ N
+9	held	hold	main:>0	@+FMAINV V
+10	many	many	det:>11	@DN> DET
+11	jobs	job	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	owned	own	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	store	store	obj:>2	@OBJ N
+5	and	and	cc:>2	@CC CC
+6	worked	work	cc:>2	@+FMAINV V
+7	for	for	ha:>6	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	post	post	attr:>10	@A> N
+10	office	office	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	learned	learn	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	speak	speak	obj:>2	@-FMAINV V
+5	well	well	man:>4	@ADVL ADV
+6	and	and	cc:>2	@CC CC
+7	became	become	cc:>2	@+FMAINV V
+8	a	a	det:>9	@DN> DET
+9	lawyer	lawyer	comp:>7	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	Lincoln	Lincoln	subj:>2	@SUBJ N
+2	is	be	v-ch:>3	@+FAUXV V
+3	survived	survive	main:>0	@-FMAINV EN
+4	by	by	agt:>3	@ADVL PREP
+5	his	he	attr:>6	@A> PRON
+6	wife	wife	pcomp:>4	@<P N
+	$,	
+8	Mary	Mary		@A> N
+	$,	
+10	and	and		@CC CC
+11	their	they	attr:>12	@A> PRON
+12	three	three	qn:>13	@QN> NUM
+13	sons	son		@SUBJ N	@OBJ N	@APP N	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	16th	16th	attr:>5	@A> NUM
+5	President	president	comp:>2	@PCOMPL-S N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	the	the	det:>9	@DN> DET
+8	United	unite	attr:>9	@A> A
+9	States	state	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	happened	happen	main:>0	@+FMAINV V
+3	to	to	ha:>2	@ADVL PREP
+4	him	he	pcomp:>3	@<P PRON
+5	on	on	tmp:>2	@ADVL PREP
+6	April	April	pcomp:>5	@<P N
+7	14	14	mod:>6	@<NOM NUM
+	$,	
+9	1865	1865	mod:>7	@ADVL NUM
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	was	be	v-ch:>4	@+FAUXV V
+3	he	he	subj:>2	@SUBJ PRON
+4	born	bear	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	was	be	v-ch:>4	@+FAUXV V
+3	he	he	subj:>2	@SUBJ PRON
+4	born	bear	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	will	will	v-ch:>4	@+FAUXV V
+3	Lincoln	Lincoln	subj:>2	@SUBJ N
+4	be	be	v-ch:>5	@-FAUXV V
+5	remembered	remember	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+

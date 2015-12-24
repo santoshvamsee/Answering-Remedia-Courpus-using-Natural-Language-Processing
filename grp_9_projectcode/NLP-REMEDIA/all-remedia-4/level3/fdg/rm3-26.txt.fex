@@ -1,0 +1,271 @@
+ 9999 99       0       O      N              Jet           attr/A            -----      1
+ 9999 99       1       O      N        Airplanes         NOFUNC/A            -----     -1
+ 9999 99       2       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV              Off         phr/ADVL            -----      2
+ 9999 99       4       O    SEP                !         phr/ADVL            ?????     -1
+
+ 9999 99       0       O    SEP                (         phr/ADVL            ?????     -1
+ 9999 99       1       O      N              LOS           attr/A            -----      2
+ 9999 99       2       O      N          ANGELES       NOFUNC/APP            -----     -1
+ 9999 99       3       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       4       O    NUM             1950        NOFUNC/NH            -----     -1
+ 9999 99       5       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       6       O     --               $-          NOFUNC/            -----     -1
+ 9999 99       7       O      N        Airplanes        subj/SUBJ            -----      8
+ 9999 99       8       O      V             T_be       v-ch/FAUXV            -----      9
+ 9999 99       9       O    ING            T_get      main/FMAINV            -----     -1
+ 9999 99      10       O      A           bigger           comp/S            -----      9
+ 9999 99      11       O     CC              and            cc/CC            -----     10
+ 9999 99      12       O      A           better           attr/A            -----     13
+ 9999 99      13       O      N     all_the_time             cc/S            -----     10
+ 9999 99      14       O    SEP                .             cc/S            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      2
+ 9999 99       1       O      A              new           attr/A            -----      2
+ 9999 99       2       O      N            plane        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      5
+ 9999 99       4       O    ADV             just          ha/ADVL            -----      6
+ 9999 99       5       O     EN             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN          T_build      main/FMAINV            -----     -1
+ 9999 99       7       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      4
+ 9999 99       4       O      N              jet           comp/S            -----      2
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O      V           T_need      main/FMAINV            -----     -1
+ 9999 99       4       O      N       propellers         subj/OBJ            -----      6
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V           T_stay       obj/FMAINV            -----      3
+ 9999 99       7       O   PREP               in         loc/ADVL            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N              air          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N              jet        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      A          special           attr/A            -----      5
+ 9999 99       5       O      N           engine          obj/OBJ            -----      2
+ 9999 99       6       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_suck      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in          ha/ADVL            -----      1
+ 9999 99       3       O      N              air          pcomp/P            -----      2
+ 9999 99       4       O   PREP               at       NOFUNC/NOM            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N            front          pcomp/P            -----      4
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N            plane          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N              air        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_get      main/FMAINV            -----     -1
+ 9999 99       3       O      A           pushed           comp/S            -----      2
+ 9999 99       4       O    ADV              out      NOFUNC/ADVL            -----     -1
+ 9999 99       5       O   PREP               at          ha/ADVL            -----      2
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N             back          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_help      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON               it         subj/OBJ            -----      4
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V           T_stay       obj/FMAINV            -----      1
+ 9999 99       5       O      A             high           comp/S            -----      4
+ 9999 99       6       O   PREP               in         loc/ADVL            -----      4
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N              sky          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET               An           det/DN            -----      2
+ 9999 99       1       O      A            older           attr/A            -----      2
+ 9999 99       2       O      N            plane        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_may       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N        propeller          obj/OBJ            -----      4
+ 9999 99       7       O   PRON             that        subj/SUBJ            -----      8
+ 9999 99       8       O      V           T_quit       mod/FMAINV            -----      6
+ 9999 99       9       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O      V         T_happen      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP             with          ha/ADVL            -----      3
+ 9999 99       5       O      N             jets          pcomp/P            -----      4
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N           Pilots        NOFUNC/NH            -----     -1
+ 9999 99       1       O   PREP             like          mod/NOM            -----      0
+ 9999 99       2       O      N             jets          pcomp/P            -----      1
+ 9999 99       3       O     CS          because            pm/CS            -----      5
+ 9999 99       4       O   PRON             they        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_lift      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP              off          ha/ADVL            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N           ground          pcomp/P            -----      6
+ 9999 99       9       O   PREP             with       NOFUNC/NOM            -----     -1
+ 9999 99      10       O      N             ease          pcomp/P            -----      9
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N        Airplanes        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       2       O    ADV             also      NOFUNC/ADVL            -----     -1
+ 9999 99       3       O    ING            T_get      main/FMAINV            -----     -1
+ 9999 99       4       O      A           bigger           comp/S            -----      3
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      2
+ 9999 99       1       O      A    160-foot-long           attr/A            -----      2
+ 9999 99       2       O      N            plane        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       4       O    ADV             just      NOFUNC/ADVL            -----     -1
+ 9999 99       5       O     EN          T_build      main/FMAINV            -----     -1
+ 9999 99       6       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O     CS               If            pm/CS            -----      3
+ 9999 99       1       O   PRON              you        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_could       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V          T_stand       cnd/FMAINV            -----     11
+ 9999 99       4       O   PRON               it          obj/OBJ            -----      3
+ 9999 99       5       O   PREP               on         loc/ADVL            -----      3
+ 9999 99       6       O   PRON              its           attr/A            -----      7
+ 9999 99       7       O      N              end          pcomp/P            -----      5
+ 9999 99       8       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       9       O   PRON               it        subj/SUBJ            -----     10
+ 9999 99      10       O      V          T_would       v-ch/FAUXV            -----     11
+ 9999 99      11       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99      12       O    NUM               16            qn/QN            -----     13
+ 9999 99      13       O      N          stories           comp/S            -----     11
+ 9999 99      14       O      A             tall         copred/S            -----     11
+ 9999 99      15       O    SEP                .         copred/S            ?????     -1
+
+ 9999 99       0       O      N           Planes        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O    ING            T_fly      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV           faster         man/ADVL            -----      2
+ 9999 99       4       O    ADV              now          ad/ADVL            -----      3
+ 9999 99       5       O    SEP                .          ad/ADVL            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N            plane        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V            T_fly      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV           faster         man/ADVL            -----      3
+ 9999 99       5       O   PREP             than         mod/ADVL            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            speed          pcomp/P            -----      5
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O      N            sound          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N           People        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_think      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON             this        subj/SUBJ            -----      3
+ 9999 99       3       O      V          T_could       v-ch/FAUXV            -----      5
+ 9999 99       4       O NEG-PART              not         neg/ADVL            -----      3
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN             T_do       obj/FMAINV            -----      1
+ 9999 99       7       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      2
+ 9999 99       1       O      N           planes        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_fly       tmp/FMAINV            -----      7
+ 9999 99       3       O     CS             that            pm/CS            -----      4
+ 9999 99       4       O      A             fast         man/ADVL            -----      2
+ 9999 99       5       O    SEP                ,         man/ADVL            ?????     -1
+ 9999 99       6       O   PRON             they        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       8       O    DET                a           det/DN            -----     10
+ 9999 99       9       O      A              big           attr/A            -----     10
+ 9999 99      10       O      N             boom          obj/OBJ            -----      7
+ 9999 99      11       O   PREP               in          mod/NOM            -----     10
+ 9999 99      12       O    DET              the           det/DN            -----     13
+ 9999 99      13       O      N              sky          pcomp/P            -----     11
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             boom        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN           T_hear      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP               on          ha/ADVL            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O      N           ground           attr/A            -----      8
+ 9999 99       8       O      N            miles          pcomp/P            -----      5
+ 9999 99       9       O    ADV             away         loc/ADVL            -----      4
+ 9999 99      10       O    SEP                .         loc/ADVL            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_like      main/FMAINV            -----     -1
+ 9999 99       2       O INFMARK               to       pm/INFMARK            -----      3
+ 9999 99       3       O      V            T_fly       obj/FMAINV            -----      1
+ 9999 99       4       O      N             jets          obj/OBJ            -----      3
+ 9999 99       5       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What          obj/OBJ            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N             jets        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP       instead_of          ha/ADVL            -----      3
+ 9999 99       5       O      N       propellers          pcomp/P            -----      4
+ 9999 99       6       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      5
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N              jet        subj/SUBJ            -----      1
+ 9999 99       4       O    NUM            first      NOFUNC/SUBJ            -----     -1
+ 9999 99       5       O     EN            T_use      main/FMAINV            -----     -1
+ 9999 99       6       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON              you        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_hear      main/FMAINV            -----     -1
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N             boom          obj/OBJ            -----      3
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N              jet        subj/SUBJ            -----      1
+ 9999 99       4       O      V           T_suck      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP               in          ha/ADVL            -----      4
+ 9999 99       6       O      N              air         NOFUNC/P            -----     -1
+ 9999 99       7       O     CC              and            cc/CC            -----      4
+ 9999 99       8       O      V           T_push        cc/FMAINV            -----      4
+ 9999 99       9       O   PRON               it          obj/OBJ            -----      8
+ 9999 99      10       O    ADV             back      NOFUNC/ADVL            -----     -1
+ 9999 99      11       O    ADV              out         loc/ADVL            -----      8
+ 9999 99      12       O    SEP                ?         loc/ADVL            ?????     -1
+

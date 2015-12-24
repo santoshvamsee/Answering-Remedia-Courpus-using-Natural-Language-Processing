@@ -1,0 +1,352 @@
+0		
+	$<p>	
+
+0		
+1	Human	human	attr:>2	@A> A
+2	Voices	voice	main:>0	@NH N
+3	Carried	carry	mod:>2	@-FMAINV EN
+4	Across	across	ha:>3	@ADVL PREP
+5	The	the	det:>6	@DN> DET
+6	Sea	sea	pcomp:>4	@<P N
+	$<p>	
+
+0		
+	$(	
+2	The	the	det:>4	@DN> DET
+3	Atlantic	Atlantic	attr:>4	@A> A
+4	Ocean	ocean		@APP N
+	$,	
+6	December	December	main:>1	@NH N
+7	25	25	mod:>6	@<NOM NUM
+	$,	
+9	1906	1906	mod:>7	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Last	last	det:>2	@DN> DET
+2	night	night	tmp:>8	@ADVL N
+	$,	
+4	most	many	det:>5	@DN> DET
+5	sailors	sailor	subj:>8	@SUBJ N
+6	at	at	mod:>5	@<NOM PREP
+7	sea	sea	pcomp:>6	@<P N
+8	were	be	main:>0	@+FMAINV V
+9	too	too	ad:>10	@AD-A> ADV
+10	busy	busy	comp:>8	@PCOMPL-S A
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	think	think	mod:>10	@-FMAINV V
+13	about	about	phr:>12	@ADVL PREP
+14	Christmas	Christmas	attr:>15	@A> N
+15	Eve	eve	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	something	something	subj:>4	@SUBJ PRON
+3	remarkable	remarkable	mod:>2	@<NOM A
+4	happened	happen	main:>0	@+FMAINV V
+5	as	as	pm:>7	@CS CS
+6	they	they	subj:>7	@SUBJ PRON
+7	worked	work	man:>4	@+FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	Through	through	cla:>6	@ADVL PREP
+2	their	they	attr:>3	@A> PRON
+3	earphones	earphone	pcomp:>1	@<P N
+	$,	
+5	they	they	subj:>6	@SUBJ PRON
+6	heard	hear	main:>0	@+FMAINV V
+7	the	the	det:>8	@DN> DET
+8	sound	sound	obj:>6	@OBJ N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	human	human	attr:>11	@A> A
+11	voices	voice	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Instead_of	instead_of		@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	code	code	pcomp:>1	@<P N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	dots	dot	pcomp:>4	@<P N
+6	and	and		@CC CC
+7	dashes	dash		@SUBJ N	@OBJ N	@<P N
+8	they	they	subj:>10	@SUBJ PRON
+9	usually	usual	frq:>10	@ADVL ADV
+10	hear	hear	obj:>14	@+FMAINV V
+	$,	
+12	they	they	subj:>14	@SUBJ PRON
+13	actually	actual	meta:>14	@ADVL ADV
+14	heard	hear	main:>0	@+FMAINV V
+15	words	word		@SUBJ N	@OBJ N
+16	spoken	speak	mod:>15	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Never	never		@ADVL ADV
+2	before	before	>3	@ADVL ADV
+3	had	have	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	sound	sound	obj:>3	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	the	the	det:>9	@DN> DET
+8	human	human	attr:>9	@A> A
+9	voice	voice	pcomp:>6	@<P N
+10	been	be	v-ch:>11	@-FAUXV EN
+11	carried	carry	mod:>9	@-FMAINV EN
+12	over	over	ha:>11	@ADVL PREP
+13	their	they	attr:>14	@A> PRON
+14	wireless	wireless	attr:>15	@A> A
+15	machines	machine	pcomp:>12	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	sailors	sailor	subj:>3	@SUBJ N
+3	heard	hear	main:>0	@+FMAINV V
+4	a	a	det:>5	@DN> DET
+5	woman	woman	subj:>6	@OBJ N
+6	sing	sing	obj:>3	@-FMAINV V
+7	a	a	det:>9	@DN> DET
+8	Christmas	Christmas	attr:>9	@A> N
+9	carol	carol	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	heard	hear	main:>0	@+FMAINV V
+4	music	music	obj:>3	@OBJ N
+5	from	from	sou:>3	@ADVL PREP
+6	a	a	det:>7	@DN> DET
+7	violin	violin	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	second	second	attr:>3	@A> NUM
+3	person	person		@NH N	@SUBJ N
+4	read	read	subj:>5	@-FMAINV EN	@+FMAINV V
+5	lines	line	main:>0	@+FMAINV V
+6	from	from	ha:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	Bible	bible	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>5	@ADVL ADV
+2	a	a	det:>4	@DN> DET
+3	third	third	attr:>4	@A> NUM
+4	voice	voice	subj:>5	@SUBJ N
+5	wished	wish	main:>0	@+FMAINV V
+6	them	they	dat:>5	@I-OBJ PRON
+7	all	all	mod:>6	@APP PRON
+8	a	a	det:>11	@DN> DET
+	$"_	
+10	Merry	merry	attr:>11	@A> A
+11	Christmas	Christmas		@SUBJ N
+	$.	
+	$_"	
+	$<p>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	man	man	subj:>5	@SUBJ N
+3	named	name	mod:>2	@-FMAINV EN
+4	Fessenden	fessenden	obj:>3	@OBJ N
+5	made	make	main:>0	@+FMAINV V
+6	this	this	det:>7	@DN> DET
+7	event	event	obj:>5	@OBJ N
+8	happen	happen		@-FMAINV V	@<P-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	been	be	v-ch:>4	@-FAUXV EN
+4	working	work	main:>0	@-FMAINV ING
+5	with	with	ha:>4	@ADVL PREP
+6	sound	sound	attr:>7	@A> A
+7	waves	wave	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Last	last	det:>2	@DN> DET
+2	night	night	tmp:>5	@ADVL N
+	$,	
+4	he	he	subj:>5	@SUBJ PRON
+5	proved	prove	main:>0	@+FMAINV V
+6	that	that	pm:>12	@CS CS
+7	speech	speech	cc:>9	@SUBJ N
+8	and	and	cc:>9	@CC CC
+9	music	music	subj:>10	@SUBJ N
+10	can	can	v-ch:>11	@+FAUXV V
+11	be	be	v-ch:>12	@-FAUXV V
+12	carried	carry	comp:>5	@-FMAINV EN
+13	long	long	attr:>14	@A> A
+14	distances	distance	obj:>12	@OBJ N
+15	without	without	man:>12	@ADVL PREP
+16	using	use	pcomp:>15	@<P-FMAINV ING
+17	wires	wire	obj:>16	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	method	method	subj:>8	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	sending	send	pcomp:>3	@<P-FMAINV ING
+5	voices	voice	obj:>4	@OBJ N
+6	and	and	cc:>5	@CC CC
+7	music	music	cc:>5	@<P N
+8	is	be	v-ch:>9	@+FAUXV V
+9	called	call	main:>0	@-FMAINV EN
+10	a	a	det:>12	@DN> DET
+	$"_	
+12	broadcast	broadcast		@SUBJ N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	have	have	main:>0	@-FMAINV V
+4	many	many	det:>5	@DN> DET
+5	uses	use	obj:>3	@OBJ N
+6	in	in	dur:>3	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	future	future	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Sailors	sailor	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	able	able	comp:>3	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	send	send	mod:>4	@-FMAINV V
+7	messages	message	obj:>6	@OBJ N
+8	much	much	ad:>9	@AD-A> ADV
+9	faster	fast		@PCOMPL-O A	@OBJ A	@I-OBJ A	@ADVL A	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>5	@SUBJ N
+2	in	in	mod:>1	@<NOM PREP
+3	two	two	qn:>4	@QN> NUM
+4	cities	city	pcomp:>2	@<P N
+5	will	will	v-ch:>6	@+FAUXV V
+6	be	be	main:>0	@-FMAINV V
+7	able	able	comp:>6	@PCOMPL-S A
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	talk	talk	mod:>7	@-FMAINV V
+10	to	to	ha:>9	@ADVL PREP
+11	each_other	each_other	pcomp:>10	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	Fessenden	fessenden	subj:>2	@SUBJ N
+2	gave	give	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	sailors	sailor	obj:>2	@OBJ N
+5	a	a	det:>7	@DN> DET
+6	Christmas	Christmas	attr:>7	@A> N
+7	present	present		@SUBJ N
+8	they	they	subj:>9	@SUBJ PRON
+9	will	will	v-ch:>11	@+FAUXV V
+10	never	never	frq:>11	@ADVL ADV
+11	forget	forget	mod:>7	@-FMAINV V
+	$!	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	received	receive	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	surprise	surprise	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	did	do	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	hear	hear	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	surprise	surprise	subj:>2	@SUBJ N
+5	happen	happen	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	this	this	det:>4	@DN> DET
+4	method	method	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	sending	send	pcomp:>5	@<P-FMAINV ING
+7	voices	voice	obj:>6	@OBJ N
+8	and	and	cc:>2	@CC CC
+9	music	music	subj:>10	@SUBJ N
+10	called	call	cc:>2	@+FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	were	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	sounds	sound		@SUBJ N
+5	a	a	det:>6	@DN> DET
+6	surprise	surprise	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+

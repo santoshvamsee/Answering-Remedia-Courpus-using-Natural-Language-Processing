@@ -1,0 +1,362 @@
+0		
+	$<p>	
+
+0		
+1	Sun	sun	attr:>2	@A> N
+2	Storms	storm	attr:>3	@A> N
+3	Cause	cause	attr:>4	@A> N
+4	Trouble	trouble	main:>0	@NH N
+	$<p>	
+
+0		
+	$(	
+2	The	the	det:>3	@DN> DET
+3	Sun	sun		@APP N
+	$,	
+5	March	march	main:>1	@NH N
+6	10	10	mod:>5	@<NOM NUM
+	$,	
+8	1989	1989		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Some	some	ad:>2	@AD-A> ADV
+2	93	93	qn:>3	@QN> NUM
+3	million	million	qn:>4	@QN> NUM
+4	miles	mile		@NH N	@SUBJ N	@PCOMPL-S N	@ADVL N
+5	from	from		@<NOM PREP
+6	Earth	earth	pcomp:>5	@<P N
+	$,	
+8	the	the	det:>9	@DN> DET
+9	sun	sun	subj:>10	@SUBJ N
+10	is	be	v-ch:>11	@+FAUXV V
+11	causing	cause	main:>0	@-FMAINV ING
+12	problems	problem	obj:>11	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	week	week	tmp:>6	@ADVL N
+	$,	
+4	fierce	fierce	attr:>5	@A> A
+5	storms	storm	subj:>6	@SUBJ N
+6	broke	break	main:>0	@+FMAINV V
+7	out	out	phr:>6	@ADVL ADV
+8	on	on	loc:>6	@ADVL PREP
+9	the	the	det:>11	@DN> DET
+10	sun's	sun	attr:>11	@A> N
+11	surface	surface	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	so	so	ad:>4	@AD-A> ADV
+4	strong	strong	comp:>2	@PCOMPL-S A
+5	that	that	pm:>8	@CS CS
+6	they	they	subj:>7	@SUBJ PRON
+7	have	have	v-ch:>8	@+FAUXV V
+8	caused	cause	mod:>3	@-FMAINV EN
+9	some	some	obj:>8	@OBJ PRON
+10	of	of	mod:>9	@<NOM-OF PREP
+11	our	we	attr:>12	@A> PRON
+12	satellites	satellite	pcomp:>10	@<P N
+13	in	in	mod:>12	@<NOM PREP
+14	space	space	pcomp:>13	@<P N
+15	to	to	pm:>16	@INFMARK> INFMARK>
+16	slow	slow	cnt:>8	@-FMAINV V
+17	down	down	phr:>16	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	These	this	det:>2	@DN> DET
+2	storms	storm	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	called	call	main:>0	@-FMAINV EN
+5	solar	solar	attr:>6	@A> A
+6	flares	flare	comp:>4	@PCOMPL-S N
+	$,	
+8	and	and	cc:>4	@CC CC
+9	they	they	subj:>10	@SUBJ PRON
+10	seem	seem	cc:>4	@+FMAINV V
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	happen	happen	comp:>10	@-FMAINV V
+13	about	about	ad:>14	@AD-A> ADV
+14	once	once	frq:>12	@ADVL ADV
+15	every	every	det:>17	@DN> DET
+16	11	11	qn:>17	@QN> NUM
+17	years	year	tmp:>12	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	last	last	det:>4	@DN> DET
+3	big	big	attr:>4	@A> A
+4	flares	flare	subj:>5	@SUBJ N
+5	were	be	main:>0	@+FMAINV V
+6	in	in	tmp:>5	@ADVL PREP
+7	1979	1979	pcomp:>6	@<P NUM
+	$,	
+9	so	so	pm:>12	@CS CS
+10	they	they	subj:>11	@SUBJ PRON
+11	are	be	v-ch:>12	@+FAUXV V
+12	arriving	arrive	cnt:>5	@-FMAINV ING
+13	a_little	a_little	comp:>12	@PCOMPL-S A
+14	early	early	tmp:>12	@ADVL ADV
+15	this	this	det:>16	@DN> DET
+16	time	time	mod:>14	@ADVL N
+	$.	
+	$<p>	
+
+0		
+1	During	during	cla:>7	@ADVL PREP
+2	a	a	det:>3	@DN> DET
+3	flare	flare	pcomp:>1	@<P N
+	$,	
+5	the	the	det:>6	@DN> DET
+6	sun	sun	subj:>7	@SUBJ N
+7	shoots	shoot	main:>0	@+FMAINV V
+8	forth	forth	ha:>7	@ADVL ADV
+9	tons	ton	obj:>7	@OBJ N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	hot	hot	attr:>12	@A> A
+12	gas	gas	pcomp:>10	@<P N
+13	at	at		@<NOM PREP	@ADVL PREP
+14	high	high	attr:>15	@A> A
+15	speeds	speed	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	takes	take	main:>0	@+FMAINV V
+3	only	only	ad:>4	@AD-A> ADV
+4	eight	eight	qn:>5	@QN> NUM
+5	minutes	minute	obj:>2	@OBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	feel	feel	mod:>1	@-FMAINV V
+8	the	the	det:>9	@DN> DET
+9	results	result	comp:>7	@PCOMPL-S N
+10	on	on	loc:>7	@ADVL PREP
+11	Earth	earth	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	blast	blast	subj:>3	@SUBJ N
+3	can	can	v-ch:>4	@+FAUXV V
+4	cause	cause	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	power	power	subj:>8	@OBJ N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	shut	shut	obj:>4	@-FMAINV V
+9	off	off	phr:>8	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Automatic	automatic	attr:>2	@A> A
+2	garage	garage	attr:>3	@A> N
+3	doors	door	subj:>4	@SUBJ N
+4	may	may	v-ch:>5	@+FAUXV V
+5	open	open	main:>0	@-FMAINV V
+6	and	and	cc:>5	@CC CC
+7	close	close	cc:>5	@-FMAINV V
+8	on	on	loc:>7	@ADVL PREP
+9	their	they	attr:>10	@A> PRON
+10	own	own	pcomp:>8	@<P A
+	$.	
+	$<s>	
+
+0		
+1	Radios	radio	subj:>2	@SUBJ N
+2	may	may	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	hard	hard	comp:>3	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	hear	hear	mod:>4	@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	One	one	subj:>9	@SUBJ NUM
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	signs	sign	pcomp:>2	@<P N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	solar	solar	attr:>8	@A> A
+8	flares	flare	pcomp:>6	@<P N
+9	are	be	main:>0	@+FMAINV V
+10	dark	dark	attr:>11	@A> A
+11	spots	spot	comp:>9	@PCOMPL-S N
+12	on	on	ha:>9	@ADVL PREP
+13	the	the	det:>14	@DN> DET
+14	sun	sun	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	These	this	det:>2	@DN> DET
+2	sunspots	sunspot	subj:>3	@SUBJ N
+3	can	can	main:>0	@+FAUXV V
+	$<p>	
+
+0		
+1	be	be	main:>0	@+FMAINV V
+2	huge	huge	comp:>1	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ones	one		@SUBJ PRON	@OBJ PRON	@PCOMPL-S PRON	@APP PRON	@<P PRON
+3	that	that	subj:>7	@SUBJ PRON
+4	scientists	scientist	subj:>5	@SUBJ N
+5	can	can	v-ch:>6	@+FAUXV V
+6	see	see	mod:>2	@-FMAINV V
+7	are	be	main:>0	@+FMAINV V
+8	big	big	comp:>7	@PCOMPL-S A
+9	enough	enough	ad:>8	@<AD-A ADV
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	contain	contain	cnt:>7	@-FMAINV V
+12	70	70	qn:>13	@QN> NUM
+13	planets	planet	obj:>11	@OBJ N
+14	the	the	det:>15	@DN> DET
+15	size	size		@SUBJ N	@OBJ N
+16	of	of	mod:>15	@<NOM-OF PREP
+17	Earth	earth	pcomp:>16	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	solar	solar	attr:>3	@A> A
+3	flares	flare	subj:>4	@SUBJ N
+4	are	be	main:>0	@+FMAINV V
+5	not	not	neg:>4	@ADVL NEG-PART
+6	all	all	det:>7	@DN> DET
+7	bad	bad	comp:>4	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	cause	cause	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	night	night	attr:>5	@A> N
+5	sky	sky	subj:>7	@OBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	light	light	obj:>2	@-FMAINV V
+8	up	up	ha:>7	@ADVL ADV
+9	with	with		@ADVL PREP
+10	beautiful	beautiful	attr:>11	@A> A
+11	colors	color	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	These	this	subj:>2	@SUBJ PRON
+2	are	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	the	the	det:>6	@DN> DET
+5	northern	northern	attr:>6	@A> A
+6	lights	light	comp:>3	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	causing	cause	main:>0	@-FMAINV ING
+4	automatic	automatic	attr:>5	@A> A
+5	garage	garage	attr:>6	@A> N
+6	doors	door	subj:>8	@OBJ N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	open	open	obj:>3	@-FMAINV V
+9	and	and	cc:>8	@CC CC
+10	close	close	cc:>8	@-FMAINV V
+11	on	on	loc:>10	@ADVL PREP
+12	their	they	attr:>13	@A> PRON
+13	own	own	pcomp:>11	@<P A
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>5	@OBJ PRON
+2	are	be	v-ch:>5	@+FAUXV V
+3	these	this	det:>4	@DN> DET
+4	storms	storm	subj:>2	@SUBJ N
+5	called	call	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when		@ADVL ADV
+2	was	be	v-ch:>8	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	last	last	attr:>5	@DN> DET
+5	time	time	tmp:>8	@ADVL N
+6	these	this	det:>7	@DN> DET
+7	storms	storm	subj:>2	@SUBJ N
+8	happened	happen	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	sun	sun	subj:>2	@SUBJ N
+	$(	
+6	how	how	ad:>7	@AD-A> ADV
+7	far	far		@ADVL ADV	@AD-A> ADV
+8	from	from		@ADVL PREP
+9	Earth	earth	pcomp:>8	@<P N
+	$)	
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	are	be	main:>0	@+FMAINV V
+3	these	this	det:>4	@DN> DET
+4	storms	storm	subj:>2	@SUBJ N
+5	not	not	neg:>7	@ADVL NEG-PART
+6	all	all	det:>7	@DN> DET
+7	bad	bad	comp:>2	@PCOMPL-S A
+	$?	
+	$<p>	
+

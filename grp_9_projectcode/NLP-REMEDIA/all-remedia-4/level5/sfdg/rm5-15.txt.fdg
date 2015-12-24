@@ -1,0 +1,369 @@
+0		
+	$<p>	
+
+0		
+1	Tennis	tennis	attr:>2	@A> N
+2	Queen	queen	attr:>3	@A> N
+3	Is	be	main:>0	@+FMAINV V
+4	Only	only	meta:>5	@ADVL ADV
+5	18	18	comp:>3	@PCOMPL-S NUM
+	$<p>	
+
+0		
+	$(	
+2	LONDON	London	main:>1	@NH N
+	$,	
+4	ENGLAND	England		@NH N
+	$,	
+6	July	July		@APP N	@A> N	@ADVL N
+7	6,1974	6,1974		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	All	all	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	England	England	pcomp:>2	@<P N
+4	is	be	v-ch:>5	@+FAUXV V
+5	talking	talk	main:>0	@-FMAINV ING
+6	about	about	ha:>5	@ADVL PREP
+7	the	the	det:>9	@DN> DET
+8	new	new	attr:>9	@A> A
+9	queen	queen	pcomp:>6	@<P N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	tennis	tennis	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Young	young	attr:>2	@A> A
+2	Chris	Chris	attr:>3	@A> N
+3	Evert	evert	subj:>4	@SUBJ N
+4	has	have	v-ch:>5	@+FAUXV V
+5	won	win	main:>0	@-FMAINV EN
+6	a	a	det:>8	@DN> DET
+7	big	big	attr:>8	@A> A
+8	tournament	tournament	obj:>5	@OBJ N
+9	in	in	ha:>5	@ADVL PREP
+10	England	England	attr:>11	@A> N
+11	called	call	attr:>12	@A> A
+12	Wimbledon	Wimbledon	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	only	only	>2	@ADVL ADV
+4	18	18		@SUBJ NUM	@PCOMPL-S NUM	@QN> NUM	@<NOM NUM	@ADVL NUM
+	$,	
+6	but	but	cc:>2	@CC CC
+7	she	she	subj:>8	@SUBJ PRON
+8	has	have	v-ch:>9	@+FAUXV V
+9	been	be	v-ch:>10	@-FAUXV EN
+10	playing	play	cc:>2	@-FMAINV ING
+11	tennis	tennis	comp:>10	@PCOMPL-S N
+12	since	since	pm:>14	@CS CS
+13	she	she	subj:>14	@SUBJ PRON
+14	was	be	tmp:>10	@+FMAINV V
+15	four	four	comp:>14	@PCOMPL-S NUM
+	$.	
+	$<p>	
+
+0		
+1	Chris	Chris	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	from	from	sou:>2	@ADVL PREP
+4	the	the	det:>6	@DN> DET
+5	United	unite	attr:>6	@A> A
+6	States	state	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Her	she	attr:>2	@A> PRON
+2	home	home	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	in	in	loc:>3	@ADVL PREP
+5	Florida	Florida	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>3	@SUBJ PRON
+2	first	first	mod:>1	@<NOM NUM
+3	was	be	v-ch:>4	@+FAUXV V
+4	noticed	notice	main:>0	@-FMAINV EN
+5	three	three	qn:>6	@QN> NUM
+6	years	year	tmp:>4	@ADVL N
+7	ago	ago	ad:>6	@<AD-A ADV
+8	when	when	tmp:>10	@ADVL ADV
+9	she	she	subj:>10	@SUBJ PRON
+10	showed	show		@+FMAINV V
+11	she	she	subj:>12	@SUBJ PRON
+12	could	could	v-ch:>13	@+FAUXV V
+13	beat	beat	obj:>10	@-FMAINV V
+14	older	old	attr:>15	@A> A
+15	players	player	obj:>13	@OBJ N
+16	who	who	subj:>17	@SUBJ PRON
+17	had	have	mod:>15	@+FMAINV V
+18	more	much	det:>19	@DN> DET
+19	experience	experience	obj:>17	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Chris	Chris	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	as	as	ad:>5	@AD-A> ADV
+5	big	big	comp:>2	@PCOMPL-S A
+6	or	or	cc:>5	@CC CC
+7	as	as	ad:>8	@AD-A> ADV
+8	strong	strong	cc:>5	@PCOMPL-S A
+9	as	as	mod:>8	@<NOM PREP
+10	some	some	pcomp:>9	@<P PRON
+11	of	of	mod:>10	@<NOM-OF PREP
+12	the	the	det:>13	@DN> DET
+13	other	other	attr:>14	@DN> DET
+14	players	player	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>8	@ADVL PREP
+2	fact	fact	pcomp:>1	@<P N
+	$,	
+4	as	as		@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	youngster	youngster	pcomp:>4	@<P N
+7	she	she	subj:>8	@SUBJ PRON
+8	was	be	main:>0	@+FMAINV V
+9	too	too	ad:>10	@AD-A> ADV
+10	weak	weak	comp:>8	@PCOMPL-S A
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	hit	hit	mod:>10	@-FMAINV V
+13	the	the	det:>15	@DN> DET
+14	tennis	tennis	attr:>15	@A> N
+15	balls	ball	obj:>12	@OBJ N
+16	that	that	subj:>17	@SUBJ PRON
+17	landed	land	mod:>15	@+FMAINV V
+18	on	on	ha:>17	@ADVL PREP
+19	her	she	attr:>20	@A> PRON
+20	left	left	attr:>21	@A> A
+21	side	side	pcomp:>18	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	right-handed	right-handed	comp:>2	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	So	so	meta:>10	@ADVL ADV
+2	her	she	attr:>3	@A> PRON
+3	father	father	subj:>10	@SUBJ N
+	$,	
+5	who	who	subj:>6	@SUBJ PRON
+6	is	be	mod:>3	@+FMAINV V
+7	her	she	attr:>8	@A> PRON
+8	coach	coach	comp:>6	@PCOMPL-S N
+	$,	
+10	taught	teach	main:>0	@+FMAINV V
+11	her	she	subj:>13	@OBJ PRON
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	use	use	obj:>10	@-FMAINV V
+14	both	both	det:>15	@DN> DET
+15	hands	hand	obj:>13	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>3	@ADVL ADV
+2	Chris	Chris	subj:>3	@SUBJ N
+3	hits	hit	main:>0	@+FMAINV V
+4	those	that	det:>6	@DN> DET
+5	left-side	left-side	attr:>6	@A> N
+6	balls	ball	obj:>3	@OBJ N
+7	with	with	ins:>3	@ADVL PREP
+8	her	she	attr:>9	@A> PRON
+9	two-hand	two-hand	attr:>10	@A> A
+10	backhand	backhand	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	By	by	tmp:>5	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	time	time	pcomp:>1	@<P N
+4	she	she	subj:>5	@SUBJ PRON
+5	was	be	main:>0	@+FMAINV V
+6	nine	nine	comp:>5	@PCOMPL-S NUM
+	$,	
+8	Chris	Chris	subj:>9	@SUBJ N
+9	could	could	v-ch:>10	@+FAUXV V
+10	beat	beat		@-FMAINV V
+11	any	any	obj:>10	@OBJ PRON
+12	of	of	mod:>11	@<NOM-OF PREP
+13	her	she	attr:>14	@A> PRON
+14	girlfriends	girlfriend	pcomp:>12	@<P N
+15	at	at		@<NOM PREP	@ADVL PREP
+16	tennis	tennis	pcomp:>15	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Soon	soon	tmp:>4	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	was	be	v-ch:>4	@+FAUXV V
+4	beating	beat	main:>0	@-FMAINV ING
+5	the	the	det:>6	@DN> DET
+6	boys	boy	obj:>4	@OBJ N
+7	in	in	loc:>4	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	neighborhood	neighborhood	pcomp:>7	@<P N
+	$,	
+11	too	too	meta:>4	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Her	she	attr:>2	@A> PRON
+2	parents	parent	subj:>3	@SUBJ N
+3	knew	know	main:>0	@+FMAINV V
+4	that	that	pm:>7	@CS CS
+5	she	she	subj:>6	@SUBJ PRON
+6	could	could	v-ch:>7	@+FAUXV V
+7	be	be	obj:>3	@-FMAINV V
+8	one	one	comp:>7	@PCOMPL-S NUM
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>11	@DN> DET
+11	best	good	pcomp:>9	@<P A
+	$.	
+	$<p>	
+
+0		
+1	Chris	Chris	subj:>3	@SUBJ N
+2	always	always	frq:>3	@ADVL ADV
+3	keeps	keep	main:>0	@+FMAINV V
+4	her	she	comp:>3	@PCOMPL-S PRON
+5	cool	cool		@PCOMPL-S A	@PCOMPL-O A	@OBJ A
+	$.	
+	$<s>	
+
+0		
+1	Even	even		@ADVL ADV
+2	when	when	tmp:>4	@ADVL ADV
+3	she	she	subj:>4	@SUBJ PRON
+4	misses	miss	tmp:>11	@+FMAINV V
+5	the	the	det:>6	@DN> DET
+6	ball	ball	obj:>4	@OBJ N
+	$,	
+8	she	she	subj:>9	@SUBJ PRON
+9	does_	do	v-ch:>11	@+FAUXV V
+10	n't	not	neg:>9	@ADVL NEG-PART
+11	get	get	main:>0	@-FMAINV V
+12	upset	upset	comp:>11	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	That_	that	subj:>2	@SUBJ PRON
+2	's	have	main:>0	@+FMAINV V
+3	one	one	qn:>4	@QN> NUM
+4	reason	reason	obj:>2	@OBJ N
+5	why	why	cnt:>8	@ADVL ADV
+6	the	the	det:>7	@DN> DET
+7	crowds	crowd	subj:>8	@SUBJ N
+8	like	like	mod:>4	@+FMAINV V
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	cheer	cheer	obj:>8	@-FMAINV V
+11	for	for	ha:>10	@ADVL PREP
+12	her	she	pcomp:>11	@<P PRON
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	new	new	attr:>5	@A> A
+5	queen	queen	comp:>2	@PCOMPL-S N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	tennis	tennis	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	tournament	tournament	pcomp:>5	@<P N
+8	she	she	subj:>9	@SUBJ PRON
+9	won	win	mod:>7	@+FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Chris	Chris	subj:>2	@SUBJ N
+4	start	start	main:>0	@-FMAINV V
+5	playing	play	obj:>4	@-FMAINV ING
+6	tennis	tennis	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	she	she	subj:>2	@SUBJ PRON
+4	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	do	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	crowds	crowd	subj:>2	@SUBJ N
+5	like	like	main:>0	@-FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	cheer	cheer	obj:>5	@-FMAINV V
+8	for	for	ha:>7	@ADVL PREP
+9	her	she	pcomp:>8	@<P PRON
+	$?	
+	$<p>	
+

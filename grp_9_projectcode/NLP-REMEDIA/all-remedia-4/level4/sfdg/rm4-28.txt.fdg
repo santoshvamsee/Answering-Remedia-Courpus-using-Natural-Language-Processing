@@ -1,0 +1,287 @@
+0		
+	$<p>	
+
+0		
+1	Japan	Japan	attr:>2	@A> N
+2	Attacks	attack	attr:>3	@A> N
+3	U.S.	U.S.	attr:>4	@A> ABBR
+4	Ships	ship	main:>0	@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	Pearl	pearl	attr:>3	@A> N
+3	Harbor	harbor	main:>1	@APP N
+	$,	
+5	Hawaii	Hawaii	cc:>3	@NH N
+	$,	
+7	December	December		@NH N
+8	7	7	mod:>7	@<NOM NUM
+	$,	
+10	1941	1941	mod:>8	@<NOM NUM
+	$)	
+12	Japan	Japan	subj:>13	@SUBJ N
+13	has	have	v-ch:>14	@+FAUXV V
+14	attacked	attack	main:>0	@-FMAINV EN
+15	U.S.	U.S.	attr:>16	@A> ABBR
+16	sailors	sailor	obj:>14	@OBJ N
+17	in	in	loc:>14	@ADVL PREP
+18	Hawaii	Hawaii	pcomp:>17	@<P N
+19	an	an	det:>20	@DN> DET
+20	started	start		@SUBJ A
+21	a	a	det:>22	@DN> DET
+22	war	war		@SUBJ N
+	$!	
+	$<s>	
+
+0		
+1	Japan	Japan	subj:>2	@SUBJ N
+2	dropped	drop	main:>0	@+FMAINV V
+3	their	they	attr:>4	@A> PRON
+4	bombs	bomb	obj:>2	@OBJ N
+5	while	while	cnt:>10	@ADVL ADV
+6	many	many	subj:>10	@SUBJ PRON
+7	of	of	mod:>6	@<NOM-OF PREP
+8	our	we	attr:>9	@A> PRON
+9	sailors	sailor	pcomp:>7	@<P N
+10	slept	sleep	mod:>4	@+FMAINV V
+11	aboard	aboard	ha:>10	@ADVL PREP
+12	their	they	attr:>13	@A> PRON
+13	ships	ship	pcomp:>11	@<P N
+14	early	early	tmp:>10	@ADVL ADV
+15	today	today	obj:>10	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	At_least	at_least	ad:>2	@AD-A> ADV
+2	189	189	qn:>3	@QN> NUM
+3	planes	plane	subj:>6	@SUBJ N
+4	from	from	mod:>3	@<NOM PREP
+5	Japan	Japan	pcomp:>4	@<P N
+6	dropped	drop	main:>0	@+FMAINV V
+7	the	the	det:>8	@DN> DET
+8	bombs	bomb	obj:>6	@OBJ N
+9	in	in	loc:>6	@ADVL PREP
+10	the	the	det:>12	@DN> DET
+11	first	first	attr:>12	@A> NUM
+12	attack	attack	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	One	one	qn:>2	@QN> NUM
+2	hour	hour	ad:>3	@ADVL N
+3	later	late	tmp:>8	@ADVL ADV
+	$,	
+5	171	171	qn:>6	@QN> NUM
+6	more	many	det:>7	@DN> DET
+7	planes	plane	subj:>8	@SUBJ N
+8	flew	fly		@+FMAINV V
+9	by	by	ha:>8	@ADVL ADV
+10	and	and	cc:>8	@CC CC
+11	caused	cause	cc:>8	@+FMAINV V
+12	more	much	det:>13	@DN> DET
+13	damage	damage	obj:>11	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	At_least	at_least	ad:>2	@AD-A> ADV
+2	one	one	qn:>3	@QN> NUM
+3	ship	ship	subj:>4	@SUBJ N
+4	has	have	v-ch:>5	@+FAUXV V
+5	sunk	sink	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	About	about	ad:>2	@AD-A> ADV
+2	2,300	2,300	qn:>3	@QN> NUM
+3	men	man	subj:>6	@SUBJ N
+4	on	on	mod:>3	@<NOM PREP
+5	board	board	pcomp:>4	@<P N
+6	have	have	v-ch:>7	@+FAUXV V
+7	died	die	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Another	another	det:>3	@DN> DET
+2	85	85	qn:>3	@QN> NUM
+3	ships	ship	subj:>4	@SUBJ N
+4	are	be	main:>0	@+FMAINV V
+5	at	at	loc:>4	@ADVL PREP
+6	Pearl	pearl	attr:>7	@A> N
+7	Harbor	harbor	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Most	many	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	them	they	pcomp:>2	@<P PRON
+4	have	have	v-ch:>5	@+FAUXV V
+5	been	be	v-ch:>7	@-FAUXV EN
+6	heavily	heavy	>7	@ADVL ADV
+7	damaged	damage	main:>0	@-FMAINV EN
+	$.	
+	$<p>	
+
+0		
+1	Besides	besides	cla:>13	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	ships	ship	pcomp:>1	@<P N
+	$,	
+5	150	150	qn:>7	@QN> NUM
+6	U.S.	U.S.	attr:>7	@A> ABBR
+7	planes	plane	subj:>11	@SUBJ N
+8	on	on	mod:>7	@<NOM PREP
+9	the	the	det:>10	@DN> DET
+10	ground	ground	pcomp:>8	@<P N
+11	have	have	v-ch:>12	@+FAUXV V
+12	been	be	v-ch:>13	@-FAUXV EN
+13	destroyed	destroy	main:>0	@-FMAINV EN
+	$.	
+	$<p>	
+
+0		
+1	While	while	tmp:>4	@ADVL ADV
+2	all	all		@DN> DET
+3	this	this	subj:>4	@SUBJ PRON
+4	happened	happen	tmp:>10	@+FMAINV V
+	$,	
+6	a	a	det:>7	@DN> DET
+7	group	group	subj:>10	@SUBJ N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	Japanese	Japanese	pcomp:>8	@<P N
+10	were	be	main:>0	@+FMAINV V
+11	at	at	loc:>10	@ADVL PREP
+12	the	the	det:>14	@DN> DET
+13	White	white	attr:>14	@A> A
+14	House	house	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	had	have	v-ch:>3	@+FAUXV V
+3	told	tell	main:>0	@-FMAINV EN
+4	President	president	attr:>5	@A> N
+5	Roosevelt	Roosevelt	dat:>3	@I-OBJ N
+6	they	they	subj:>7	@SUBJ PRON
+7	were	be	obj:>3	@+FMAINV V
+8	there	there	ha:>7	@ADVL ADV
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	discuss	discuss	comp:>7	@-FMAINV V
+11	peace	peace	obj:>10	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Because_of	because_of	cla:>7	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	attack	attack	pcomp:>1	@<P N
+	$,	
+5	the	the	det:>6	@DN> DET
+6	President	president	subj:>7	@SUBJ N
+7	announce	announce	main:>0	@+FMAINV V
+8	this	this	det:>9	@DN> DET
+9	morning	morning	tmp:>7	@ADVL N
+10	that	that	pm:>12	@CS CS
+11	we	we	subj:>12	@SUBJ PRON
+12	are	be	obj:>7	@+FMAINV V
+13	now	now	meta:>12	@ADVL ADV
+14	at	at	loc:>12	@ADVL PREP
+15	war	war	pcomp:>14	@<P N
+16	with	with		@<NOM PREP	@ADVL PREP
+17	the	the	det:>18	@DN> DET
+18	Japanese	Japanese	pcomp:>16	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	sad	sad	attr:>5	@A> A
+5	day	day	comp:>2	@PCOMPL-S N
+6	for	for	mod:>5	@<NOM PREP
+7	all	all	det:>8	@DN> DET
+8	Americans	American	pcomp:>6	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	attacked	attack		@+FMAINV V
+3	U.S.	U.S.	subj:>4	@SUBJ ABBR
+4	ships	ship	main:>0	@+FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	damage	damage	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	done	do	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	were	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	bombs	bomb	subj:>2	@SUBJ N
+5	dropped	drop	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	attack	attack	subj:>2	@SUBJ N
+5	take	take	main:>0	@-FMAINV V
+6	place	place	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	were	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	Japanese	Japanese	subj:>2	@SUBJ N
+5	visiting	visit	main:>0	@-FMAINV ING
+6	with	with	phr:>5	@ADVL PREP
+7	President	president	attr:>8	@A> N
+8	Roosevelt	Roosevelt	pcomp:>6	@<P N
+	$?	
+	$<p>	
+

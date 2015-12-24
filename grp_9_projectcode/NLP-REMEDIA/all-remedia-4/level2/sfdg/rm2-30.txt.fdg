@@ -1,0 +1,309 @@
+0		
+1	King	king	main:>0	@NH N
+2	and	and	cc:>1	@CC CC
+3	Queen	queen	attr:>4	@A> N
+4	Have	have	cc:>1	@NH N
+5	New	new	attr:>6	@A> A
+6	Throne	throne		@NH N
+	$<p>	
+
+0		
+	$(	
+2	EGYPT	Egypt		@NH N
+	$,	
+4	1966	1966		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	team	team	subj:>5	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	workers	worker	pcomp:>3	@<P N
+5	has	have	v-ch:>6	@+FAUXV V
+6	finished	finish	main:>0	@-FMAINV EN
+7	a	a	det:>9	@DN> DET
+8	tough	tough	attr:>9	@A> A
+9	job	job	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	have	have	v-ch:>3	@+FAUXV V
+3	spent	spend	main:>0	@-FMAINV EN
+4	five	five	qn:>5	@QN> NUM
+5	years	year	tmp:>3	@ADVL N
+6	moving	move	attr:>7	@A> A
+7	heavy	heavy	attr:>8	@A> A
+8	statues	statue	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	statues	statue	subj:>3	@SUBJ N
+3	were	be	main:>0	@+FMAINV V
+4	old	old	comp:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	about	about	ha:>2	@ADVL ADV
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	be	be	v-ch:>6	@-FAUXV V
+6	covered	cover	comp:>2	@-FMAINV EN
+7	with	with	phr:>6	@ADVL PREP
+8	water	water	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	workers	worker	subj:>3	@SUBJ N
+3	moved	move	main:>0	@+FMAINV V
+4	them	they	obj:>3	@OBJ PRON
+5	to	to	goa:>3	@ADVL PREP
+6	higher	high	attr:>7	@A> A
+7	ground	ground	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	At	at	tmp:>7	@ADVL PREP
+2	one	one	qn:>3	@QN> NUM
+3	time	time	pcomp:>1	@<P N
+	$,	
+5	the	the	det:>6	@DN> DET
+6	statues	statue	subj:>7	@SUBJ N
+7	were	be	main:>0	@+FMAINV V
+8	safe	safe	comp:>7	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	v-ch:>3	@+FAUXV V
+3	carved	carve	main:>0	@-FMAINV EN
+4	in	in	loc:>3	@ADVL PREP
+5	rock	rock	pcomp:>4	@<P N
+6	next_to	next_to	mod:>5	@<NOM PREP
+7	the	the	det:>9	@DN> DET
+8	Nile	Nile	attr:>9	@A> N
+9	River	river	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>6	@ADVL ADV
+2	a	a	det:>4	@DN> DET
+3	big	big	attr:>4	@A> A
+4	dam	dam	subj:>5	@SUBJ N
+5	was	be	v-ch:>6	@+FAUXV V
+6	built	build	main:>0	@-FMAINV EN
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	hold	hold	cnt:>6	@-FMAINV V
+9	back	back	ha:>8	@ADVL ADV
+10	the	the	det:>11	@DN> DET
+11	water	water	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	dam	dam	subj:>3	@SUBJ N
+3	formed	form	main:>0	@+FMAINV V
+4	a	a	det:>5	@DN> DET
+5	lake	lake	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	lake	lake	subj:>3	@SUBJ N
+3	would	would	v-ch:>4	@+FAUXV V
+4	keep	keep	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	Nile	Nile	obj:>4	@OBJ N
+7	from	from	sou:>4	@ADVL PREP
+8	flooding	flood	pcomp:>7	@<P-FMAINV ING
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	would	would	v-ch:>4	@+FAUXV V
+3	also	also	>4	@ADVL ADV
+4	cover	cover	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	statues	statue	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Piece	piece		@NH N	@SUBJ N
+2	by	by	mod:>1	@<NOM PREP
+3	piece	piece	pcomp:>2	@<P N
+	$,	
+5	the	the	det:>6	@DN> DET
+6	statues	statue	subj:>7	@SUBJ N
+7	were	be	v-ch:>8	@+FAUXV V
+8	moved	move	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Four	four	qn:>3	@QN> NUM
+2	big	big	comp:>4	@PCOMPL-S A
+3	ones	one	subj:>4	@SUBJ PRON
+4	went	go	main:>0	@+FMAINV V
+5	first	first		@PCOMPL-S NUM	@SUBJ NUM	@ADVL NUM	@<NOM NUM	@ADVL NUM
+	$.	
+	$<s>	
+
+0		
+1	Six	six	qn:>3	@QN> NUM
+2	smaller	small	attr:>3	@A> A
+3	ones	one	subj:>4	@SUBJ PRON
+4	followed	follow	main:>0	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	statues	statue	comp:>2	@PCOMPL-S N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	a	a	det:>6	@DN> DET
+6	king	king	pcomp:>4	@<P N
+7	and	and	cc:>6	@CC CC
+8	queen	queen	cc:>6	@<P N
+9	from	from	mod:>8	@<NOM PREP
+10	Egypt	Egypt	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Even	even	meta:>4	@ADVL ADV
+2	the	the	det:>4	@DN> DET
+3	smaller	small	attr:>4	@A> A
+4	ones	one	subj:>5	@SUBJ PRON
+5	were	be	main:>0	@+FMAINV V
+6	much	much	ad:>7	@AD-A> ADV
+7	taller	tall	comp:>5	@PCOMPL-S A
+8	than	than	mod:>7	@ADVL PREP
+9	most	many	det:>10	@DN> DET
+10	buildings	building	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>3	@ADVL ADV
+2	there	there	subj:>3	@F-SUBJ ADV
+3	is	be	main:>0	@+FMAINV V
+4	no	no	det:>5	@DN> DET
+5	chance	chance	comp:>3	@PCOMPL-S N
+6	the	the	det:>7	@DN> DET
+7	water	water	subj:>8	@SUBJ N
+8	will	will	v-ch:>9	@+FAUXV V
+9	cover	cover	mod:>5	@-FMAINV V
+10	them	they	obj:>9	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>5	@DN> DET
+2	king	king	cc:>4	@A> N
+3	and	and	cc:>4	@CC CC
+4	his	he	attr:>5	@A> PRON
+5	queen	queen	subj:>6	@SUBJ N
+6	have	have	main:>0	@+FMAINV V
+7	a	a	det:>9	@DN> DET
+8	great	great	attr:>9	@A> A
+9	view	view	obj:>6	@OBJ N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	the	the	det:>13	@DN> DET
+12	Nile	Nile	attr:>13	@A> N
+13	River	river	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	statues	statue	comp:>2	@PCOMPL-S N
+5	carved	carve	mod:>4	@-FMAINV EN
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	show	show	cnt:>5	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	about	about	man:>2	@ADVL ADV
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	happen	happen	comp:>2	@-FMAINV V
+6	to	to	ha:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	statues	statue	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	story	story	subj:>2	@SUBJ N
+5	happen	happen	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	Nile	Nile	attr:>5	@A> N
+5	River	river	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	are	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	statues	statue	subj:>2	@SUBJ N
+5	safe	safe	mod:>4	@<NOM A
+6	now	now	meta:>2	@ADVL ADV
+	$?	
+	$<p>	
+

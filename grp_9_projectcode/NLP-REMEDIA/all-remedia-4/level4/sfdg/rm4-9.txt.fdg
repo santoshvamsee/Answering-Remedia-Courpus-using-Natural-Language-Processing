@@ -1,0 +1,364 @@
+0		
+	$<p>	
+
+0		
+1	Cartoon	cartoon	main:>0	@NH N
+2	with	with	mod:>1	@<NOM PREP
+3	Sound	sound	attr:>4	@A> N
+4	Plays	play	pcomp:>2	@<P N
+5	in	in	mod:>4	@<NOM PREP
+6	Theaters	theater	pcomp:>5	@<P N
+	$<p>	
+
+0		
+	$(	
+2	LOS	Los	attr:>3	@A> N
+3	ANGELES	Angeles		@APP N
+	$,	
+5	CALIF.	Calif.	mod:>3	@<NOM ABBR
+	$,	
+7	December	December		@APP N	@A> N
+8	21,1937	21,1937		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	new	new	attr:>3	@A> A
+3	movie	movie	subj:>4	@SUBJ N
+4	starts	start	main:>0	@+FMAINV V
+5	playing	play	obj:>4	@OBJ N
+6	in	in	loc:>4	@ADVL PREP
+7	theaters	theater	pcomp:>6	@<P N
+8	today	today	tmp:>4	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	cartoon	cartoon	comp:>2	@PCOMPL-S N
+5	with	with	ha:>2	@ADVL PREP
+6	sound	sound	pcomp:>5	@<P N
+7	and	and	cc:>6	@CC CC
+8	color	color	cc:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	movie	movie	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	called	call	main:>0	@-FMAINV EN
+	$"_	
+6	Snow	snow	attr:>7	@A> N
+7	White	white		@SUBJ A	@<P A	@SUBJ N	@<P N
+8	and	and		@CC CC
+9	the	the	det:>11	@DN> DET
+10	Seven	seven	qn:>11	@QN> NUM
+11	Dwarfs	dwarf		@SUBJ N	@OBJ N	@<P N
+	$.	
+	$_"	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	story	story	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	based	base	main:>0	@-FMAINV EN
+5	on	on	phr:>4	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	fairy	fairy	attr:>8	@A> N
+8	tale	tale	pcomp:>5	@<P N
+9	written	write	mod:>8	@-FMAINV EN
+10	by	by	ha:>9	@ADVL PREP
+11	the	the	det:>13	@DN> DET
+12	Brothers	brother	attr:>13	@A> N
+13	Grimm	Grimm	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	story	story	subj:>3	@SUBJ N
+3	is	be	v-ch:>8	@+FAUXV V
+4	about	about		@ADVL PREP
+5	a	a	det:>7	@DN> DET
+6	pretty	pretty	attr:>7	@A> A
+7	lady	lady	pcomp:>4	@<P N
+8	named	name	mod:>7	@-FMAINV EN
+9	Snow	snow	attr:>10	@A> N
+10	White	white	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	meets	meet	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	mean	mean	attr:>5	@A> A
+5	witch	witch	obj:>2	@OBJ N
+6	who	who	subj:>7	@SUBJ PRON
+7	causes	cause	mod:>5	@+FMAINV V
+8	a_lot_of	a_lot_of	det:>9	@DN> DET
+9	trouble	trouble	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	Snow	snow	attr:>3	@A> N
+3	White	white	subj:>4	@SUBJ N
+4	gets	get	main:>0	@+FMAINV V
+5	help	help	obj:>4	@OBJ N
+6	from	from	sou:>4	@ADVL PREP
+7	seven	seven	qn:>9	@QN> NUM
+8	short	short	attr:>9	@A> A
+9	men	man	pcomp:>6	@<P N
+	$,	
+11	the	the	det:>12	@DN> DET
+12	dwarfs	dwarf		@OBJ N	@APP N	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	time	time	tmp:>2	@ADVL N
+6	a	a	det:>10	@DN> DET
+7	long	long	comp:>2	@PCOMPL-S A
+	$,	
+9	color	color	attr:>10	@A> N
+10	cartoon	cartoon	subj:>13	@SUBJ N
+11	with	with	mod:>10	@<NOM PREP
+12	sound	sound	pcomp:>11	@<P N
+13	has	have	v-ch:>14	@+FAUXV V
+14	been	be	v-ch:>15	@-FAUXV EN
+15	made	make		@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	All	all	det:>2	@DN> DET
+2	the	the	det:>3	@DN> DET
+3	other	other	det:>5	@DN> DET
+4	color	color	attr:>5	@A> N
+5	cartoons	cartoon	subj:>6	@SUBJ N
+6	last	last	main:>0	@+FMAINV V
+7	only	only	meta:>9	@ADVL ADV
+8	a_few	a_few	det:>9	@DN> DET
+9	minutes	minute	dur:>6	@O-ADVL N
+	$.	
+	$<s>	
+
+0		
+	$"_	
+2	Snow	snow	attr:>3	@A> N
+3	White	white	subj:>5	@SUBJ N
+	$_"	
+5	is	be	main:>0	@+FMAINV V
+6	75	75	qn:>7	@QN> NUM
+7	minutes	minute	attr:>8	@A> A	@A> A
+8	long	long	comp:>5	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	why	why	cnt:>6	@ADVL ADV
+4	it	it	subj:>5	@SUBJ PRON
+5	is	be	v-ch:>6	@+FAUXV V
+6	called	call	comp:>2	@-FMAINV EN
+7	a	a	det:>9	@DN> DET
+8	full-length	full-length	attr:>9	@A> A
+9	cartoon	cartoon	comp:>6	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	Making	make	subj:>5	@-FMAINV ING
+2	a	a	det:>4	@DN> DET
+3	full-length	full-length	attr:>4	@A> A
+4	cartoon	cartoon	obj:>1	@OBJ N
+5	is	be	main:>0	@+FMAINV V
+6	a	a	det:>8	@DN> DET
+7	huge	huge	attr:>8	@A> A
+8	task	task	comp:>5	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Every	every	det:>3	@DN> DET
+2	three	three	qn:>3	@QN> NUM
+3	seconds	second	subj:>6	@SUBJ N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	action	action	pcomp:>4	@<P N
+6	takes	take	main:>0	@+FMAINV V
+7	dozens	dozen	obj:>6	@OBJ N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	drawings	drawing	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	75-minute	75-minute	attr:>3	@A> A
+3	movie	movie	subj:>4	@SUBJ N
+4	needs	need	main:>0	@+FMAINV V
+5	thousands	thousand	obj:>4	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	pictures	picture	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	scene	scene	subj:>3	@SUBJ N
+3	is	be	v-ch:>5	@+FAUXV V
+4	carefully	careful	>5	@ADVL ADV
+5	drawn	draw	main:>0	@-FMAINV EN
+6	and	and		@CC CC
+7	then	then		@ADVL ADV
+8	painted	paint		@<P-FMAINV EN	@-FMAINV EN
+9	by	by	ha:>8	@ADVL PREP
+10	hand	hand	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	drawings	drawing	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	flashed	flash	main:>0	@-FMAINV EN
+5	across	across	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	screen	screen	pcomp:>5	@<P N
+8	very	very	ad:>9	@AD-A> ADV
+9	fast	fast		@OBJ A	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	makes	make		@+FMAINV V
+3	it	it	subj:>4	@OBJ PRON
+4	look	look	obj:>2	@-FMAINV V
+5	like	like	man:>4	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	cartoon	cartoon	attr:>8	@A> N
+8	characters	character	pcomp:>5	@<P N
+9	are	be	v-ch:>10	@+FAUXV V
+10	moving	move		@-FMAINV ING
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	voices	voice	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	added	add	main:>0	@-FMAINV EN
+5	so	so	pm:>7	@CS CS
+6	they	they	subj:>7	@SUBJ PRON
+7	match	match	cnt:>4	@+FMAINV V
+8	the	the	det:>9	@DN> DET
+9	movement	movement	obj:>7	@OBJ N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	the	the	det:>13	@DN> DET
+12	characters'	character	attr:>13	@A> N
+13	lips	lip	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	causes	cause	main:>0	@+FMAINV V
+3	Snow	snow	attr:>4	@A> N
+4	White	white	dat:>2	@I-OBJ N
+5	a_lot_of	a_lot_of	det:>6	@DN> DET
+6	trouble	trouble	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>7	@OBJ PRON
+2	is	be	v-ch:>7	@+FAUXV V
+3	a	a	det:>6	@DN> DET
+4	long	long	attr:>5	@A> A
+5	cartoon	cartoon	attr:>6	@A> N
+6	movie	movie	subj:>2	@SUBJ N
+7	called	call	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	movie	movie	subj:>2	@SUBJ N
+5	start	start	main:>0	@-FMAINV V
+6	playing	play	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	would	would	v-ch:>4	@+FAUXV V
+3	you	you	subj:>2	@SUBJ PRON
+4	go	go	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	see	see	comp:>4	@-FMAINV V
+	$"_	
+8	Snow	snow	attr:>9	@A> N
+9	White	white		@PCOMPL-O A	@SUBJ A	@SUBJ N
+10	and	and		@CC CC
+11	the	the	det:>12	@DN> DET
+12	Seven	seven		@SUBJ NUM	@OBJ NUM	@PCOMPL-S NUM	@PCOMPL-O NUM
+	$,	
+14	Dwarfs	dwarf		@SUBJ N	@OBJ N	@PCOMPL-S N	@A> N
+	$_"	
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	it	it	subj:>2	@SUBJ PRON
+4	so	so	ad:>5	@AD-A> ADV
+5	hard	hard	comp:>2	@PCOMPL-S A
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	make	make	mod:>5	@-FMAINV V
+8	a	a	det:>9	@DN> DET
+9	cartoon	cartoon	obj:>7	@OBJ N
+	$?	
+	$<p>	
+

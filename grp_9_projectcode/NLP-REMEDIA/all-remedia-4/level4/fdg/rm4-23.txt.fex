@@ -1,0 +1,330 @@
+
+ 9999 99       0       O      N          Company        NOFUNC/NH            -----     -1
+ 9999 99       1       O INFMARK               to       pm/INFMARK            -----      2
+ 9999 99       2       O      V          T_build      main/FMAINV            -----     -1
+ 9999 99       3       O      A              New           attr/A            -----      4
+ 9999 99       4       O      N             Town          obj/OBJ            -----      2
+
+ 9999 99       0       O    SEP                (          obj/OBJ            ?????     -1
+ 9999 99       1       O   ABBR              ST.           attr/A            -----      2
+ 9999 99       2       O      N            LOUIS       NOFUNC/APP            -----     -1
+ 9999 99       3       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       4       O      N         Missouri          mod/APP            -----      2
+ 9999 99       5       O    SEP                ,          mod/APP            ?????     -1
+ 9999 99       6       O    NUM             1893        NOFUNC/NH            -----     -1
+ 9999 99       7       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       8       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      1
+ 9999 99       1       O      N             year        NOFUNC/NH            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      A              new           attr/A            -----      4
+ 9999 99       4       O      N             town      NOFUNC/SUBJ            -----     -1
+ 9999 99       5       O      V           T_will       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V             T_be       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN          T_build      main/FMAINV            -----     -1
+ 9999 99       8       O   PREP             near          ha/ADVL            -----      7
+ 9999 99       9       O   ABBR              St.           attr/A            -----     10
+ 9999 99      10       O      N            Louis          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       4       O      N          Granite           attr/A            -----      5
+ 9999 99       5       O      N             City          obj/OBJ            -----      3
+ 9999 99       6       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       7       O     CC              and            cc/CC            -----      3
+ 9999 99       8       O   PRON               it        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_will       v-ch/FAUXV            -----     10
+ 9999 99      10       O      V             T_be        cc/FMAINV            -----      3
+ 9999 99      11       O    DET                a           det/DN            -----     13
+ 9999 99      12       O      N          company           attr/A            -----     13
+ 9999 99      13       O      N             town           comp/S            -----     10
+ 9999 99      14       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON             That        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_mean      main/FMAINV            -----     -1
+ 9999 99       2       O     CS             that            pm/CS            -----      6
+ 9999 99       3       O    NUM              one            qn/QN            -----      4
+ 9999 99       4       O      N          company        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_will       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V            T_own       obj/FMAINV            -----      1
+ 9999 99       7       O    DET              the           det/DN            -----      9
+ 9999 99       8       O      A           entire           attr/A            -----      9
+ 9999 99       9       O      N             town          obj/OBJ            -----      6
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              All           det/DN            -----      1
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N           people        NOFUNC/NH            -----     -1
+ 9999 99       3       O   PRON              who        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_live       mod/FMAINV            -----      2
+ 9999 99       5       O    ADV            there        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_will       v-ch/FAUXV            -----      7
+ 9999 99       7       O      V           T_work      main/FMAINV            -----     -1
+ 9999 99       8       O   PREP              for          ha/ADVL            -----      7
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N          company          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O    ING           T_make      main/FMAINV            -----     -1
+ 9999 99       4       O      N          pottery          obj/OBJ            -----      3
+ 9999 99       5       O   PREP             from         sou/ADVL            -----      3
+ 9999 99       6       O      N          granite           attr/A            -----      7
+ 9999 99       7       O      N            rocks          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      3
+ 9999 99       1       O    NUM            first           attr/A            -----      2
+ 9999 99       2       O      N          company           attr/A            -----      3
+ 9999 99       3       O      N             town        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN          T_build      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP               in         tmp/ADVL            -----      5
+ 9999 99       7       O    NUM             1881          pcomp/P            -----      6
+ 9999 99       8       O   PREP             near          mod/NOM            -----      7
+ 9999 99       9       O      N       Pittsburgh          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN          T_build      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               by         agt/ADVL            -----      2
+ 9999 99       4       O    DET                a           det/DN            -----      6
+ 9999 99       5       O      N            steel           attr/A            -----      6
+ 9999 99       6       O      N          company          pcomp/P            -----      3
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N          company        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_build      main/FMAINV            -----     -1
+ 9999 99       3       O      A            small           attr/A            -----      4
+ 9999 99       4       O      N            homes          obj/OBJ            -----      2
+ 9999 99       5       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       6       O      N          schools           cc/OBJ            -----      4
+ 9999 99       7       O    SEP                ,           cc/OBJ            ?????     -1
+ 9999 99       8       O     CC              and            cc/CC            -----      6
+ 9999 99       9       O    DET                a           det/DN            -----     10
+ 9999 99      10       O      N          library           cc/OBJ            -----      6
+ 9999 99      11       O   PREP              for      NOFUNC/ADVL            -----     -1
+ 9999 99      12       O   PRON              its           attr/A            -----     13
+ 9999 99      13       O      N          workers          pcomp/P            -----     11
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      2
+ 9999 99       1       O    ADV             even        meta/ADVL            -----      2
+ 9999 99       2       O      V          T_build      main/FMAINV            -----     -1
+ 9999 99       3       O    DET             some           det/DN            -----      5
+ 9999 99       4       O      N          bowling           attr/A            -----      5
+ 9999 99       5       O      N           alleys          obj/OBJ            -----      2
+ 9999 99       6       O   PREP              for      NOFUNC/ADVL            -----     -1
+ 9999 99       7       O      N              fun          pcomp/P            -----      6
+ 9999 99       8       O   PREP            after          mod/NOM            -----      7
+ 9999 99       9       O      N             work          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON         Everyone        subj/SUBJ            -----      7
+ 9999 99       1       O   PRON              who        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_work       mod/FMAINV            -----      0
+ 9999 99       3       O   PREP              for          ha/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      6
+ 9999 99       5       O      N            steel           attr/A            -----      6
+ 9999 99       6       O      N          company          pcomp/P            -----      3
+ 9999 99       7       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N            right          obj/OBJ            -----      7
+ 9999 99      10       O INFMARK               to       pm/INFMARK            -----     11
+ 9999 99      11       O      V           T_live       mod/FMAINV            -----      9
+ 9999 99      12       O   PREP               in         tmp/ADVL            -----     11
+ 9999 99      13       O    NUM              one          pcomp/P            -----     12
+ 9999 99      14       O   PREP               of           mod/OF            -----     13
+ 9999 99      15       O    DET              the           det/DN            -----     16
+ 9999 99      16       O      N           houses          pcomp/P            -----     14
+ 9999 99      17       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET          Another           det/DN            -----      2
+ 9999 99       1       O      N          company           attr/A            -----      2
+ 9999 99       2       O      N             town        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN           T_name      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP              for          ha/ADVL            -----      4
+ 9999 99       6       O      N           George           attr/A            -----      7
+ 9999 99       7       O      N          Pullman          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N              man           comp/S            -----      1
+ 9999 99       4       O   PRON              who        subj/SUBJ            -----      5
+ 9999 99       5       O      V         T_invent       mod/FMAINV            -----      3
+ 9999 99       6       O      A         sleeping           attr/A            -----      7
+ 9999 99       7       O      N             cars          obj/OBJ            -----      5
+ 9999 99       8       O   PREP               on         loc/ADVL            -----      5
+ 9999 99       9       O      N           trains          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             town        subj/SUBJ            -----      4
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O      N          Pullman          pcomp/P            -----      2
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN          T_build      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP               in         tmp/ADVL            -----      5
+ 9999 99       7       O    NUM             1884          pcomp/P            -----      6
+ 9999 99       8       O   PREP             near          mod/NOM            -----      7
+ 9999 99       9       O    DET                a           det/DN            -----     10
+ 9999 99      10       O      N             lake          pcomp/P            -----      8
+ 9999 99      11       O   PREP               in          mod/NOM            -----     10
+ 9999 99      12       O      N         Illinois          pcomp/P            -----     11
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O      N            homes       NOFUNC/OBJ            -----     -1
+ 9999 99       3       O    SEP                ,       NOFUNC/OBJ            ?????     -1
+ 9999 99       4       O      N         churches      NOFUNC/SUBJ            -----     -1
+ 9999 99       5       O    SEP                ,      NOFUNC/SUBJ            ?????     -1
+ 9999 99       6       O      N            parks      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O    SEP                ,      NOFUNC/SUBJ            ?????     -1
+ 9999 99       8       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99       9       O    DET                a           det/DN            -----     11
+ 9999 99      10       O      N             town           attr/A            -----     11
+ 9999 99      11       O      N             hall      NOFUNC/SUBJ            -----     -1
+ 9999 99      12       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O      N          Company           attr/A            -----      1
+ 9999 99       1       O      N            towns        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O      A             good           comp/S            -----      3
+ 9999 99       5       O   PREP              for         mod/ADVL            -----      4
+ 9999 99       6       O      N           people          pcomp/P            -----      5
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N          workers        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       3       O NEG-PART              n't         neg/ADVL            -----      2
+ 9999 99       4       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V         T_travel       obj/FMAINV            -----      4
+ 9999 99       7       O    ADV              far         loc/ADVL            -----      6
+ 9999 99       8       O   PREP               to      NOFUNC/ADVL            -----     -1
+ 9999 99       9       O      V           T_work     pcomp/FMAINV            -----      8
+ 9999 99      10       O    SEP                .     pcomp/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V        T_receive    NOFUNC/FMAINV            -----     -1
+ 9999 99       2       O    DET             many           det/DN            -----      3
+ 9999 99       3       O      N           things          obj/OBJ            -----      1
+ 9999 99       4       O      A             free       NOFUNC/NOM            -----     -1
+ 9999 99       5       O    SEP                .       NOFUNC/NOM            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      3
+ 9999 99       2       O    ADV             also      NOFUNC/ADVL            -----     -1
+ 9999 99       3       O      V           T_have    NOFUNC/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_obey       obj/FMAINV            -----      3
+ 9999 99       6       O    DET              all           det/DN            -----      7
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N          company        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_rule    NOFUNC/FMAINV            -----     -1
+ 9999 99      10       O     CC               or            cc/CC            -----      9
+ 9999 99      11       O   PRON             they        subj/SUBJ            -----     12
+ 9999 99      12       O      V           T_will       v-ch/FAUXV            -----     13
+ 9999 99      13       O      V           T_lose        cc/FMAINV            -----      9
+ 9999 99      14       O   PRON            their           attr/A            -----     15
+ 9999 99      15       O      N            homes          obj/OBJ            -----     13
+ 9999 99      16       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP               In         cla/ADVL            -----      7
+ 9999 99       1       O    DET              the           det/DN            -----      3
+ 9999 99       2       O      N            steel           attr/A            -----      3
+ 9999 99       3       O      N             town          pcomp/P            -----      0
+ 9999 99       4       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N              air        subj/SUBJ            -----      7
+ 9999 99       7       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       8       O      A            thick           comp/S            -----      7
+ 9999 99       9       O   PREP             with          mod/NOM            -----      8
+ 9999 99      10       O      N            smoke          pcomp/P            -----      9
+ 9999 99      11       O   PREP             from         sou/ADVL            -----      7
+ 9999 99      12       O      N         furnaces          pcomp/P            -----     11
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV            Still        meta/ADVL            -----      3
+ 9999 99       1       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       2       O      N           people        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_want      main/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_make       obj/FMAINV            -----      3
+ 9999 99       6       O   PRON            their           attr/A            -----      7
+ 9999 99       7       O      N            homes          obj/OBJ            -----      5
+ 9999 99       8       O   PREP               in         loc/ADVL            -----      5
+ 9999 99       9       O      N          company           attr/A            -----     10
+ 9999 99      10       O      N            towns          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N             town          obj/OBJ            -----      1
+ 9999 99       4       O     EN           T_name       mod/FMAINV            -----      3
+ 9999 99       5       O   PREP              for          ha/ADVL            -----      4
+ 9999 99       6       O   PRON              him          pcomp/P            -----      5
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      N          company           attr/A            -----      4
+ 9999 99       4       O      N             town           comp/S            -----      1
+ 9999 99       5       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      6
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O    NUM            first           attr/A            -----      4
+ 9999 99       4       O      N          company           attr/A            -----      5
+ 9999 99       5       O      N             town        subj/SUBJ            -----      1
+ 9999 99       6       O     EN          T_build      main/FMAINV            -----     -1
+ 9999 99       7       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O      A           newest           attr/A            -----      4
+ 9999 99       4       O      N          company           attr/A            -----      5
+ 9999 99       5       O      N             town        subj/SUBJ            -----      1
+ 9999 99       6       O    SEP                ?        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      4
+ 9999 99       1       O      V            T_can       v-ch/FAUXV            -----      4
+ 9999 99       2       O      N          company           attr/A            -----      3
+ 9999 99       3       O      N            towns        subj/SUBJ            -----      1
+ 9999 99       4       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       5       O      A              bad           comp/S            -----      4
+ 9999 99       6       O    SEP                ?           comp/S            ?????     -1
+

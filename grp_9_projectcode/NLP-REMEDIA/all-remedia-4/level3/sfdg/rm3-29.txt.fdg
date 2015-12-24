@@ -1,0 +1,321 @@
+0		
+1	The	the		@DN> DET
+2	Old	old	attr:>3	@A> A
+3	Lady	lady	attr:>4	@A> N
+4	Gets	get	main:>0	@+FMAINV V
+5	a	a	det:>7	@DN> DET
+6	New	new	attr:>7	@A> A
+7	Look	look	obj:>4	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	NEW	new	attr:>3	@A> A
+3	YORK	York	attr:>4	@A> N
+4	CITY	city		@APP N
+	$,	
+6	July	July	main:>1	@NH N	@APP N
+7	4,1986	4,1986	mod:>6	@<NOM NUM
+	$)	
+9	$-		
+10	One	one	subj:>17	@SUBJ NUM
+11	of	of	mod:>10	@<NOM-OF PREP
+12	our	we	attr:>14	@A> PRON
+13	most	much	ad:>14	@AD-A> ADV
+14	popular	popular	attr:>15	@A> A
+15	sights	sight	pcomp:>11	@<P N
+16	just	just	meta:>17	@ADVL ADV
+17	turned	turn	main:>0	@+FMAINV V
+18	100	100	qn:>19	@QN> NUM
+19	years_old	years_old	comp:>17	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	party	party	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	being	be	v-ch:>5	@-FAUXV ING
+5	held	hold	main:>0	@-FMAINV EN
+6	today	today	tmp:>5	@ADVL N
+7	for	for	phr:>5	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	Statue	statue	pcomp:>7	@<P N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	Liberty	liberty	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	famous	fam	attr:>3	@A> A
+3	statue	statue	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	in	in	loc:>4	@ADVL PREP
+6	New	new	attr:>7	@A> A
+7	York	York	attr:>8	@A> N
+8	Harbor	harbor	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	All	all	det:>2	@DN> DET
+2	the	the	det:>3	@DN> DET
+3	ships	ship	subj:>4	@SUBJ N
+4	pass	pass	main:>0	@+FMAINV V
+5	it	it	dat:>4	@I-OBJ PRON
+6	as	as	pm:>8	@CS CS
+7	they	they	subj:>8	@SUBJ PRON
+8	arrive	arrive	man:>4	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	statue	statue	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	of	of	comp:>3	@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	woman	woman	pcomp:>4	@<P N
+7	carrying	carry	mod:>6	@-FMAINV ING
+8	a	a	det:>9	@DN> DET
+9	torch	torch	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	statue	statue	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	given	give	main:>0	@-FMAINV EN
+5	to	to	dat:>4	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	United	unite	attr:>8	@A> A
+8	States	state	pcomp:>5	@<P N
+9	by	by	agt:>4	@ADVL PREP
+10	France	France	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	wanted	want	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	statue	statue	subj:>6	@OBJ N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	show	show	obj:>2	@-FMAINV V
+7	the	the	det:>8	@DN> DET
+8	world	world	dat:>6	@I-OBJ N
+9	that	that	pm:>13	@CS CS
+10	the	the	det:>12	@DN> DET
+11	United	unite	attr:>12	@A> A
+12	States	state	subj:>13	@SUBJ N
+13	offered	offer	obj:>6	@+FMAINV V
+14	freedom	freedom	obj:>13	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>5	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	statue	statue	subj:>4	@SUBJ N
+4	is	be	v-ch:>5	@+FAUXV V
+5	known	know	main:>0	@-FMAINV EN
+6	around	around	ha:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	world	world	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Today's	today	attr:>2	@A> N
+2	party	party	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	have	have	main:>0	@-FMAINV V
+5	fireworks	firework	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Tall	tall	attr:>2	@A> A
+2	ships	ship	subj:>5	@SUBJ N
+3	with	with	mod:>2	@<NOM PREP
+4	sails	sail	pcomp:>3	@<P N
+5	will	will	v-ch:>6	@+FAUXV V
+6	glide	glide	main:>0	@-FMAINV V
+7	past	past	ha:>6	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	statue	statue	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	More	more	subj:>5	@SUBJ PRON
+2	than	than	mod:>1	@<NOM PREP	@ADVL PREP
+3	40,000	40,000	qn:>4	@QN> NUM
+4	boats	boat	pcomp:>2	@<P N
+5	will	will	v-ch:>6	@+FAUXV V
+6	be	be	main:>0	@-FMAINV V
+7	on	on	ha:>6	@ADVL PREP
+8	hand	hand	pcomp:>7	@<P N
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	watch	watch	cnt:>6	@-FMAINV V
+11	the	the	det:>12	@DN> DET
+12	party	party	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	For	for	pm:>2	@CS CS
+2	awhile	awhile		@ADVL ADV
+	$,	
+4	the	the	det:>5	@DN> DET
+5	statue	statue	subj:>6	@SUBJ N
+6	did	do	v-ch:>8	@+FAUXV V
+7	not	not	neg:>6	@ADVL NEG-PART
+8	look	look	main:>0	@-FMAINV V
+9	right	right	ha:>8	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	began	begin	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	show	show	obj:>2	@-FMAINV V
+5	its	it	attr:>6	@A> PRON
+6	age	age	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	turned	turn	main:>0	@+FMAINV V
+3	a	a	det:>6	@DN> DET
+4	funny	funny	attr:>5	@A> A
+5	green	green	attr:>6	@A> A
+6	color	color	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	took	take	main:>0	@+FMAINV V
+3	two	two	qn:>4	@QN> NUM
+4	years	year	obj:>2	@OBJ N
+5	for	for	subj:>8	@ADVL PREP
+6	crews	crew	pcomp:>5	@<P N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	clean	clean	mod:>1	@-FMAINV V
+9	and	and	cc:>8	@CC CC
+10	repair	repair	cc:>8	@-FMAINV V
+11	the	the	det:>12	@DN> DET
+12	statue	statue	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>3	@ADVL ADV
+2	it	it	subj:>3	@SUBJ PRON
+3	looks	look	main:>0	@+FMAINV V
+4	almost	almost	ad:>5	@AD-A> ADV
+5	brand	brand	attr:>6	@A> N
+6	new	new	copred:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Once_again	once_again	meta:>5	@ADVL ADV
+	$,	
+3	people	people	subj:>4	@SUBJ N
+4	can	can	v-ch:>5	@+FAUXV V
+5	climb	climb	main:>0	@-FMAINV V
+6	to	to	goa:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	top	top	pcomp:>6	@<P N
+9	and	and	cc:>5	@CC CC
+10	look	look	cc:>5	@-FMAINV V
+11	out	out	loc:>10	@ADVL ADV
+12	at	at	ha:>10	@ADVL PREP
+13	the	the	det:>14	@DN> DET
+14	ocean	ocean	pcomp:>12	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	gave	give	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	statue	statue	obj:>2	@OBJ N
+5	to	to	dat:>2	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	United	unite	attr:>8	@A> A
+8	States	state	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	statue	statue	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	was	be	v-ch:>4	@+FAUXV V
+3	it	it	subj:>2	@SUBJ PRON
+4	built	build	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	it	it	subj:>2	@SUBJ PRON
+4	stand	stand	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	was	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	statue	statue	subj:>2	@SUBJ N
+5	given	give	main:>0	@-FMAINV EN
+6	to	to	dat:>5	@ADVL PREP
+7	the	the	det:>9	@DN> DET
+8	United	unite	attr:>9	@A> A
+9	States	state	pcomp:>6	@<P N
+	$?	
+	$<p>	
+

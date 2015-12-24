@@ -1,0 +1,315 @@
+0		
+	$<p>	
+
+0		
+1	Cochran	Cochran	attr:>2	@A> N
+2	Flies	fly	attr:>3	@A> N
+3	Faster	fast	main:>0	@NH N
+4	Than	than	mod:>3	@ADVL PREP
+5	Speed	speed	pcomp:>4	@<P N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	Sound	sound	pcomp:>6	@<P N
+	$<p>	
+
+0		
+	$(	
+2	MAY	May		@NH N
+	$,	
+4	1953	1953	mod:>2	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Jackie	Jackie	attr:>2	@A> N
+2	Cochran	Cochran	subj:>3	@SUBJ N
+3	has	have	v-ch:>4	@+FAUXV V
+4	become	become	main:>0	@-FMAINV EN
+5	the	the	det:>8	@DN> DET
+6	first	first	attr:>7	@A> NUM
+7	woman	woman	attr:>8	@A> N
+8	pilot	pilot	comp:>4	@PCOMPL-S N
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	fly	fly	mod:>8	@-FMAINV V
+11	faster	fast	man:>10	@ADVL ADV
+12	than	than	mod:>11	@ADVL PREP
+13	the	the	det:>14	@DN> DET
+14	speed	speed	pcomp:>12	@<P N
+15	of	of	mod:>14	@<NOM-OF PREP
+16	sound	sound	pcomp:>15	@<P N
+	$.	
+	$<p>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	earned	earn	main:>0	@+FMAINV V
+3	this	this	det:>4	@DN> DET
+4	honor	honor	obj:>2	@OBJ N
+5	by	by	man:>2	@ADVL PREP
+6	taking	take	pcomp:>5	@<P-FMAINV ING
+7	her	she	attr:>8	@A> PRON
+8	plane	plane	obj:>6	@OBJ N
+9	to	to	dat:>6	@ADVL PREP
+10	a	a	det:>11	@DN> DET
+11	height	height	pcomp:>9	@<P N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	45,000	45,000	qn:>14	@QN> NUM
+14	feet	foot	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	pointed	point	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	nose	nose	obj:>3	@OBJ N
+6	towards	towards	ha:>3	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	ground	ground	pcomp:>6	@<P N
+9	and	and	cc:>3	@CC CC
+10	sent	send	cc:>3	@+FMAINV V
+11	it	it	obj:>10	@OBJ PRON
+12	into	into	goa:>10	@ADVL PREP
+13	a	a	det:>15	@DN> DET
+14	fast	fast	attr:>15	@A> A
+15	dive	dive	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	As	as	pm:>3	@CS CS
+2	she	she	subj:>3	@SUBJ PRON
+3	approached	approach	man:>10	@+FMAINV V
+4	the	the	det:>6	@DN> DET
+5	sound	sound	attr:>6	@A> A
+6	barrier	barrier	obj:>3	@OBJ N
+	$,	
+8	her	she	attr:>9	@A> PRON
+9	plane	plane	subj:>10	@SUBJ N
+10	began	begin	main:>0	@+FMAINV V
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	shake	shake	obj:>10	@-FMAINV V
+13	and	and	cc:>12	@CC CC
+14	shudder	shudder	cc:>12	@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	A	a	det:>5	@DN> DET
+2	pilot	pilot	attr:>3	@A> N
+3	named	name	attr:>4	@A> A
+4	Chuck	chuck	attr:>5	@A> N
+5	Yeager	Yeager	subj:>6	@SUBJ N
+6	was	be	main:>0	@+FMAINV V
+7	the	the	det:>9	@DN> DET
+8	first	first	attr:>9	@A> NUM
+9	person	person	comp:>6	@PCOMPL-S N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	fly	fly	mod:>9	@-FMAINV V
+12	faster	fast	man:>11	@ADVL ADV
+13	than	than	mod:>12	@ADVL PREP
+14	the	the	det:>15	@DN> DET
+15	speed	speed	pcomp:>13	@<P N
+16	of	of	mod:>15	@<NOM-OF PREP
+17	sound	sound	pcomp:>16	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	flew	fly	main:>0	@+FMAINV V
+3	above	above	meta:>2	@ADVL PREP
+4	Jackie	Jackie	pcomp:>3	@<P N
+5	in	in		@<NOM PREP	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	separate	separate	attr:>8	@A> A
+8	plane	plane	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	acted	act	main:>0	@+FMAINV V
+3	as	as	ha:>2	@ADVL PREP
+4	her	she	attr:>5	@A> PRON
+5	coach	coach	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	ready	ready	comp:>2	@PCOMPL-S A
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	tell	tell	mod:>3	@-FMAINV V
+6	her	she	subj:>8	@OBJ PRON
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	slow	slow	obj:>5	@-FMAINV V
+9	down	down	phr:>8	@ADVL ADV
+10	if	if	pm:>12	@CS CS
+11	she	she	subj:>12	@SUBJ PRON
+12	was	be	cnd:>8	@+FMAINV V
+13	in	in	man:>12	@ADVL PREP
+14	danger	danger	pcomp:>13	@<P N
+	$.	
+	$<p>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	Jackie	Jackie	subj:>3	@SUBJ N
+3	knew	know	main:>0	@+FMAINV V
+4	just	just	meta:>5	@ADVL ADV
+5	what	what	obj:>7	@OBJ PRON
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	do	do	obj:>3	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	held	hold	main:>0	@+FMAINV V
+3	onto	onto	goa:>2	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	controls	control	pcomp:>3	@<P N
+6	and	and	cc:>2	@CC CC
+7	watched	watch	cc:>2	@+FMAINV V
+8	the	the	det:>9	@DN> DET
+9	needle	needle	obj:>7	@OBJ N
+10	on	on	loc:>7	@ADVL PREP
+11	her	she	attr:>12	@A> PRON
+12	instrument	instrument	attr:>13	@A> N
+13	panel	panel	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	it	it	subj:>3	@SUBJ PRON
+3	edged	edge	tmp:>15	@+FMAINV V
+4	past	past	ha:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	words	word	pcomp:>4	@<P N
+	$,	
+	$"_	
+9	Mach	mach	attr:>10	@A> N
+10	One	one		@SUBJ NUM	@OBJ NUM	@PCOMPL-O NUM	@APP NUM	@<P NUM	@SUBJ PRON	@OBJ PRON	@APP PRON	@<P PRON
+	$,	
+	$_"	
+13	she	she	subj:>14	@SUBJ PRON
+14	had	have	v-ch:>15	@+FAUXV V
+15	broken	break	main:>0	@-FMAINV EN
+16	the	the	det:>18	@DN> DET
+17	sound	sound	attr:>18	@A> A
+18	barrier	barrier	obj:>15	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	Jackie	Jackie	subj:>3	@SUBJ N
+3	eased	ease	main:>0	@+FMAINV V
+4	her	she	attr:>5	@A> PRON
+5	plane	plane	obj:>3	@OBJ N
+6	out_of	out_of	sou:>3	@ADVL PREP
+7	its	it	attr:>8	@A> PRON
+8	steep	steep	attr:>9	@A> A
+9	dive	dive	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	returned	return	main:>0	@+FMAINV V
+3	safely	safe	man:>2	@ADVL ADV
+4	to	to		@ADVL PREP
+5	a	a	det:>7	@DN> DET
+6	warm	warm	attr:>7	@A> A
+7	welcome	welcome	pcomp:>4	@<P N
+8	from	from	sou:>2	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	crowd	crowd	pcomp:>8	@<P N
+11	on	on	mod:>10	@<NOM PREP
+12	the	the	det:>13	@DN> DET
+13	ground	ground	pcomp:>11	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	Chuck	chuck	attr:>4	@A> N
+4	Yeager	Yeager	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>5	@OBJ PRON
+2	did	do	v-ch:>5	@+FAUXV V
+3	Jackie	Jackie	attr:>4	@A> N
+4	Cochran	Cochran	subj:>2	@SUBJ N
+5	do	do	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Jackie	Jackie	subj:>2	@SUBJ N
+4	pull	pull	main:>0	@-FMAINV V
+5	her	she	attr:>6	@A> PRON
+6	plane	plane	obj:>4	@OBJ N
+7	out_of	out_of	sou:>4	@ADVL PREP
+8	its	it	attr:>9	@A> PRON
+9	steep	steep	attr:>10	@A> A
+10	dive	dive	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Yeager	Yeager	subj:>2	@SUBJ N
+4	fly	fly	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	coach	coach	obj:>4	@-FMAINV V
+7	Jackie	Jackie	obj:>6	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	How	how	ad:>2	@AD-A> ADV
+2	high	high		@PCOMPL-S A	@PCOMPL-O A	@SUBJ A	@OBJ A
+3	did	do	v-ch:>5	@+FAUXV V
+4	she	she	subj:>3	@SUBJ PRON
+5	take	take	main:>0	@-FMAINV V
+6	her	she	dat:>5	@I-OBJ PRON
+7	plane	plane	obj:>5	@OBJ N
+	$?	
+	$<p>	
+

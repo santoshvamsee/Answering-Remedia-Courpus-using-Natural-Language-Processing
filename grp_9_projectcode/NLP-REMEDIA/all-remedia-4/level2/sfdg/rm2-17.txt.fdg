@@ -1,0 +1,347 @@
+0		
+1	Will	will	v-ch:>3	@+FAUXV V
+2	Winter	winter	subj:>1	@SUBJ N
+3	End	end	main:>0	@-FMAINV V
+4	Today	today	tmp:>3	@ADVL N
+	$?	
+	$<p>	
+
+0		
+	$(	
+2	Anywhere	anywhere	meta:>4	@ADVL ADV
+	$,	
+4	USA	USA		@APP ABBR	@NH ABBR
+	$,	
+6	February	February		@A> N	@ADVL N
+7	2,1989	2,1989		@NH NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Are	be	v-ch:>3	@+FAUXV V
+2	you	you	subj:>1	@SUBJ PRON
+3	tired	tire	main:>0	@-FMAINV EN
+4	of	of	phr:>3	@ADVL PREP
+5	a	a	det:>9	@DN> DET
+6	long	long	cc:>8	@A> A
+	$,	
+8	cold	cold	attr:>9	@A> A
+9	winter	winter	pcomp:>4	@<P N
+	$?	
+	$<s>	
+
+0		
+1	Well	well	meta:>3	@ADVL ADV
+	$,	
+3	cheer	cheer	main:>0	@+FMAINV V
+4	up	up	phr:>3	@ADVL ADV
+	$!	
+	$<s>	
+
+0		
+1	There_	there	subj:>2	@F-SUBJ ADV
+2	's	be	main:>0	@+FMAINV V
+3	some	some	det:>4	@DN> DET
+4	hope	hope	comp:>2	@PCOMPL-S N
+5	that	that	pm:>8	@CS CS
+6	spring	spring	subj:>7	@SUBJ N
+7	might	might	v-ch:>8	@+FAUXV V
+8	come	come	mod:>4	@-FMAINV V
+9	early	early	ha:>8	@ADVL ADV
+10	this	this	det:>11	@DN> DET
+11	year	year	tmp:>8	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	folks	folk	subj:>3	@SUBJ N
+3	say	say	main:>0	@+FMAINV V
+4	that	that	pm:>9	@CS CS
+5	the	the	det:>6	@DN> DET
+6	way	way	subj:>9	@SUBJ N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	tell	tell	mod:>6	@-FMAINV V
+9	is	be	obj:>3	@+FMAINV V
+10	by	by	man:>3	@ADVL PREP
+11	watching	watch	pcomp:>10	@<P-FMAINV ING
+12	the	the	det:>13	@DN> DET
+13	groundhog	groundhog	obj:>11	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Groundhogs	groundhog	subj:>2	@SUBJ N
+2	are	be	main:>0	@+FMAINV V
+3	small	small	cc:>5	@A> A
+	$,	
+5	furry	furry	attr:>6	@A> A
+6	animals	animal	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	v-ch:>4	@+FAUXV V
+3	also	also	ad:>4	@ADVL ADV
+4	known	know	main:>0	@-FMAINV EN
+5	as	as	ha:>4	@ADVL PREP
+6	woodchucks	woodchuck	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	do_	do	v-ch:>4	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	like	like	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	cold	cold	obj:>4	@OBJ A
+7	of	of	mod:>6	@<NOM-OF PREP
+8	winter	winter	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	During	during	tmp:>7	@ADVL PREP
+2	the	the	det:>4	@DN> DET
+3	chilly	chilly	attr:>4	@A> A
+4	months	month	pcomp:>1	@<P N
+	$,	
+6	they	they	subj:>7	@SUBJ PRON
+7	live	live	main:>0	@+FMAINV V
+8	in	in	loc:>7	@ADVL PREP
+9	dens	den	attr:>10	@A> N
+10	underground	underground	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Most	many	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	them	they	pcomp:>2	@<P PRON
+4	live	live	main:>0	@+FMAINV V
+5	in	in	ha:>4	@ADVL PREP
+6	the	the	det:>9	@DN> DET
+7	northern	northern	attr:>8	@A> A
+8	United	unite	attr:>9	@A> A
+9	States	state	pcomp:>5	@<P N
+10	and	and	cc:>9	@CC CC
+11	Canada	Canada	cc:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	After	after	tmp:>10	@ADVL PREP
+2	months	month	pcomp:>1	@<P N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	the	the	det:>5	@DN> DET
+5	snow	snow	pcomp:>3	@<P N
+6	and	and		@CC CC
+7	cold	cold		@SUBJ A	@<P A	@<NOM A
+	$,	
+9	they	they	subj:>10	@SUBJ PRON
+10	take	take	main:>0	@+FMAINV V
+11	a	a	det:>13	@DN> DET
+12	peek	peek	attr:>13	@A> N
+13	outside	outside	obj:>10	@OBJ N
+14	to	to	pm:>15	@INFMARK> INFMARK>
+15	check	check	cnt:>10	@-FMAINV V
+16	the	the	det:>17	@DN> DET
+17	weather	weather	obj:>15	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	An	an	det:>4	@DN> DET
+2	old	old	attr:>3	@A> A
+3	folk	folk	attr:>4	@A> N
+4	tale	tale	subj:>5	@SUBJ N
+5	says	say	main:>0	@+FMAINV V
+6	that	that	pm:>9	@CS CS
+7	they	they	subj:>8	@SUBJ PRON
+8	can	can	v-ch:>9	@+FAUXV V
+9	tell	tell	obj:>5	@-FMAINV V
+10	how	how	ad:>11	@AD-A> ADV
+11	long	long	dat:>9	@I-OBJ A
+12	the	the	det:>13	@DN> DET
+13	winter	winter	subj:>14	@SUBJ N
+14	will	will	v-ch:>15	@+FAUXV V
+15	last	last	obj:>9	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	How	how		@ADVL ADV
+	$,	
+3	you	you	subj:>4	@SUBJ PRON
+4	ask	ask	main:>0	@+FMAINV V
+	$?	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	tale	tale	subj:>3	@SUBJ N
+3	says	say	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	watch	watch	obj:>3	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	groundhogs	groundhog	obj:>5	@OBJ N
+8	on	on	tmp:>5	@ADVL PREP
+9	February	February	pcomp:>8	@<P N
+10	2	2	mod:>9	@<NOM NUM
+	$.	
+	$<s>	
+
+0		
+1	See	see	main:>0	@+FMAINV V
+2	what	what	obj:>4	@OBJ PRON
+3	they	they	subj:>4	@SUBJ PRON
+4	do	do	obj:>1	@+FMAINV V
+5	when	when	tmp:>7	@ADVL ADV
+6	they	they	subj:>7	@SUBJ PRON
+7	leave	leave	tmp:>4	@+FMAINV V
+8	their	they	attr:>9	@A> PRON
+9	dens	den	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>3	@CS CS
+2	they	they	subj:>3	@SUBJ PRON
+3	see	see	cnd:>9	@+FMAINV V
+4	their	they	attr:>5	@A> PRON
+5	shadows	shadow	obj:>3	@OBJ N
+	$,	
+7	they	they	subj:>8	@SUBJ PRON
+8	will	will	v-ch:>9	@+FAUXV V
+9	run	run	main:>0	@-FMAINV V
+10	back	back	ha:>9	@ADVL ADV
+11	inside	inside		@ADVL PREP	@SUBJ N	@OBJ N
+12	their	they	attr:>13	@A> PRON
+13	homes	home		@SUBJ N	@OBJ N	@<P N	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	means	mean	main:>0	@+FMAINV V
+3	winter	winter	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	last	last	obj:>2	@-FMAINV V
+6	six	six	qn:>7	@QN> NUM
+7	more	many	det:>8	@DN> DET
+8	weeks	week	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>5	@CS CS
+2	they	they	subj:>3	@SUBJ PRON
+3	do_	do	v-ch:>5	@+FAUXV V
+4	n't	not	neg:>3	@ADVL NEG-PART
+5	see	see	cnd:>11	@-FMAINV V
+6	their	they	attr:>7	@A> PRON
+7	shadows	shadow	obj:>5	@OBJ N
+	$,	
+9	they	they	subj:>10	@SUBJ PRON
+10	will	will	v-ch:>11	@+FAUXV V
+11	stay	stay	main:>0	@-FMAINV V
+12	outside	outside	comp:>11	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	means	mean	main:>0	@+FMAINV V
+3	spring	spring	subj:>4	@SUBJ N
+4	will	will	v-ch:>6	@+FAUXV V
+5	soon	soon	tmp:>6	@ADVL ADV
+6	start	start	obj:>2	@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	live	live	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	dens	den	attr:>5	@A> N
+5	underground	underground	pcomp:>3	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	another	another	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	for	for	dat:>2	@ADVL PREP
+6	them	they	pcomp:>5	@<P PRON
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	day	day	subj:>2	@SUBJ N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	watch	watch	cnt:>2	@-FMAINV V
+7	the	the	det:>8	@DN> DET
+8	groundhogs	groundhog	obj:>6	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	are	be	subj:>8	@+FMAINV V
+3	most	many	comp:>2	@PCOMPL-S PRON
+4	of	of	mod:>3	@<NOM-OF PREP
+5	the	the	det:>6	@DN> DET
+6	groundhog	groundhog	pcomp:>4	@<P N
+7	homes	home	subj:>2	@SUBJ N
+8	found	find	main:>0	@+FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	do	do	v-ch:>4	@+FAUXV V
+3	people	people	subj:>2	@SUBJ N
+4	watch	watch	main:>0	@-FMAINV V
+5	these	this	det:>6	@DN> DET
+6	animals	animal	obj:>4	@OBJ N
+7	one	one	qn:>8	@QN> NUM
+8	day	day	tmp:>4	@ADVL N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>11	@DN> DET
+11	year	year	pcomp:>9	@<P N
+	$?	
+	$<p>	
+

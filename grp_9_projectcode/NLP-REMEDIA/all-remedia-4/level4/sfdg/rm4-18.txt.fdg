@@ -1,0 +1,349 @@
+0		
+	$<p>	
+
+0		
+1	Pigeon	pigeon	attr:>2	@A> N
+2	Express	express	subj:>3	@SUBJ N
+3	Brings	bring	main:>0	@+FMAINV V
+4	The	the	det:>5	@DN> DET
+5	News	news	obj:>3	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	NEW	new	attr:>3	@A> A
+3	YORK	York	attr:>4	@A> N
+4	CITY	city		@APP N
+	$,	
+6	1846	1846		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Have	have	v-ch:>3	@+FAUXV V
+2	you	you	subj:>1	@SUBJ PRON
+3	heard	hear	main:>0	@-FMAINV EN
+4	about	about	ha:>3	@ADVL PREP
+5	the	the	det:>7	@DN> DET
+6	latest	late	attr:>7	@A> A
+7	way	way	pcomp:>4	@<P N
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	get	get	mod:>7	@-FMAINV V
+10	news	news	obj:>9	@OBJ N
+11	from	from	phr:>9	@ADVL PREP
+12	overseas	overseas		@A> A
+	$?	
+	$<s>	
+
+0		
+1	A	a	det:>6	@DN> DET
+2	young	young	attr:>3	@A> A
+3	man	man	attr:>4	@A> N
+4	named	name	attr:>5	@A> A
+5	Daniel	Daniel	attr:>6	@A> N
+6	Craig	Craig	subj:>7	@SUBJ N
+7	has	have	v-ch:>8	@+FAUXV V
+8	trained	train	main:>0	@-FMAINV EN
+9	pigeons	pigeon	subj:>11	@OBJ N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	carry	carry	obj:>8	@-FMAINV V
+12	the	the	det:>13	@DN> DET
+13	news	news	obj:>11	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Here_	here	loc:>2	@ADVL ADV
+2	's	be	main:>0	@+FMAINV V
+3	how	how		@ADVL ADV	@AD-A> ADV
+4	his	he	attr:>6	@A> PRON
+	$"_	
+6	Pigeon	pigeon		@A> N
+7	Express	express	attr:>9	@A> N
+	$_"	
+9	works	work	main:>5	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Craig	Craig	subj:>2	@SUBJ N
+2	buys	buy	main:>0	@+FMAINV V
+3	pigeons	pigeon	obj:>2	@OBJ N
+4	from	from	sou:>2	@ADVL PREP
+5	Europe	Europe	pcomp:>4	@<P N
+	$,	
+7	and	and	cc:>2	@CC CC
+8	he	he	subj:>9	@SUBJ PRON
+9	trains	train	cc:>2	@+FMAINV V
+10	them	they	subj:>12	@OBJ PRON
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	fly	fly	obj:>9	@-FMAINV V
+13	to	to	goa:>12	@ADVL PREP
+14	certain	certain	attr:>15	@A> A
+15	places	place	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Craig	Craig	subj:>2	@SUBJ N
+2	puts	put	main:>0	@+FMAINV V
+3	his	he	attr:>4	@A> PRON
+4	pigeons	pigeon	obj:>2	@OBJ N
+5	in	in	loc:>2	@ADVL PREP
+6	cages	cage	pcomp:>5	@<P N
+7	and	and	cc:>2	@CC CC
+8	loads	load	cc:>2	@+FMAINV V
+9	them	they	obj:>8	@OBJ PRON
+10	on	on	loc:>8	@ADVL PREP
+11	his	he	attr:>12	@A> PRON
+12	boat	boat	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	he	he	subj:>3	@SUBJ PRON
+3	sails	sail	main:>0	@+FMAINV V
+4	far	far	loc:>3	@ADVL ADV
+5	out	out		@ADVL ADV
+6	in	in	ha:>3	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	ocean	ocean	pcomp:>6	@<P N
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	meet	meet	cnt:>3	@-FMAINV V
+11	the	the	det:>12	@DN> DET
+12	ships	ship	obj:>10	@OBJ N
+13	that	that	subj:>14	@SUBJ PRON
+14	are	be	v-ch:>15	@+FAUXV V
+15	returning	return	mod:>12	@-FMAINV ING
+16	from	from	sou:>15	@ADVL PREP
+17	Europe	Europe	pcomp:>16	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ships	ship	subj:>3	@SUBJ N
+3	have	have	main:>0	@+FMAINV V
+4	all	all	det:>5	@DN> DET
+5	the	the	det:>7	@DN> DET
+6	latest	late	attr:>7	@A> A
+7	news	news	obj:>3	@OBJ N
+8	written	write	oc:>3	@-FMAINV EN
+9	down	down	ha:>8	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	place	place	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	paper	paper	obj:>2	@OBJ N
+5	in	in	loc:>2	@ADVL PREP
+6	jars	jar	pcomp:>5	@<P N
+7	that	that	subj:>8	@SUBJ PRON
+8	are	be	mod:>6	@+FMAINV V
+9	watertight	watertight	comp:>8	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	toss	toss	main:>0	@+FMAINV V
+4	these	this	det:>5	@DN> DET
+5	jars	jar	obj:>3	@OBJ N
+6	overboard	overboard		@ADVL ADV	@AD-A> ADV
+7	to	to		@<NOM PREP	@ADVL PREP
+8	Craig	Craig	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Craig	Craig	subj:>2	@SUBJ N
+2	copies	copy	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	news	news	obj:>2	@OBJ N
+5	onto	onto	goa:>2	@ADVL PREP
+6	thin	thin	attr:>7	@A> A
+7	pieces	piece	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	paper	paper	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	attaches	attach	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	papers	paper	obj:>2	@OBJ N
+5	to	to	goa:>2	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	leg	leg	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	a	a	det:>10	@DN> DET
+10	pigeon	pigeon	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>3	@SUBJ PRON
+2	then	then	meta:>3	@ADVL ADV
+3	sends	send	main:>0	@+FMAINV V
+4	that	that	det:>5	@DN> DET
+5	pigeon	pigeon	obj:>3	@OBJ N
+6	on	on	loc:>3	@ADVL PREP
+7	its	it	attr:>8	@A> PRON
+8	way	way	pcomp:>6	@<P N
+9	back	back		@ADVL ADV
+10	to	to	ad:>9	@ADVL PREP
+11	New	new	attr:>12	@A> A
+12	York	York	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	pigeon	pigeon	subj:>3	@SUBJ N
+3	flies	fly	main:>0	@+FMAINV V
+4	to	to	goa:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	newspaper	newspaper	pcomp:>4	@<P N
+7	that	that	pm:>11	@CS CS
+8	it	it	subj:>9	@SUBJ PRON
+9	has	have	v-ch:>10	@+FAUXV V
+10	been	be	v-ch:>11	@-FAUXV EN
+11	trained	train	mod:>6	@-FMAINV EN
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	find	find	cnt:>11	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Before	before	pm:>6	@CS CS
+2	the	the	det:>3	@DN> DET
+3	ship	ship	subj:>4	@SUBJ N
+4	has	have	v-ch:>6	@+FAUXV V
+5	even	even	>6	@ADVL ADV
+6	landed	land	tmp:>10	@-FMAINV EN
+	$,	
+8	the	the	det:>9	@DN> DET
+9	paper	paper	subj:>10	@SUBJ N
+10	has	have	main:>0	@+FMAINV V
+11	its	it	attr:>12	@A> PRON
+12	news	news	obj:>10	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	Pigeon	pigeon	attr:>3	@A> N
+3	Express	express	subj:>4	@SUBJ N
+4	has	have	v-ch:>5	@+FAUXV V
+5	made	make	main:>0	@-FMAINV EN
+6	long-distance	long-distance	attr:>7	@A> A
+7	trips	trip	obj:>5	@OBJ N
+8	from	from	sou:>5	@ADVL PREP
+9	Canada	Canada	pcomp:>8	@<P N
+10	to	to	pth:>8	@ADVL PREP
+11	Washington	Washington	pcomp:>10	@<P N
+	$,	
+13	D.C	D.C	mod:>11	@APP ABBR
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>7	@ADVL PREP
+2	most	many	det:>3	@DN> DET
+3	cases	case	pcomp:>1	@<P N
+	$,	
+5	the	the	det:>6	@DN> DET
+6	birds	bird	subj:>7	@SUBJ N
+7	arrive	arrive	main:>0	@+FMAINV V
+8	safely	safe	man:>7	@ADVL ADV
+9	with	with	ha:>7	@ADVL PREP
+10	their	they	attr:>11	@A> PRON
+11	precious	preci	attr:>12	@A> A
+12	packages	package	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	started	start	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	Pigeon	pigeon	attr:>5	@A> N
+5	Express	express	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	Pigeon	pigeon	attr:>5	@A> N
+5	Express	express	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	he	he	subj:>2	@SUBJ PRON
+4	start	start	main:>0	@-FMAINV V
+5	the	the	det:>7	@DN> DET
+6	Pigeon	pigeon	attr:>7	@A> N
+7	Express	express	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	Craig	Craig	subj:>2	@SUBJ N
+4	get	get	main:>0	@-FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	news	news	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	this	this	subj:>2	@SUBJ PRON
+4	a	a	det:>6	@DN> DET
+5	fast	fast	attr:>6	@A> A
+6	way	way	comp:>2	@PCOMPL-S N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	get	get	mod:>6	@-FMAINV V
+9	the	the	det:>10	@DN> DET
+10	news	news	obj:>8	@OBJ N
+	$?	
+	$<p>	
+

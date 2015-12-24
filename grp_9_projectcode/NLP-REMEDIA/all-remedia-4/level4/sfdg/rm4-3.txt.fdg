@@ -1,0 +1,383 @@
+0		
+	$<p>	
+
+0		
+1	Doctor	doctor	attr:>2	@A> N
+2	Continues	continue	main:>0	@+FMAINV V
+3	to	to	ha:>2	@ADVL PREP
+4	Find	find	obj:>2	@-FMAINV V
+5	Cures	cure	obj:>4	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	DENVER	Denver		@NH N
+	$,	
+4	1951	1951		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	never	never	ha:>3	@ADVL ADV
+5	too	too	ad:>6	@AD-A> ADV
+6	old	old	comp:>3	@PCOMPL-S A
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	work	work	mod:>6	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	At	at	tmp:>11	@ADVL PREP
+2	age	age	attr:>3	@A> N
+3	80	80	pcomp:>1	@<P NUM
+	$,	
+5	Dr.	Dr.	attr:>6	@A> ABBR
+6	Florence	Florence	attr:>7	@A> N
+7	Sabin	Sabin	subj:>9	@SUBJ N
+8	just	just	meta:>11	@ADVL ADV
+9	wo_	will	v-ch:>11	@+FAUXV V
+10	n't	not	neg:>9	@ADVL NEG-PART
+11	slow	slow	main:>0	@-FMAINV V
+12	down	down	phr:>11	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Sabin	Sabin	subj:>3	@SUBJ N
+3	has	have	v-ch:>4	@+FAUXV V
+4	been	be	v-ch:>5	@-FAUXV EN
+5	called	call	main:>0	@-FMAINV EN
+	$"_	
+7	the	the	det:>10	@DN> DET
+8	greatest	great	attr:>9	@A> A
+9	woman	woman	attr:>10	@A> N
+10	scientist	scientist		@SUBJ N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	her	she	attr:>13	@A> PRON
+13	time	time	pcomp:>11	@<P N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	spent	spend	main:>0	@-FMAINV EN
+4	her	she	attr:>5	@A> PRON
+5	life	life	attr:>6	@A> N
+6	finding	find	attr:>7	@A> N
+7	cures	cure	obj:>3	@OBJ N
+8	for	for	mod:>7	@<NOM PREP
+9	sickness	sickness	pcomp:>8	@<P N
+	$.	
+	$<p>	
+
+0		
+1	A_few	a_few	det:>2	@DN> DET
+2	years	year	tmp:>7	@ADVL N
+3	ago	ago	ad:>2	@<AD-A ADV
+	$,	
+5	Dr.	Dr.	attr:>6	@A> ABBR
+6	Sabin	Sabin	subj:>7	@SUBJ N
+7	found	find	main:>0	@+FMAINV V
+8	a	a	det:>10	@DN> DET
+9	new	new	attr:>10	@A> A
+10	way	way	obj:>7	@OBJ N
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	check	check	mod:>10	@-FMAINV V
+13	for	for	ha:>12	@ADVL PREP
+14	TB	tb	pcomp:>13	@<P ABBR
+	$.	
+	$<s>	
+
+0		
+1	TB	tb	subj:>2	@SUBJ ABBR
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	terrible	terrible	attr:>5	@A> A
+5	illness	illness	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	hurts	hurt	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	lungs	lung	obj:>2	@OBJ N
+5	and	and	cc:>2	@CC CC
+6	can	can	v-ch:>7	@+FAUXV V
+7	lead	lead	cc:>2	@-FMAINV V
+8	to	to	ha:>7	@ADVL PREP
+9	death	death	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Sabin's	Sabin	attr:>3	@A> N
+3	test	test	subj:>4	@SUBJ N
+4	has	have	v-ch:>5	@+FAUXV V
+5	cut	cut	main:>0	@-FMAINV EN
+6	the	the	det:>7	@DN> DET
+7	number	number	obj:>5	@OBJ N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	TB	tb	attr:>10	@A> ABBR
+10	cases	case	pcomp:>8	@<P N
+11	in	in	mod:>10	@<NOM PREP
+12	half	half	pcomp:>11	@<P N
+13	in	in	mod:>12	@<NOM PREP
+14	Denver	Denver	pcomp:>13	@<P N
+	$.	
+	$<p>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	Florence	Florence	subj:>3	@SUBJ N
+3	was	be	tmp:>7	@+FMAINV V
+4	young	young	comp:>3	@PCOMPL-S A
+	$,	
+6	she	she	subj:>7	@SUBJ PRON
+7	knew	know	main:>0	@+FMAINV V
+8	she	she	subj:>9	@SUBJ PRON
+9	wanted	want	obj:>7	@+FMAINV V
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	be	be	obj:>9	@-FAUXV V	@-FMAINV V
+12	a	a	det:>13	@DN> DET
+13	doctor	doctor	comp:>11	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	she	she	subj:>3	@SUBJ PRON
+3	could	could	v-ch:>5	@+FAUXV V
+4	not	not	neg:>3	@ADVL NEG-PART
+5	afford	afford	main:>0	@-FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	go	go	obj:>5	@-FMAINV V
+8	to	to	goa:>7	@ADVL PREP
+9	school	school	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	worked	work	main:>0	@+FMAINV V
+3	for	for	dur:>2	@ADVL PREP
+4	three	three	qn:>5	@QN> NUM
+5	years	year	pcomp:>3	@<P N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	save	save	cnt:>2	@-FMAINV V
+8	enough	enough	det:>9	@DN> DET
+9	money	money	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	was	be	main:>0	@+FMAINV V
+4	one	one	comp:>3	@PCOMPL-S NUM
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>8	@DN> DET
+7	first	first	attr:>8	@A> NUM
+8	women	woman	pcomp:>5	@<P N
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	attend	attend	cnt:>3	@-FMAINV V
+11	a	a	det:>13	@DN> DET
+12	new	new	attr:>13	@A> A
+13	school	school	obj:>10	@OBJ N
+14	for	for	mod:>13	@<NOM PREP
+15	doctors	doctor	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	Johns	Johns	attr:>5	@A> N
+5	Hopkins	Hopkins	comp:>3	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	Over	over		@ADVL ADV	@AD-A> ADV
+2	the	the	det:>3	@DN> DET
+3	years	year		@NH N	@SUBJ N	@PCOMPL-S N
+	$,	
+5	she	she	subj:>6	@SUBJ PRON
+6	became	become		@+FMAINV V
+7	well-known	well-known	comp:>6	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	In	in	tmp:>6	@ADVL PREP
+2	1929	1929	pcomp:>1	@<P NUM
+	$,	
+4	President	president	attr:>5	@A> N
+5	Hoover	hoover	subj:>6	@SUBJ N
+6	invited	invite	main:>0	@+FMAINV V
+7	her	she	attr:>8	@A> PRON
+8	dinner	dinner	obj:>6	@OBJ N
+9	at	at	loc:>6	@ADVL PREP
+10	the	the	det:>12	@DN> DET
+11	White	white	attr:>12	@A> A
+12	House	house	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Sabin	Sabin	subj:>4	@SUBJ N
+3	always	always	frq:>4	@ADVL ADV
+4	finds	find	main:>0	@+FMAINV V
+5	a	a	det:>7	@DN> DET
+6	new	new	attr:>7	@A> A
+7	cause	cause	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	tells	tell	main:>0	@+FMAINV V
+3	people	people	dat:>2	@I-OBJ N
+4	that	that	det:>5	@DN> DET
+5	sickness	sickness	subj:>6	@SUBJ N
+6	can	can	v-ch:>7	@+FAUXV V
+7	come	come	obj:>2	@-FMAINV V
+8	from	from	sou:>7	@ADVL PREP
+9	dirt	dirt	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	gets	get	main:>0	@+FMAINV V
+3	angry	angry	comp:>2	@PCOMPL-S A
+4	when	when	tmp:>6	@ADVL ADV
+5	she	she	subj:>6	@SUBJ PRON
+6	sees	see	tmp:>2	@+FMAINV V
+7	garbage	garbage	subj:>8	@OBJ N
+8	lying	lie	obj:>6	@-FMAINV ING
+9	around	around	ha:>8	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Garbage	garbage	subj:>2	@SUBJ N
+2	can	can	v-ch:>3	@+FAUXV V
+3	cause	cause	main:>0	@-FMAINV V
+4	diseases	disease	obj:>3	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Sabin	Sabin	subj:>3	@SUBJ N
+3	wo_	will	v-ch:>5	@+FAUXV V
+4	n't	not	neg:>3	@ADVL NEG-PART
+5	quit	quit	main:>0	@-FMAINV V
+6	until	until	pm:>8	@CS CS
+7	people	people	subj:>8	@SUBJ N
+8	know	know	tmp:>5	@+FMAINV V
+9	a_lot_more	a_lot_more		@ADVL ADV	@AD-A> ADV	@OBJ PRON	@PCOMPL-S PRON	@ADVL PRON
+10	about	about		@ADVL PREP
+11	how	how	man:>13	@ADVL ADV
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	stay	stay	pcomp:>10	@-FMAINV V
+14	in	in	ha:>13	@ADVL PREP
+15	good	good	attr:>16	@A> A
+16	health	health	pcomp:>14	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	Dr.	Dr.	attr:>4	@A> ABBR
+4	Florence	Florence	attr:>5	@A> N
+5	Sabin	Sabin	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	disease	disease	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	cut	cut	main:>0	@-FMAINV EN
+5	in	in	loc:>4	@ADVL PREP
+6	half	half	pcomp:>5	@<P N
+7	because_of	because_of	mod:>6	@<NOM PREP
+8	her	she	attr:>9	@A> PRON
+9	work	work	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	Dr.	Dr.	attr:>4	@A> ABBR
+4	Sabin	Sabin	subj:>2	@SUBJ N
+5	stop	stop	main:>0	@-FMAINV V
+6	working	work	obj:>5	@-FMAINV ING
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	she	she	subj:>2	@SUBJ PRON
+4	go	go	main:>0	@-FMAINV V
+5	in	in	tmp:>4	@ADVL PREP
+6	1929	1929	pcomp:>5	@<P NUM
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	does	do	v-ch:>5	@+FAUXV V
+3	Dr.	Dr.	attr:>4	@A> ABBR
+4	Sabin	Sabin	subj:>2	@SUBJ N
+5	get	get	main:>0	@-FMAINV V
+6	angry	angry	comp:>5	@PCOMPL-S A
+7	when	when	tmp:>9	@ADVL ADV
+8	she	she	subj:>9	@SUBJ PRON
+9	sees	see	tmp:>5	@+FMAINV V
+10	garbage	garbage	subj:>11	@OBJ N
+11	lying	lie	obj:>9	@-FMAINV ING
+12	around	around	ha:>11	@ADVL ADV
+	$?	
+	$<p>	
+

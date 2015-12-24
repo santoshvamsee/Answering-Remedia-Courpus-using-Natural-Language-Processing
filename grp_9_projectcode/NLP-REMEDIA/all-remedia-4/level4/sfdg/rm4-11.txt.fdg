@@ -1,0 +1,428 @@
+0		
+	$<p>	
+
+0		
+1	Earth's	earth	attr:>2	@A> N
+2	Shadow	shadow	subj:>3	@SUBJ N
+3	Will	will	v-ch:>4	@+FAUXV V
+4	Hide	hide	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	Moon	moon	obj:>4	@OBJ N
+7	Tonight	tonight	tmp:>4	@ADVL N
+	$<p>	
+
+0		
+	$(	
+2	North	north	attr:>3	@A> N
+3	America	America		@APP N
+	$,	
+5	August	August	main:>1	@NH N
+6	16	16	mod:>5	@<NOM NUM
+	$,	
+8	1989	1989	mod:>6	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Tonight	tonight	tmp:>4	@ADVL N
+2	you	you	subj:>3	@SUBJ PRON
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	main:>0	@-FMAINV V
+5	able	able	comp:>4	@PCOMPL-S A
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	see	see	mod:>5	@-FMAINV V
+8	a	a	det:>10	@DN> DET
+9	rare	rare	attr:>10	@A> A
+10	sight	sight	obj:>7	@OBJ N
+11	in	in	ha:>7	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	skies	sky	pcomp:>11	@<P N
+14	when	when	tmp:>17	@ADVL ADV
+15	the	the	det:>16	@DN> DET
+16	earth	earth	subj:>17	@SUBJ N
+17	moves	move	tmp:>7	@+FMAINV V
+18	between	between	ha:>17	@ADVL PREP
+19	the	the	det:>20	@DN> DET
+20	sun	sun	pcomp:>18	@<P N
+21	and	and	cc:>20	@CC CC
+22	the	the	det:>23	@DN> DET
+23	Moon	moon	cc:>20	@<P N
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	see	see	main:>0	@-FMAINV V
+4	the	the	det:>6	@DN> DET
+5	earth's	earth	attr:>6	@A> N
+6	shadow	shadow	subj:>7	@OBJ N
+7	cross	cross	obj:>3	@-FMAINV V
+8	the	the	det:>9	@DN> DET
+9	moon	moon	obj:>7	@OBJ N
+10	and	and	cc:>7	@CC CC
+11	block	block	cc:>7	@-FMAINV V
+12	out	out	ha:>11	@ADVL ADV
+13	the	the	det:>14	@DN> DET
+14	moonlight	moonlight	obj:>11	@OBJ N
+15	for	for	tmp:>11	@ADVL PREP
+16	11/2	11/2	qn:>17	@QN> NUM
+17	hours	hour	pcomp:>15	@<P N
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	event	event	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	called	call	main:>0	@-FMAINV EN
+5	a	a	det:>7	@DN> DET
+6	total	total	attr:>7	@A> A
+7	eclipse	eclipse	comp:>4	@PCOMPL-S N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	the	the	det:>10	@DN> DET
+10	moon	moon	pcomp:>8	@<P N
+	$.	
+	$"_	
+13	Eclipse	eclipse	main:>12	@PCOMPL-O N	@APP N
+	$_"	
+15	means	mean		@+FMAINV V
+	$"_	
+17	to	to	pm:>18	@INFMARK> INFMARK>
+18	block	block	obj:>15	@-FMAINV V
+19	out	out	loc:>18	@ADVL ADV
+	$.	
+	$_"	
+	$<p>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	eclipse	eclipse	comp:>2	@PCOMPL-S N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	the	the	det:>8	@DN> DET
+8	moon	moon	pcomp:>6	@<P N
+9	in	in	dur:>2	@ADVL PREP
+10	six	six	qn:>11	@QN> NUM
+11	years	year	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Once	once	meta:>7	@ADVL ADV
+2	in	in		@ADVL ADV
+3	awhile	awhile		@ADVL ADV
+	$,	
+5	the	the	det:>6	@DN> DET
+6	earth	earth	subj:>7	@SUBJ N
+7	blocks	block	main:>0	@+FMAINV V
+8	out	out	loc:>7	@ADVL ADV
+9	a	a	det:>11	@DN> DET
+10	small	small	attr:>11	@A> A
+11	part	part	obj:>7	@OBJ N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	the	the	det:>14	@DN> DET
+14	moon	moon	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	a	a	det:>6	@DN> DET
+5	partial	partial	attr:>6	@A> A
+6	eclipse	eclipse	comp:>3	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	exact	exact	attr:>3	@A> A
+3	time	time	subj:>7	@SUBJ N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	the	the	det:>6	@DN> DET
+6	eclipse	eclipse	pcomp:>4	@<P N
+7	depends	depend		@+FMAINV V
+8	on	on		@ADVL PREP
+9	where	where	ad:>8	@ADVL ADV
+10	you	you	subj:>11	@SUBJ PRON
+11	live	live		@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>7	@ADVL PREP
+2	most	many	det:>3	@DN> DET
+3	places	place	pcomp:>1	@<P N
+	$,	
+5	it	it	subj:>6	@SUBJ PRON
+6	will	will	v-ch:>7	@+FAUXV V
+7	happen	happen	main:>0	@-FMAINV V
+8	sometime	sometime	tmp:>7	@ADVL ADV
+9	between	between	ha:>7	@ADVL PREP
+10	8	8	pcomp:>9	@<P NUM
+11	and	and	cc:>10	@CC CC
+12	11	11	cc:>10	@<P NUM
+13	p.m	p.m	mod:>12	@<NOM ABBR
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	sign	sign	subj:>6	@SUBJ N
+4	you	you	subj:>5	@SUBJ PRON
+5	see	see	mod:>3	@+FMAINV V
+6	will	will	v-ch:>7	@+FAUXV V
+7	be	be	main:>0	@-FMAINV V
+8	a	a	det:>10	@DN> DET
+9	dark	dark	attr:>10	@A> A
+10	spot	spot	comp:>7	@PCOMPL-S N
+11	on	on	ha:>7	@ADVL PREP
+12	the	the	det:>15	@DN> DET
+13	moon's	moon	attr:>14	@A> N
+14	left	left	attr:>15	@A> A
+15	side	side	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	spot	spot	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	grow	grow	main:>0	@-FMAINV V
+5	in	in	loc:>4	@ADVL PREP
+6	size	size	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	see	see	main:>0	@-FMAINV V
+4	that	that	pm:>7	@CS CS
+5	it	it	subj:>6	@SUBJ PRON
+6	is	be	v-ch:>7	@+FAUXV V
+7	curved	curve	obj:>3	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	one	one	qn:>4	@QN> NUM
+4	clue	clue	comp:>2	@PCOMPL-S N
+5	that	that	subj:>6	@SUBJ PRON
+6	proves	prove	mod:>4	@+FMAINV V
+7	the	the	det:>8	@DN> DET
+8	earth	earth	subj:>9	@SUBJ N
+9	is	be	obj:>6	@+FMAINV V
+10	round	round	comp:>9	@PCOMPL-S A
+	$.	
+	$<p>	
+
+0		
+1	After	after	tmp:>9	@ADVL PREP
+2	about	about	ad:>3	@AD-A> ADV
+3	45	45	qn:>4	@QN> NUM
+4	minutes	minute	pcomp:>1	@<P N
+	$,	
+6	the	the	det:>7	@DN> DET
+7	shadow	shadow	subj:>8	@SUBJ N
+8	will	will	v-ch:>9	@+FAUXV V
+9	cover	cover	main:>0	@-FMAINV V
+10	the	the	det:>11	@DN> DET
+11	moon	moon	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	should	should	v-ch:>3	@+FAUXV V
+3	see	see	main:>0	@-FMAINV V
+4	a	a	det:>5	@DN> DET
+5	ring	ring	obj:>3	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	color	color	pcomp:>6	@<P N
+8	around	around	mod:>7	@<NOM PREP
+9	the	the	det:>10	@DN> DET
+10	moon	moon	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	may	may	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	pink	pink	comp:>3	@PCOMPL-S A
+	$,	
+6	red	red	cc:>4	@PCOMPL-S A
+	$,	
+8	orange	orange		@SUBJ N	@PCOMPL-S N	@APP N
+	$,	
+10	or	or		@CC CC
+11	even	even	meta:>12	@ADVL ADV
+12	gray	gray		@PCOMPL-S A	@APP A
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	ring	ring	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	the	the	det:>6	@DN> DET
+5	earth's	earth	attr:>6	@A> N
+6	atmosphere	atmosphere	comp:>3	@PCOMPL-S N
+7	being	be	v-ch:>8	@-FAUXV ING
+8	cast	cast	mod:>6	@-FMAINV EN
+9	on	on	phr:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	moon	moon	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Atmosphere	atmosphere	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	air	air	comp:>2	@PCOMPL-S N
+5	high	high	copred:>2	@PCOMPL-S A
+6	above	above	ad:>5	@ADVL PREP
+7	the	the	det:>9	@DN> DET
+8	earth's	earth	attr:>9	@A> N
+9	surface	surface	pcomp:>6	@<P N
+	$.	
+	$<p>	
+
+0		
+1	After	after	tmp:>9	@ADVL PREP
+2	45	45	qn:>3	@QN> NUM
+3	more	many	det:>4	@DN> DET
+4	minutes	minute	pcomp:>1	@<P N
+	$,	
+6	the	the	det:>7	@DN> DET
+7	shadow	shadow	subj:>8	@SUBJ N
+8	will	will	v-ch:>9	@+FAUXV V
+9	disappear	disappear	main:>0	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	earth	earth	subj:>3	@SUBJ N
+3	will	will	v-ch:>5	@+FAUXV V
+4	no_longer	no_longer	>5	@ADVL ADV
+5	be	be	main:>0	@-FMAINV V
+6	between	between	ha:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	sun	sun	pcomp:>6	@<P N
+9	and	and	cc:>8	@CC CC
+10	the	the	det:>11	@DN> DET
+11	moon	moon	cc:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	wo_	will	v-ch:>4	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	hide	hide	main:>0	@-FMAINV V
+5	the	the	det:>7	@DN> DET
+6	full	full	attr:>7	@A> A
+7	moon	moon	obj:>4	@OBJ N
+8	again	again	frq:>4	@ADVL ADV
+9	until	until	tmp:>4	@ADVL PREP
+10	1992	1992	pcomp:>9	@<P NUM
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	able	able	comp:>3	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	see	see	mod:>4	@-FMAINV V
+7	a	a	det:>9	@DN> DET
+8	rare	rare	attr:>9	@A> A
+9	sight	sight	obj:>6	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	comp:>4	@PCOMPL-S PRON
+2	will	will	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	be	be	main:>0	@-FMAINV V
+5	seeing	see		@-FMAINV ING
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	event	event	subj:>2	@SUBJ N
+5	happen	happen	main:>0	@-FMAINV V
+6	again	again	frq:>5	@ADVL ADV
+7	after	after	ha:>5	@ADVL PREP
+8	tonight	tonight	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	earth	earth	subj:>2	@SUBJ N
+5	in	in	ha:>2	@ADVL PREP
+6	an	an	det:>7	@DN> DET
+7	eclipse	eclipse	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	the	the	det:>10	@DN> DET
+10	moon	moon	pcomp:>8	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	moon	moon	subj:>2	@SUBJ N
+5	have	have	main:>0	@-FMAINV V
+6	a	a	det:>7	@DN> DET
+7	ring	ring	obj:>5	@OBJ N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	color	color	pcomp:>8	@<P N
+	$?	
+	$<p>	
+

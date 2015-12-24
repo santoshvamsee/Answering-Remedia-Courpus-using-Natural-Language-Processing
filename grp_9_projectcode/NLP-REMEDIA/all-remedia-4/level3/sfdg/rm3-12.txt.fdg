@@ -1,0 +1,330 @@
+0		
+1	Presidents	president	attr:>2	@A> N
+2	Honored	honor	main:>0	@-FMAINV EN
+3	On	on	loc:>2	@ADVL PREP
+4	Mountainside	mountainside	pcomp:>3	@<P N
+	$<p>	
+
+0		
+	$(	
+2	MT.	mt.	attr:>3	@A> ABBR
+3	RUSHMORE	rushmore	main:>1	@APP N
+	$,	
+5	South	south	attr:>6	@A> N
+6	Dakota	Dakota		@NH N
+	$,	
+8	1932	1932		@NH NUM	@SUBJ NUM	@PCOMPL-S NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+10	$-		
+11	A	a	det:>13	@DN> DET
+12	big	big	attr:>13	@A> A
+13	mountain	mountain	subj:>14	@SUBJ N
+14	is	be	v-ch:>15	@+FAUXV V
+15	taking	take	main:>0	@-FMAINV ING
+16	on	on	phr:>15	@ADVL ADV
+17	a	a	det:>19	@DN> DET
+18	new	new	attr:>19	@A> A
+19	shape	shape	obj:>15	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	day	day	tmp:>8	@ADVL N
+	$,	
+4	a	a	det:>5	@DN> DET
+5	team	team	subj:>8	@SUBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	workers	worker	pcomp:>6	@<P N
+8	carves	carve	main:>0	@+FMAINV V
+9	away	away	loc:>8	@ADVL ADV
+10	some	some	obj:>8	@OBJ PRON
+11	of	of	mod:>10	@<NOM-OF PREP
+12	its	it	attr:>13	@A> PRON
+13	rock	rock	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	may	may	v-ch:>3	@+FAUXV V
+3	take	take	main:>0	@-FMAINV V
+4	a_few	a_few	det:>5	@DN> DET
+5	more	many	attr:>6	@DN> DET
+6	years	year	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	when	when	tmp:>5	@ADVL ADV
+3	they	they	subj:>4	@SUBJ PRON
+4	are	be	v-ch:>5	@+FAUXV V
+5	done	do	tmp:>10	@-FMAINV EN
+	$,	
+7	Mt.	mt.	attr:>8	@A> ABBR
+8	Rushmore	rushmore	subj:>9	@SUBJ N
+9	will	will	v-ch:>10	@+FAUXV V
+10	carry	carry	main:>0	@-FMAINV V
+11	the	the	det:>12	@DN> DET
+12	faces	face	obj:>10	@OBJ N
+13	of	of	mod:>12	@<NOM-OF PREP
+14	four	four	qn:>15	@QN> NUM
+15	presidents	president	pcomp:>13	@<P N
+16	of	of	mod:>15	@<NOM-OF PREP
+17	the	the	det:>19	@DN> DET
+18	United	unite	attr:>19	@A> A
+19	States	state	pcomp:>16	@<P N
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	able	able	comp:>3	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	see	see	mod:>4	@-FMAINV V
+7	the	the	det:>8	@DN> DET
+8	faces	face	obj:>6	@OBJ N
+9	from	from	sou:>6	@ADVL PREP
+10	miles	mile	pcomp:>9	@<P N
+11	away	away	loc:>6	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Two	two	subj:>5	@SUBJ NUM
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>4	@DN> DET
+4	presidents	president	pcomp:>2	@<P N
+5	are	be	main:>0	@+FMAINV V
+6	Washington	Washington	comp:>5	@PCOMPL-S N
+7	and	and	cc:>6	@CC CC
+8	Jefferson	Jefferson	cc:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	two	two		@PCOMPL-S NUM	@<NOM NUM	@ADVL NUM
+4	of	of	mod:>3	@<NOM-OF PREP
+5	our	we	attr:>6	@A> PRON
+6	first	first	attr:>7	@A> NUM
+7	leaders	leader	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Lincoln	Lincoln	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	third	third	comp:>2	@PCOMPL-S NUM
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	helped	help	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	free	free	obj:>2	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	slaves	slave	obj:>4	@OBJ N
+7	after	after	ha:>4	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	Civil	civil	attr:>10	@A> A
+10	War	war	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	fourth	fourth	attr:>3	@A> NUM
+3	face	face	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	main:>0	@-FMAINV V
+6	that	that	comp:>5	@PCOMPL-S PRON
+7	of	of	mod:>6	@<NOM-OF PREP
+8	Theodore	Theodore	attr:>9	@A> N
+9	Roosevelt	Roosevelt	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	Teddy	teddy	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	loved	love	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	outdoors	outdoors	loc:>2	@ADVL ADV
+5	and	and		@CC CC
+6	nature	nature	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	teddy	teddy	attr:>3	@A> N
+3	bear	bear	subj:>4	@SUBJ N
+4	got	get	main:>0	@+FMAINV V
+5	its	it	attr:>6	@A> PRON
+6	name	name	obj:>4	@OBJ N
+7	from	from	sou:>4	@ADVL PREP
+8	him	he	pcomp:>7	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	Before	before	pm:>3	@CS CS
+2	they	they	subj:>3	@SUBJ PRON
+3	start	start	tmp:>7	@+FMAINV V
+	$,	
+5	the	the	det:>6	@DN> DET
+6	workers	worker	subj:>7	@SUBJ N
+7	attach	attach	main:>0	@+FMAINV V
+8	ropes	rope	obj:>7	@OBJ N
+9	to	to	goa:>7	@ADVL PREP
+10	their	they	attr:>11	@A> PRON
+11	bodies	body	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	swing	swing	main:>0	@+FMAINV V
+3	1,000	1,000	qn:>4	@QN> NUM
+4	feet	foot	obj:>2	@OBJ N
+5	above	above	ad:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	ground	ground	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	use	use	main:>0	@+FMAINV V
+3	drills	drill	obj:>2	@OBJ N
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	form	form	cnt:>2	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	nose	nose	obj:>5	@OBJ N
+	$,	
+9	eyes	eye	cc:>7	@OBJ N
+	$,	
+11	and	and	cc:>9	@CC CC
+12	mouth	mouth	cc:>9	@OBJ N
+13	of	of	mod:>12	@<NOM-OF PREP
+14	each	each	det:>15	@DN> DET
+15	face	face	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	have	have	v-ch:>4	@+FAUXV V
+3	just	just	>4	@ADVL ADV
+4	finished	finish	main:>0	@-FMAINV EN
+5	the	the	det:>6	@DN> DET
+6	face	face	obj:>4	@OBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	Washington	Washington	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	60	60	qn:>4	@QN> NUM
+4	feet	foot	comp:>2	@PCOMPL-S N
+5	high	high	copred:>2	@PCOMPL-S A
+6	from	from	sou:>2	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	chin	chin	pcomp:>6	@<P N
+9	to	to	pth:>6	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	top	top	pcomp:>9	@<P N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	the	the	det:>14	@DN> DET
+14	head	head	pcomp:>12	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	presidents	president	comp:>2	@PCOMPL-S N
+5	being	be	v-ch:>6	@-FAUXV ING
+6	honored	honor	mod:>4	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	mountain	mountain	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Lincoln	Lincoln	subj:>2	@SUBJ N
+4	free	free	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	slaves	slave	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	Mt.	mt.	attr:>4	@A> ABBR
+4	Rushmore	rushmore	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	Roosevelt	Roosevelt	subj:>2	@SUBJ N
+4	well-known	well-known	comp:>2	@PCOMPL-S A
+	$?	
+	$<p>	
+

@@ -1,0 +1,309 @@
+
+ 9999 99       0       O      N           Tennis           attr/A            -----      1
+ 9999 99       1       O      N            Queen           attr/A            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV             Only        meta/ADVL            -----      4
+ 9999 99       4       O    NUM               18           comp/S            -----      2
+
+ 9999 99       0       O    SEP                (           comp/S            ?????     -1
+ 9999 99       1       O      N           LONDON          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N          ENGLAND        NOFUNC/NH            -----     -1
+ 9999 99       4       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       5       O      N             July       NOFUNC/APP            -----     -1
+ 9999 99       6       O    NUM           6,1974        NOFUNC/NH            -----     -1
+ 9999 99       7       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       8       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O   PRON              All        subj/SUBJ            -----      3
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O      N          England          pcomp/P            -----      1
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O    ING           T_talk      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP            about          ha/ADVL            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O      A              new           attr/A            -----      8
+ 9999 99       8       O      N            queen          pcomp/P            -----      5
+ 9999 99       9       O   PREP               of           mod/OF            -----      8
+ 9999 99      10       O      N           tennis          pcomp/P            -----      9
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      A            Young           attr/A            -----      1
+ 9999 99       1       O      N            Chris           attr/A            -----      2
+ 9999 99       2       O      N            Evert        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN            T_win      main/FMAINV            -----     -1
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      A              big           attr/A            -----      7
+ 9999 99       7       O      N       tournament          obj/OBJ            -----      4
+ 9999 99       8       O   PREP               in          ha/ADVL            -----      4
+ 9999 99       9       O      N          England           attr/A            -----     10
+ 9999 99      10       O      A           called           attr/A            -----     11
+ 9999 99      11       O      N        Wimbledon          pcomp/P            -----      8
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV             only      NOFUNC/ADVL            -----     -1
+ 9999 99       3       O    NUM               18      NOFUNC/SUBJ            -----     -1
+ 9999 99       4       O    SEP                ,      NOFUNC/SUBJ            ?????     -1
+ 9999 99       5       O     CC              but            cc/CC            -----      1
+ 9999 99       6       O   PRON              she        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_have       v-ch/FAUXV            -----      8
+ 9999 99       8       O     EN             T_be       v-ch/FAUXV            -----      9
+ 9999 99       9       O    ING           T_play        cc/FMAINV            -----      1
+ 9999 99      10       O      N           tennis           comp/S            -----      9
+ 9999 99      11       O     CS            since            pm/CS            -----     13
+ 9999 99      12       O   PRON              she        subj/SUBJ            -----     13
+ 9999 99      13       O      V             T_be       tmp/FMAINV            -----      9
+ 9999 99      14       O    NUM             four           comp/S            -----     13
+ 9999 99      15       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O      N            Chris        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP             from         sou/ADVL            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O      A           United           attr/A            -----      5
+ 9999 99       5       O      N           States          pcomp/P            -----      2
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              Her           attr/A            -----      1
+ 9999 99       1       O      N             home        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               in         loc/ADVL            -----      2
+ 9999 99       4       O      N          Florida          pcomp/P            -----      3
+ 9999 99       5       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      2
+ 9999 99       1       O    NUM            first          mod/NOM            -----      0
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN         T_notice      main/FMAINV            -----     -1
+ 9999 99       4       O    NUM            three            qn/QN            -----      5
+ 9999 99       5       O      N            years         tmp/ADVL            -----      3
+ 9999 99       6       O    ADV              ago             ad/A            -----      5
+ 9999 99       7       O    ADV             when         tmp/ADVL            -----      9
+ 9999 99       8       O   PRON              she        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_show    NOFUNC/FMAINV            -----     -1
+ 9999 99      10       O   PRON              she        subj/SUBJ            -----     11
+ 9999 99      11       O      V          T_could       v-ch/FAUXV            -----     12
+ 9999 99      12       O      V           T_beat       obj/FMAINV            -----      9
+ 9999 99      13       O      A            older           attr/A            -----     14
+ 9999 99      14       O      N          players          obj/OBJ            -----     12
+ 9999 99      15       O   PRON              who        subj/SUBJ            -----     16
+ 9999 99      16       O      V           T_have       mod/FMAINV            -----     14
+ 9999 99      17       O    DET             more           det/DN            -----     18
+ 9999 99      18       O      N       experience          obj/OBJ            -----     16
+ 9999 99      19       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      N            Chris        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O    ADV               as             ad/A            -----      4
+ 9999 99       4       O      A              big           comp/S            -----      1
+ 9999 99       5       O     CC               or            cc/CC            -----      4
+ 9999 99       6       O    ADV               as             ad/A            -----      7
+ 9999 99       7       O      A           strong             cc/S            -----      4
+ 9999 99       8       O   PREP               as          mod/NOM            -----      7
+ 9999 99       9       O   PRON             some          pcomp/P            -----      8
+ 9999 99      10       O   PREP               of           mod/OF            -----      9
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O    DET            other          attr/DN            -----     13
+ 9999 99      13       O      N          players          pcomp/P            -----     10
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP               In         cla/ADVL            -----      7
+ 9999 99       1       O      N             fact          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O   PREP               as      NOFUNC/ADVL            -----     -1
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N        youngster          pcomp/P            -----      3
+ 9999 99       6       O   PRON              she        subj/SUBJ            -----      7
+ 9999 99       7       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       8       O    ADV              too             ad/A            -----      9
+ 9999 99       9       O      A             weak           comp/S            -----      7
+ 9999 99      10       O INFMARK               to       pm/INFMARK            -----     11
+ 9999 99      11       O      V            T_hit       mod/FMAINV            -----      9
+ 9999 99      12       O    DET              the           det/DN            -----     14
+ 9999 99      13       O      N           tennis           attr/A            -----     14
+ 9999 99      14       O      N            balls          obj/OBJ            -----     11
+ 9999 99      15       O   PRON             that        subj/SUBJ            -----     16
+ 9999 99      16       O      V           T_land       mod/FMAINV            -----     14
+ 9999 99      17       O   PREP               on          ha/ADVL            -----     16
+ 9999 99      18       O   PRON              her           attr/A            -----     19
+ 9999 99      19       O      A             left           attr/A            -----     20
+ 9999 99      20       O      N             side          pcomp/P            -----     17
+ 9999 99      21       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      A     right-handed           comp/S            -----      1
+ 9999 99       3       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV               So        meta/ADVL            -----      9
+ 9999 99       1       O   PRON              her           attr/A            -----      2
+ 9999 99       2       O      N           father        subj/SUBJ            -----      9
+ 9999 99       3       O    SEP                ,        subj/SUBJ            ?????     -1
+ 9999 99       4       O   PRON              who        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be       mod/FMAINV            -----      2
+ 9999 99       6       O   PRON              her           attr/A            -----      7
+ 9999 99       7       O      N            coach           comp/S            -----      5
+ 9999 99       8       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       9       O      V          T_teach      main/FMAINV            -----     -1
+ 9999 99      10       O   PRON              her         subj/OBJ            -----     12
+ 9999 99      11       O INFMARK               to       pm/INFMARK            -----     12
+ 9999 99      12       O      V            T_use       obj/FMAINV            -----      9
+ 9999 99      13       O    DET             both           det/DN            -----     14
+ 9999 99      14       O      N            hands          obj/OBJ            -----     12
+ 9999 99      15       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV              Now        meta/ADVL            -----      2
+ 9999 99       1       O      N            Chris        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_hit      main/FMAINV            -----     -1
+ 9999 99       3       O    DET            those           det/DN            -----      5
+ 9999 99       4       O      N        left-side           attr/A            -----      5
+ 9999 99       5       O      N            balls          obj/OBJ            -----      2
+ 9999 99       6       O   PREP             with         ins/ADVL            -----      2
+ 9999 99       7       O   PRON              her           attr/A            -----      8
+ 9999 99       8       O      A         two-hand           attr/A            -----      9
+ 9999 99       9       O      N         backhand          pcomp/P            -----      6
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP               By         tmp/ADVL            -----      4
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N             time          pcomp/P            -----      0
+ 9999 99       3       O   PRON              she        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       5       O    NUM             nine           comp/S            -----      4
+ 9999 99       6       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       7       O      N            Chris        subj/SUBJ            -----      8
+ 9999 99       8       O      V          T_could       v-ch/FAUXV            -----      9
+ 9999 99       9       O      V           T_beat    NOFUNC/FMAINV            -----     -1
+ 9999 99      10       O   PRON              any          obj/OBJ            -----      9
+ 9999 99      11       O   PREP               of           mod/OF            -----     10
+ 9999 99      12       O   PRON              her           attr/A            -----     13
+ 9999 99      13       O      N      girlfriends          pcomp/P            -----     11
+ 9999 99      14       O   PREP               at       NOFUNC/NOM            -----     -1
+ 9999 99      15       O      N           tennis          pcomp/P            -----     14
+ 9999 99      16       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Soon         tmp/ADVL            -----      3
+ 9999 99       1       O   PRON              she        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O    ING           T_beat      main/FMAINV            -----     -1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N             boys          obj/OBJ            -----      3
+ 9999 99       6       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N     neighborhood          pcomp/P            -----      6
+ 9999 99       9       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99      10       O    ADV              too        meta/ADVL            -----      3
+ 9999 99      11       O    SEP                .        meta/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON              Her           attr/A            -----      1
+ 9999 99       1       O      N          parents        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_know      main/FMAINV            -----     -1
+ 9999 99       3       O     CS             that            pm/CS            -----      6
+ 9999 99       4       O   PRON              she        subj/SUBJ            -----      5
+ 9999 99       5       O      V          T_could       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V             T_be       obj/FMAINV            -----      2
+ 9999 99       7       O    NUM              one           comp/S            -----      6
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      A             best          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N            Chris        subj/SUBJ            -----      2
+ 9999 99       1       O    ADV           always         frq/ADVL            -----      2
+ 9999 99       2       O      V           T_keep      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON              her           comp/S            -----      2
+ 9999 99       4       O      A             cool         NOFUNC/S            -----     -1
+ 9999 99       5       O    SEP                .         NOFUNC/S            ?????     -1
+
+ 9999 99       0       O    ADV             Even      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    ADV             when         tmp/ADVL            -----      3
+ 9999 99       2       O   PRON              she        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_miss       tmp/FMAINV            -----     10
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N             ball          obj/OBJ            -----      3
+ 9999 99       6       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       7       O   PRON              she        subj/SUBJ            -----      8
+ 9999 99       8       O      V             T_do       v-ch/FAUXV            -----     10
+ 9999 99       9       O NEG-PART              n't         neg/ADVL            -----      8
+ 9999 99      10       O      V            T_get      main/FMAINV            -----     -1
+ 9999 99      11       O      A            upset           comp/S            -----     10
+ 9999 99      12       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON            That_        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM              one            qn/QN            -----      3
+ 9999 99       3       O      N           reason          obj/OBJ            -----      1
+ 9999 99       4       O    ADV              why         cnt/ADVL            -----      7
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N           crowds        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_like       mod/FMAINV            -----      3
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V          T_cheer       obj/FMAINV            -----      7
+ 9999 99      10       O   PREP              for          ha/ADVL            -----      9
+ 9999 99      11       O   PRON              her          pcomp/P            -----     10
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      A              new           attr/A            -----      4
+ 9999 99       4       O      N            queen           comp/S            -----      1
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O      N           tennis          pcomp/P            -----      5
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             name           comp/S            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N       tournament          pcomp/P            -----      4
+ 9999 99       7       O   PRON              she        subj/SUBJ            -----      8
+ 9999 99       8       O      V            T_win       mod/FMAINV            -----      6
+ 9999 99       9       O    SEP                ?       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N            Chris        subj/SUBJ            -----      1
+ 9999 99       3       O      V          T_start      main/FMAINV            -----     -1
+ 9999 99       4       O    ING           T_play       obj/FMAINV            -----      3
+ 9999 99       5       O      N           tennis          obj/OBJ            -----      4
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON              she        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N           crowds        subj/SUBJ            -----      1
+ 9999 99       4       O      V           T_like      main/FMAINV            -----     -1
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V          T_cheer       obj/FMAINV            -----      4
+ 9999 99       7       O   PREP              for          ha/ADVL            -----      6
+ 9999 99       8       O   PRON              her          pcomp/P            -----      7
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+

@@ -1,0 +1,276 @@
+ 9999 99       0       O    DET                A           det/DN            -----      2
+ 9999 99       1       O      A          Perfect           attr/A            -----      2
+ 9999 99       2       O    NUM              Ten          main/NH            -----     -1
+ 9999 99       3       O    SEP                !          main/NH            ?????     -1
+
+ 9999 99       0       O    SEP                (          main/NH            ?????     -1
+ 9999 99       1       O      N         MONTREAL          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N             July       NOFUNC/APP            -----     -1
+ 9999 99       4       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       5       O    NUM             1976         mod/ADVL            -----      3
+ 9999 99       6       O    SEP                )         mod/ADVL            ?????     -1
+ 9999 99       7       O     --               $-          NOFUNC/            -----     -1
+ 9999 99       8       O    DET              The           det/DN            -----      9
+ 9999 99       9       O      N            world        subj/SUBJ            -----     10
+ 9999 99      10       O      V             T_be       v-ch/FAUXV            -----     11
+ 9999 99      11       O    ING          T_watch      main/FMAINV            -----     -1
+ 9999 99      12       O    DET                a           det/DN            -----     16
+ 9999 99      13       O      A            young           attr/A            -----     14
+ 9999 99      14       O      N             girl           attr/A            -----     15
+ 9999 99      15       O      A            named           attr/A            -----     16
+ 9999 99      16       O      N            Nadia          obj/OBJ            -----     11
+ 9999 99      17       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON              she        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       obj/FMAINV            -----      1
+ 9999 99       4       O      A          perfect           comp/S            -----      3
+ 9999 99       5       O   PREP               at      NOFUNC/ADVL            -----     -1
+ 9999 99       6       O   PRON             what          obj/OBJ            -----      8
+ 9999 99       7       O   PRON              she        subj/SUBJ            -----      8
+ 9999 99       8       O      V             T_do     pcomp/FMAINV            -----      5
+ 9999 99       9       O    SEP                .     pcomp/FMAINV            ?????     -1
+
+ 9999 99       0       O      N            Nadia        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N          gymnast           comp/S            -----      1
+ 9999 99       4       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_can       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN            T_see      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               on         loc/ADVL            -----      3
+ 9999 99       5       O      N               TV          pcomp/P            -----      4
+ 9999 99       6       O    DET              all           det/DN            -----      7
+ 9999 99       7       O    DET             this           det/DN            -----      8
+ 9999 99       8       O      N             week         tmp/ADVL            -----      3
+ 9999 99       9       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O    ING           T_take      main/FMAINV            -----     -1
+ 9999 99       3       O      N             part          obj/OBJ            -----      2
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      2
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N         Olympics          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV           So_far        meta/ADVL            -----      4
+ 9999 99       1       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       2       O   PRON              she        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN        T_receive      main/FMAINV            -----     -1
+ 9999 99       5       O    NUM             four            qn/QN            -----      7
+ 9999 99       6       O      N             gold           attr/A            -----      7
+ 9999 99       7       O      N           medals          obj/OBJ            -----      4
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             More        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET               no           det/DN            -----      3
+ 9999 99       3       O      N            doubt      NOFUNC/SUBJ            -----     -1
+ 9999 99       4       O      V           T_come      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON              her           attr/A            -----      6
+ 9999 99       6       O      N              way      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N             time        NOFUNC/NH            -----     -1
+ 9999 99       2       O   PRON              she        subj/SUBJ            -----      3
+ 9999 99       3       O      V        T_perform    NOFUNC/FMAINV            -----     -1
+ 9999 99       4       O    SEP                ,    NOFUNC/FMAINV            ?????     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N           judges        subj/SUBJ            -----      7
+ 9999 99       7       O      V            T_can       v-ch/FAUXV            -----      9
+ 9999 99       8       O NEG-PART              not         neg/ADVL            -----      7
+ 9999 99       9       O      V           T_find    NOFUNC/FMAINV            -----     -1
+ 9999 99      10       O    NUM              one            qn/QN            -----     11
+ 9999 99      11       O      N            thing          obj/OBJ            -----      9
+ 9999 99      12       O      A            wrong             oc/O            -----      9
+ 9999 99      13       O    SEP                .             oc/O            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_give      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON              her          dat/OBJ            -----      1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      A          perfect           attr/A            -----      5
+ 9999 99       5       O      N            score          obj/OBJ            -----      1
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O    NUM              ten          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N            Nadia        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV             only             ad/A            -----      3
+ 9999 99       3       O    NUM               15            qn/QN            -----      4
+ 9999 99       4       O      A        years_old           comp/S            -----      1
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O    ING       T_practice      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP              for          ha/ADVL            -----      3
+ 9999 99       5       O   PRON             more          pcomp/P            -----      4
+ 9999 99       6       O   PREP             than          mod/NOM            -----      5
+ 9999 99       7       O    NUM              ten            qn/QN            -----      8
+ 9999 99       8       O      N            years          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              Her           attr/A            -----      1
+ 9999 99       1       O      N             home        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               in         loc/ADVL            -----      2
+ 9999 99       4       O      N           Russia          pcomp/P            -----      3
+ 9999 99       5       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_can       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_turn      main/FMAINV            -----     -1
+ 9999 99       3       O      N      somersaults           comp/S            -----      2
+ 9999 99       4       O   PREP               on         loc/ADVL            -----      2
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      A             thin           attr/A            -----      7
+ 9999 99       7       O      N            board          pcomp/P            -----      4
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            board        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       4       O    DET                a           det/DN            -----      6
+ 9999 99       5       O      N          balance           attr/A            -----      6
+ 9999 99       6       O      N             beam           comp/S            -----      3
+ 9999 99       7       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O      V           T_lose      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON              her           attr/A            -----      5
+ 9999 99       5       O      N          balance          obj/OBJ            -----      3
+ 9999 99       6       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      N            Nadia        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_can       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_leap    NOFUNC/FMAINV            -----     -1
+ 9999 99       3       O   PREP             into         goa/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N              air          pcomp/P            -----      3
+ 9999 99       6       O     CC              and            cc/CC            -----      2
+ 9999 99       7       O      V             T_do        cc/FMAINV            -----      2
+ 9999 99       8       O    ADV             back      NOFUNC/ADVL            -----     -1
+ 9999 99       9       O      V           T_flip    NOFUNC/FMAINV            -----     -1
+ 9999 99      10       O    SEP                .    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_do      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON             this          obj/OBJ            -----      1
+ 9999 99       3       O   PREP               as      copred/ADVL            -----      1
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N             part          pcomp/P            -----      3
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O    DET                a           det/DN            -----      8
+ 9999 99       8       O      N            dance          pcomp/P            -----      6
+ 9999 99       9       O   PREP             with       NOFUNC/NOM            -----     -1
+ 9999 99      10       O      N            music          pcomp/P            -----      9
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_can       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V          T_swing      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV  round_and_round          ha/ADVL            -----      2
+ 9999 99       4       O   PREP               on         loc/ADVL            -----      2
+ 9999 99       5       O      N             bars          pcomp/P            -----      4
+ 9999 99       6       O      A             high          mod/NOM            -----      5
+ 9999 99       7       O   PREP            above        meta/ADVL            -----      2
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N           ground          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      2
+ 9999 99       1       O    ADV            never         frq/ADVL            -----      2
+ 9999 99       2       O      V           T_fall      main/FMAINV            -----     -1
+ 9999 99       3       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O      N            Nadia        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O    ADV             very             ad/A            -----      4
+ 9999 99       4       O      A             tall           comp/S            -----      1
+ 9999 99       5       O     CC               or            cc/CC            -----      4
+ 9999 99       6       O      A              big             cc/S            -----      4
+ 9999 99       7       O    SEP                .             cc/S            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O   PRON              she        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      A              big           comp/S            -----      2
+ 9999 99       4       O   PREP               in         mod/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N             eyes          pcomp/P            -----      4
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O   PRON            those          pcomp/P            -----      7
+ 9999 99       9       O   PRON              who        subj/SUBJ            -----     10
+ 9999 99      10       O      V             T_be       v-ch/FAUXV            -----     11
+ 9999 99      11       O    ING          T_watch       mod/FMAINV            -----      8
+ 9999 99      12       O   PRON              her         subj/OBJ            -----     13
+ 9999 99      13       O      V             T_do       obj/FMAINV            -----     11
+ 9999 99      14       O   PRON              her          obj/OBJ            -----     13
+ 9999 99      15       O    ADV             best         man/ADVL            -----     13
+ 9999 99      16       O    SEP                .         man/ADVL            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who          obj/OBJ            -----      3
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON         everyone        subj/SUBJ            -----      1
+ 9999 99       3       O    ING          T_watch    NOFUNC/FMAINV            -----     -1
+ 9999 99       4       O   PREP               at          ha/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N         Olympics          pcomp/P            -----      4
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What           comp/S            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON              she        subj/SUBJ            -----      1
+ 9999 99       3       O    SEP                ?        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON              she        subj/SUBJ            -----      1
+ 9999 99       3       O      V          T_begin      main/FMAINV            -----     -1
+ 9999 99       4       O    ING       T_practice       obj/FMAINV            -----      3
+ 9999 99       5       O    SEP                ?       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON              she        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON              her           attr/A            -----      3
+ 9999 99       3       O      N           scores        subj/SUBJ            -----      1
+ 9999 99       4       O      A          perfect           comp/S            -----      1
+ 9999 99       5       O    NUM             10's         NOFUNC/S            -----     -1
+ 9999 99       6       O    SEP                ?         NOFUNC/S            ?????     -1
+

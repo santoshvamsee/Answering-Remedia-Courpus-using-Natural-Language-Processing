@@ -1,0 +1,274 @@
+ 9999 99       0       O      N       Television        subj/SUBJ            -----      1
+ 9999 99       1       O      V      T_celebrate      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM               50            qn/QN            -----      3
+ 9999 99       3       O      N            Years          obj/OBJ            -----      1
+
+ 9999 99       0       O    SEP                (          obj/OBJ            ?????     -1
+ 9999 99       1       O      A              NEW           attr/A            -----      2
+ 9999 99       2       O      N             YORK       NOFUNC/APP            -----     -1
+ 9999 99       3       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       4       O      N            April       NOFUNC/APP            -----     -1
+ 9999 99       5       O    NUM          30,1989        NOFUNC/NH            -----     -1
+ 9999 99       6       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       7       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      N               TV           attr/A            -----      2
+ 9999 99       2       O      N              set        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O    NUM               50            qn/QN            -----      5
+ 9999 99       5       O      A        years_old           comp/S            -----      3
+ 9999 99       6       O      N            today         tmp/ADVL            -----      3
+ 9999 99       7       O    SEP                !         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               on         tmp/ADVL            -----      1
+ 9999 99       3       O    DET             this           det/DN            -----      4
+ 9999 99       4       O      N              day          pcomp/P            -----      2
+ 9999 99       5       O   PREP               in         mod/ADVL            -----      4
+ 9999 99       6       O    NUM             1939          pcomp/P            -----      5
+ 9999 99       7       O     CS             that            pm/CS            -----     12
+ 9999 99       8       O    DET              the           det/DN            -----     10
+ 9999 99       9       O    NUM            first           attr/A            -----     10
+ 9999 99      10       O      N          program        subj/SUBJ            -----     11
+ 9999 99      11       O      V             T_be       v-ch/FAUXV            -----     12
+ 9999 99      12       O     EN           T_show      comp/FMAINV            -----      1
+ 9999 99      13       O    SEP                .      comp/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             show        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      A             live           comp/S            -----      2
+ 9999 99       4       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       5       O NEG-PART              not         neg/ADVL            -----      6
+ 9999 99       6       O     EN           T_tape       mod/FMAINV            -----      3
+ 9999 99       7       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP            about          ha/ADVL            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      7
+ 9999 99       4       O      A              New           attr/A            -----      5
+ 9999 99       5       O      N             York           attr/A            -----      6
+ 9999 99       6       O      N          World's           attr/A            -----      7
+ 9999 99       7       O      N             Fair          pcomp/P            -----      2
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N           People        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN          T_amaze      main/FMAINV            -----     -1
+ 9999 99       3       O     CS             that            pm/CS            -----      6
+ 9999 99       4       O   PRON             they        subj/SUBJ            -----      5
+ 9999 99       5       O      V          T_could       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V            T_see       obj/FMAINV            -----      2
+ 9999 99       7       O      N         pictures          obj/OBJ            -----      6
+ 9999 99       8       O     CC              and            cc/CC            -----      6
+ 9999 99       9       O      V           T_hear        cc/FMAINV            -----      6
+ 9999 99      10       O      N            sound          obj/OBJ            -----      9
+ 9999 99      11       O   PREP               at         tmp/ADVL            -----      9
+ 9999 99      12       O    DET              the           det/DN            -----     14
+ 9999 99      13       O      A             same           attr/A            -----     14
+ 9999 99      14       O      N             time          pcomp/P            -----     11
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP               In         tmp/ADVL            -----      5
+ 9999 99       1       O    DET            those           det/DN            -----      2
+ 9999 99       2       O      N             days          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O    ADV            there        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       6       O    DET          no_such           det/DN            -----      7
+ 9999 99       7       O      N            thing           comp/S            -----      5
+ 9999 99       8       O   PREP               as      copred/ADVL            -----      5
+ 9999 99       9       O      N            color           attr/A            -----     10
+ 9999 99      10       O      N               TV          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              All           det/DN            -----      1
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N            shows        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       5       O      A            black          pcomp/P            -----      4
+ 9999 99       6       O     CC              and            cc/CC            -----      5
+ 9999 99       7       O      A            white             cc/P            -----      5
+ 9999 99       8       O    SEP                .             cc/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      3
+ 9999 99       1       O    NUM            first           attr/A            -----      2
+ 9999 99       2       O      N       television           attr/A            -----      3
+ 9999 99       3       O      N             sets        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       5       O    ADV           rather             ad/A            -----      6
+ 9999 99       6       O      A  strange-looking           comp/S            -----      4
+ 9999 99       7       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O      A             tiny           attr/A            -----      3
+ 9999 99       3       O      N          screens          obj/OBJ            -----      1
+ 9999 99       4       O     CC              and            cc/CC            -----      1
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN          T_mount        cc/FMAINV            -----      1
+ 9999 99       7       O   PREP               on         phr/ADVL            -----      6
+ 9999 99       8       O      A             tall           attr/A            -----      9
+ 9999 99       9       O      N             legs          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N               TV        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_hook       obj/FMAINV            -----      2
+ 9999 99       6       O   PREP            up_to          ha/ADVL            -----      5
+ 9999 99       7       O      A          special           attr/A            -----      8
+ 9999 99       8       O      N            wires           attr/A            -----      9
+ 9999 99       9       O      N      underground          pcomp/P            -----      6
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N               TV        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_could       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN            T_buy      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP              for          ha/ADVL            -----      4
+ 9999 99       6       O    ADV            about       pcomp/ADVL            -----      5
+ 9999 99       7       O    NUM             $200       NOFUNC/OBJ            -----     -1
+ 9999 99       8       O    SEP                .       NOFUNC/OBJ            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O NEG-PART              not         neg/ADVL            -----      2
+ 9999 99       2       O   PRON             many        subj/SUBJ            -----      5
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O   PRON             them          pcomp/P            -----      3
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN           T_sell      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP            until         tmp/ADVL            -----      6
+ 9999 99       8       O    ADV            about             ad/A            -----      9
+ 9999 99       9       O    NUM             1948          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N            Color           attr/A            -----      1
+ 9999 99       1       O      N       television        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_come      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV            about         phr/ADVL            -----      2
+ 9999 99       4       O   PREP               in         tmp/ADVL            -----      2
+ 9999 99       5       O    DET              the           det/DN            -----      7
+ 9999 99       6       O      A            early           attr/A            -----      7
+ 9999 99       7       O    NUM           1960's          pcomp/P            -----      4
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      3
+ 9999 99       1       O      N             Walt           attr/A            -----      2
+ 9999 99       2       O      N           Disney           attr/A            -----      3
+ 9999 99       3       O      N             Show        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      8
+ 9999 99       6       O    NUM            first           attr/A            -----      7
+ 9999 99       7       O      N               TV           attr/A            -----      8
+ 9999 99       8       O      N             show           comp/S            -----      4
+ 9999 99       9       O INFMARK               to       pm/INFMARK            -----     10
+ 9999 99      10       O      V            T_air       mod/FMAINV            -----      8
+ 9999 99      11       O   PREP               in          ha/ADVL            -----     10
+ 9999 99      12       O      N            color          pcomp/P            -----     11
+ 9999 99      13       O    DET             each           det/DN            -----     14
+ 9999 99      14       O      N             week         tmp/ADVL            -----     10
+ 9999 99      15       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N         pictures        subj/SUBJ            -----      4
+ 9999 99       2       O   PRON              you        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_see       mod/FMAINV            -----      1
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       5       O    ADV           really      NOFUNC/ADVL            -----     -1
+ 9999 99       6       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP             from         sou/ADVL            -----      6
+ 9999 99       8       O      A             tiny           attr/A            -----      9
+ 9999 99       9       O      N             dots          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             dots        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_move      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP           across          ha/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N           screen          pcomp/P            -----      3
+ 9999 99       6       O   PREP               in          mod/NOM            -----      5
+ 9999 99       7       O      N         patterns          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_form      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N            faces          obj/OBJ            -----      1
+ 9999 99       4       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99       5       O      N        buildings      NOFUNC/SUBJ            -----     -1
+ 9999 99       6       O   PRON              you        subj/SUBJ            -----      7
+ 9999 99       7       O      V            T_see       mod/FMAINV            -----      5
+ 9999 99       8       O   PREP               on         loc/ADVL            -----      7
+ 9999 99       9       O   PRON             your           attr/A            -----     10
+ 9999 99      10       O      N       television          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O    NUM            first           attr/A            -----      4
+ 9999 99       4       O      N               TV         subj/OBJ            -----      5
+ 9999 99       5       O      V           T_show       obj/FMAINV            -----      1
+ 9999 99       6       O   PREP               in         loc/ADVL            -----      5
+ 9999 99       7       O      N            color          pcomp/P            -----      6
+ 9999 99       8       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What          obj/OBJ            -----      5
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O    NUM            first           attr/A            -----      4
+ 9999 99       4       O      N          program        subj/SUBJ            -----      1
+ 9999 99       5       O     EN           T_show      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP               on          ha/ADVL            -----      5
+ 9999 99       7       O      N       television          pcomp/P            -----      6
+ 9999 99       8       O   PREP               in         tmp/ADVL            -----      5
+ 9999 99       9       O    NUM             1939          pcomp/P            -----      8
+ 9999 99      10       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O      N               TV           attr/A            -----      3
+ 9999 99       3       O      N             sets        subj/SUBJ            -----      1
+ 9999 99       4       O      V         T_become      main/FMAINV            -----     -1
+ 9999 99       5       O    ADV             more             ad/A            -----      6
+ 9999 99       6       O      A           common           comp/S            -----      4
+ 9999 99       7       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N             TV's           attr/A            -----      3
+ 9999 99       3       O      A           hooked         NOFUNC/S            -----     -1
+ 9999 99       4       O    ADV               up          ha/ADVL            -----      1
+ 9999 99       5       O    SEP                ?          ha/ADVL            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      A             tiny           attr/A            -----      3
+ 9999 99       3       O      N             dots        subj/SUBJ            -----      1
+ 9999 99       4       O      A        important           comp/S            -----      1
+ 9999 99       5       O    SEP                ?           comp/S            ?????     -1
+

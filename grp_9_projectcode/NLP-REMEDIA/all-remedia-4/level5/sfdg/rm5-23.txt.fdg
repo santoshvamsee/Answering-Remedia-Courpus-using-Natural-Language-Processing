@@ -1,0 +1,348 @@
+0		
+	$<p>	
+
+0		
+1	Boston	Boston	attr:>2	@A> N
+2	Wins	win	attr:>3	@A> N
+3	First	first	attr:>4	@A> NUM
+4	World	world	attr:>5	@A> N
+5	Series	series	main:>0	@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	BOSTON	Boston	attr:>6	@A> N
+	$,	
+4	MASS.	Mass.	mod:>2	@<NOM ABBR
+	$,	
+6	October	October		@NH N
+7	13	13	mod:>6	@<NOM NUM
+	$,	
+9	1903	1903	mod:>7	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	world	world	subj:>5	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	baseball	baseball	pcomp:>3	@<P N
+5	has	have	main:>0	@+FMAINV V
+6	a	a	det:>8	@DN> DET
+7	new	new	attr:>8	@A> A
+8	event	event	obj:>5	@OBJ N
+9	and	and	cc:>8	@CC CC
+10	a	a	det:>12	@DN> DET
+11	new	new	attr:>12	@A> A
+12	champion	champion	cc:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>4	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	World	world	attr:>4	@A> N
+4	Series	series	subj:>5	@SUBJ N
+5	has	have	v-ch:>7	@+FAUXV V
+6	just	just	ha:>8	@ADVL ADV
+7	been	be	v-ch:>8	@-FAUXV EN
+8	completed	complete	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	After	after	tmp:>14	@ADVL PREP
+2	a	a	det:>6	@DN> DET
+3	long	long	cc:>5	@A> A
+4	and	and	cc:>5	@CC CC
+5	exciting	excite	attr:>6	@A> A
+6	series	series	pcomp:>1	@<P N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	games	game	pcomp:>7	@<P N
+	$,	
+10	the	the	det:>12	@DN> DET
+11	Boston	Boston	attr:>12	@A> N
+12	team	team	subj:>13	@SUBJ N
+13	has	have	v-ch:>14	@+FAUXV V
+14	beaten	beat	main:>0	@-FMAINV EN
+15	Pittsburgh	Pittsburgh	obj:>14	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	World	world	attr:>3	@A> N
+3	Series	series	subj:>4	@SUBJ N
+4	is	be	v-ch:>5	@+FAUXV V
+5	expected	expect	main:>0	@-FMAINV EN
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	become	become	cnt:>5	@-FMAINV V
+8	a	a	det:>10	@DN> DET
+9	yearly	yearly	attr:>10	@A> A
+10	event	event	comp:>7	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	best	good	attr:>3	@A> A
+3	team	team	subj:>8	@SUBJ N
+4	from	from	mod:>3	@<NOM PREP
+5	the	the	det:>7	@DN> DET
+6	National	national	attr:>7	@A> A
+7	League	league	pcomp:>4	@<P N
+8	will	will	v-ch:>9	@+FAUXV V
+9	play	play	main:>0	@-FMAINV V
+10	the	the	det:>12	@DN> DET
+11	best	good	attr:>12	@A> A
+12	team	team	obj:>9	@OBJ N
+13	from	from	sou:>9	@ADVL PREP
+14	the	the	det:>18	@DN> DET
+15	newly	new	ad:>16	@AD-A> ADV
+16	formed	form	attr:>17	@A> A
+17	American	American	attr:>18	@A> A
+18	League	league	pcomp:>13	@<P N
+	$.	
+	$<p>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	comes	come	main:>0	@+FMAINV V
+3	as	as	ha:>2	@ADVL PREP
+4	a	a	det:>5	@DN> DET
+5	surprise	surprise	pcomp:>3	@<P N
+6	that	that	pm:>8	@CS CS
+7	Boston	Boston	subj:>8	@SUBJ N
+8	beat	beat	comp:>2	@+FMAINV V
+9	Pittsburgh	Pittsburgh	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Perhaps	perhaps	meta:>5	@ADVL ADV
+2	the	the	det:>4	@DN> DET
+3	Boston	Boston	attr:>4	@A> N
+4	team	team	subj:>5	@SUBJ N
+5	had	have	main:>0	@+FMAINV V
+6	more	much	det:>7	@DN> DET
+7	desire	desire	obj:>5	@OBJ N
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	win	win	mod:>7	@-FMAINV V
+10	because	because	pm:>12	@CS CS
+11	they	they	subj:>12	@SUBJ PRON
+12	played	play	cnt:>9	@+FMAINV V
+13	the	the	det:>15	@DN> DET
+14	final	final	attr:>15	@A> A
+15	game	game	obj:>12	@OBJ N
+16	in	in	loc:>12	@ADVL PREP
+17	their	they	attr:>18	@A> PRON
+18	home	home	attr:>19	@A> N
+19	town	town	pcomp:>16	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	huge	huge	attr:>3	@A> A
+3	crowd	crowd	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	at	at	ha:>4	@ADVL PREP
+6	the	the	det:>10	@DN> DET
+7	Huntington	Huntington	attr:>8	@A> N
+8	Avenue	avenue	attr:>9	@A> N
+9	ball	ball	attr:>10	@A> N
+10	field	field	pcomp:>5	@<P N
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	cheer	cheer	cnt:>4	@-FMAINV V
+13	for	for	ha:>12	@ADVL PREP
+14	Boston	Boston	pcomp:>13	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>4	@DN> DET
+2	World	world	attr:>3	@A> N
+3	Series	series	attr:>4	@A> N
+4	winner	winner	subj:>5	@SUBJ N
+5	is	be	main:>0	@+FMAINV V
+6	the	the	det:>7	@DN> DET
+7	team	team	comp:>5	@PCOMPL-S N
+8	that	that	subj:>9	@SUBJ PRON
+9	wins	win	mod:>7	@+FMAINV V
+10	the	the	det:>11	@DN> DET
+11	best	good	obj:>9	@OBJ A
+12	of	of	mod:>11	@<NOM-OF PREP
+13	eight	eight	qn:>14	@QN> NUM
+14	games	game	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	year	year	tmp:>5	@ADVL N
+	$,	
+4	Boston	Boston	subj:>5	@SUBJ N
+5	won	win	main:>0	@+FMAINV V
+6	five	five	qn:>7	@QN> NUM
+7	games	game	obj:>5	@OBJ N
+8	to	to	goa:>5	@ADVL PREP
+9	Pittsburgh's	Pittsburgh	attr:>10	@A> N
+10	three	three	pcomp:>8	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	fans	fan	subj:>3	@SUBJ N
+3	say	say	main:>0	@+FMAINV V
+4	that	that	pm:>8	@CS CS
+5	the	the	det:>7	@DN> DET
+6	turning	turn	attr:>7	@A> N
+7	point	point	subj:>8	@SUBJ N
+8	was	be	obj:>3	@+FMAINV V
+9	the	the	det:>11	@DN> DET
+10	second	second	attr:>11	@A> NUM
+11	game	game	comp:>8	@PCOMPL-S N
+12	which	which		@SUBJ PRON	@OBJ PRON	@PCOMPL-S PRON
+13	Boston	Boston	subj:>14	@SUBJ N
+14	won	win	mod:>11	@+FMAINV V
+15	by	by	loc:>14	@ADVL PREP
+16	a	a	det:>17	@DN> DET
+17	score	score	pcomp:>15	@<P N
+18	of	of	mod:>17	@<NOM-OF PREP
+19	3-0	3-0	pcomp:>18	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	From	from	cla:>7	@ADVL PREP
+2	that	that	det:>3	@DN> DET
+3	point	point	pcomp:>1	@<P N
+4	on	on		@ADVL ADV
+	$,	
+6	they	they	subj:>7	@SUBJ PRON
+7	played	play	main:>0	@+FMAINV V
+8	like	like	ha:>7	@ADVL PREP
+9	true	true	attr:>10	@A> A
+10	champions	champion	pcomp:>8	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	hero	hero	subj:>7	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	the	the	det:>6	@DN> DET
+5	Boston	Boston	attr:>6	@A> N
+6	team	team	pcomp:>3	@<P N
+7	is	be	main:>0	@+FMAINV V
+8	Cy	Cy	attr:>9	@A> N
+9	Young	Young	comp:>7	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	won	win	main:>0	@+FMAINV V
+3	two	two	obj:>2	@OBJ NUM
+4	of	of	mod:>3	@<NOM-OF PREP
+5	the	the	det:>6	@DN> DET
+6	games	game	pcomp:>4	@<P N
+7	for	for	mod:>6	@<NOM PREP
+8	his	he	attr:>9	@A> PRON
+9	team	team	pcomp:>7	@<P N
+10	with	with		@<NOM PREP	@ADVL PREP
+11	his	he	attr:>12	@A> PRON
+12	great	great	attr:>13	@A> A
+13	pitching	pitch	pcomp:>10	@<P A
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	played	play	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	the	the	det:>7	@DN> DET
+5	first	first	attr:>6	@A> NUM
+6	World	world	attr:>7	@A> N
+7	Series	series	pcomp:>3	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	names	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>9	@DN> DET
+7	two	two	qn:>9	@QN> NUM
+8	baseball	baseball	attr:>9	@A> N
+9	leagues	league	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>2	@ADVL ADV
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	turning	turn	comp:>2	@PCOMPL-S N
+5	point	point	subj:>2	@SUBJ N
+6	for	for	mod:>5	@<NOM PREP
+7	Boston	Boston	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>8	@ADVL ADV
+2	was	be	v-ch:>8	@+FAUXV V
+3	the	the	det:>7	@DN> DET
+4	final	final	attr:>5	@A> A
+5	World	world	attr:>6	@A> N
+6	Series	series	attr:>7	@A> N
+7	game	game	subj:>2	@SUBJ N
+8	played	play	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	Cy	Cy	attr:>4	@A> N
+4	Young	Young	subj:>2	@SUBJ N
+5	the	the	det:>6	@DN> DET
+6	hero	hero	comp:>2	@PCOMPL-S N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	the	the	det:>10	@DN> DET
+9	Boston	Boston	attr:>10	@A> N
+10	team	team	pcomp:>7	@<P N
+	$?	
+	$<p>	
+

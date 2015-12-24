@@ -1,0 +1,287 @@
+ 9999 99       0       O      N           School           attr/A            -----      1
+ 9999 99       1       O      N             Kids           attr/A            -----      2
+ 9999 99       2       O      N            Clean           attr/A            -----      3
+ 9999 99       3       O      N               Up           attr/A            -----      4
+ 9999 99       4       O      N            Creek          main/NH            -----     -1
+ 9999 99       5       O    SEP                !          main/NH            ?????     -1
+
+ 9999 99       0       O    SEP                (          main/NH            ?????     -1
+ 9999 99       1       O      N          EVERETT          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N       WASHINGTON            cc/NH            -----      1
+ 9999 99       4       O    SEP                ,            cc/NH            ?????     -1
+ 9999 99       5       O      N             June       NOFUNC/APP            -----     -1
+ 9999 99       6       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       7       O    NUM             1988         mod/ADVL            -----      5
+ 9999 99       8       O    SEP                )         mod/ADVL            ?????     -1
+ 9999 99       9       O    SEP                .         mod/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_take      main/FMAINV            -----     -1
+ 9999 99       3       O    NUM             five            qn/QN            -----      4
+ 9999 99       4       O      N            years          obj/OBJ            -----      2
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O      A             hard           attr/A            -----      7
+ 9999 99       7       O      N             work          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N            group        subj/SUBJ            -----      6
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O      N           school           attr/A            -----      5
+ 9999 99       5       O      N         children          pcomp/P            -----      3
+ 9999 99       6       O      V           T_have       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN          T_clean      main/FMAINV            -----     -1
+ 9999 99       8       O    ADV               up         man/ADVL            -----      7
+ 9999 99       9       O      N           Pigeon           attr/A            -----     10
+ 9999 99      10       O      N            Creek          obj/OBJ            -----      7
+ 9999 99      11       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP               In         tmp/ADVL            -----      5
+ 9999 99       1       O    NUM             1983          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N            creek        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       6       O    ADV               so             ad/A            -----      7
+ 9999 99       7       O      A            dirty           comp/S            -----      5
+ 9999 99       8       O     CS             that            pm/CS            -----     13
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N             fish        subj/SUBJ            -----     11
+ 9999 99      11       O      V           T_have       v-ch/FAUXV            -----     13
+ 9999 99      12       O   PRON              all          mod/APP            -----     10
+ 9999 99      13       O     EN            T_die       mod/FMAINV            -----      6
+ 9999 99      14       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N            group        subj/SUBJ            -----      7
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O      N             kids          pcomp/P            -----      2
+ 9999 99       4       O   PREP               at          mod/NOM            -----      3
+ 9999 99       5       O      N          Jackson           attr/A            -----      6
+ 9999 99       6       O      N           School          pcomp/P            -----      4
+ 9999 99       7       O      V         T_decide      main/FMAINV            -----     -1
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V             T_do       obj/FMAINV            -----      7
+ 9999 99      10       O   PRON        something          obj/OBJ            -----      9
+ 9999 99      11       O   PREP            about       NOFUNC/NOM            -----     -1
+ 9999 99      12       O   PRON               it          pcomp/P            -----     11
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V         T_become      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N          project           comp/S            -----      1
+ 9999 99       4       O   PREP              for          mod/NOM            -----      3
+ 9999 99       5       O   PRON            their           attr/A            -----      6
+ 9999 99       6       O      A            whole           attr/A            -----      7
+ 9999 99       7       O      N            class          pcomp/P            -----      4
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM            First           attr/A            -----      1
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_clean      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV              out         phr/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N           bottom          obj/OBJ            -----      2
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N            creek          pcomp/P            -----      6
+ 9999 99       9       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99      10       O     EN           T_call       mod/FMAINV            -----      8
+ 9999 99      11       O    DET              the           det/DN            -----     13
+ 9999 99      12       O      N            creek           attr/A            -----     13
+ 9999 99      13       O      N              bed          obj/OBJ            -----     10
+ 9999 99      14       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV            There        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET             many           det/DN            -----      3
+ 9999 99       3       O      N            weeds           comp/S            -----      1
+ 9999 99       4       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      2
+ 9999 99       1       O    ADV             also      NOFUNC/ADVL            -----     -1
+ 9999 99       2       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       3       O    DET         a_lot_of           det/DN            -----      4
+ 9999 99       4       O      N            trash       NOFUNC/OBJ            -----     -1
+ 9999 99       5       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99       6       O      N           litter      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      3
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N         students        subj/SUBJ            -----      3
+ 9999 99       3       O      V          T_raise      main/FMAINV            -----     -1
+ 9999 99       4       O      N             fish           attr/A            -----      5
+ 9999 99       5       O      N             eggs          obj/OBJ            -----      3
+ 9999 99       6       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       7       O    DET                a           det/DN            -----      8
+ 9999 99       8       O      N             tank          pcomp/P            -----      6
+ 9999 99       9       O   PREP               of           mod/OF            -----      8
+ 9999 99      10       O      N            water          pcomp/P            -----      9
+ 9999 99      11       O     EN           T_call       mod/FMAINV            -----     10
+ 9999 99      12       O    DET               an           det/DN            -----     13
+ 9999 99      13       O      N         aquarium          obj/OBJ            -----     11
+ 9999 99      14       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N             eggs        subj/SUBJ            -----      3
+ 9999 99       3       O      V          T_hatch       tmp/FMAINV            -----      6
+ 9999 99       4       O    SEP                ,       tmp/FMAINV            ?????     -1
+ 9999 99       5       O   PRON             they        subj/SUBJ            -----      6
+ 9999 99       6       O      V          T_empty      main/FMAINV            -----     -1
+ 9999 99       7       O    DET              the           det/DN            -----      9
+ 9999 99       8       O      A              new           attr/A            -----      9
+ 9999 99       9       O      N             fish          obj/OBJ            -----      6
+ 9999 99      10       O   PREP             into         goa/ADVL            -----      6
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N            creek          pcomp/P            -----     10
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_want      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON           others         subj/OBJ            -----      4
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V           T_stop       obj/FMAINV            -----      1
+ 9999 99       5       O    ING           T_make       obj/FMAINV            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            creek          obj/OBJ            -----      5
+ 9999 99       8       O      A            dirty             oc/O            -----      5
+ 9999 99       9       O    SEP                .             oc/O            ?????     -1
+
+ 9999 99       0       O    ADV               So        meta/ADVL            -----      2
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       3       O      N            signs          obj/OBJ            -----      2
+ 9999 99       4       O   PRON             that        subj/SUBJ            -----      5
+ 9999 99       5       O      V            T_say       mod/FMAINV            -----      3
+ 9999 99       6       O    SEP                ,       mod/FMAINV            ?????     -1
+ 9999 99       7       O    SEP               "_       mod/FMAINV            ?????     -1
+ 9999 99       8       O      V             T_do       v-ch/FAUXV            -----     10
+ 9999 99       9       O NEG-PART              n't         neg/ADVL            -----      8
+ 9999 99      10       O      V           T_dump       obj/FMAINV            -----      5
+ 9999 99      11       O    SEP                .       obj/FMAINV            ?????     -1
+ 9999 99      12       O    SEP               _"       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_put      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N            signs          obj/OBJ            -----      1
+ 9999 99       4       O   PREP             near          ha/ADVL            -----      1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N            creek          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      2
+ 9999 99       1       O    ADV             also      NOFUNC/ADVL            -----     -1
+ 9999 99       2       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       3       O      A           little           attr/A            -----      4
+ 9999 99       4       O      N            books          obj/OBJ            -----      2
+ 9999 99       5       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       6       O      V           T_call    NOFUNC/FMAINV            -----     -1
+ 9999 99       7       O      N         booklets        subj/SUBJ            -----      6
+ 9999 99       8       O    SEP                .        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N         booklets        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_tell      main/FMAINV            -----     -1
+ 9999 99       3       O      N           people          dat/OBJ            -----      2
+ 9999 99       4       O    ADV              how         man/ADVL            -----      6
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V           T_keep       obj/FMAINV            -----      2
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N            creek          obj/OBJ            -----      6
+ 9999 99       9       O      A            clean             oc/O            -----      6
+ 9999 99      10       O    SEP                .             oc/O            ?????     -1
+
+ 9999 99       0       O    ADV              Now         tmp/ADVL            -----      4
+ 9999 99       1       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N            water        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       5       O      A            clean             cc/A            -----      7
+ 9999 99       6       O     CC              and            cc/CC            -----      7
+ 9999 99       7       O      A              new           attr/A            -----      8
+ 9999 99       8       O      N             fish        subj/SUBJ            -----      9
+ 9999 99       9       O      V             T_be       v-ch/FAUXV            -----     10
+ 9999 99      10       O    ING             T_be       v-ch/FAUXV            -----     11
+ 9999 99      11       O     EN           T_bear    NOFUNC/FMAINV            -----     -1
+ 9999 99      12       O   PREP               in         loc/ADVL            -----     11
+ 9999 99      13       O    DET              the           det/DN            -----     14
+ 9999 99      14       O      N            creek          pcomp/P            -----     12
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N           Pigeon           attr/A            -----      1
+ 9999 99       1       O      N            Creek        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      4
+ 9999 99       4       O      N             sign           comp/S            -----      2
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O      A             good           attr/A            -----      8
+ 9999 99       8       O      N           things          pcomp/P            -----      5
+ 9999 99       9       O      A            young           attr/A            -----     10
+ 9999 99      10       O      N           people        subj/SUBJ            -----     11
+ 9999 99      11       O      V            T_can       v-ch/FAUXV            -----     12
+ 9999 99      12       O      V             T_do    NOFUNC/FMAINV            -----     -1
+ 9999 99      13       O    SEP                .    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_clean      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV               up         man/ADVL            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N            creek          obj/OBJ            -----      1
+ 9999 99       5       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             name           comp/S            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N            creek          pcomp/P            -----      4
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             work        subj/SUBJ            -----      1
+ 9999 99       4       O      V          T_begin      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N              bed        subj/SUBJ            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N            creek          pcomp/P            -----      4
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             kids        subj/SUBJ            -----      1
+ 9999 99       4       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       5       O      N         booklets          obj/OBJ            -----      4
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+

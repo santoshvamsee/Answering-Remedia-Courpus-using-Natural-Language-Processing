@@ -1,0 +1,359 @@
+0		
+	$<p>	
+
+0		
+1	Blind	blind	cc:>3	@A> A
+2	and	and	cc:>3	@CC CC
+3	Deaf	deaf	attr:>4	@A> A
+4	Student	student	attr:>5	@A> N
+5	Finishes	finish	attr:>6	@A> N
+6	College	college	main:>0	@NH N
+	$<p>	
+
+0		
+	$(	
+2	Radcliffe	Radcliffe	attr:>3	@A> N
+3	College	college		@APP N
+	$,	
+5	September	September	main:>1	@NH N
+6	1	1	mod:>5	@<NOM NUM
+	$,	
+8	1904	1904	mod:>6	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	lady	lady	main:>0	@NH N
+3	who	who	subj:>4	@SUBJ PRON
+4	is	be	mod:>2	@+FMAINV V
+5	both	both	meta:>6	@ADVL ADV	@ADVL ADV	@AD-A> ADV
+6	blind	blind	comp:>4	@PCOMPL-S A
+7	and	and	cc:>6	@CC CC
+8	deaf	deaf	attr:>9	@A> A
+9	completed	complete	attr:>10	@A> A
+10	college	college	attr:>11	@A> N
+11	today	today	cc:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Her	she	attr:>2	@A> PRON
+2	name	name	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	Helen	Helen	attr:>5	@A> N
+5	Keller	Keller	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	finished	finish	main:>0	@-FMAINV EN
+4	all	all	det:>6	@DN> DET
+5	her	she	attr:>6	@A> PRON
+6	courses	course	obj:>3	@OBJ N
+7	at	at	loc:>3	@ADVL PREP
+8	Radcliffe	Radcliffe	attr:>9	@A> N
+9	College	college	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Helen	Helen	subj:>2	@SUBJ N
+2	talks	talk	main:>0	@+FMAINV V
+3	with	with	phr:>2	@ADVL PREP
+4	people	people	pcomp:>3	@<P N
+5	by	by		@<NOM PREP	@ADVL PREP
+6	touching	touch	pcomp:>5	@<P-FMAINV ING
+7	them	they	obj:>6	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	reads	read	main:>0	@+FMAINV V
+3	special	special	attr:>4	@A> A
+4	books	book	obj:>2	@OBJ N
+5	for	for	mod:>4	@<NOM PREP
+6	the	the	det:>7	@DN> DET
+7	blind	blind	pcomp:>5	@<P A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	letters	letter	subj:>6	@SUBJ N
+3	in	in	mod:>2	@<NOM PREP
+4	these	this	det:>5	@DN> DET
+5	textbooks	textbook	pcomp:>3	@<P N
+6	have	have	v-ch:>7	@+FAUXV V
+7	been	be	v-ch:>8	@-FAUXV EN
+8	turned	turn	main:>0	@-FMAINV EN
+9	into	into	goa:>8	@ADVL PREP
+10	a	a	det:>11	@DN> DET
+11	series	series	pcomp:>9	@<P N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	bumps	bump	pcomp:>12	@<P N
+14	which	which	obj:>16	@OBJ PRON
+15	Helen	Helen	subj:>16	@SUBJ N
+16	feels	feel	mod:>13	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	writes	write	main:>0	@+FMAINV V
+3	her	she	attr:>4	@A> PRON
+4	lessons	lesson	obj:>2	@OBJ N
+5	using	use	mod:>4	@-FMAINV ING
+6	a	a	det:>8	@DN> DET
+7	special	special	attr:>8	@A> A
+8	typewriter	typewriter	obj:>5	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Although	although	pm:>5	@CS CS
+2	she	she	subj:>3	@SUBJ PRON
+3	can_	can	v-ch:>5	@+FAUXV V
+4	not	not	neg:>3	@ADVL NEG-PART
+5	see	see	cnd:>10	@-FMAINV V
+6	or	or	cc:>5	@CC CC
+7	hear	hear	cc:>5	@-FMAINV V
+	$,	
+9	Helen	Helen	subj:>10	@SUBJ N
+10	gets	get	main:>0	@+FMAINV V
+11	good	good	attr:>12	@A> A
+12	grades	grade	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>3	@SUBJ PRON
+2	always	always	frq:>3	@ADVL ADV
+3	attends	attend	main:>0	@+FMAINV V
+4	classes	class	obj:>3	@OBJ N
+5	with	with	ins:>3	@ADVL PREP
+6	her	she	attr:>7	@A> PRON
+7	special	special	attr:>8	@A> A
+8	friend	friend	pcomp:>5	@<P N
+	$,	
+10	Anne	Anne	attr:>11	@A> N
+11	Sullivan	Sullivan	mod:>8	@APP N
+	$.	
+	$<s>	
+
+0		
+1	Anne	Anne	subj:>2	@SUBJ N
+2	listens	listen	main:>0	@+FMAINV V
+3	to	to	ha:>2	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	teachers	teacher	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	tells	tell	main:>0	@+FMAINV V
+3	Helen	Helen	dat:>2	@I-OBJ N
+4	what	what	obj:>7	@OBJ PRON
+5	they	they	subj:>6	@SUBJ PRON
+6	are	be	v-ch:>7	@+FAUXV V
+7	saying	say	obj:>2	@-FMAINV ING
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	does	do	main:>0	@+FMAINV V
+3	this	this	obj:>2	@OBJ PRON
+4	by	by	man:>2	@ADVL PREP
+5	touching	touch	pcomp:>4	@<P-FMAINV ING
+6	Helen's	Helen	attr:>7	@A> N
+7	hand	hand	obj:>5	@OBJ N
+8	and	and	cc:>5	@CC CC
+9	using	use	cc:>5	@<P-FMAINV ING
+10	a	a	det:>11	@DN> DET
+11	code	code	obj:>9	@OBJ N
+12	they	they	subj:>14	@SUBJ PRON
+13	both	both	mod:>12	@APP PRON
+14	understand	understand	mod:>11	@+FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	Helen	Helen	subj:>2	@SUBJ N
+2	was	be	v-ch:>3	@+FAUXV V
+3	born	bear	main:>0	@-FMAINV EN
+4	in	in	loc:>3	@ADVL PREP
+5	Alabama	Alabama	pcomp:>4	@<P N
+6	in	in	tmp:>3	@ADVL PREP
+7	1880	1880	pcomp:>6	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	As	as	cla:>7	@ADVL PREP
+2	a	a	det:>3	@DN> DET
+3	baby	baby	pcomp:>1	@<P N
+	$,	
+5	she	she	subj:>6	@SUBJ PRON
+6	could	could	v-ch:>7	@+FAUXV V
+7	see	see	main:>0	@-FMAINV V
+8	and	and	cc:>7	@CC CC
+9	hear	hear	cc:>7	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	was	be	tmp:>8	@+FMAINV V
+4	two	two	qn:>5	@QN> NUM
+5	years_old	years_old	comp:>3	@PCOMPL-S A
+	$,	
+7	she	she	subj:>8	@SUBJ PRON
+8	became	become	main:>0	@+FMAINV V
+9	very	very	ad:>10	@AD-A> ADV
+10	ill	ill	comp:>8	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	disease	disease	subj:>3	@SUBJ N
+3	caused	cause	main:>0	@+FMAINV V
+4	her	she	subj:>6	@OBJ PRON
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	lose	lose	obj:>3	@-FMAINV V
+7	her	she	attr:>8	@A> PRON
+8	sight	sight	obj:>6	@OBJ N
+9	and	and	cc:>8	@CC CC
+10	hearing	hear	cc:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Anne	Anne	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	teacher	teacher	comp:>2	@PCOMPL-S N
+5	who	who	subj:>6	@SUBJ PRON
+6	was	be	v-ch:>7	@+FAUXV V
+7	hired	hire	mod:>4	@-FMAINV EN
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	help	help	cnt:>7	@-FMAINV V
+10	Helen	Helen	subj:>11	@OBJ N
+11	get	get	obj:>9	@-FMAINV V
+12	along	along	ha:>11	@ADVL ADV
+13	in	in	loc:>11	@ADVL PREP
+14	the	the	det:>15	@DN> DET
+15	world	world	pcomp:>13	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Last	last	det:>2	@DN> DET
+2	year	year	tmp:>6	@ADVL N
+	$,	
+4	young	young	attr:>5	@A> A
+5	Helen	Helen	subj:>6	@SUBJ N
+6	wrote	write	main:>0	@+FMAINV V
+7	a	a	det:>8	@DN> DET
+8	book	book	obj:>6	@OBJ N
+9	called	call	oc:>6	@-FMAINV EN
+10	The	the	det:>11	@DN> DET
+11	Story	story	obj:>9	@OBJ N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	My	I	attr:>14	@A> PRON
+14	Life	life	pcomp:>12	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>7	@DN> DET
+4	deaf	deaf	cc:>6	@A> A
+5	and	and	cc:>6	@CC CC
+6	blind	blind	attr:>7	@A> A
+7	student	student		@OBJ N	@PCOMPL-S N
+8	who	who	subj:>9	@SUBJ PRON
+9	finished	finish	mod:>7	@+FMAINV V
+10	college	college	obj:>9	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	her	she	attr:>7	@A> PRON
+7	special	special	attr:>8	@A> A
+8	friend	friend	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Helen	Helen	subj:>2	@SUBJ N
+4	lose	lose	main:>0	@-FMAINV V
+5	her	she	attr:>6	@A> PRON
+6	sight	sight	obj:>4	@OBJ N
+7	and	and	cc:>6	@CC CC
+8	hearing	hear	cc:>6	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Helen	Helen	subj:>2	@SUBJ N
+4	go	go	main:>0	@-FMAINV V
+5	to	to	goa:>4	@ADVL PREP
+6	college	college	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	Helen	Helen	subj:>2	@SUBJ N
+4	able	able	comp:>2	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	understand	understand	mod:>4	@-FMAINV V
+7	her	she	attr:>8	@A> PRON
+8	teachers	teacher	obj:>6	@OBJ N
+	$?	
+	$<p>	
+

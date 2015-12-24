@@ -1,0 +1,385 @@
+0		
+	$<p>	
+
+0		
+1	Young	young	attr:>2	@A> A
+2	Chinese	Chinese	attr:>3	@A> A
+3	Artist	artist	subj:>4	@SUBJ N
+4	Has	have	main:>0	@+FMAINV V
+5	Show	show	obj:>4	@OBJ N
+6	in	in	loc:>4	@ADVL PREP
+7	U.S	U.S	pcomp:>6	@<P ABBR
+	$.	
+	$<p>	
+
+0		
+	$(	
+2	WASHINGTON	Washington		@NH N	@APP N
+	$,	
+4	D	d	mod:>2	@APP ABBR
+	$.	
+	$<s>	
+
+0		
+1	C.	c.	main:>0	@NH ABBR
+	$,	
+3	July	July		@NH N	@ADVL N
+4	1	1	mod:>3	@<NOM NUM
+	$,	
+6	1989	1989	mod:>4	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Wang	Wang	attr:>2	@A> N
+2	Yani	yani	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	14	14	qn:>5	@QN> NUM
+5	years_old	years_old	comp:>3	@PCOMPL-S A
+6	and	and	cc:>5	@CC CC
+7	lives	life	cc:>5	@PCOMPL-S N
+8	in	in	mod:>7	@<NOM PREP
+9	China	China	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	loves	love	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	paint	paint	obj:>2	@-FMAINV V
+5	and	and	cc:>4	@CC CC
+6	has	have	v-ch:>7	@+FAUXV V
+7	finished	finish	cc:>4	@-FMAINV EN
+8	about	about	ad:>9	@AD-A> ADV
+9	6,000	6,000	qn:>10	@QN> NUM
+10	pictures	picture	obj:>7	@OBJ N
+11	in	in	loc:>7	@ADVL PREP
+12	her	she	attr:>13	@A> PRON
+13	life	life	pcomp:>11	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Wang's	Wang	attr:>2	@A> N
+2	art	art	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	popular	popular	comp:>3	@PCOMPL-S A
+5	in	in	mod:>4	@ADVL PREP
+6	her	she	attr:>7	@A> PRON
+7	native	native	attr:>8	@A> A
+8	land	land	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>4	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	has	have	v-ch:>4	@+FAUXV V
+4	become	become	main:>0	@-FMAINV EN
+5	famous	fam	comp:>4	@PCOMPL-S A
+6	in	in	loc:>4	@ADVL PREP
+7	the	the	det:>9	@DN> DET
+8	United	unite	attr:>9	@A> A
+9	States	state	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	week	week		@NH N	@SUBJ N	@OBJ N	@<P N	@ADVL N
+3	she	she	subj:>4	@SUBJ PRON
+4	has	have	main:>0	@+FMAINV V
+5	her	she	attr:>6	@A> PRON
+6	own	own	attr:>7	@A> A
+7	art	art	attr:>8	@A> N
+8	show	show	obj:>4	@OBJ N
+9	at	at	loc:>4	@ADVL PREP
+10	a	a	det:>12	@DN> DET
+11	well-known	well-known	attr:>12	@A> A
+12	museum	museum	pcomp:>9	@<P N
+13	in	in	mod:>12	@<NOM PREP
+14	Washington	Washington	pcomp:>13	@<P N
+	$,	
+16	D.C	D.C	mod:>14	@APP ABBR
+	$.	
+	$<p>	
+
+0		
+1	Wang	Wang	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	youngest	young	attr:>5	@A> A
+5	person	person	comp:>2	@PCOMPL-S N
+6	to	to	pm:>8	@INFMARK> INFMARK>
+7	ever	ever	>8	@ADVL ADV
+8	receive	receive	mod:>5	@-FMAINV V
+9	this	this	det:>10	@DN> DET
+10	honor	honor	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	allowed	allow	main:>0	@-FMAINV EN
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	visit	visit	cnt:>3	@-FMAINV V
+6	the	the	det:>8	@DN> DET
+7	United	unite	attr:>8	@A> A
+8	States	state	obj:>5	@OBJ N
+9	for	for	mod:>8	@<NOM PREP
+10	this	this	det:>12	@DN> DET
+11	big	big	attr:>12	@A> A
+12	event	event	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	While	while	tmp:>3	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	is	be	tmp:>6	@+FMAINV V
+4	here	here	loc:>3	@ADVL ADV
+5	she	she	subj:>6	@SUBJ PRON
+6	wants	want	main:>0	@+FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	see	see	obj:>6	@-FMAINV V
+9	our	we	attr:>10	@A> PRON
+10	museums	museum	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>3	@SUBJ PRON
+2	also	also	>3	@ADVL ADV
+3	wants	want	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	eat	eat	obj:>3	@-FMAINV V
+6	fried	fry	attr:>7	@A> A
+7	chicken	chicken	obj:>5	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Her	she	attr:>2	@A> PRON
+2	favorite	favorite	attr:>3	@A> N
+3	subjects	subject		@SUBJ N	@PCOMPL-S N
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	paint	paint		@-FMAINV V	@<P-FMAINV V
+6	are	be		@+FMAINV V
+7	animals	animal	comp:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Right_now	right_now		@ADVL ADV
+	$,	
+3	she	she	subj:>4	@SUBJ PRON
+4	is	be	v-ch:>5	@+FAUXV V
+5	painting	paint	main:>0	@-FMAINV ING
+6	monkeys	monkey	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Her	she	attr:>2	@A> PRON
+2	parents	parent	subj:>3	@SUBJ N
+3	encourage	encourage	main:>0	@+FMAINV V
+4	her	she	subj:>6	@OBJ PRON
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	use	use	obj:>3	@-FMAINV V
+7	her	she	attr:>8	@A> PRON
+8	talent	talent	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	day	day		@NH N	@SUBJ N	@OBJ N	@<P N	@ADVL N
+3	she	she	subj:>4	@SUBJ PRON
+4	rises	rise		@+FMAINV V
+5	early	early	tmp:>4	@ADVL ADV
+6	and	and		@CC CC
+7	starts	start		@SUBJ N	@+FMAINV V
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	paint	paint		@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	goes	go	main:>0	@+FMAINV V
+3	to	to	goa:>2	@ADVL PREP
+4	school	school	pcomp:>3	@<P N
+	$,	
+6	then	then	meta:>7	@ADVL ADV
+7	returns	return		@+FMAINV V
+8	home	home	goa:>7	@ADVL N
+9	in	in	tmp:>7	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	afternoon	afternoon	pcomp:>9	@<P N
+12	and	and	cc:>7	@CC CC
+13	paints	paint	cc:>7	@+FMAINV V
+14	some	some		@ADVL ADV	@AD-A> ADV
+15	more	much	qua:>13	@ADVL ADV	@ADVL PRON
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	has	have	main:>0	@+FMAINV V
+3	more	many	det:>4	@DN> DET
+4	classes	class	obj:>2	@OBJ N
+5	at	at	tmp:>2	@ADVL PREP
+6	night	night	pcomp:>5	@<P N
+	$,	
+8	but	but	cc:>2	@CC CC
+9	she	she	subj:>11	@SUBJ PRON
+10	still	still	meta:>11	@ADVL ADV
+11	finds	find	cc:>2	@+FMAINV V
+12	a_little	a_little	det:>13	@DN> DET
+13	time	time	obj:>11	@OBJ N
+14	for	for	phr:>11	@ADVL PREP
+15	art	art	pcomp:>14	@<P N
+16	before	before	tmp:>11	@ADVL PREP
+17	bed	bed	pcomp:>16	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Wang	Wang	subj:>2	@SUBJ N
+2	started	start	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	paint	paint	obj:>2	@-FMAINV V
+5	at	at	ha:>4	@ADVL PREP
+6	age	age	attr:>7	@A> N
+7	2	2	qn:>8	@QN> NUM
+8	1/2	1/2	pcomp:>5	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	was	be	tmp:>12	@+FMAINV V
+4	a_little	a_little	det:>5	@DN> DET
+5	girl	girl	comp:>3	@PCOMPL-S N
+	$,	
+7	her	she	attr:>8	@A> PRON
+8	art	art	attr:>9	@A> N
+9	teacher	teacher	subj:>10	@SUBJ N
+10	did_	do	v-ch:>12	@+FAUXV V
+11	n't	not	neg:>10	@ADVL NEG-PART
+12	like	like	main:>0	@-FMAINV V
+13	her	she	attr:>14	@A> PRON
+14	paintings	painting	obj:>12	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	upset	upset	main:>0	@+FMAINV V
+3	Wang	Wang	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>3	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	paints	paint	main:>0	@+FMAINV V
+4	what	what	obj:>6	@OBJ PRON
+5	she	she	subj:>6	@SUBJ PRON
+6	likes	like	obj:>3	@+FMAINV V
+7	and	and	cc:>6	@CC CC
+8	does_	do	v-ch:>10	@+FAUXV V
+9	n't	not	neg:>8	@ADVL NEG-PART
+10	care	care	cc:>6	@-FMAINV V
+11	what	what	obj:>13	@OBJ PRON
+12	people	people	subj:>13	@SUBJ N
+13	think	think	obj:>10	@+FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	youngest	young	attr:>5	@A> A
+5	person	person	comp:>2	@PCOMPL-S N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	have	have	mod:>5	@-FMAINV V
+8	her	she	attr:>9	@A> PRON
+9	own	own	attr:>10	@A> A
+10	art	art	subj:>11	@OBJ N
+11	show	show	obj:>7	@-FMAINV V
+12	in	in	loc:>11	@ADVL PREP
+13	Washington	Washington	pcomp:>12	@<P N
+	$,	
+15	D.C.	D.C.	mod:>13	@APP ABBR
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>6	@OBJ PRON
+2	does	do	v-ch:>6	@+FAUXV V
+3	Wang	Wang	subj:>2	@SUBJ N
+4	like	like	mod:>3	@<NOM PREP
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	paint	paint	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Wang	Wang	subj:>2	@SUBJ N
+4	begin	begin	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	paint	paint	obj:>4	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	Wang	Wang	subj:>2	@SUBJ N
+4	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	Wang	Wang	subj:>2	@SUBJ N
+4	once	once	tmp:>5	@ADVL ADV
+5	get	get	main:>0	@-FMAINV V
+6	upset	upset	comp:>5	@PCOMPL-S A
+	$?	
+	$<p>	
+

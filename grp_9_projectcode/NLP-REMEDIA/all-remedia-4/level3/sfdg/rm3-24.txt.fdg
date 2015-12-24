@@ -1,0 +1,331 @@
+0		
+1	The	the	det:>2	@DN> DET
+2	Circus	circus	subj:>3	@SUBJ N
+3	Comes	come	main:>0	@+FMAINV V
+4	to	to	goa:>3	@ADVL PREP
+5	Town	town	pcomp:>4	@<P N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	LOS	Los	attr:>3	@A> N
+3	ANGELES	Angeles		@APP N
+	$,	
+5	May	May	main:>1	@NH N
+6	10	10	mod:>5	@<NOM NUM
+	$,	
+8	1989	1989	mod:>6	@<NOM NUM
+	$)	
+10	$-		
+11	The	the	det:>12	@DN> DET
+12	circus	circus	subj:>13	@SUBJ N
+13	has	have	v-ch:>14	@+FAUXV V
+14	come	come	main:>0	@-FMAINV EN
+15	to	to	goa:>14	@ADVL PREP
+16	town	town	pcomp:>15	@<P N
+	$!	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	circus	circus	attr:>3	@A> N
+3	members	member	subj:>4	@SUBJ N
+4	arrived	arrive	main:>0	@+FMAINV V
+5	last	last	det:>6	@DN> DET
+6	night	night	tmp:>4	@ADVL N
+7	in	in	ha:>4	@ADVL PREP
+8	trucks	truck	pcomp:>7	@<P N
+9	and	and	cc:>8	@CC CC
+10	buses	bus	cc:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Today	today	tmp:>5	@ADVL N
+	$,	
+3	they	they	subj:>4	@SUBJ PRON
+4	will	will	v-ch:>5	@+FAUXV V
+5	set	set	main:>0	@-FMAINV V
+6	up	up	phr:>5	@ADVL ADV
+7	their	they	attr:>8	@A> PRON
+8	acts	act		@SUBJ N	@OBJ N	@I-OBJ N
+9	and	and	cc:>5	@CC CC
+10	get	get	cc:>5	@-FMAINV V
+11	ready	ready	obj:>10	@OBJ A
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	perform	perform	cnt:>10	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Everyone	everyone	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	enjoy	enjoy	main:>0	@-FMAINV V
+4	the	the	det:>5	@DN> DET
+5	circus	circus	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	lion	lion	attr:>3	@A> N
+3	tamer	tamer	subj:>4	@SUBJ N
+4	sticks	stick	main:>0	@+FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	head	head	obj:>4	@OBJ N
+7	inside	inside	ha:>4	@ADVL PREP
+8	a	a	det:>10	@DN> DET
+9	lion's	lion	attr:>10	@A> N
+10	mouth	mouth	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Tigers	tiger	subj:>2	@SUBJ N
+2	stand	stand	main:>0	@+FMAINV V
+3	on	on	loc:>2	@ADVL PREP
+4	their	they	attr:>5	@A> PRON
+5	hind	hind	attr:>6	@A> A
+6	legs	leg	pcomp:>3	@<P N
+7	for	for	phr:>2	@ADVL PREP
+8	their	they	attr:>9	@A> PRON
+9	masters	master	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Elephants	elephant	subj:>2	@SUBJ N
+2	dance	dance	main:>0	@+FMAINV V
+3	around	around	ha:>2	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	stage	stage	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	There_	there	subj:>2	@F-SUBJ ADV
+2	's	be	main:>0	@+FMAINV V
+3	plenty	plenty	comp:>2	@PCOMPL-S N
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	see	see	mod:>3	@-FMAINV V
+6	in	in	loc:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	air	air	pcomp:>6	@<P N
+	$,	
+10	too	too	meta:>5	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Men	man	cc:>3	@SUBJ N
+2	and	and	cc:>3	@CC CC
+3	women	woman	subj:>4	@SUBJ N
+4	fly	fly	main:>0	@+FMAINV V
+5	through	through	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	air	air	pcomp:>5	@<P N
+8	on	on	mod:>7	@<NOM PREP
+9	a	a	det:>10	@DN> DET
+10	swing	swing	pcomp:>8	@<P N
+11	called	call	mod:>10	@-FMAINV EN
+12	a	a	det:>13	@DN> DET
+13	trapeze	trapeze	obj:>11	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	At	at	tmp:>7	@ADVL PREP
+2	one	one	qn:>3	@QN> NUM
+3	time	time	pcomp:>1	@<P N
+	$,	
+5	the	the	det:>6	@DN> DET
+6	circus	circus	subj:>7	@SUBJ N
+7	took	take	main:>0	@+FMAINV V
+8	place	place	obj:>7	@OBJ N
+9	in	in	loc:>7	@ADVL PREP
+10	a	a	det:>12	@DN> DET
+11	huge	huge	attr:>12	@A> A
+12	tent	tent	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	show	show	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	called	call	main:>0	@-FMAINV EN
+	$"_	
+6	under	under		@ADVL PREP
+7	the	the	det:>9	@DN> DET
+8	big	big	attr:>9	@A> A
+9	top	top	pcomp:>6	@<P N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	best-known	well-known	attr:>3	@A> A
+3	circus	circus	subj:>4	@SUBJ N
+4	was	be	v-ch:>5	@+FAUXV V
+5	started	start	main:>0	@-FMAINV EN
+6	by	by	agt:>5	@ADVL PREP
+7	a	a	det:>11	@DN> DET
+8	man	man	attr:>9	@A> N
+9	named	name	pcomp:>6	@<P A
+10	P.T.	P.T.	attr:>11	@A> ABBR
+11	Barnum	Barnum		@SUBJ N
+	$.	
+	$<s>	
+
+0		
+1	His	he	attr:>2	@A> PRON
+2	circus	circus	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	about	about	ad:>5	@AD-A> ADV
+5	100	100	qn:>6	@QN> NUM
+6	years_old	years_old	comp:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+	$"_	
+5	the	the	det:>7	@DN> DET
+6	greatest	great	attr:>7	@A> A
+7	show	show		@SUBJ N
+8	on	on	mod:>7	@<NOM PREP
+9	Earth	earth	pcomp:>8	@<P N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	In	in	tmp:>7	@ADVL PREP
+2	1938	1938	pcomp:>1	@<P NUM
+	$,	
+4	not	not	neg:>6	@ADVL NEG-PART
+5	many	many	det:>6	@DN> DET
+6	people	people	subj:>7	@SUBJ N
+7	had	have	main:>0	@+FMAINV V
+8	money	money	obj:>7	@OBJ N
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	go	go	mod:>8	@-FMAINV V
+11	to	to	goa:>10	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	circus	circus	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	So	so	meta:>5	@ADVL ADV
+2	most	many	subj:>5	@SUBJ PRON
+3	of	of	mod:>2	@<NOM-OF PREP
+4	them	they	pcomp:>3	@<P PRON
+5	closed	close	main:>0	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	the	the	det:>3	@DN> DET
+3	children	child	cc:>6	@SUBJ N
+4	and	and	cc:>6	@CC CC
+5	their	they	attr:>6	@A> PRON
+6	parents	parent	subj:>7	@SUBJ N
+7	loved	love	main:>0	@+FMAINV V
+8	Barnum's	Barnum	attr:>9	@A> N
+9	circus	circus	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	saved	save	main:>0	@+FMAINV V
+3	it	it	obj:>2	@OBJ PRON
+4	from	from	phr:>2	@ADVL PREP
+5	closing	close	pcomp:>4	@<P-FMAINV ING
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	started	start	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	famous	fam	attr:>5	@A> A
+5	circus	circus	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	another	another	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	for	for	mod:>4	@<NOM PREP
+6	the	the	det:>7	@DN> DET
+7	circus	circus	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	did	do	v-ch:>6	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	circus	circus	subj:>2	@SUBJ N
+5	almost	almost		@AD-A> ADV
+6	close	close	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	circus	circus	subj:>2	@SUBJ N
+5	take	take	main:>0	@-FMAINV V
+6	place	place	obj:>5	@OBJ N
+7	at	at	tmp:>5	@ADVL PREP
+8	one	one	qn:>9	@QN> NUM
+9	time	time	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	did_	do	v-ch:>6	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	Barnum's	Barnum	attr:>5	@A> N
+5	circus	circus	subj:>2	@SUBJ N
+6	close	close	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+

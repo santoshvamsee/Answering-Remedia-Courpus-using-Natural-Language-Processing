@@ -1,0 +1,298 @@
+0		
+1	Watch	watch	main:>0	@+FMAINV V
+2	for	for	ha:>1	@ADVL PREP
+3	Northern	northern	attr:>4	@A> A
+4	Lights	light	pcomp:>2	@<P N
+5	Tonight	tonight	tmp:>1	@ADVL N
+	$<p>	
+
+0		
+	$(	
+2	CANADA	Canada		@NH N
+	$,	
+4	March	march		@APP N	@A> N
+5	21,1989	21,1989		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Today	today	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	day	day	comp:>2	@PCOMPL-S N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	spring	spring	pcomp:>6	@<P N
+8	around	around	mod:>7	@<NOM PREP
+9	the	the	det:>10	@DN> DET
+10	world	world	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Today	today	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	special	special	comp:>2	@PCOMPL-S A
+4	for	for	mod:>3	@ADVL PREP
+5	one	one	qn:>6	@QN> NUM
+6	other	other	det:>7	@DN> DET
+7	reason	reason	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>3	@CS CS
+2	you	you	subj:>3	@SUBJ PRON
+3	look	look	cnd:>11	@+FMAINV V
+4	at	at	loc:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	sky	sky	pcomp:>4	@<P N
+7	tonight	tonight	tmp:>3	@ADVL N
+	$,	
+9	you	you	subj:>10	@SUBJ PRON
+10	may	may	v-ch:>11	@+FAUXV V
+11	see	see	main:>0	@-FMAINV V
+12	the	the	det:>14	@DN> DET
+13	northern	northern	attr:>14	@A> A
+14	lights	light	obj:>11	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	For	for	tmp:>6	@ADVL PREP
+2	years	year	pcomp:>1	@<P N
+	$,	
+4	no	no	det:>5	@DN> DET
+5	one	one	subj:>6	@SUBJ PRON
+6	knew	know	main:>0	@+FMAINV V
+7	what	what	subj:>8	@SUBJ PRON
+8	caused	cause	obj:>6	@+FMAINV V
+9	these	this	det:>10	@DN> DET
+10	lights	light	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>3	@ADVL ADV
+2	we	we	subj:>3	@SUBJ PRON
+3	know	know	main:>0	@+FMAINV V
+4	that	that	pm:>8	@CS CS
+5	the	the	det:>7	@DN> DET
+6	sun's	sun	attr:>7	@A> N
+7	light	light	subj:>8	@SUBJ N
+8	is	be	obj:>3	@+FMAINV V
+9	the	the	det:>10	@DN> DET
+10	cause	cause	comp:>8	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	gives	give	main:>0	@+FMAINV V
+3	electric	electric	attr:>4	@A> A
+4	power	power	obj:>2	@OBJ N
+5	to	to	dat:>2	@ADVL PREP
+6	specks	speck	pcomp:>5	@<P N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	dust	dust	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>4	@ADVL ADV
+2	these	this	det:>3	@DN> DET
+3	specks	speck	subj:>4	@SUBJ N
+4	reach	reach	main:>0	@+FMAINV V
+5	the	the	det:>6	@DN> DET
+6	air	air	obj:>4	@OBJ N
+7	high	high	copred:>4	@<NOM A
+8	above	above	meta:>4	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	earth	earth	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	give	give	main:>0	@+FMAINV V
+3	off	off	phr:>2	@ADVL ADV
+4	strange	strange	attr:>5	@A> A
+5	colors	color	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	must	must	v-ch:>3	@+FAUXV V
+3	live	live	main:>0	@-FMAINV V
+4	far	far	loc:>3	@ADVL ADV
+5	north	north	subj:>7	@OBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	see	see	obj:>3	@-FMAINV V
+8	the	the	det:>10	@DN> DET
+9	northern	northern	attr:>10	@A> A
+10	lights	light	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Most	much		@SUBJ PRON	@OBJ PRON	@ADVL PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>4	@DN> DET
+4	time	time	pcomp:>2	@<P N
+	$,	
+6	you	you	subj:>7	@SUBJ PRON
+7	can	can	v-ch:>9	@+FAUXV V
+8	only	only	>9	@ADVL ADV
+9	see	see	main:>0	@-FMAINV V
+10	them	they	obj:>9	@OBJ PRON
+11	at	at	tmp:>9	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	start	start	pcomp:>11	@<P N
+14	of	of	mod:>13	@<NOM-OF PREP
+15	spring	spring	pcomp:>14	@<P N
+16	or	or	cc:>14	@CC CC
+17	in	in	cc:>14	@ADVL PREP
+18	the	the	det:>19	@DN> DET
+19	fall	fall	pcomp:>17	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	lights	light	subj:>3	@SUBJ N
+3	take	take	main:>0	@+FMAINV V
+4	many	many	det:>5	@DN> DET
+5	shapes	shape	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>5	@DN> DET
+2	ones	one		@SUBJ PRON	@PCOMPL-S PRON	@APP PRON
+3	most	much	ad:>4	@AD-A> ADV
+4	often	often	frq:>6	@ADVL ADV
+5	seen	see	subj:>6	@SUBJ A
+6	are	be	main:>0	@+FMAINV V
+7	streaks	streak	comp:>6	@PCOMPL-S N
+8	or	or	cc:>7	@CC CC
+9	rays	ray	cc:>7	@PCOMPL-S N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	color	color	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	seem	seem	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	reach	reach	comp:>2	@-FMAINV V
+5	hundreds	hundred	obj:>4	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	miles	mile	pcomp:>6	@<P N
+8	into	into	goa:>4	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	sky	sky	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	colors	color	subj:>3	@SUBJ N
+3	may	may	v-ch:>4	@+FAUXV V
+4	be	be	main:>0	@-FMAINV V
+5	yellow-green	yellow-green	comp:>4	@PCOMPL-S N
+	$,	
+7	purple	purple	cc:>5	@PCOMPL-S A
+	$,	
+9	or	or		@CC CC
+10	red	red		@PCOMPL-S A	@APP A	@SUBJ A	@<NOM A
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	light	light	attr:>3	@A> N
+3	show	show	subj:>4	@SUBJ N
+4	may	may	v-ch:>5	@+FAUXV V
+5	be	be	main:>0	@-FMAINV V
+6	better	well	man:>5	@ADVL ADV
+7	than	than	mod:>6	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	Fourth_of_July	fourth_of_july	pcomp:>7	@<P N
+	$!	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	see	see	main:>0	@-FMAINV V
+4	the	the	det:>6	@DN> DET
+5	northern	northern	attr:>6	@A> A
+6	lights	light	obj:>3	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	causes	cause	main:>0	@+FMAINV V
+3	these	this	det:>4	@DN> DET
+4	lights	light	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	can	can	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	be	be	v-ch:>5	@-FAUXV V
+5	seen	see	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	are	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	northern	northern	attr:>5	@A> A
+5	lights	light	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	March	march	subj:>2	@SUBJ N
+4	21	21	qua:>2	@ADVL NUM
+5	a	a	det:>7	@DN> DET
+6	special	special	attr:>7	@A> A
+7	day	day	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+

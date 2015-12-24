@@ -1,0 +1,338 @@
+0		
+1	Fire	fire	main:>0	@+FMAINV V
+2	in	in	ha:>1	@ADVL PREP
+3	the	the	det:>5	@DN> DET
+4	White	white	attr:>5	@A> A
+5	House	house	pcomp:>2	@<P N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	WASHINGTON	Washington		@NH N	@APP N
+	$,	
+4	D	d	mod:>2	@APP ABBR
+	$.	
+	$<s>	
+
+0		
+1	C.	c.	main:>0	@NH ABBR
+	$,	
+3	December	December		@NH N	@SUBJ N	@PCOMPL-S N	@ADVL N
+4	24,1930	24,1930	mod:>3	@<NOM NUM
+	$)	
+6	The	the	det:>9	@DN> DET
+7	first	first	attr:>8	@A> NUM
+8	White	white	attr:>9	@A> A
+9	House	house	subj:>10	@SUBJ N
+10	burned	burn		@+FMAINV V
+11	to	to	ha:>10	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	ground	ground	pcomp:>11	@<P N
+14	in	in	tmp:>10	@ADVL PREP
+15	1812	1812	pcomp:>14	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	Last	last	det:>2	@DN> DET
+2	night	night	tmp:>5	@ADVL N
+	$,	
+4	it	it	subj:>5	@SUBJ PRON
+5	looked	look	main:>0	@+FMAINV V
+6	like	like	man:>5	@ADVL PREP
+7	that	that	pcomp:>6	@<P PRON
+8	might	might	v-ch:>9	@+FAUXV V
+9	happen	happen		@-FMAINV V
+10	again	again	frq:>9	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	White	white	attr:>3	@A> A
+3	House	house	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	the	the	det:>6	@DN> DET
+6	home	home	comp:>4	@PCOMPL-S N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	the	the	det:>9	@DN> DET
+9	President	president	pcomp:>7	@<P N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	the	the	det:>13	@DN> DET
+12	United	unite	attr:>13	@A> A
+13	States	state	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	President	president	attr:>2	@A> N
+2	Herbert	Herbert	attr:>3	@A> N
+3	Hoover	hoover	cc:>6	@SUBJ N
+4	and	and	cc:>6	@CC CC
+5	his	he	attr:>6	@A> PRON
+6	wife	wife	subj:>7	@SUBJ N
+7	were	be	v-ch:>8	@+FAUXV V
+8	having	have	main:>0	@-FMAINV ING
+9	a	a	det:>10	@DN> DET
+10	party	party	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	Christmas	Christmas	attr:>4	@A> N
+4	Eve	eve	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	children	child	subj:>6	@SUBJ N
+3	at	at	mod:>2	@<NOM PREP
+4	the	the	det:>5	@DN> DET
+5	party	party	pcomp:>3	@<P N
+6	were	be	v-ch:>7	@+FAUXV V
+7	having	have	main:>0	@-FMAINV ING
+8	a	a	det:>10	@DN> DET
+9	good	good	attr:>10	@A> A
+10	time	time	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	v-ch:>3	@+FAUXV V
+3	eating	eat	main:>0	@-FMAINV ING
+4	cake	cake	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Mr.	Mr.	attr:>2	@A> ABBR
+2	Hoover	hoover	subj:>3	@SUBJ N
+3	came	come	main:>0	@+FMAINV V
+4	by	by	ha:>3	@ADVL ADV
+5	and	and	cc:>3	@CC CC
+6	talked	talk	cc:>3	@+FMAINV V
+7	to	to	ha:>6	@ADVL PREP
+8	them	they	pcomp:>7	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	All_at_once	all_at_once		@ADVL ADV
+	$,	
+3	a	a	det:>4	@DN> DET
+4	guard	guard	subj:>5	@SUBJ N
+5	came	come	main:>0	@+FMAINV V
+6	along	along	ha:>5	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	whispered	whisper	main:>0	@+FMAINV V
+3	in	in	ha:>2	@ADVL PREP
+4	Mr.	Mr.	attr:>5	@A> ABBR
+5	Hoover's	hoover	attr:>6	@A> N
+6	ear	ear	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>3	@SUBJ PRON
+2	both	both	mod:>1	@APP PRON
+3	left	leave	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	room	room	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Soon	soon	tmp:>4	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	children	child	subj:>4	@SUBJ N
+4	heard	hear	main:>0	@+FMAINV V
+5	fire	fire	attr:>6	@A> N
+6	engines	engine	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Were	be	v-ch:>3	@+FAUXV V
+2	they	they	subj:>1	@SUBJ PRON
+3	surprised	surprise	main:>0	@-FMAINV EN
+	$!	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	White	white	attr:>3	@A> A
+3	House	house	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	on	on	loc:>4	@ADVL PREP
+6	fire	fire	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>3	@DN> DET
+2	fire	fire	attr:>3	@A> N
+3	trucks	truck	subj:>4	@SUBJ N
+4	stopped	stop	main:>0	@+FMAINV V
+5	nearby	nearby	loc:>4	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Firemen	fireman	subj:>2	@SUBJ N
+2	jumped	jump	main:>0	@+FMAINV V
+3	to	to	ha:>2	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	ground	ground	pcomp:>3	@<P N
+6	with	with		@<NOM PREP	@ADVL PREP
+7	hoses	hose	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	climbed	climb	main:>0	@+FMAINV V
+3	tall	tall	attr:>4	@A> A
+4	ladders	ladder	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	sprayed	spray	main:>0	@+FMAINV V
+3	water	water	obj:>2	@OBJ N
+4	on	on	loc:>2	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	flames	flame	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Before	before	pm:>2	@CS CS
+2	long	long	cnd:>6	@ADVL A
+	$,	
+4	the	the	det:>5	@DN> DET
+5	fire	fire	subj:>6	@SUBJ N
+6	was	be	main:>0	@+FMAINV V
+7	out	out	loc:>6	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	children	child	subj:>3	@SUBJ N
+3	were	be	main:>0	@+FMAINV V
+4	never	never	frq:>3	@ADVL ADV
+5	in	in	man:>3	@ADVL PREP
+6	danger	danger	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Neither	neither	neg:>2	@ADVL ADV
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	President	president	subj:>2	@SUBJ N
+5	or	or		@CC CC
+6	Mrs.	Mrs.	attr:>7	@A> ABBR
+7	Hoover	hoover		@SUBJ N	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	All	all	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	them	they	pcomp:>2	@<P PRON
+4	will	will	v-ch:>5	@+FAUXV V
+5	remember	remember	main:>0	@-FMAINV V
+6	that	that	det:>7	@DN> DET
+7	party	party	obj:>5	@OBJ N
+8	the	the	det:>9	@DN> DET
+9	rest	rest		@SUBJ N	@OBJ N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	their	they	attr:>12	@A> PRON
+12	lives	life	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	lives	live	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	the	the	det:>6	@DN> DET
+5	White	white	attr:>6	@A> A
+6	House	house	pcomp:>3	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	caught	catch	main:>0	@+FMAINV V
+3	on	on	loc:>2	@ADVL PREP
+4	fire	fire	pcomp:>3	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	this	this	subj:>2	@SUBJ PRON
+4	happen	happen	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	firemen	fireman	subj:>2	@SUBJ N
+5	jump	jump	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	guard	guard	subj:>2	@SUBJ N
+5	whisper	whisper	main:>0	@-FMAINV V
+6	in	in	ha:>5	@ADVL PREP
+7	Mr.	Mr.	attr:>8	@A> ABBR
+8	Hoover's	hoover	attr:>9	@A> N
+9	ear	ear	pcomp:>6	@<P N
+	$?	
+	$<p>	
+

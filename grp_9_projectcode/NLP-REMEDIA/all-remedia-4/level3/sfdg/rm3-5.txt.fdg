@@ -1,0 +1,360 @@
+0		
+1	New	new	attr:>2	@A> A
+2	Cubs	cub	subj:>3	@SUBJ N
+3	Can	can	v-ch:>4	@+FAUXV V
+4	Be	be	v-ch:>5	@-FAUXV V
+5	Kept	keep	main:>0	@-FMAINV EN
+6	In	in	loc:>5	@ADVL PREP
+7	The	the	det:>8	@DN> DET
+8	Home	home	pcomp:>6	@<P N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	ST.	st.	attr:>3	@A> ABBR
+3	LOUIS	Louis		@APP N
+	$,	
+5	1931	1931		@NH NUM	@PCOMPL-S NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+7	$-		
+8	The	the	det:>10	@DN> DET
+9	first	first	attr:>10	@A> NUM
+10	meeting	meet	subj:>16	@SUBJ N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	a	a	det:>13	@DN> DET
+13	brand	brand	pcomp:>11	@<P N
+14	new	new	attr:>15	@A> A
+15	club	club		@SUBJ N	@APP N
+16	was	be	v-ch:>17	@+FAUXV V
+17	held	hold	main:>0	@-FMAINV EN
+18	today	today	comp:>17	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	club	club	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	for	for	ha:>3	@ADVL PREP
+5	boys	boy	pcomp:>4	@<P N
+6	who	who	subj:>7	@SUBJ PRON
+7	are	be	mod:>5	@+FMAINV V
+8	under	under	loc:>7	@ADVL PREP
+9	12	12	qn:>10	@QN> NUM
+10	years_old	years_old	pcomp:>8	@<P A
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	Cub	cub	attr:>5	@A> N
+5	Scouts	scout	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Cubs	cub	subj:>5	@SUBJ N
+2	in	in	mod:>1	@<NOM PREP
+3	the	the	det:>4	@DN> DET
+4	wild	wild	pcomp:>2	@<P A
+5	are	be	main:>0	@+FMAINV V
+6	young	young	attr:>7	@A> A
+7	animals	animal	comp:>5	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	may	may	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	wolves	wolf	comp:>3	@PCOMPL-S N
+	$,	
+6	bears	bear	cc:>4	@PCOMPL-S N
+	$,	
+8	or	or		@CC CC
+9	lions	lion		@SUBJ N	@PCOMPL-S N	@APP N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	have	have	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	lot	lot	obj:>2	@OBJ N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	learn	learn	mod:>4	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	So	so	meta:>2	@ADVL ADV
+2	do	do	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	Cub	cub	attr:>5	@A> N
+5	Scouts	scout	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	At	at	cla:>8	@ADVL PREP
+2	the	the	det:>4	@DN> DET
+3	first	first	attr:>4	@A> NUM
+4	meeting	meet	pcomp:>1	@<P N
+	$,	
+6	the	the	det:>7	@DN> DET
+7	Cubs	cub	subj:>8	@SUBJ N
+8	played	play	main:>0	@+FMAINV V
+9	some	some	det:>10	@DN> DET
+10	games	game	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>3	@SUBJ PRON
+2	also	also	>3	@ADVL ADV
+3	talked	talk	main:>0	@+FMAINV V
+4	about	about	ha:>3	@ADVL PREP
+5	things	thing	pcomp:>4	@<P N
+6	they	they	subj:>7	@SUBJ PRON
+7	like	like	mod:>5	@+FMAINV V
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	do	do	obj:>7	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Cubs	cub	main:>0	@NH N
+2	in	in	mod:>1	@<NOM PREP
+3	the	the	det:>5	@DN> DET
+4	wild	wild	attr:>5	@A> A
+5	travel	travel	pcomp:>2	@<P N
+6	in	in	mod:>5	@<NOM PREP
+7	packs	pack	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Their	they	attr:>2	@A> PRON
+2	homes	home	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	called	call	main:>0	@-FMAINV EN
+5	dens	den	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	group	group	subj:>6	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	Cub	cub	attr:>5	@A> N
+5	Scouts	scout	pcomp:>3	@<P N
+6	is	be	v-ch:>8	@+FAUXV V
+7	also	also	>8	@ADVL ADV
+8	called	call	main:>0	@-FMAINV EN
+9	a	a	det:>10	@DN> DET
+10	pack	pack	comp:>8	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	meet	meet	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	dens	den	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	these	this	det:>3	@DN> DET
+3	dens	den	subj:>4	@SUBJ N
+4	are	be	main:>0	@+FMAINV V
+5	rooms	room	comp:>4	@PCOMPL-S N
+6	or	or	cc:>5	@CC CC
+7	basements	basement	cc:>5	@PCOMPL-S N
+8	in	in	mod:>7	@<NOM PREP
+9	their	they	attr:>10	@A> PRON
+10	own	own	attr:>11	@A> A
+11	homes	home	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Some	some	subj:>7	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	their	they	attr:>4	@A> PRON
+4	moms	mom	pcomp:>2	@<P N
+5	and	and	cc:>4	@CC CC
+6	dads	dad	cc:>4	@<P N
+7	will	will	v-ch:>8	@+FAUXV V
+8	be	be	main:>0	@-FMAINV V
+9	at	at	ha:>8	@ADVL PREP
+10	each	each	det:>11	@DN> DET
+11	meeting	meet	pcomp:>9	@<P N
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	lead	lead	cnt:>8	@-FMAINV V
+14	them	they	obj:>13	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	moms	mom	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	called	call	main:>0	@-FMAINV EN
+6	den	den	attr:>7	@A> N
+7	mothers	mother	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	At	at	cla:>6	@ADVL PREP
+2	each	each	det:>3	@DN> DET
+3	meeting	meet	pcomp:>1	@<P N
+	$,	
+5	they	they	subj:>6	@SUBJ PRON
+6	make	make	main:>0	@+FMAINV V
+7	a	a	det:>8	@DN> DET
+8	promise	promise	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	say	say	main:>0	@+FMAINV V
+3	they	they	subj:>4	@SUBJ PRON
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	obj:>2	@-FMAINV V
+6	true	true	comp:>5	@PCOMPL-S A
+7	to	to	mod:>6	@ADVL PREP
+8	their	they	attr:>9	@A> PRON
+9	country	country	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>3	@SUBJ PRON
+2	also	also	>3	@ADVL ADV
+3	say	say	main:>0	@+FMAINV V
+4	they	they	subj:>5	@SUBJ PRON
+5	will	will	v-ch:>6	@+FAUXV V
+6	try	try	obj:>3	@-FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	help	help	obj:>6	@-FMAINV V
+9	others	other	obj:>8	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	Cubs	cub	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	grow	grow	main:>0	@-FMAINV V
+5	in	in	dur:>4	@ADVL PREP
+6	time	time	pcomp:>5	@<P N
+	$,	
+8	just	just	ad:>9	@AD-A> ADV
+9	like	like		@ADVL PREP
+10	animal	animal	attr:>11	@A> N
+11	cubs	cub	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	the	the	det:>4	@DN> DET
+3	Cub	cub	attr:>4	@A> N
+4	Scouts	scout	subj:>5	@SUBJ N
+5	reach	reach	tmp:>13	@+FMAINV V
+6	the	the	det:>7	@DN> DET
+7	age	age	obj:>5	@OBJ N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	12	12	pcomp:>8	@<P NUM
+	$,	
+11	they	they	subj:>12	@SUBJ PRON
+12	can	can	v-ch:>13	@+FAUXV V
+13	be	be	main:>0	@-FMAINV V
+14	Boy	boy	attr:>15	@A> N
+15	Scouts	scout	comp:>13	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	Cub	cub	attr:>4	@A> N
+4	Scouts	scout	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	do	do	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	do	do	main:>0	@-FMAINV V
+5	at	at	loc:>4	@ADVL PREP
+6	meetings	meeting	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	do	do	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	Cub	cub	attr:>5	@A> N
+5	Scouts	scout	subj:>2	@SUBJ N
+6	become	become	main:>0	@-FMAINV V
+7	Boy	boy	attr:>8	@A> N
+8	Scouts	scout	comp:>6	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	do	do	v-ch:>5	@+FAUXV V
+3	Cub	cub	attr:>4	@A> N
+4	Scouts	scout	subj:>2	@SUBJ N
+5	meet	meet	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	are	be	main:>0	@+FMAINV V
+3	Cub	cub	attr:>4	@A> N
+4	Scouts	scout	subj:>2	@SUBJ N
+5	like	like	ha:>2	@ADVL PREP
+6	animal	animal	attr:>7	@A> N
+7	cubs	cub	pcomp:>5	@<P N
+	$?	
+	$<p>	
+

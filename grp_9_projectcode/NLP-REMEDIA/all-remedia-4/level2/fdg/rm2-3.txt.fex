@@ -1,0 +1,260 @@
+ 9999 99       0       O      N           School           attr/A            -----      1
+ 9999 99       1       O      N         Children        NOFUNC/NH            -----     -1
+ 9999 99       2       O INFMARK               to       pm/INFMARK            -----      3
+ 9999 99       3       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       4       O      N           Pledge          obj/OBJ            -----      3
+
+ 9999 99       0       O    SEP                (          obj/OBJ            ?????     -1
+ 9999 99       1       O      N         COLUMBUS          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N             OHIO            cc/NH            -----      1
+ 9999 99       4       O    SEP                ,            cc/NH            ?????     -1
+ 9999 99       5       O      N          October        NOFUNC/NH            -----     -1
+ 9999 99       6       O    NUM               12          mod/NOM            -----      5
+ 9999 99       7       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       8       O    NUM             1892          mod/NOM            -----      6
+ 9999 99       9       O    SEP                )          mod/NOM            ?????     -1
+ 9999 99      10       O    NUM             Four            qn/QN            -----     11
+ 9999 99      11       O    NUM          hundred            qn/QN            -----     12
+ 9999 99      12       O      N            years      NOFUNC/ADVL            -----     -1
+ 9999 99      13       O    ADV              ago             ad/A            -----     12
+ 9999 99      14       O      N            today         tmp/ADVL            -----     19
+ 9999 99      15       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99      16       O      N      Christopher           attr/A            -----     17
+ 9999 99      17       O      N         Columbus        subj/SUBJ            -----     19
+ 9999 99      18       O    NUM            first          mod/NOM            -----     17
+ 9999 99      19       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99      20       O   PRON              our           attr/A            -----     21
+ 9999 99      21       O      N          country          obj/OBJ            -----     19
+ 9999 99      22       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      A              big           attr/A            -----      4
+ 9999 99       4       O      N              day           comp/S            -----      1
+ 9999 99       5       O   PREP              for          mod/NOM            -----      4
+ 9999 99       6       O   PRON              our           attr/A            -----      7
+ 9999 99       7       O      N             city          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               We        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_name      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP            after          ha/ADVL            -----      2
+ 9999 99       4       O    DET             this           det/DN            -----      6
+ 9999 99       5       O      A            brave           attr/A            -----      6
+ 9999 99       6       O      N           sailor          pcomp/P            -----      3
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Many           det/DN            -----      1
+ 9999 99       1       O      N           events        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN           T_hold      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP               in         loc/ADVL            -----      4
+ 9999 99       6       O   PRON              his           attr/A            -----      7
+ 9999 99       7       O      N             name          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP               In         cla/ADVL            -----      6
+ 9999 99       1       O   PRON              our           attr/A            -----      2
+ 9999 99       2       O      N          schools          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O      N         children        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_will       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       7       O    DET                a           det/DN            -----      9
+ 9999 99       8       O      A              new           attr/A            -----      9
+ 9999 99       9       O      N             poem          obj/OBJ            -----      6
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N          promise           comp/S            -----      1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V             T_be       mod/FMAINV            -----      0
+ 9999 99       6       O      A            loyal           comp/S            -----      5
+ 9999 99       7       O     CC              and            cc/CC            -----      6
+ 9999 99       8       O      A             true             cc/S            -----      6
+ 9999 99       9       O   PREP               to       NOFUNC/NOM            -----     -1
+ 9999 99      10       O   PRON              our           attr/A            -----     11
+ 9999 99      11       O      N          country          pcomp/P            -----      9
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O    SEP               "_           det/DN            ?????     -1
+ 9999 99       5       O      N           Pledge         NOFUNC/P            -----     -1
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O      N       Allegiance          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+ 9999 99       9       O    SEP               _"          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N           pledge        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN          T_write      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               by         agt/ADVL            -----      3
+ 9999 99       5       O      N          Frances           attr/A            -----      6
+ 9999 99       6       O      N          Bellamy          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_write      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON               it          dat/OBJ            -----      1
+ 9999 99       3       O    ADV               so             ad/A            -----      4
+ 9999 99       4       O      A            young           attr/A            -----      5
+ 9999 99       5       O      N           people        subj/SUBJ            -----      6
+ 9999 99       6       O      V          T_could       v-ch/FAUXV            -----      7
+ 9999 99       7       O      V           T_feel       obj/FMAINV            -----      1
+ 9999 99       8       O      A            proud           comp/S            -----      7
+ 9999 99       9       O   PREP               of           mod/OF            -----      8
+ 9999 99      10       O   PRON            their           attr/A            -----     11
+ 9999 99      11       O      N             land          pcomp/P            -----      9
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N        President           attr/A            -----      1
+ 9999 99       1       O      N         Harrison        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_like      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N           pledge          obj/OBJ            -----      2
+ 9999 99       5       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_ask      main/FMAINV            -----     -1
+ 9999 99       2       O     CS             that            pm/CS            -----      6
+ 9999 99       3       O    DET                a           det/DN            -----      4
+ 9999 99       4       O      N             flag        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN          T_place       obj/FMAINV            -----      1
+ 9999 99       7       O   PREP               in         loc/ADVL            -----      6
+ 9999 99       8       O    DET            every           det/DN            -----      9
+ 9999 99       9       O      N           school          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV               So      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    SEP                ,      NOFUNC/ADVL            ?????     -1
+ 9999 99       2       O      N            today         tmp/ADVL            -----      9
+ 9999 99       3       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       4       O      N          schools        subj/SUBJ            -----      8
+ 9999 99       5       O   PREP         all_over          mod/NOM            -----      4
+ 9999 99       6       O   PRON              our           attr/A            -----      7
+ 9999 99       7       O      N             land          pcomp/P            -----      5
+ 9999 99       8       O      V           T_will       v-ch/FAUXV            -----      9
+ 9999 99       9       O      V        T_display      main/FMAINV            -----     -1
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N             flag          obj/OBJ            -----      9
+ 9999 99      12       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP             From         cla/ADVL            -----      7
+ 9999 99       1       O      N            state          pcomp/P            -----      0
+ 9999 99       2       O   PREP               to          mod/NOM            -----      1
+ 9999 99       3       O      N            state          pcomp/P            -----      2
+ 9999 99       4       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       5       O      N         children        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_will       v-ch/FAUXV            -----      7
+ 9999 99       7       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N           pledge          obj/OBJ            -----      7
+ 9999 99      10       O   PREP              for         dur/ADVL            -----      7
+ 9999 99      11       O    DET              the           det/DN            -----     13
+ 9999 99      12       O    NUM            first           attr/A            -----     13
+ 9999 99      13       O      N             time          pcomp/P            -----     10
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N          Parades        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_hold      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O      N           People        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V          T_think      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP            about         phr/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N          sailors          pcomp/P            -----      3
+ 9999 99       6       O   PRON              who        subj/SUBJ            -----      8
+ 9999 99       7       O    NUM            first          mod/NOM            -----      6
+ 9999 99       8       O      V           T_come       mod/FMAINV            -----      5
+ 9999 99       9       O    ADV             here         loc/ADVL            -----      8
+ 9999 99      10       O    SEP                .         loc/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON         Everyone        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_be    NOFUNC/FMAINV            -----     -1
+ 9999 99       3       O      A             glad           comp/S            -----      2
+ 9999 99       4       O   PRON             they        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_live    NOFUNC/FMAINV            -----     -1
+ 9999 99       6       O   PREP               in         loc/ADVL            -----      5
+ 9999 99       7       O    DET             this           det/DN            -----      9
+ 9999 99       8       O      A            great           attr/A            -----      9
+ 9999 99       9       O      N          country          pcomp/P            -----      6
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_write      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O    SEP               "_           det/DN            ?????     -1
+ 9999 99       4       O      N           Pledge       NOFUNC/APP            -----     -1
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O      N       Allegiance          pcomp/P            -----      5
+ 9999 99       7       O    SEP               _"          pcomp/P            ?????     -1
+ 9999 99       8       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    DET             What           det/DN            -----      1
+ 9999 99       1       O      N             city        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_name      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP            after          ha/ADVL            -----      3
+ 9999 99       5       O      N      Christopher           attr/A            -----      6
+ 9999 99       6       O      N         Columbus          pcomp/P            -----      4
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O      N         Columbus        subj/SUBJ            -----      1
+ 9999 99       3       O    NUM            first          mod/NOM            -----      2
+ 9999 99       4       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      A              new           attr/A            -----      7
+ 9999 99       7       O      N             land          obj/OBJ            -----      4
+ 9999 99       8       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N            flags        subj/SUBJ            -----      1
+ 9999 99       3       O     EN          T_place      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP           around          ha/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N          country          pcomp/P            -----      4
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O      N          Frances           attr/A            -----      3
+ 9999 99       3       O      N          Bellamy        subj/SUBJ            -----      1
+ 9999 99       4       O      V          T_write      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N           pledge          obj/OBJ            -----      4
+ 9999 99       7       O    SEP                ?          obj/OBJ            ?????     -1
+

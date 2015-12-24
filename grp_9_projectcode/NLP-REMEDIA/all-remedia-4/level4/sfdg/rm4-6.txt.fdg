@@ -1,0 +1,464 @@
+0		
+	$<p>	
+
+0		
+1	Jump	jump	main:>0	@+FMAINV V
+2	for	for	ha:>1	@ADVL PREP
+3	Joy	joy	pcomp:>2	@<P N
+4	$...		
+	$<s>	
+
+0		
+1	It_	it	subj:>2	@SUBJ PRON
+2	's	be	main:>0	@+FMAINV V
+3	Leap	leap	attr:>4	@A> N
+4	Year	year	comp:>2	@PCOMPL-S N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	Anytown	anytown	attr:>6	@A> N
+	$,	
+4	USA	USA	mod:>2	@<NOM ABBR
+	$,	
+6	February	February		@NH N
+7	29	29	mod:>6	@<NOM NUM
+	$,	
+9	1988	1988	mod:>7	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Let_	let	main:>0	@+FMAINV V
+2	's	we	subj:>3	@OBJ PRON
+3	hear	hear	obj:>1	@-FMAINV V
+4	it	it	obj:>3	@OBJ PRON
+5	for	for	dur:>3	@ADVL PREP
+6	leap	leap	attr:>7	@A> N
+7	year	year	pcomp:>5	@<P N
+	$!	
+	$<s>	
+
+0		
+1	It	it	subj:>3	@SUBJ PRON
+2	only	only	meta:>3	@ADVL ADV
+3	happens	happen	main:>0	@+FMAINV V
+4	once	once	tmp:>3	@ADVL ADV
+5	every	every	det:>7	@DN> DET
+6	four	four	qn:>7	@QN> NUM
+7	years	year		@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Today	today	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	day	day	comp:>2	@PCOMPL-S N
+5	that	that	subj:>6	@SUBJ PRON
+6	gives	give	mod:>4	@+FMAINV V
+7	this	this	det:>9	@DN> DET
+8	special	special	attr:>9	@A> A
+9	year	year	obj:>6	@OBJ N
+10	its	it	attr:>11	@A> PRON
+11	name	name		@SUBJ N	@OBJ N	@I-OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>4	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	leap	leap	attr:>4	@A> N
+4	year	year	subj:>5	@SUBJ N
+5	was	be	main:>0	@+FMAINV V
+6	1584	1584	comp:>5	@PCOMPL-S NUM
+	$.	
+	$<p>	
+
+0		
+1	In	in	tmp:>7	@ADVL PREP
+2	a	a	det:>4	@DN> DET
+3	leap	leap	attr:>4	@A> N
+4	year	year	pcomp:>1	@<P N
+	$,	
+6	there	there	subj:>7	@F-SUBJ ADV
+7	is	be	main:>0	@+FMAINV V
+8	one	one	qn:>10	@QN> NUM
+9	extra	extra	attr:>10	@A> A
+10	day	day	comp:>7	@PCOMPL-S N
+11	which	which	subj:>12	@SUBJ PRON
+12	is	be	v-ch:>14	@+FAUXV V
+13	always	always	frq:>14	@ADVL ADV
+14	added	add	mod:>10	@-FMAINV EN
+15	to	to	ha:>14	@ADVL PREP
+16	the	the	det:>17	@DN> DET
+17	month	month	pcomp:>15	@<P N
+18	of	of	mod:>17	@<NOM-OF PREP
+19	February	February	pcomp:>18	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	must	must	v-ch:>3	@+FAUXV V
+3	be	be	v-ch:>4	@-FAUXV V
+4	done	do	main:>0	@-FMAINV EN
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	make	make	cnt:>4	@-FMAINV V
+7	the	the	det:>8	@DN> DET
+8	calendar	calendar	obj:>6	@OBJ N
+9	match	match		@-FMAINV V	@<P-FMAINV V
+10	the	the	det:>11	@DN> DET
+11	sun	sun	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	calendar	calendar	subj:>3	@SUBJ N
+3	shows	show	main:>0	@+FMAINV V
+4	365	365	qn:>5	@QN> NUM
+5	days	day	obj:>3	@OBJ N
+6	in	in	dur:>3	@ADVL PREP
+7	a	a	det:>9	@DN> DET
+8	normal	normal	attr:>9	@A> A
+9	year	year	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	by	by	cla:>7	@ADVL PREP
+3	sun	sun	attr:>4	@A> N
+4	time	time	pcomp:>2	@<P N
+	$,	
+6	there	there	subj:>7	@F-SUBJ ADV
+7	are	be	main:>0	@+FMAINV V
+8	really	real	man:>7	@ADVL ADV
+9	365.24219878	365.24219878	qn:>10	@QN> NUM
+10	days	day	comp:>7	@PCOMPL-S N
+11	in	in	dur:>7	@ADVL PREP
+12	a	a	det:>13	@DN> DET
+13	year	year	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	extra	extra	attr:>3	@A> A
+3	time	time	subj:>4	@SUBJ N
+4	must	must	v-ch:>5	@+FAUXV V
+5	be	be	v-ch:>6	@-FAUXV V
+6	added	add		@-FMAINV EN
+7	to	to	ha:>6	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	calendar	calendar	pcomp:>7	@<P N
+	$,	
+11	and	and	cc:>7	@CC CC
+12	about	about	cc:>7	@ADVL PREP
+13	once	once	frq:>17	@ADVL ADV
+14	every	every	det:>16	@DN> DET
+15	four	four	qn:>16	@QN> NUM
+16	years	year	subj:>17	@SUBJ N
+17	is	be		@+FMAINV V
+18	just	just	ad:>19	@AD-A> ADV
+19	right	right	comp:>17	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	How	how	man:>4	@ADVL ADV
+2	can	can	v-ch:>4	@+FAUXV V
+3	you	you	subj:>2	@SUBJ PRON
+4	tell	tell	main:>0	@-FMAINV V
+5	which	which	det:>6	@DN> DET
+6	years	year	subj:>7	@SUBJ N
+7	are	be	obj:>4	@+FMAINV V
+8	leap	leap	attr:>9	@A> N
+9	years	year	comp:>7	@PCOMPL-S N
+	$?	
+	$<s>	
+
+0		
+1	Most	many	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	them	they	pcomp:>2	@<P PRON
+4	can	can	v-ch:>5	@+FAUXV V
+5	be	be	v-ch:>6	@-FAUXV V
+6	divided	divide	main:>0	@-FMAINV EN
+7	by	by	agt:>6	@ADVL PREP
+8	the	the		@DN> DET
+	$<p>	
+
+0		
+1	number	number	attr:>2	@A> N
+2	four	four	main:>0	@NH NUM	@ADVL NUM
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	only	only	attr:>3	@A> A
+3	years	year	subj:>11	@SUBJ N
+4	that	that	subj:>5	@SUBJ PRON
+5	do_	do	v-ch:>8	@+FAUXV V
+6	n't	not	neg:>7	@ADVL NEG-PART
+7	always	always	frq:>8	@ADVL ADV
+8	follow	follow	mod:>3	@-FMAINV V
+9	this	this	det:>10	@DN> DET
+10	rule	rule	obj:>8	@OBJ N
+11	are	be	main:>0	@+FMAINV V
+12	ones	one	comp:>11	@PCOMPL-S PRON
+13	that	that	subj:>14	@SUBJ PRON
+14	start	start	mod:>12	@+FMAINV V
+15	a	a	det:>17	@DN> DET
+16	new	new	attr:>17	@A> A
+17	century	century	obj:>14	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>12	@CS CS
+2	the	the	det:>5	@DN> DET
+3	first	first	attr:>4	@A> NUM
+4	two	two	qn:>5	@QN> NUM
+5	numbers	number	subj:>10	@SUBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	the	the	det:>9	@DN> DET
+8	century	century	attr:>9	@A> N
+9	year	year	pcomp:>6	@<P N
+10	can	can	v-ch:>11	@+FAUXV V
+11	be	be	v-ch:>12	@-FAUXV V
+12	divided	divide	cnd:>18	@-FMAINV EN
+13	by	by	agt:>12	@ADVL PREP
+14	four	four	pcomp:>13	@<P NUM
+	$,	
+16	then	then	tmp:>18	@ADVL ADV
+17	it	it	subj:>18	@F-SUBJ PRON
+18	is	be	main:>0	@+FMAINV V
+19	a	a		@DN> DET
+	$<p>	
+
+0		
+1	leap	leap	main:>0	@+FMAINV V
+2	year	year		@OBJ N	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	years	year		@NH N	@SUBJ N	@PCOMPL-S N
+3	1700	1700	mod:>2	@<NOM NUM
+4	and	and		@CC CC
+5	1800	1800	subj:>6	@SUBJ NUM
+6	were	be		@+FMAINV V
+7	not	not	neg:>6	@ADVL NEG-PART
+8	leap	leap	attr:>9	@A> N
+9	years	year	comp:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	20	20		@NH NUM	@SUBJ NUM	@PCOMPL-S NUM	@ADVL NUM
+3	in	in		@<NOM PREP	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	year	year	pcomp:>3	@<P N
+6	2000	2000	mod:>5	@<NOM NUM
+7	can	can	v-ch:>8	@+FAUXV V
+8	be	be	v-ch:>9	@-FAUXV V
+9	divided	divide	main:>0	@-FMAINV EN
+10	by	by	agt:>9	@ADVL PREP
+11	four	four	pcomp:>10	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	a	a	det:>6	@DN> DET
+5	leap	leap	attr:>6	@A> N
+6	year	year	comp:>3	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	funny	funny	attr:>3	@A> A
+3	thing	thing	subj:>4	@SUBJ N
+4	happened	happen	main:>0	@+FMAINV V
+5	in	in	tmp:>4	@ADVL PREP
+6	1582	1582	pcomp:>5	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	Over	over	cla:>11	@ADVL PREP
+2	a	a	det:>3	@DN> DET
+3	period	period	pcomp:>1	@<P N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	1,500	1,500	qn:>6	@QN> NUM
+6	years	year	pcomp:>4	@<P N
+	$,	
+8	the	the	det:>9	@DN> DET
+9	calendar	calendar	subj:>10	@SUBJ N
+10	had	have	v-ch:>11	@+FAUXV V
+11	fallen	fall	main:>0	@-FMAINV EN
+12	10	10	qn:>13	@QN> NUM
+13	days	day	obj:>11	@OBJ N
+14	behind	behind	tmp:>11	@ADVL PREP
+15	sun	sun	attr:>16	@A> N
+16	time	time	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	To	to	pm:>2	@INFMARK> INFMARK>
+2	catch	catch	cnt:>8	@-FMAINV V
+3	up	up	ha:>2	@ADVL ADV
+	$,	
+5	these	this	det:>7	@DN> DET
+6	10	10	qn:>7	@QN> NUM
+7	days	day	subj:>8	@SUBJ N
+8	had	have	main:>0	@+FMAINV V
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	be	be	v-ch:>11	@-FAUXV V
+11	added	add	obj:>8	@-FMAINV EN
+12	to	to	ha:>11	@ADVL PREP
+13	the	the	det:>14	@DN> DET
+14	calendar	calendar	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	best	good	attr:>3	@A> A
+3	time	time	subj:>7	@SUBJ N
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	do	do	mod:>3	@-FMAINV V
+6	this	this	obj:>5	@OBJ PRON
+7	was	be	main:>0	@+FMAINV V
+8	while	while	tmp:>10	@ADVL ADV
+9	people	people	subj:>10	@SUBJ N
+10	slept	sleep	tmp:>7	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	So	so		@ADVL ADV
+	$,	
+3	on	on	tmp:>10	@ADVL PREP
+4	October	October	pcomp:>3	@<P N
+5	5	5	mod:>4	@<NOM NUM
+	$,	
+7	1582	1582	mod:>5	@ADVL NUM
+	$,	
+9	everyone	everyone	subj:>10	@SUBJ PRON
+10	went	go		@+FMAINV V
+11	to	to	goa:>10	@ADVL PREP
+12	bed	bed	pcomp:>11	@<P N
+13	$-		
+14	and	and	cc:>10	@CC CC
+15	woke	wake	cc:>10	@+FMAINV V
+16	up	up	phr:>15	@ADVL ADV
+17	the	the	det:>18	@DN> DET
+18	next	next	attr:>19	@DN> DET
+19	day	day	tmp:>15	@ADVL N
+20	on	on	tmp:>19	@ADVL PREP
+21	October	October	pcomp:>20	@<P N
+22	15	15	mod:>21	@<NOM NUM
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	went	go	main:>0	@+FMAINV V
+3	to	to	goa:>2	@ADVL PREP
+4	bed	bed	pcomp:>3	@<P N
+5	on	on	tmp:>2	@ADVL PREP
+6	October	October	pcomp:>5	@<P N
+7	5	5	mod:>6	@<NOM NUM
+	$,	
+9	1582	1582	mod:>7	@ADVL NUM
+	$,	
+11	and	and	cc:>2	@CC CC
+12	woke	wake	cc:>2	@+FMAINV V
+13	up	up	phr:>12	@ADVL ADV
+14	on	on	tmp:>12	@ADVL PREP
+15	October	October	pcomp:>14	@<P N
+16	15	15	mod:>15	@<NOM NUM
+	$,	
+18	1582	1582	mod:>16	@ADVL NUM
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	leap	leap	attr:>5	@A> N
+5	year	year	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	this	this	subj:>2	@SUBJ PRON
+4	happen	happen	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>2	@ADVL ADV
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	leap	leap	attr:>6	@A> N
+6	year	year	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	10	10	qn:>4	@QN> NUM
+4	days	day	subj:>2	@SUBJ N
+5	have	have	main:>0	@-FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	be	be	v-ch:>8	@-FAUXV V
+8	added	add	obj:>5	@-FMAINV EN
+9	to	to	ha:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	calendar	calendar	pcomp:>9	@<P N
+	$?	
+	$<p>	
+

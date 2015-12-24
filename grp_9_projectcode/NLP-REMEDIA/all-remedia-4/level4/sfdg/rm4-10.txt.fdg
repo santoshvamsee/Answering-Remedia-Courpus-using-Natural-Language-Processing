@@ -1,0 +1,345 @@
+0		
+	$<p>	
+
+0		
+1	Football	football	attr:>2	@A> N
+2	Catches	catch	main:>0	@NH N
+3	On	on	mod:>2	@<NOM PREP
+4	Fast	fast	pcomp:>3	@<P N
+	$<p>	
+
+0		
+	$(	
+2	LATROBE	Latrobe	attr:>6	@A> N
+	$,	
+4	PA.	Pa.	mod:>2	@<NOM ABBR
+	$,	
+6	September	September		@NH N
+7	4	4	mod:>6	@<NOM NUM
+	$,	
+9	1895	1895	mod:>7	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	new	new	attr:>3	@A> A
+3	game	game	subj:>6	@SUBJ N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	football	football	pcomp:>4	@<P N
+6	is	be	v-ch:>7	@+FAUXV V
+7	catching	catch	main:>0	@-FMAINV ING
+8	on	on	loc:>7	@ADVL PREP
+9	fast	fast	pcomp:>8	@<P A
+	$,	
+11	and	and	cc:>7	@CC CC
+12	each	each	det:>15	@DN> DET
+13	month	month	attr:>14	@A> N
+14	new	new	attr:>15	@A> A
+15	teams	team	subj:>16	@SUBJ N
+16	are	be	v-ch:>17	@+FAUXV V
+17	being	be	v-ch:>18	@-FAUXV ING
+18	formed	form	cc:>7	@-FMAINV EN
+	$.	
+	$<p>	
+
+0		
+1	Last	last	det:>2	@DN> DET
+2	night	night	subj:>3	@SUBJ N
+3	was	be	main:>0	@+FMAINV V
+4	the	the	det:>6	@DN> DET
+5	first	first	attr:>6	@A> NUM
+6	time	time		@O-ADVL N
+7	that	that	pm:>11	@CS CS
+8	a	a	det:>10	@DN> DET
+9	football	football	attr:>10	@A> N
+10	player	player	subj:>11	@SUBJ N
+11	was	be	comp:>3	@+FMAINV V
+12	paid	pay	comp:>11	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	man's	man	attr:>3	@A> N
+3	name	name	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	John	John	attr:>6	@A> N
+6	Brallier	brallier	comp:>4	@PCOMPL-S N
+	$,	
+8	and	and	cc:>4	@CC CC
+9	he	he	subj:>10	@SUBJ PRON
+10	was	be	cc:>4	@+FMAINV V
+11	paid	pay	attr:>12	@A> A
+12	$10	$10	qua:>10	@ADVL NUM
+13	to	to	pm:>14	@INFMARK> INFMARK>
+14	take	take	comp:>10	@-FMAINV V
+15	the	the	det:>16	@DN> DET
+16	place	place	obj:>14	@OBJ N
+17	of	of	mod:>16	@<NOM-OF PREP
+18	someone	someone	pcomp:>17	@<P PRON
+19	who	who	subj:>20	@SUBJ PRON
+20	was	be	v-ch:>21	@+FAUXV V
+21	hurt	hurt	mod:>18	@-FMAINV EN
+	$.	
+	$<p>	
+
+0		
+1	John's	John	attr:>2	@A> N
+2	team	team	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	called	call	main:>0	@-FMAINV EN
+5	the	the	det:>8	@DN> DET
+6	Jeannette	Jeannette	attr:>7	@A> N
+7	Sports	sports	attr:>8	@A> N
+8	Club	club	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	quarterback	quarterback	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	other	other	attr:>3	@DN> DET
+3	team	team	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	the	the	det:>6	@DN> DET
+6	Latrobe	Latrobe	comp:>4	@PCOMPL-S N
+7	YMCA	YMCA		@SUBJ ABBR	@PCOMPL-S ABBR
+	$.	
+	$<s>	
+
+0		
+1	Even	even	meta:>2	@ADVL ADV
+2	with	with		@ADVL PREP
+3	John's	John	attr:>4	@A> N
+4	paid	pay	attr:>5	@A> A
+5	help	help	pcomp:>2	@<P N
+	$,	
+7	his	he	attr:>8	@A> PRON
+8	team	team	subj:>9	@SUBJ N
+9	lost	lose	main:>0	@+FMAINV V
+10	12-0	12-0	obj:>9	@OBJ NUM
+	$.	
+	$<p>	
+
+0		
+1	More_and_more	more_and_more	attr:>2	@A> A
+2	colleges	college	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	starting	start	main:>0	@-FMAINV ING
+5	football	football	attr:>6	@A> N
+6	teams	team	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	travel	travel	main:>0	@+FMAINV V
+3	many	many	det:>4	@DN> DET
+4	miles	mile	qua:>2	@ADVL N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	play	play	cnt:>2	@-FMAINV V
+7	other	other	det:>9	@DN> DET
+8	good	good	attr:>9	@A> A
+9	teams	team	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	On	on	loc:>12	@ADVL PREP
+2	Christmas	Christmas	attr:>3	@A> N
+3	Day	day	pcomp:>1	@<P N
+	$,	
+5	1894	1894		@ADVL NUM
+	$,	
+7	a	a	det:>9	@DN> DET
+8	college	college	attr:>9	@A> N
+9	team	team	subj:>12	@SUBJ N
+10	from	from	mod:>9	@<NOM PREP
+11	Chicago	Chicago	pcomp:>10	@<P N
+12	went	go	main:>0	@+FMAINV V
+13	to	to	goa:>12	@ADVL PREP
+14	San	San	attr:>15	@A> N
+15	Francisco	Francisco	pcomp:>13	@<P N
+16	to	to	pm:>17	@INFMARK> INFMARK>
+17	play	play	cnt:>12	@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>4	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	football	football	attr:>4	@A> N
+4	game	game	subj:>8	@SUBJ N
+5	between	between	mod:>4	@<NOM PREP
+6	two	two	qn:>7	@QN> NUM
+7	schools	school	pcomp:>5	@<P N
+8	took	take	main:>0	@+FMAINV V
+9	place	place	obj:>8	@OBJ N
+10	in	in	tmp:>8	@ADVL PREP
+11	1869	1869	pcomp:>10	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>7	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	manner	manner	subj:>7	@SUBJ N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	keeping	keep	pcomp:>4	@<P-FMAINV ING
+6	score	score	obj:>5	@OBJ N
+7	was	be	main:>0	@+FMAINV V
+8	different	different	comp:>7	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	time	time		@NH N	@SUBJ N	@OBJ N	@PCOMPL-S N	@ADVL N
+3	a	a	det:>4	@DN> DET
+4	touchdown	touchdown		@SUBJ N	@OBJ N	@PCOMPL-S N
+5	was	be	v-ch:>6	@+FAUXV V
+6	made	make		@-FMAINV EN
+	$,	
+8	the	the	det:>9	@DN> DET
+9	team	team	subj:>10	@SUBJ N
+10	would	would	v-ch:>11	@+FAUXV V
+11	score	score		@-FMAINV V
+12	one	one	qn:>13	@QN> NUM
+13	point	point	obj:>11	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	team	team		@NH N	@SUBJ N
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	reach	reach		@-FMAINV V
+6	six	six	qn:>7	@QN> NUM
+7	points	point		@SUBJ N	@OBJ N
+8	would	would	v-ch:>9	@+FAUXV V
+9	win	win		@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	game	game	subj:>3	@SUBJ N
+3	lasted	last	main:>0	@+FMAINV V
+4	about	about	ad:>5	@AD-A> ADV
+5	one	one	qn:>6	@QN> NUM
+6	hour	hour	dur:>3	@O-ADVL N
+	$.	
+	$<p>	
+
+0		
+1	Now	now	meta:>5	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	rules	rule	subj:>4	@SUBJ N
+4	have	have	v-ch:>5	@+FAUXV V
+5	changed	change	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	touchdown	touchdown	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	worth	worth	ha:>3	@ADVL PREP
+5	six	six	qn:>6	@QN> NUM
+6	points	point	pcomp:>4	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	football	football	attr:>6	@A> N
+6	player	player	comp:>2	@PCOMPL-S N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	be	be	v-ch:>9	@-FAUXV V
+9	paid	pay	mod:>6	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	this	this	det:>8	@DN> DET
+7	player's	player	attr:>8	@A> N
+8	team	team	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>2	@ADVL ADV
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	football	football	attr:>6	@A> N
+6	game	game	subj:>2	@SUBJ N
+7	between	between	ha:>2	@ADVL PREP
+8	two	two	qn:>9	@QN> NUM
+9	schools	school	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	story	story	subj:>2	@SUBJ N
+5	take	take	main:>0	@-FMAINV V
+6	place	place	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	was	be	main:>0	@+FMAINV V
+3	John	John	attr:>4	@A> N
+4	Brallier	brallier	subj:>2	@SUBJ N
+5	paid	pay	comp:>2	@PCOMPL-S A
+6	$10	$10		@OBJ NUM
+	$?	
+	$<p>	
+

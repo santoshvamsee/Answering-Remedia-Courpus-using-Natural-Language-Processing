@@ -1,0 +1,342 @@
+0		
+	$<p>	
+
+0		
+1	Outer	outer	attr:>2	@A> A
+2	Space	space	attr:>3	@A> N
+3	Active	active	main:>0	@NH N
+4	This	this	det:>5	@DN> DET
+5	Summer	summer		@NH N
+	$<p>	
+
+0		
+	$(	
+2	Outer	outer	attr:>3	@A> A
+3	Space	space		@APP N
+	$,	
+5	Summer	summer	main:>1	@NH N	@APP N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	1989	1989		@<P NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	ca_	can	v-ch:>4	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	see	see	main:>0	@-FMAINV V
+5	it	it	subj:>6	@OBJ PRON
+6	happening	happen	obj:>4	@-FMAINV ING
+	$,	
+8	but	but	cc:>4	@CC CC
+9	some	some	det:>11	@DN> DET
+10	big	big	attr:>11	@A> A
+11	events	event	subj:>12	@SUBJ N
+12	are	be	v-ch:>13	@+FAUXV V
+13	going	go	cc:>4	@-FMAINV ING
+14	on	on	phr:>13	@ADVL ADV
+15	in	in	loc:>13	@ADVL PREP
+16	the	the	det:>18	@DN> DET
+17	summer	summer	attr:>18	@A> N
+18	skies	sky	pcomp:>15	@<P N
+	$.	
+	$<p>	
+
+0		
+1	In	in	tmp:>6	@ADVL PREP
+2	August	August	pcomp:>1	@<P N
+	$,	
+4	we	we	subj:>5	@SUBJ PRON
+5	will	will	v-ch:>6	@+FAUXV V
+6	see	see	main:>0	@-FMAINV V
+7	close-up	close-up	attr:>8	@A> N
+8	pictures	picture	obj:>6	@OBJ N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>12	@DN> DET
+11	planet	planet	attr:>12	@A> N
+12	Neptune	Neptune	pcomp:>9	@<P N
+13	for	for	dur:>6	@ADVL PREP
+14	the	the	det:>16	@DN> DET
+15	first	first	attr:>16	@A> NUM
+16	time	time	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	pictures	picture	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	come	come	main:>0	@-FMAINV V
+5	from	from	sou:>4	@ADVL PREP
+6	Voyager2	voyager2	pcomp:>5	@<P NUM
+	$,	
+8	a	a	det:>9	@DN> DET
+9	satellite	satellite		@SUBJ N	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	pass	pass	main:>0	@-FMAINV V
+4	within	within	ha:>3	@ADVL PREP
+5	3,000	3,000	qn:>6	@QN> NUM
+6	miles	mile	pcomp:>4	@<P N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	Neptune	Neptune	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Voyager	voyager	subj:>3	@SUBJ N
+2	2	2	mod:>1	@<NOM NUM
+3	left	leave	main:>0	@+FMAINV V
+4	Earth	earth	obj:>3	@OBJ N
+5	in	in	tmp:>3	@ADVL PREP
+6	1977	1977	pcomp:>5	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	given	give	main:>0	@-FMAINV EN
+4	us	we	dat:>3	@I-OBJ PRON	@I-OBJ PRON
+5	exciting	excite	obj:>3	@-FMAINV ING
+6	pictures	picture	obj:>5	@OBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	many	many	det:>9	@DN> DET
+9	planets	planet	pcomp:>7	@<P N
+10	since_then	since_then		@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	found	find	main:>0	@+FMAINV V
+3	new	new	attr:>4	@A> A
+4	moons	moon	obj:>2	@OBJ N
+5	near	near	ha:>2	@ADVL PREP
+6	Jupiter	Jupiter	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Neptune	Neptune	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be		@-FAUXV V	@-FMAINV V
+4	its	it		@PCOMPL-S PRON
+5	last	last	det:>6	@DN> DET
+6	stop	stop		@SUBJ N	@PCOMPL-S N
+7	before	before	pm:>9	@CS CS
+8	it	it	subj:>9	@SUBJ PRON
+9	leaves	leave		@+FMAINV V
+10	our	we	attr:>11	@A> PRON
+11	solar	solar	attr:>12	@A> A
+12	system	system	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Voyager	voyager	subj:>2	@SUBJ N
+2	will	will	v-ch:>4	@+FAUXV V
+3	never	never	frq:>4	@ADVL ADV
+4	return	return	main:>0	@-FMAINV V
+5	to	to	goa:>4	@ADVL PREP
+6	Earth	earth	pcomp:>5	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Last	last	det:>2	@DN> DET
+2	spring	spring	tmp:>7	@ADVL N
+	$,	
+4	the	the	det:>6	@DN> DET
+5	space	space	attr:>6	@A> N
+6	shuttle	shuttle	subj:>7	@SUBJ N
+7	launched	launch	main:>0	@+FMAINV V
+8	a	a	det:>10	@DN> DET
+9	new	new	attr:>10	@A> A
+10	spacecraft	spacecraft	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>5	@ADVL ADV
+2	that	that	det:>3	@DN> DET
+3	craft	craft	subj:>4	@SUBJ N
+4	is	be	v-ch:>5	@+FAUXV V
+5	circling	circle	main:>0	@-FMAINV ING
+6	the	the	det:>7	@DN> DET
+7	sun	sun	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Soon	soon	tmp:>4	@ADVL ADV
+2	it	it	subj:>3	@SUBJ PRON
+3	will	will	v-ch:>4	@+FAUXV V
+4	move	move	main:>0	@-FMAINV V
+5	toward	toward	goa:>4	@ADVL PREP
+6	Venus	Venus	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	it	it	subj:>3	@SUBJ PRON
+3	arrives	arrive	tmp:>10	@+FMAINV V
+4	in	in	ha:>3	@ADVL PREP
+5	late	late	attr:>6	@A> A
+6	1990	1990	pcomp:>4	@<P NUM
+	$,	
+8	it	it	subj:>9	@SUBJ PRON
+9	should	should	v-ch:>10	@+FAUXV V
+10	send	send	main:>0	@-FMAINV V
+11	back	back	ha:>10	@ADVL ADV
+12	great	great	attr:>13	@A> A
+13	photos	photo	obj:>10	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	spacecraft	spacecraft	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	named	name	main:>0	@-FMAINV EN
+5	for	for	ha:>4	@ADVL PREP
+6	an	an	det:>7	@DN> DET
+7	explorer	explorer	pcomp:>5	@<P N
+8	from	from	sou:>4	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	past	past	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	Magellan	Magellan	comp:>3	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	Sometime	sometime		@ADVL ADV	@AD-A> ADV
+2	in	in	tmp:>10	@ADVL PREP
+3	1990	1990	pcomp:>2	@<P NUM
+	$,	
+5	a	a	det:>7	@DN> DET
+6	huge	huge	attr:>7	@A> A
+7	telescope	telescope	subj:>8	@SUBJ N
+8	will	will	v-ch:>9	@+FAUXV V
+9	be	be	v-ch:>10	@-FAUXV V
+10	sent	send	main:>0	@-FMAINV EN
+11	into	into	goa:>10	@ADVL PREP
+12	outer	outer	attr:>13	@A> A
+13	space	space	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	may	may	v-ch:>3	@+FAUXV V
+3	see	see	main:>0	@-FMAINV V
+4	all	all	det:>5	@DN> DET
+5	the	the	det:>6	@DN> DET
+6	way	way	obj:>3	@OBJ N
+7	to	to	goa:>3	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	edge	edge	pcomp:>7	@<P N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	the	the	det:>12	@DN> DET
+12	universe	universe	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	has	have	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	spacecraft	spacecraft	obj:>2	@OBJ N
+5	named	name	mod:>4	@-FMAINV EN
+6	for	for	ha:>5	@ADVL PREP
+7	him	he	pcomp:>6	@<P PRON
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	planet	planet	subj:>3	@SUBJ N
+3	will	will	v-ch:>6	@+FAUXV V
+4	Voyager	voyager		@SUBJ N
+5	2	2	mod:>4	@<NOM NUM
+6	pass	pass	main:>0	@-FMAINV V
+7	this	this	det:>8	@DN> DET
+8	year	year	obj:>6	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>7	@ADVL ADV
+2	will	will	v-ch:>6	@+FAUXV V
+3	a	a	det:>5	@DN> DET
+4	huge	huge	attr:>5	@A> A
+5	telescope	telescope	subj:>2	@SUBJ N
+6	be	be	v-ch:>7	@-FAUXV V
+7	sent	send	main:>0	@-FMAINV EN
+8	into	into	goa:>7	@ADVL PREP
+9	outer	outer	attr:>10	@A> A
+10	space	space	pcomp:>8	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	Voyager	voyager	subj:>2	@SUBJ N
+4	2	2	mod:>3	@<NOM NUM
+5	go	go	main:>0	@-FMAINV V
+6	after	after	ha:>5	@ADVL PREP
+7	Neptune	Neptune	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	will	will	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	huge	huge	attr:>5	@A> A
+5	telescope	telescope	subj:>2	@SUBJ N
+6	take	take	main:>0	@-FMAINV V
+7	great	great	attr:>8	@A> A
+8	photos	photo	obj:>6	@OBJ N
+	$?	
+	$<p>	
+

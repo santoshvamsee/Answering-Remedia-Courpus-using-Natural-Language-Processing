@@ -1,0 +1,351 @@
+0		
+1	World's	world	attr:>2	@A> N
+2	Highest	high	attr:>3	@A> A
+3	Bridge	bridge	main:>0	@NH N
+4	Being	be	v-ch:>5	@-FAUXV ING
+5	Built	build	mod:>3	@-FMAINV EN
+	$<p>	
+
+0		
+	$(	
+2	SAN	San	attr:>3	@A> N
+3	FRANCISCO	Francisco		@APP N
+	$,	
+5	March	march	main:>1	@NH N
+6	19	19	mod:>5	@<NOM NUM
+	$,	
+8	1936	1936		@NH NUM	@PCOMPL-S NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+10	$-		
+11	The	the	det:>14	@DN> DET
+12	world's	world	attr:>13	@A> N
+13	highest	high	attr:>14	@A> A
+14	bridge	bridge	subj:>15	@SUBJ N
+15	will	will	v-ch:>17	@+FAUXV V
+16	soon	soon	tmp:>18	@ADVL ADV
+17	be	be	v-ch:>18	@-FAUXV V
+18	built	build		@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	so	so	ad:>5	@AD-A> ADV
+5	tall	tall	comp:>3	@PCOMPL-S A
+6	that	that	pm:>11	@CS CS
+7	any	any	det:>9	@DN> DET
+8	size	size	attr:>9	@A> N
+9	ship	ship	subj:>10	@SUBJ N
+10	can	can	v-ch:>11	@+FAUXV V
+11	pass	pass	mod:>4	@-FMAINV V
+12	under	under	loc:>11	@ADVL PREP
+13	it	it	pcomp:>12	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	v-ch:>4	@-FAUXV V
+4	called	call	main:>0	@-FMAINV EN
+5	the	the	det:>8	@DN> DET
+6	Golden	golden	attr:>7	@A> A
+7	Gate	gate	attr:>8	@A> N
+8	Bridge	bridge	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	For	for		@ADVL PREP
+2	years	year	pcomp:>1	@<P N
+	$,	
+4	no	no	det:>6	@DN> DET
+5	one	one	qn:>6	@QN> NUM
+6	thought	thought		@NH N	@SUBJ N	@OBJ N	@<P N
+7	such	such	det:>8	@DN> DET
+8	a	a	det:>9	@DN> DET
+9	bridge	bridge		@SUBJ N	@OBJ N	@APP N
+10	could	could	v-ch:>11	@+FAUXV V
+11	be	be	v-ch:>12	@-FAUXV V
+12	built	build	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Most	many	det:>2	@DN> DET
+2	bridges	bridge	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	held	hold	main:>0	@-FMAINV EN
+5	up	up	phr:>4	@ADVL ADV
+6	by	by	>5	@ADVL PREP
+7	pillars	pillar	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	pillars	pillar	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	placed	place	main:>0	@-FMAINV EN
+5	in	in	loc:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	water	water	pcomp:>5	@<P N
+8	below	below	ad:>7	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	the	the	det:>3	@DN> DET
+3	water	water	subj:>9	@SUBJ N
+4	under	under	mod:>3	@<NOM PREP
+5	the	the	det:>8	@DN> DET
+6	Golden	golden	attr:>7	@A> A
+7	Gate	gate	attr:>8	@A> N
+8	Bridge	bridge	pcomp:>4	@<P N
+9	is	be	main:>0	@+FMAINV V
+10	too	too	ad:>11	@AD-A> ADV
+11	deep	deep	comp:>9	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Pillars	pillar	subj:>2	@SUBJ N
+2	can_	can	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	be	be	v-ch:>5	@-FAUXV V
+5	used	use	main:>0	@-FMAINV EN
+6	in	in	loc:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	middle	middle	pcomp:>6	@<P N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>11	@DN> DET
+11	bridge	bridge	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	means	mean	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	bridge	bridge	subj:>5	@SUBJ N
+5	has	have	obj:>2	@+FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	be	be	v-ch:>8	@-FAUXV V
+8	held	hold	obj:>5	@-FMAINV EN
+9	in	in	loc:>8	@ADVL PREP
+10	place	place	pcomp:>9	@<P N
+11	at	at		@<NOM PREP	@ADVL PREP
+12	just	just	ad:>13	@AD-A> ADV
+13	two	two	qn:>14	@QN> NUM
+14	points	point	pcomp:>11	@<P N
+15	on	on	mod:>14	@<NOM PREP
+16	land	land	pcomp:>15	@<P N
+	$.	
+	$<s>	
+
+0		
+1	There	there	subj:>2	@F-SUBJ ADV
+2	is	be	main:>0	@+FMAINV V
+3	another	another	det:>4	@DN> DET
+4	problem	problem	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	bridge	bridge	subj:>3	@SUBJ N
+3	must	must	v-ch:>4	@+FAUXV V
+4	be	be	main:>0	@-FMAINV V
+5	two	two	qn:>6	@QN> NUM
+6	miles	mile	comp:>4	@PCOMPL-S N
+7	long	long	copred:>4	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	have	have	v-ch:>4	@+FAUXV V
+4	said	say	main:>0	@-FMAINV EN
+5	this	this	subj:>6	@SUBJ PRON
+6	is	be	obj:>4	@+FMAINV V
+7	too	too	ad:>8	@AD-A> ADV
+8	long	long	comp:>6	@PCOMPL-S A
+9	for	for	mod:>8	@ADVL PREP
+10	a	a	det:>11	@DN> DET
+11	bridge	bridge	pcomp:>9	@<P N
+12	with	with		@<NOM PREP	@ADVL PREP
+13	no	no	det:>14	@DN> DET
+14	pillars	pillar	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	some	some	det:>4	@DN> DET
+3	bridge	bridge	attr:>4	@A> N
+4	builders	builder	subj:>5	@SUBJ N
+5	studied	study	main:>0	@+FMAINV V
+6	the	the	det:>7	@DN> DET
+7	problems	problem	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	came	come	main:>0	@+FMAINV V
+3	up	up	phr:>2	@ADVL ADV
+4	with	with	ha:>2	@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	plan	plan	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	work	work	subj:>3	@SUBJ N
+3	began	begin	main:>0	@+FMAINV V
+4	in	in	tmp:>3	@ADVL PREP
+5	1933	1933	pcomp:>4	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>3	@ADVL ADV
+2	it	it	subj:>3	@SUBJ PRON
+3	looks	look	main:>0	@+FMAINV V
+4	like	like	man:>3	@ADVL PREP
+5	their	they	attr:>6	@A> PRON
+6	plan	plan	subj:>7	@SUBJ N
+7	will	will	v-ch:>8	@+FAUXV V
+8	work	work		@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	bridge	bridge	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	use	use	main:>0	@-FMAINV V
+5	many	many	det:>6	@DN> DET
+6	wires	wire	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	In	in	loc:>5	@ADVL PREP
+2	fact	fact	pcomp:>1	@<P N
+	$,	
+4	there	there	subj:>5	@F-SUBJ ADV
+5	is	be	main:>0	@+FMAINV V
+6	enough	enough	det:>7	@DN> DET
+7	wire	wire	comp:>5	@PCOMPL-S N
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	circle	circle	mod:>7	@-FMAINV V
+10	the	the	det:>11	@DN> DET
+11	earth	earth	obj:>9	@OBJ N
+12	three	three	qn:>13	@QN> NUM
+13	times	time	frq:>9	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	All	all	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	it	it	pcomp:>2	@<P PRON
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	v-ch:>6	@-FAUXV V
+6	used	use	main:>0	@-FMAINV EN
+7	in	in	loc:>6	@ADVL PREP
+8	this	this	det:>10	@DN> DET
+9	wonderful	wonderful	attr:>10	@A> A
+10	bridge	bridge	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	came	come	main:>0	@+FMAINV V
+3	up	up	phr:>2	@ADVL ADV
+4	with	with	ha:>2	@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	plan	plan	pcomp:>4	@<P N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	build	build	mod:>6	@-FMAINV V
+9	this	this	det:>10	@DN> DET
+10	bridge	bridge	obj:>8	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	bridge	bridge	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	work	work	subj:>2	@SUBJ N
+5	begin	begin	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>6	@ADVL ADV
+2	is	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	bridge	bridge	subj:>2	@SUBJ N
+5	being	be	v-ch:>6	@-FAUXV ING
+6	built	build	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	were	be	main:>0	@+FMAINV V
+3	they	they	subj:>2	@SUBJ PRON
+4	unable	unable	comp:>2	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	use	use	mod:>4	@-FMAINV V
+7	pillars	pillar	obj:>6	@OBJ N
+8	on	on	loc:>6	@ADVL PREP
+9	this	this	det:>10	@DN> DET
+10	bridge	bridge	pcomp:>8	@<P N
+	$?	
+	$<p>	
+

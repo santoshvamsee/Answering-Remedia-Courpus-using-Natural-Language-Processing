@@ -1,0 +1,377 @@
+0		
+1	Volcano	volcano	subj:>2	@SUBJ N
+2	Wipes	wipe	main:>0	@+FMAINV V
+3	Out	out	attr:>4	@A> N
+4	Town	town	obj:>2	@OBJ N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	ITALY	Italy		@NH N	@APP N
+	$,	
+4	August	August		@NH N	@ADVL N
+5	30	30	mod:>4	@<NOM NUM
+	$,	
+7	A	a		@APP ABBR	@NH ABBR	@<NOM ABBR
+	$.	
+	$<s>	
+
+0		
+1	D.	d.		@A> ABBR
+2	79	79		@NH NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	large	large	attr:>3	@A> A
+3	volcano	volcano	subj:>4	@SUBJ N
+4	exploded	explode	main:>0	@+FMAINV V
+5	last	last	det:>6	@DN> DET
+6	week	week	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Most	many	subj:>11	@SUBJ PRON	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>4	@DN> DET
+4	people	people	pcomp:>2	@<P N
+5	who	who	subj:>6	@SUBJ PRON
+6	lived	live	mod:>4	@+FMAINV V
+7	in	in	loc:>6	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	nearby	nearby	attr:>10	@A> A
+10	town	town	pcomp:>7	@<P N
+11	have	have	v-ch:>12	@+FAUXV V
+12	died	die	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	teenage	teenage	attr:>3	@A> A
+3	boy	boy	subj:>6	@SUBJ N
+4	named	name	mod:>3	@-FMAINV EN
+5	Pliny	Pliny	obj:>4	@OBJ N
+6	escaped	escape	main:>0	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	has	have	main:>0	@+FMAINV V
+3	many	many	det:>4	@DN> DET
+4	stories	story	obj:>2	@OBJ N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	tell	tell	mod:>4	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Pliny	Pliny	subj:>2	@SUBJ N
+2	was	be	v-ch:>3	@+FAUXV V
+3	visiting	visit	main:>0	@-FMAINV ING
+4	his	he	attr:>5	@A> PRON
+5	uncle	uncle	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	morning	morning	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	eating	eat	main:>0	@-FMAINV ING
+4	breakfast	breakfast	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	All_at_once	all_at_once		@ADVL ADV
+	$,	
+3	his	he	attr:>4	@A> PRON
+4	plate	plate	subj:>5	@SUBJ N
+5	shook	shake	main:>0	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Pliny	Pliny	subj:>2	@SUBJ N
+2	looked	look	main:>0	@+FMAINV V
+3	out_the_window	out_the_window	ha:>2	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>5	@DN> DET
+2	large	large	cc:>4	@A> A
+	$,	
+4	white	white	attr:>5	@A> A
+5	cloud	cloud	subj:>6	@SUBJ N
+6	was	be	main:>0	@+FMAINV V
+7	in	in	loc:>6	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	sky	sky	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>4	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	cloud	cloud	subj:>4	@SUBJ N
+4	turned	turn	main:>0	@+FMAINV V
+5	black	black	comp:>4	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	whole	whole	attr:>3	@A> A
+3	room	room	subj:>4	@SUBJ N
+4	began	begin	main:>0	@+FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	shake	shake	obj:>4	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+	$"_	
+2	Run	run	main:>0	@+FMAINV V
+3	for	for	ha:>2	@ADVL PREP
+4	your	you	attr:>5	@A> PRON
+5	life	life	pcomp:>3	@<P N
+	$,	
+	$_"	
+8	he	he	subj:>9	@SUBJ PRON
+9	heard	hear		@+FMAINV V
+10	people	people	subj:>11	@OBJ N
+11	yell	yell	obj:>9	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Pliny	Pliny	subj:>2	@SUBJ N
+2	ran	run	main:>0	@+FMAINV V
+3	down	down	phr:>2	@ADVL ADV
+4	to	to	>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	sea	sea	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	jumped	jump	main:>0	@+FMAINV V
+3	on	on	phr:>2	@ADVL PREP
+4	a	a	det:>5	@DN> DET
+5	boat	boat	pcomp:>3	@<P N
+6	as	as	pm:>8	@CS CS
+7	it	it	subj:>8	@SUBJ PRON
+8	pulled	pull	man:>2	@+FMAINV V
+9	away	away	loc:>8	@ADVL ADV
+10	from	from	sou:>8	@ADVL PREP
+11	the	the	det:>12	@DN> DET
+12	shore	shore	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	looked	look	main:>0	@+FMAINV V
+3	back	back	ha:>2	@ADVL ADV
+4	and	and	cc:>2	@CC CC
+5	saw	see	cc:>2	@+FMAINV V
+6	an	an	det:>8	@DN> DET
+7	awful	awful	attr:>8	@A> A
+8	sight	sight	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Hot	hot	attr:>2	@A> A
+2	ashes	ash	subj:>3	@SUBJ N
+3	flew	fly	main:>0	@+FMAINV V
+4	through	through	ha:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	air	air	pcomp:>4	@<P N
+7	and	and	cc:>3	@CC CC
+8	burned	burn	cc:>3	@+FMAINV V
+9	the	the	det:>10	@DN> DET
+10	people	people	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	fell	fall	main:>0	@+FMAINV V
+4	to	to	goa:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	ground	ground	pcomp:>4	@<P N
+7	before	before	pm:>10	@CS CS
+8	they	they	subj:>9	@SUBJ PRON
+9	could	could	v-ch:>10	@+FAUXV V
+10	reach	reach	tmp:>3	@-FMAINV V
+11	the	the	det:>13	@DN> DET
+12	cool	cool	attr:>13	@A> A
+13	water	water	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Pliny's	Pliny	attr:>2	@A> N
+2	boat	boat	subj:>3	@SUBJ N
+3	arrived	arrive	main:>0	@+FMAINV V
+4	safely	safe	man:>3	@ADVL ADV
+5	at	at	loc:>3	@ADVL PREP
+6	a	a	det:>7	@DN> DET
+7	village	village	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Later	late	tmp:>7	@ADVL ADV
+	$,	
+3	a	a	det:>4	@DN> DET
+4	team	team	subj:>7	@SUBJ N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	workers	worker	pcomp:>5	@<P N
+7	went	go	main:>0	@+FMAINV V
+8	back	back	ha:>7	@ADVL ADV
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	offer	offer	comp:>7	@-FMAINV V
+11	help	help	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	say	say	main:>0	@+FMAINV V
+3	that	that	pm:>7	@CS CS
+4	the	the	det:>6	@DN> DET
+5	whole	whole	attr:>6	@A> A
+6	town	town	subj:>7	@SUBJ N
+7	is	be	obj:>2	@+FMAINV V
+8	under	under	ha:>7	@ADVL PREP
+9	20	20	qn:>10	@QN> NUM
+10	feet	foot	pcomp:>8	@<P N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	ashes	ash	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	No	no	det:>2	@DN> DET
+2	one	one	subj:>3	@SUBJ PRON
+3	can	can	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	found	find	main:>0	@-FMAINV EN
+6	alive	alive	obj:>5	@OBJ A
+	$.	
+	$<s>	
+
+0		
+1	Pliny	Pliny	subj:>2	@SUBJ N
+2	is	be	v-ch:>3	@+FAUXV V
+3	writing	write	main:>0	@-FMAINV ING
+4	down	down		@ADVL PREP
+5	what	what	obj:>7	@OBJ PRON
+6	he	he	subj:>7	@SUBJ PRON
+7	saw	see	pcomp:>4	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>5	@SUBJ N
+2	in	in	mod:>1	@<NOM PREP
+3	the	the	det:>4	@DN> DET
+4	future	future	pcomp:>2	@<P N
+5	will	will	v-ch:>6	@+FAUXV V
+6	read	read	main:>0	@-FMAINV V
+7	about	about	ha:>6	@ADVL PREP
+8	this	this	det:>9	@DN> DET
+9	event	event	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	on	on	loc:>2	@ADVL PREP
+4	a	a	det:>5	@DN> DET
+5	visit	visit	pcomp:>3	@<P N
+6	to	to		@<NOM PREP	@ADVL PREP
+7	his	he	attr:>8	@A> PRON
+8	uncle	uncle	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	did	do	v-ch:>4	@+FAUXV V
+3	he	he	subj:>2	@SUBJ PRON
+4	see	see	main:>0	@-FMAINV V
+5	out_the_window	out_the_window	man:>4	@ADVL ADV
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	story	story	subj:>2	@SUBJ N
+5	happen	happen	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	town	town	subj:>2	@SUBJ N
+5	now	now	meta:>2	@ADVL ADV
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	people	people	subj:>2	@SUBJ N
+5	die	die	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+

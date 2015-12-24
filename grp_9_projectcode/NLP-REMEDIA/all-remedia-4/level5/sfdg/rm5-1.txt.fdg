@@ -1,0 +1,359 @@
+0		
+	$<p>	
+
+0		
+1	Quints	Quint*	main:>0	@NH N
+2	Born	bear	mod:>1	@-FMAINV EN
+3	in	in	ha:>2	@ADVL PREP
+4	South	south	attr:>5	@A> N
+5	Dakota	Dakota	pcomp:>3	@<P N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	ABERDEEN	Aberdeen		@NH N	@APP N
+	$,	
+4	S	s	mod:>2	@APP ABBR
+	$.	
+	$<s>	
+
+0		
+1	D.	d.	main:>0	@NH ABBR
+	$,	
+3	September	September		@NH N	@ADVL N
+4	14	14	mod:>3	@<NOM NUM
+	$,	
+6	1963	1963	mod:>4	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Mr.	Mr.	cc:>4	@SUBJ ABBR
+2	and	and	cc:>4	@CC CC
+3	Mrs.	Mrs.	attr:>4	@A> ABBR
+4	Fischer	Fischer	subj:>5	@SUBJ N
+5	became	become	main:>0	@+FMAINV V
+6	parents	parent	attr:>7	@A> N
+7	today	today	comp:>5	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	have	have	main:>0	@+FMAINV V
+3	a	a	det:>8	@DN> DET
+4	healthy	healthy	cc:>6	@A> A
+	$,	
+6	new	new	attr:>7	@A> A
+7	baby	baby	attr:>8	@A> N
+8	boy	boy	obj:>2	@OBJ N
+9	$...		
+10	and	and		@CC CC
+11	a	a	det:>12	@DN> DET
+12	boy	boy		@SUBJ N	@OBJ N	@APP N
+13	$...		
+14	and	and		@CC CC
+15	a	a	det:>16	@DN> DET
+16	boy	boy		@SUBJ N	@OBJ N	@APP N
+17	$...		
+18	and	and		@CC CC
+19	a	a	det:>20	@DN> DET
+20	boy	boy		@SUBJ N	@OBJ N	@APP N
+21	$...		
+22	and	and		@CC CC
+23	a	a	det:>24	@DN> DET
+24	girl	girl		@SUBJ N	@OBJ N	@APP N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	had	have	main:>0	@+FMAINV V
+3	five	five	qn:>4	@QN> NUM
+4	babies	baby	obj:>2	@OBJ N
+	$!	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	babies	baby	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	called	call	main:>0	@-FMAINV EN
+5	quints	quint*	comp:>4	@PCOMPL-S N
+	$,	
+7	which	which	subj:>8	@SUBJ PRON
+8	means	mean	meta:>4	@+FMAINV V
+9	five	five	obj:>8	@OBJ NUM
+	$.	
+	$<p>	
+
+0		
+1	Quints	Quint*	subj:>2	@SUBJ N
+2	are	be	main:>0	@+FMAINV V
+3	quite	quite	ad:>4	@AD-A> ADV
+4	rare	rare	comp:>2	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	happen	happen	main:>0	@+FMAINV V
+3	only	only	meta:>9	@ADVL ADV
+4	once	once	frq:>2	@ADVL ADV
+5	in	in	loc:>2	@ADVL PREP
+6	every	every	det:>9	@DN> DET
+7	85	85	qn:>8	@QN> NUM
+8	million	million	qn:>9	@QN> NUM
+9	births	birth	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	Fischer	Fischer	attr:>3	@A> N
+3	quints	quint*	subj:>4	@SUBJ N
+4	are	be	main:>0	@+FMAINV V
+5	the	the	det:>7	@DN> DET
+6	first	first	attr:>7	@A> NUM
+7	ones	one	comp:>4	@PCOMPL-S PRON
+8	born	bear	mod:>7	@-FMAINV EN
+9	in	in	ha:>8	@ADVL PREP
+10	the	the	det:>12	@DN> DET
+11	United	unite	attr:>12	@A> A
+12	States	state	pcomp:>9	@<P N
+13	that	that	subj:>14	@SUBJ PRON
+14	have	have	v-ch:>15	@+FAUXV V
+15	lived	live	mod:>12	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Those	that	subj:>6	@SUBJ PRON
+2	born	bear	mod:>1	@-FMAINV EN
+3	in	in	ha:>2	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	past	past	pcomp:>3	@<P N
+6	lived	live	main:>0	@+FMAINV V
+7	only	only	>6	@ADVL ADV
+8	hours	hour		@SUBJ N	@OBJ N	@ADVL N
+9	or	or		@CC CC
+10	days	day	tmp:>6	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Most	many	det:>2	@DN> DET	@DN> DET
+2	quints	quint*	subj:>3	@SUBJ N
+3	are	be		@+FMAINV V
+4	so	so	ad:>5	@AD-A> ADV
+5	tiny	tiny	comp:>3	@PCOMPL-S A
+6	that	that	pm:>11	@CS CS
+7	their	they	attr:>8	@A> PRON
+8	hearts	heart	cc:>10	@SUBJ N
+9	and	and	cc:>10	@CC CC
+10	lungs	lung	subj:>11	@SUBJ N
+11	are	be	mod:>4	@+FMAINV V
+12	not	not	neg:>11	@ADVL NEG-PART
+13	big	big	comp:>11	@PCOMPL-S A
+14	enough	enough	ad:>13	@<AD-A ADV
+15	to	to	pm:>16	@INFMARK> INFMARK>
+16	keep	keep	cnt:>11	@-FMAINV V
+17	them	they	obj:>16	@OBJ PRON
+18	alive	alive	oc:>16	@PCOMPL-O A
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	Fischers	Fischer	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	surprised	surprise	comp:>3	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	have	have	mod:>4	@-FMAINV V
+7	so	so	ad:>8	@AD-A> ADV
+8	many	many	det:>9	@DN> DET
+9	babies	baby	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	need	need	main:>0	@+FMAINV V
+3	some	some	det:>4	@DN> DET
+4	time	time	tmp:>2	@ADVL N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	think	think	cnt:>2	@-FMAINV V
+7	about	about	phr:>6	@ADVL PREP
+8	names	name	pcomp:>7	@<P N
+9	for	for	mod:>8	@<NOM PREP
+10	their	they	attr:>11	@A> PRON
+11	children	child	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	sending	send	main:>0	@-FMAINV ING
+5	them	they	dat:>4	@I-OBJ PRON
+6	clothes	clothes	obj:>4	@OBJ N
+7	and	and	cc:>6	@CC CC
+8	toys	toy	cc:>6	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	There	there	subj:>2	@F-SUBJ ADV
+2	is	be	main:>0	@+FMAINV V
+3	another	another	det:>5	@DN> DET
+4	famous	fam	attr:>5	@A> A
+5	set	set	comp:>2	@PCOMPL-S N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	quints	quint*	pcomp:>6	@<P N
+8	in	in	mod:>7	@<NOM PREP
+9	Canada	Canada	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Five	five	qn:>3	@QN> NUM
+2	baby	baby	attr:>3	@A> N
+3	girls	girl	subj:>4	@SUBJ N
+4	were	be	v-ch:>5	@+FAUXV V
+5	born	bear	main:>0	@-FMAINV EN
+6	May	May	tmp:>5	@ADVL N
+7	28	28	mod:>6	@<NOM NUM
+	$,	
+9	1934	1934	mod:>7	@ADVL NUM
+	$,	
+11	to	to	ha:>5	@ADVL PREP
+12	the	the	det:>14	@DN> DET
+13	Dionne	Dionne	attr:>14	@A> N
+14	family	family	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Their	they	attr:>2	@A> PRON
+2	names	name	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	Annette	Annette	comp:>3	@PCOMPL-S N
+	$,	
+6	Cecile	Cecile	cc:>4	@PCOMPL-S N
+	$,	
+8	Emilie	Emilie		@PCOMPL-S N	@APP N
+	$,	
+10	Marie	Marie	cc:>8	@PCOMPL-S N	@APP N
+	$,	
+12	and	and	cc:>10	@CC CC
+13	Yvonne	Yvonne	cc:>10	@PCOMPL-S N	@APP N
+	$.	
+	$<p>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	four	four	qn:>3	@QN> NUM
+3	babies	baby	subj:>4	@SUBJ N
+4	are	be	v-ch:>5	@+FAUXV V
+5	born	bear	tmp:>10	@-FMAINV EN
+6	at_once	at_once	meta:>5	@ADVL ADV
+	$,	
+8	they	they	subj:>9	@SUBJ PRON
+9	are	be	v-ch:>10	@+FAUXV V
+10	called	call	main:>0	@-FMAINV EN
+11	quads	quad	comp:>10	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Three	three	subj:>2	@SUBJ NUM
+2	makes	make	main:>0	@+FMAINV V
+3	triplets	triplet		@OBJ N	@I-OBJ N	@PCOMPL-O N
+	$,	
+5	and	and	cc:>2	@CC CC
+6	two	two	subj:>7	@SUBJ NUM
+7	are	be	cc:>2	@+FMAINV V
+8	twins	twin	comp:>7	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	became	become	main:>0	@+FMAINV V
+3	parents	parent	comp:>2	@PCOMPL-S N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	quints	quint*	pcomp:>4	@<P N
+6	on	on	tmp:>2	@ADVL PREP
+7	September	September	pcomp:>6	@<P N
+8	14	14	mod:>7	@<NOM NUM
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>6	@OBJ PRON
+2	does	do	v-ch:>6	@+FAUXV V
+	$"_	
+4	quint	quint	subj:>2	@SUBJ A
+	$_"	
+6	mean	mean	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	were	be	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	Dionne	Dionne	attr:>5	@A> N
+5	quints	quint*	subj:>2	@SUBJ N
+6	born	bear	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>6	@ADVL ADV
+2	do	do	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	Dionne	Dionne	attr:>5	@A> N
+5	quints	quint*	subj:>2	@SUBJ N
+6	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	do	do	v-ch:>6	@+FAUXV V
+3	so	so	ad:>4	@AD-A> ADV
+4	few	few	det:>5	@DN> DET
+5	quints	quint*	subj:>2	@SUBJ N
+6	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+

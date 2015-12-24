@@ -1,0 +1,344 @@
+0		
+	$<p>	
+
+0		
+1	Free	free	attr:>2	@A> A
+2	Mail	mail	attr:>3	@A> N
+3	Delivery	delivery	main:>0	@NH N
+4	to	to	mod:>3	@<NOM PREP
+5	Start	start	pcomp:>4	@<P N
+6	This	this	det:>7	@DN> DET
+7	Year	year		@NH N	@ADVL N
+	$<p>	
+
+0		
+	$(	
+2	WASHINGTON	Washington		@NH N	@APP N
+	$,	
+4	D	d	mod:>2	@APP ABBR
+	$.	
+	$<s>	
+
+0		
+1	C.	c.		@A> ABBR	@NH ABBR	@<NOM ABBR
+	$,	
+3	1896	1896		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Starting	start	cla:>9	@-FMAINV ING
+2	later	late	ha:>1	@ADVL ADV
+3	this	this	det:>4	@DN> DET
+4	year	year	tmp:>1	@ADVL N
+	$,	
+6	every	every	det:>7	@DN> DET
+7	home	home	subj:>8	@SUBJ N
+8	will	will	v-ch:>9	@+FAUXV V
+9	receive	receive	main:>0	@-FMAINV V
+10	free	free	attr:>11	@A> A
+11	mail	mail	attr:>12	@A> N
+12	delivery	delivery	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	mail	mail	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	delivered	deliver	main:>0	@-FMAINV EN
+6	to	to	dat:>5	@ADVL PREP
+7	a	a	det:>8	@DN> DET
+8	box	box	pcomp:>6	@<P N
+9	placed	place	mod:>8	@-FMAINV EN
+10	in	in	ha:>9	@ADVL PREP
+11	front	front	pcomp:>10	@<P N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	every	every	det:>14	@DN> DET
+14	home	home	pcomp:>12	@<P N
+	$.	
+	$<p>	
+
+0		
+1	For	for	tmp:>9	@ADVL PREP
+2	some	some	det:>3	@DN> DET
+3	time	time	pcomp:>1	@<P N
+	$,	
+5	the	the	det:>7	@DN> DET
+6	post	post	attr:>7	@A> N
+7	office	office	subj:>8	@SUBJ N
+8	has	have	v-ch:>9	@+FAUXV V
+9	delivered	deliver	main:>0	@-FMAINV EN
+10	mail	mail	obj:>9	@OBJ N
+11	to	to	dat:>9	@ADVL PREP
+12	homes	home	pcomp:>11	@<P N
+13	in	in	mod:>12	@<NOM PREP
+14	cities	city	pcomp:>13	@<P N
+15	with	with		@<NOM PREP	@ADVL PREP
+16	more	more	pcomp:>15	@<P PRON
+17	than	than	mod:>16	@<NOM PREP	@ADVL PREP
+18	10,000	10,000	qn:>19	@QN> NUM
+19	people	people	pcomp:>17	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	other	other	det:>3	@DN> DET
+3	people	people	subj:>4	@SUBJ N
+4	had	have	main:>0	@+FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	go	go	obj:>4	@-FMAINV V
+7	to	to	goa:>6	@ADVL PREP
+8	town	town	pcomp:>7	@<P N
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	pick	pick	cnt:>6	@-FMAINV V
+11	up	up	phr:>10	@ADVL ADV
+12	their	they	attr:>13	@A> PRON
+13	mail	mail	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	tmp:>10	@ADVL ADV
+	$,	
+3	people	people	subj:>9	@SUBJ N
+4	who	who	subj:>5	@SUBJ PRON
+5	live	live	mod:>3	@+FMAINV V
+6	in	in	loc:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	country	country	pcomp:>6	@<P N
+9	will	will	v-ch:>10	@+FAUXV V
+10	have	have	main:>0	@-FMAINV V
+11	mail	mail	attr:>12	@A> N
+12	delivery	delivery	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	new	new	attr:>3	@A> A
+3	system	system	subj:>4	@SUBJ N
+4	is	be	v-ch:>5	@+FAUXV V
+5	called	call	main:>0	@-FMAINV EN
+6	rural	rural	attr:>7	@A> A
+7	free	free	attr:>8	@A> A
+8	delivery	delivery	comp:>5	@PCOMPL-S N
+	$,	
+10	or	or		@CC CC
+11	RFD	RFD		@SUBJ ABBR	@OBJ ABBR	@I-OBJ ABBR	@PCOMPL-S ABBR	@PCOMPL-O ABBR	@APP ABBR	@<NOM ABBR
+12	for	for		@ADVL PREP
+13	short	short	pcomp:>12	@<P A
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>2	@SUBJ N
+2	called	call	main:>0	@+FMAINV V
+3	postal	postal	attr:>4	@A> A
+4	workers	worker		@SUBJ N	@OBJ N	@PCOMPL-O N
+5	will	will	v-ch:>6	@+FAUXV V
+6	deliver	deliver		@-FMAINV V
+7	the	the	det:>8	@DN> DET
+8	mail	mail	obj:>6	@OBJ N
+9	several	several	det:>10	@DN> DET
+10	days	day	tmp:>6	@ADVL N
+11	a	a	det:>12	@DN> DET
+12	week	week	mod:>10	@ADVL N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	man	man	subj:>9	@SUBJ N
+3	who	who	subj:>4	@SUBJ PRON
+4	arranged	arrange	mod:>2	@+FMAINV V
+5	for	for	ha:>4	@ADVL PREP
+6	free	free	attr:>7	@A> A
+7	mail	mail	attr:>8	@A> N
+8	delivery	delivery	pcomp:>5	@<P N
+9	is	be	v-ch:>10	@+FAUXV V
+10	named	name	main:>0	@-FMAINV EN
+11	John	John	attr:>12	@A> N
+12	Wanamaker	Wanamaker	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	holds	hold	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	top	top	attr:>5	@A> N
+5	job	job	obj:>2	@OBJ N
+6	in	in	loc:>2	@ADVL PREP
+7	the	the	det:>11	@DN> DET
+8	United	unite	attr:>9	@A> A
+9	States	state	attr:>10	@A> N
+10	Post	post	attr:>11	@A> N
+11	Office	office	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	the	the	det:>6	@DN> DET
+5	Postmaster	postmaster	attr:>6	@A> N
+6	General	general	comp:>3	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	Wanamaker	Wanamaker	subj:>2	@SUBJ N
+2	has	have	v-ch:>3	@+FAUXV V
+3	made	make	main:>0	@-FMAINV EN
+4	other	other	det:>5	@DN> DET
+5	changes	change	obj:>3	@OBJ N
+6	in	in	mod:>5	@<NOM PREP
+7	the	the	det:>9	@DN> DET
+8	postal	postal	attr:>9	@A> A
+9	service	service	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Three	three	qn:>2	@QN> NUM
+2	years	year	tmp:>6	@ADVL N
+3	ago	ago	ad:>2	@<AD-A ADV
+	$,	
+5	he	he	subj:>6	@SUBJ PRON
+6	ordered	order	main:>0	@+FMAINV V
+7	the	the	det:>9	@DN> DET
+8	postal	postal	attr:>9	@A> A
+9	service	service	subj:>11	@OBJ N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	make	make	obj:>6	@-FMAINV V
+12	special	special	attr:>13	@A> A
+13	stamps	stamp	obj:>11	@OBJ N
+14	to	to	mod:>13	@<NOM PREP
+15	honor	honor	attr:>16	@A> N
+16	people	people	pcomp:>14	@<P N
+	$,	
+18	places	place		@SUBJ N	@OBJ N	@PCOMPL-O N	@APP N	@<P N
+	$,	
+20	and	and		@CC CC
+21	special	special	attr:>22	@A> A
+22	times	time		@SUBJ N	@OBJ N	@PCOMPL-O N	@APP N	@<P N
+23	of	of	mod:>22	@<NOM-OF PREP
+24	the	the	det:>25	@DN> DET
+25	year	year	pcomp:>23	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	set	set	subj:>4	@SUBJ N
+4	was	be		@+FMAINV V
+5	a	a	det:>6	@DN> DET
+6	series	series	comp:>4	@PCOMPL-S N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	16	16	qn:>10	@QN> NUM
+9	large	large	attr:>10	@A> A
+10	stamps	stamp	pcomp:>7	@<P N
+11	printed	print		@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	honor	honor	cnt:>11	@-FMAINV V
+14	Christopher	Christopher	attr:>15	@A> N
+15	Columbus	Columbus	obj:>13	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	arranged	arrange	main:>0	@+FMAINV V
+3	for	for	ha:>2	@ADVL PREP
+4	free	free	attr:>5	@A> A
+5	mail	mail	attr:>6	@A> N
+6	delivery	delivery	pcomp:>3	@<P N
+7	to	to		@<NOM PREP	@ADVL PREP
+8	all	all	det:>9	@DN> DET
+9	homes	home	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>6	@OBJ PRON
+2	does	do	v-ch:>6	@+FAUXV V
+	$"_	
+4	RFD	RFD	subj:>2	@SUBJ ABBR
+	$_"	
+6	mean	mean	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	were	be	v-ch:>5	@+FAUXV V
+3	special	special	attr:>4	@A> A
+4	stamps	stamp	subj:>2	@SUBJ N
+5	printed	print	main:>0	@-FMAINV EN
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	honor	honor	cnt:>5	@-FMAINV V
+8	Columbus	Columbus	obj:>7	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>6	@ADVL ADV
+2	has	have	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	post	post	attr:>5	@A> N
+5	office	office	subj:>2	@SUBJ N
+6	delivered	deliver	main:>0	@-FMAINV EN
+7	mail	mail	obj:>6	@OBJ N
+8	for	for		@ADVL PREP
+9	free	free	pcomp:>8	@<P A
+10	in	in	mod:>9	@<NOM PREP
+11	the	the	det:>12	@DN> DET
+12	past	past	pcomp:>10	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	will	will	v-ch:>6	@+FAUXV V
+3	free	free	attr:>4	@A> A
+4	mail	mail	attr:>5	@A> N
+5	delivery	delivery	subj:>2	@SUBJ N
+6	make	make	main:>0	@-FMAINV V
+7	life	life	obj:>6	@OBJ N
+8	easier	easy	oc:>6	@PCOMPL-O A
+9	for	for	phr:>6	@ADVL PREP
+10	farmers	farmer	pcomp:>9	@<P N
+	$?	
+	$<p>	
+

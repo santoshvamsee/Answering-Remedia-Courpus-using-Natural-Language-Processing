@@ -1,0 +1,358 @@
+0		
+	$<p>	
+
+0		
+1	Our	we	attr:>2	@A> PRON
+2	First	first	attr:>3	@A> NUM
+3	Citizens	citizen	main:>0	@NH N
+4	Honored	honor	mod:>3	@-FMAINV EN
+5	Today	today	tmp:>4	@ADVL N
+	$<p>	
+
+0		
+	$(	
+2	Anytown	anytown		@NH N
+	$,	
+4	USA	USA	mod:>2	@<NOM ABBR
+	$,	
+6	September	September		@APP N	@A> N
+7	23,1989	23,1989		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Today	today	subj:>2	@SUBJ N
+2	is	be		@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	day	day		@PCOMPL-S N	@ADVL N
+5	our	we	attr:>6	@A> PRON
+6	country	country	comp:>2	@PCOMPL-S N
+7	honors	honor		@+FMAINV V
+8	its	it	attr:>9	@A> PRON
+9	first	first	attr:>10	@A> NUM
+10	citizens	citizen	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	Native	native	attr:>5	@A> A
+5	American	American	attr:>6	@A> A
+6	Day	day	comp:>3	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	On	on	tmp:>6	@ADVL PREP
+2	this	this	det:>3	@DN> DET
+3	day	day	pcomp:>1	@<P N
+	$,	
+5	we	we	subj:>6	@SUBJ PRON
+6	think	think	main:>0	@+FMAINV V
+7	about	about	phr:>6	@ADVL PREP
+8	those	that	pcomp:>7	@<P PRON
+9	who	who	subj:>10	@SUBJ PRON
+10	lived	live	mod:>8	@+FMAINV V
+11	here	here	loc:>10	@ADVL ADV
+12	many	many	det:>13	@DN> DET
+13	years	year	ad:>14	@ADVL N
+14	before	before	tmp:>10	@ADVL PREP
+15	Columbus	Columbus	subj:>16	@SUBJ N
+16	was	be	mod:>13	@+FMAINV V
+17	born	bear		@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	For	for	cla:>7	@ADVL PREP
+2	hundreds	hundred	pcomp:>1	@<P N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	years	year	pcomp:>3	@<P N
+	$,	
+6	Indians	Indian	subj:>7	@SUBJ N
+7	owned	own	main:>0	@+FMAINV V
+8	the	the	det:>9	@DN> DET
+9	rights	right	obj:>7	@OBJ N
+10	to	to	goa:>7	@ADVL PREP
+11	all	all	det:>12	@DN> DET
+12	the	the	det:>13	@DN> DET
+13	land	land	pcomp:>10	@<P N
+14	in	in	mod:>13	@<NOM PREP
+15	the	the	det:>17	@DN> DET
+16	United	unite	attr:>17	@A> A
+17	States	state	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	farmed	farm	main:>0	@+FMAINV V
+3	it	it	obj:>2	@OBJ PRON
+	$,	
+5	and	and	cc:>2	@CC CC
+6	they	they	subj:>7	@SUBJ PRON
+7	raised	raise	cc:>2	@+FMAINV V
+8	their	they	attr:>9	@A> PRON
+9	families	family	obj:>7	@OBJ N
+10	on	on	loc:>7	@ADVL PREP
+11	it	it	pcomp:>10	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>3	@SUBJ PRON
+2	still	still	meta:>3	@ADVL ADV
+3	do	do	main:>0	@+FMAINV V
+4	many	many	det:>6	@DN> DET
+5	good	good	attr:>6	@A> A
+6	things	thing	obj:>3	@OBJ N
+7	for	for		@ADVL PREP
+8	this	this	det:>9	@DN> DET
+9	country	country	pcomp:>7	@<P N
+10	they	they	subj:>11	@SUBJ PRON
+11	love	love	mod:>9	@+FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	time	time	subj:>6	@SUBJ N
+4	this	this	det:>5	@DN> DET
+5	day	day	mod:>3	@ADVL N
+6	was	be	v-ch:>7	@+FAUXV V
+7	honored	honor		@-FMAINV EN
+8	was	be		@+FMAINV V
+9	in	in	loc:>8	@ADVL PREP
+10	May	May	pcomp:>9	@<P N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	1916	1916	pcomp:>11	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	James	James	attr:>2	@A> N
+2	Redfox	redfox	subj:>7	@SUBJ N
+3	from	from	mod:>2	@<NOM PREP
+4	the	the	det:>6	@DN> DET
+5	Blackfoot	blackfoot	attr:>6	@A> N
+6	tribe	tribe	pcomp:>3	@<P N
+7	thought	think	main:>0	@+FMAINV V
+8	of	of	phr:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	idea	idea	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	traveled	travel	main:>0	@+FMAINV V
+3	4,000	4,000	qn:>4	@QN> NUM
+4	miles	mile	qua:>2	@ADVL N
+5	while	while	tmp:>6	@ADVL ADV
+6	sharing	share	tmp:>2	@-FMAINV ING
+7	his	he	attr:>8	@A> PRON
+8	idea	idea	obj:>6	@OBJ N
+9	with	with	phr:>6	@ADVL PREP
+10	leaders	leader	pcomp:>9	@<P N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	many	many	det:>13	@DN> DET
+13	states	state	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>3	@SUBJ PRON
+2	even	even	meta:>3	@ADVL ADV
+3	reached	reach	main:>0	@+FMAINV V
+4	the	the	det:>6	@DN> DET
+5	White	white	attr:>6	@A> A
+6	House	house	obj:>3	@OBJ N
+7	and	and	cc:>3	@CC CC
+8	talked	talk	cc:>3	@+FMAINV V
+9	to	to	ha:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	President	president	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	Boy	boy	attr:>3	@A> N
+3	Scouts	scout	subj:>4	@SUBJ N
+4	helped	help	main:>0	@+FMAINV V
+5	plan	plan	obj:>4	@-FMAINV V
+6	the	the	det:>10	@DN> DET
+7	first	first	attr:>8	@A> NUM
+8	Native	native	attr:>9	@A> A
+9	American	American	attr:>10	@A> A
+10	Day	day	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	For	for	tmp:>7	@ADVL PREP
+2	many	many	det:>3	@DN> DET
+3	years	year	pcomp:>1	@<P N
+	$,	
+5	it	it	subj:>6	@SUBJ PRON
+6	was	be	v-ch:>7	@+FAUXV V
+7	held	hold	main:>0	@-FMAINV EN
+8	in	in	loc:>7	@ADVL PREP
+9	May	May	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>7	@ADVL ADV
+2	in	in	tmp:>7	@ADVL PREP
+3	1960	1960	pcomp:>2	@<P NUM
+	$,	
+5	it	it	subj:>6	@SUBJ PRON
+6	was	be	v-ch:>7	@+FAUXV V
+7	changed	change	main:>0	@-FMAINV EN
+8	to	to	ha:>7	@ADVL PREP
+9	September	September	pcomp:>8	@<P N
+10	23	23	mod:>9	@<NOM NUM
+	$.	
+	$<p>	
+
+0		
+1	Today	today	tmp:>6	@ADVL N
+	$,	
+3	parades	parade	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	v-ch:>6	@-FAUXV V
+6	held	hold	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	Indians	Indian	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	wear	wear	main:>0	@-FMAINV V
+5	their	they		@PCOMPL-S PRON
+6	most	much	ad:>7	@AD-A> ADV
+7	colorful	colorful	attr:>8	@A> A
+8	costumes	costume	obj:>4	@OBJ N
+9	and	and	cc:>8	@CC CC
+10	dance	dance	cc:>8	@OBJ N
+11	and	and	cc:>4	@CC CC
+12	sing	sing	cc:>4	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Above_all	above_all	meta:>4	@ADVL ADV
+	$,	
+3	it	it	subj:>4	@SUBJ PRON
+4	is	be	main:>0	@+FMAINV V
+5	a	a	det:>6	@DN> DET
+6	time	time	comp:>4	@PCOMPL-S N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	think	think	mod:>6	@-FMAINV V
+9	about	about	phr:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	many	many	det:>13	@DN> DET
+12	good	good	attr:>13	@A> A
+13	things	thing	pcomp:>9	@<P N
+14	Native	native	attr:>15	@A> A
+15	Americans	American		@SUBJ N	@OBJ N	@PCOMPL-O N
+16	have	have	v-ch:>17	@+FAUXV V
+17	done	do		@-FMAINV EN
+18	for	for	ha:>17	@ADVL PREP
+19	this	this	det:>20	@DN> DET
+20	country	country	pcomp:>18	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	traveled	travel	main:>0	@+FMAINV V
+3	4,000	4,000	qn:>4	@QN> NUM
+4	miles	mile	qua:>2	@ADVL N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	share	share	cnt:>2	@-FMAINV V
+7	an	an	det:>8	@DN> DET
+8	idea	idea	obj:>6	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	another	another	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	for	for	mod:>4	@<NOM PREP
+6	Native	native	attr:>7	@A> A
+7	Americans	American	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>8	@ADVL ADV
+2	was	be	v-ch:>8	@+FAUXV V
+3	the	the	det:>7	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	Native	native	attr:>6	@A> A
+6	American	American	attr:>7	@A> A
+7	Day	day	subj:>2	@SUBJ N
+8	held	hold	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Redfox	redfox	subj:>2	@SUBJ N
+4	go	go	main:>0	@-FMAINV V
+5	with	with	phr:>4	@ADVL PREP
+6	his	he	attr:>7	@A> PRON
+7	idea	idea	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	it	it	subj:>2	@SUBJ PRON
+4	a	a	det:>6	@DN> DET
+5	good	good	attr:>6	@A> A
+6	idea	idea	comp:>2	@PCOMPL-S N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	have	have	mod:>6	@-FMAINV V
+9	Native	native	attr:>10	@A> A
+10	American	American	attr:>11	@A> A
+11	Day	day	obj:>8	@OBJ N
+	$?	
+	$<p>	
+

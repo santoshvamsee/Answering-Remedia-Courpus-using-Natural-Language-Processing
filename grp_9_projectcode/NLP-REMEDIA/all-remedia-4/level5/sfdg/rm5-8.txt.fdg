@@ -1,0 +1,347 @@
+0		
+	$<p>	
+
+0		
+1	Ford	ford	subj:>2	@SUBJ N
+2	Develops	develop	main:>0	@+FMAINV V
+3	Assembly	assembly	attr:>4	@A> N
+4	Line	line	obj:>2	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	DETROIT	Detroit	main:>1	@NH N
+	$,	
+4	MICHIGAN	Michigan	cc:>2	@NH N
+	$,	
+6	April	April		@APP N	@NH N
+	$,	
+8	1913	1913	mod:>6	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Henry	Henry	attr:>2	@A> N
+2	Ford	ford	subj:>3	@SUBJ N
+3	is	be	v-ch:>5	@+FAUXV V
+4	once_again	once_again	meta:>5	@ADVL ADV
+5	surprising	surprise	main:>0	@-FMAINV ING
+6	the	the	det:>7	@DN> DET
+7	world	world	obj:>5	@OBJ N
+8	with	with	ins:>5	@ADVL PREP
+9	a	a	det:>11	@DN> DET
+10	bright	bright	attr:>11	@A> A
+11	idea	idea	pcomp:>8	@<P N
+	$.	
+	$<p>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	may	may	v-ch:>3	@+FAUXV V
+3	know	know	main:>0	@-FMAINV V
+4	that	that	pm:>6	@CS CS
+5	Ford	ford	subj:>6	@SUBJ N
+6	built	build	obj:>3	@+FMAINV V
+7	his	he	attr:>8	@A> PRON
+8	first	first	attr:>9	@A> NUM
+9	automobile	automobile	obj:>6	@OBJ N
+10	back	back		@ADVL ADV
+11	in	in	tmp:>6	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	1890's	1890	pcomp:>11	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	His	he	attr:>2	@A> PRON
+2	horseless	horseless	attr:>3	@A> A
+3	carriage	carriage	subj:>5	@SUBJ N
+4	quickly	quick	man:>5	@ADVL ADV
+5	became	become	main:>0	@+FMAINV V
+6	a	a	det:>7	@DN> DET
+7	hit	hit	comp:>5	@PCOMPL-S N
+8	with	with	ha:>5	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	public	public	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Since_then	since_then	meta:>5	@ADVL ADV
+	$,	
+3	he	he	subj:>4	@SUBJ PRON
+4	has	have	v-ch:>5	@+FAUXV V
+5	become	become	main:>0	@-FMAINV EN
+6	a	a	det:>10	@DN> DET
+7	rich	rich	attr:>8	@A> A
+8	man	man	attr:>9	@A> N
+9	building	build	attr:>10	@A> N
+10	autos	auto	comp:>5	@PCOMPL-S N
+11	by	by	loc:>5	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	thousands	thousand	pcomp:>11	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Still	still	meta:>8	@ADVL ADV
+	$,	
+3	the	the	det:>4	@DN> DET
+4	demand	demand	subj:>8	@SUBJ N
+5	for	for	mod:>4	@<NOM PREP
+6	Ford's	ford	attr:>7	@A> N
+7	cars	car	pcomp:>5	@<P N
+8	keeps	keep	main:>0	@+FMAINV V
+9	growing	grow	obj:>8	@-FMAINV ING
+	$.	
+	$<s>	
+
+0		
+1	At	at	cla:>6	@ADVL PREP
+2	one	one	qn:>3	@QN> NUM
+3	point	point	pcomp:>1	@<P N
+	$,	
+5	it	it	subj:>6	@SUBJ PRON
+6	seemed	seem	main:>0	@+FMAINV V
+7	that	that	pm:>12	@CS CS
+8	Ford's	ford	attr:>9	@A> N
+9	workers	worker	subj:>10	@SUBJ N
+10	would	would	v-ch:>12	@+FAUXV V
+11	never	never	frq:>12	@ADVL ADV
+12	keep	keep	comp:>6	@-FMAINV V
+13	up	up	phr:>12	@ADVL ADV
+14	with	with	ha:>12	@ADVL PREP
+15	the	the	det:>16	@DN> DET
+16	orders	order	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	After	after	tmp:>9	@ADVL PREP
+2	giving	give	pcomp:>1	@<P-FMAINV ING
+3	the	the	det:>4	@DN> DET
+4	problem	problem	obj:>2	@OBJ N
+5	some	some	det:>6	@DN> DET
+6	thought	thought		@NH N	@SUBJ N	@OBJ N	@I-OBJ N
+	$,	
+8	Ford	ford	subj:>9	@SUBJ N
+9	came	come	main:>0	@+FMAINV V
+10	up	up	phr:>9	@ADVL ADV
+11	with	with	ha:>9	@ADVL PREP
+12	an	an	det:>13	@DN> DET
+13	idea	idea	pcomp:>11	@<P N
+	$.	
+	$<p>	
+
+0		
+1	In_order_to	in_order_to	pm:>2	@INFMARK> INFMARK>
+2	make	make	cnt:>7	@-FMAINV V
+3	more	many	det:>4	@DN> DET
+4	cars	car	obj:>2	@OBJ N
+	$,	
+6	Ford	ford	subj:>7	@SUBJ N
+7	thought	think	main:>0	@+FMAINV V
+8	they	they	subj:>9	@SUBJ PRON
+9	must	must	v-ch:>10	@+FAUXV V
+10	be	be	v-ch:>11	@-FAUXV V
+11	made	make	obj:>7	@-FMAINV EN
+12	faster	fast	man:>11	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	So	so	meta:>4	@ADVL ADV
+2	he	he	subj:>4	@SUBJ PRON
+3	now	now	meta:>4	@ADVL ADV
+4	has	have	main:>0	@+FMAINV V
+5	each	each	det:>6	@DN> DET
+6	worker	worker	subj:>7	@OBJ N
+7	do	do	obj:>4	@-FMAINV V
+8	only	only	meta:>10	@ADVL ADV
+9	one	one	qn:>10	@QN> NUM
+10	task	task	obj:>7	@OBJ N
+11	all	all	det:>12	@DN> DET
+12	day	day	tmp:>7	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	One	one	qn:>2	@QN> NUM
+2	man	man	subj:>4	@SUBJ N
+3	just	just	meta:>4	@ADVL ADV
+4	puts	put	main:>0	@+FMAINV V
+5	bolts	bolt	obj:>4	@OBJ N
+6	on	on	loc:>4	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	cars	car	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Another	another	det:>2	@DN> DET
+2	man	man	subj:>3	@SUBJ N
+3	tightens	tighten	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	bolts	bolt	obj:>3	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	parts	part	subj:>3	@SUBJ N
+3	move	move	main:>0	@+FMAINV V
+4	past	past	ha:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	workers	worker	pcomp:>4	@<P N
+7	on	on	mod:>6	@<NOM PREP
+8	a	a	det:>9	@DN> DET
+9	belt	belt	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	belt	belt	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	a	a	det:>6	@DN> DET
+5	certain	certain	attr:>6	@A> A
+6	height	height	comp:>3	@PCOMPL-S N
+7	so	so	pm:>8	@ADVL ADV
+8	that	that	pm:>11	@CS CS
+9	no	no	det:>10	@DN> DET
+10	one	one	subj:>11	@SUBJ PRON
+11	has	have	cnt:>3	@+FMAINV V
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	bend	bend	obj:>11	@-FMAINV V
+14	over	over	ha:>13	@ADVL ADV
+15	and	and	cc:>13	@CC CC
+16	waste	waste	cc:>13	@-FMAINV V
+17	time	time		@SUBJ N	@OBJ N	@ADVL N
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	new	new	attr:>3	@A> A
+3	way	way	subj:>7	@SUBJ N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	making	make	pcomp:>4	@<P-FMAINV ING
+6	cars	car	obj:>5	@OBJ N
+7	is	be	v-ch:>8	@+FAUXV V
+8	called	call	main:>0	@-FMAINV EN
+9	an	an	det:>11	@DN> DET
+10	assembly	assembly	attr:>11	@A> N
+11	line	line	comp:>8	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>3	@ADVL ADV
+2	Ford	ford	subj:>3	@SUBJ N
+3	believes	believe	main:>0	@+FMAINV V
+4	his	he	attr:>5	@A> PRON
+5	company	company	subj:>6	@SUBJ N
+6	will	will	v-ch:>7	@+FAUXV V
+7	make	make	obj:>3	@-FMAINV V
+8	millions	million	obj:>7	@OBJ N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	cars	car	pcomp:>9	@<P N
+11	a	a	det:>12	@DN> DET
+12	year	year	mod:>10	@ADVL N
+	$,	
+14	instead_of	instead_of	ha:>7	@ADVL PREP
+15	thousands	thousand	pcomp:>14	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	developed	develop	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	assembly	assembly	attr:>6	@A> N
+6	line	line	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	another	another	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	for	for	mod:>4	@<NOM PREP
+6	an	an	det:>7	@DN> DET
+7	automobile	automobile	pcomp:>5	@<P N
+8	or	or	cc:>7	@CC CC
+9	car	car	cc:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Ford	ford	subj:>2	@SUBJ N
+4	make	make	main:>0	@-FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	first	first	attr:>7	@A> NUM
+7	auto	auto	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	are	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	parts	part	subj:>2	@SUBJ N
+5	when	when	tmp:>7	@ADVL ADV
+6	they	they	subj:>7	@SUBJ PRON
+7	move	move	tmp:>2	@+FMAINV V
+8	past	past	ha:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	workers	worker	pcomp:>8	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	Ford	ford	subj:>2	@SUBJ N
+4	think	think	main:>0	@-FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	company	company	oc:>8	@PCOMPL-O N
+7	will	will	v-ch:>8	@+FAUXV V
+8	make	make	obj:>4	@-FMAINV V
+9	millions	million	obj:>8	@OBJ N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	cars	car	pcomp:>10	@<P N
+12	a	a	det:>13	@DN> DET
+13	year	year	mod:>11	@ADVL N
+	$?	
+	$<p>	
+

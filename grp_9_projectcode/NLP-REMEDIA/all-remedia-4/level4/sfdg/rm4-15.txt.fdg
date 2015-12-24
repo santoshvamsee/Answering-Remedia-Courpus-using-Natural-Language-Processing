@@ -1,0 +1,418 @@
+0		
+	$<p>	
+
+0		
+1	Man	man	attr:>2	@A> N
+2	Want	want		@NH N
+3	To	to	pm:>4	@INFMARK> INFMARK>
+4	Build	build	main:>0	@-FMAINV V
+5	Space	space	attr:>6	@A> N
+6	Machine	machine	obj:>4	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	NEW	new	attr:>3	@A> A
+3	YORK	York		@APP N
+	$,	
+5	March	march		@APP N	@A> N
+6	7,1921	7,1921		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	men	man	subj:>3	@SUBJ N
+3	have	have	main:>0	@+FMAINV V
+4	foolish	foolish	attr:>5	@A> A
+5	ideas	idea	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Take	take	main:>0	@+FMAINV V
+2	Robert	Robert	attr:>3	@A> N
+3	H.	h.	attr:>4	@A> ABBR
+4	Goddard	Goddard	obj:>1	@OBJ N
+	$,	
+6	for_example	for_example	meta:>1	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	causing	cause	main:>0	@-FMAINV ING
+4	a	a	det:>6	@DN> DET
+5	great	great	attr:>6	@A> A
+6	deal	deal	obj:>3	@OBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	fuss	fuss	pcomp:>7	@<P N
+9	these	this	det:>10	@DN> DET
+10	days	day	tmp:>3	@ADVL N
+	$.	
+	$<p>	
+
+0		
+1	Goddard	Goddard	subj:>2	@SUBJ N
+2	has	have		@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	silly	silly	attr:>5	@A> A
+5	idea	idea	obj:>2	@OBJ N
+6	that	that	pm:>8	@CS CS
+7	he	he	subj:>8	@SUBJ PRON
+8	thinks	think	mod:>5	@+FMAINV V
+9	will	will	v-ch:>10	@+FAUXV V
+10	work	work		@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	says	say	main:>0	@+FMAINV V
+3	it	it	subj:>4	@SUBJ PRON
+4	is	be	obj:>2	@+FMAINV V
+5	possible	possible	comp:>4	@PCOMPL-S A
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	make	make	mod:>5	@-FMAINV V
+8	a	a	det:>9	@DN> DET
+9	machine	machine	obj:>7	@OBJ N
+10	that	that	subj:>11	@SUBJ PRON
+11	will	will	v-ch:>12	@+FAUXV V
+12	fly	fly	mod:>9	@-FMAINV V
+13	in	in	loc:>12	@ADVL PREP
+14	outer	outer	attr:>15	@A> A
+15	space	space	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Goddard	Goddard	subj:>2	@SUBJ N
+2	calls	call	main:>0	@+FMAINV V
+3	his	he	attr:>4	@A> PRON
+4	machine	machine		@OBJ N	@I-OBJ N
+5	a	a	det:>7	@DN> DET
+	$"_	
+7	rocket	rocket		@SUBJ N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>4	@+FAUXV V
+3	never	never	frq:>4	@ADVL ADV
+4	made	make	main:>0	@-FMAINV EN
+5	one	one		@OBJ NUM	@I-OBJ NUM	@PCOMPL-O NUM	@QN> NUM	@ADVL NUM	@SUBJ PRON	@OBJ PRON	@I-OBJ PRON	@PCOMPL-O PRON
+	$,	
+7	but	but	cc:>4	@CC CC
+8	he	he	subj:>9	@SUBJ PRON
+9	has	have	v-ch:>10	@+FAUXV V
+10	written	write	cc:>4	@-FMAINV EN
+11	about	about	ha:>10	@ADVL PREP
+12	it	it	pcomp:>11	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	believes	believe	main:>0	@+FMAINV V
+3	that	that	pm:>8	@CS CS
+4	someday	someday	tmp:>8	@ADVL ADV
+5	a	a	det:>6	@DN> DET
+6	rocket	rocket	subj:>7	@SUBJ N
+7	can	can	v-ch:>8	@+FAUXV V
+8	travel	travel	obj:>2	@-FMAINV V
+9	to	to	goa:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	moon	moon	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be		@+FMAINV V
+3	true	true	comp:>2	@PCOMPL-S A
+4	that	that		@CS CS
+5	a_few	a_few	det:>6	@DN> DET
+6	years	year		@ADVL N
+7	ago	ago	ad:>6	@<AD-A ADV
+	$,	
+9	people	people		@SUBJ N	@APP N
+10	laughed	laugh		@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V
+11	at	at	ha:>10	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	idea	idea	pcomp:>11	@<P N
+14	that	that	det:>15	@DN> DET
+15	man	man		@SUBJ N	@OBJ N
+16	could	could	v-ch:>17	@+FAUXV V
+17	fly	fly		@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>5	@ADVL ADV
+2	the	the	det:>4	@DN> DET
+3	Wright	wright	attr:>4	@A> N
+4	Brothers	brother	subj:>5	@SUBJ N
+5	flew	fly	main:>0	@+FMAINV V
+6	the	the	det:>8	@DN> DET
+7	first	first	attr:>8	@A> NUM
+8	airplane	airplane	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	a	a	det:>3	@DN> DET
+3	plane	plane	subj:>4	@SUBJ N
+4	needs	need	main:>0	@+FMAINV V
+5	air	air	obj:>4	@OBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	fly	fly	cnt:>4	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	In	in	loc:>6	@ADVL PREP
+2	outer	outer	attr:>3	@A> A
+3	space	space	pcomp:>1	@<P N
+	$,	
+5	there	there	subj:>6	@F-SUBJ ADV
+6	is	be	main:>0	@+FMAINV V
+7	no	no	det:>8	@DN> DET
+8	air	air	comp:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Even	even	meta:>3	@ADVL ADV
+2	an	an	det:>3	@DN> DET
+3	airplane	airplane	subj:>4	@SUBJ N
+4	ca_	can	v-ch:>6	@+FAUXV V
+5	n't	not	neg:>4	@ADVL NEG-PART
+6	work	work	main:>0	@-FMAINV V
+7	in	in	ha:>6	@ADVL PREP
+8	outer	outer	attr:>9	@A> A
+9	space	space	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	why	why	cnt:>5	@ADVL ADV
+4	everyone	everyone	subj:>5	@SUBJ PRON
+5	knows	know	comp:>2	@+FMAINV V
+6	that	that	pm:>12	@CS CS
+7	a	a	det:>8	@DN> DET
+8	rocket	rocket	subj:>10	@SUBJ N
+9	certainly	certain	meta:>12	@ADVL ADV
+10	could	could	v-ch:>12	@+FAUXV V
+11	not	not	neg:>10	@ADVL NEG-PART
+12	make	make	obj:>5	@-FMAINV V
+13	the	the	det:>15	@DN> DET
+14	long	long	attr:>15	@A> A
+15	trip	trip	obj:>12	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Still	still	meta:>4	@ADVL ADV
+	$,	
+3	Goddard	Goddard	subj:>4	@SUBJ N
+4	keeps	keep	main:>0	@+FMAINV V
+5	working	work	obj:>4	@-FMAINV ING
+6	on	on	phr:>5	@ADVL PREP
+7	his	he	attr:>8	@A> PRON
+8	idea	idea	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	tmp:>5	@ADVL PREP
+2	1914	1914	pcomp:>1	@<P NUM
+	$,	
+4	he	he	subj:>5	@SUBJ PRON
+5	received	receive	main:>0	@+FMAINV V
+6	a	a	det:>7	@DN> DET
+7	patent	patent	obj:>5	@OBJ N
+8	for	for	mod:>7	@<NOM PREP
+9	his	he	attr:>10	@A> PRON
+10	rocket	rocket	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	patent	patent	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	a	a	det:>5	@DN> DET
+5	piece	piece	comp:>3	@PCOMPL-S N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	paper	paper	pcomp:>6	@<P N
+8	that	that	subj:>9	@SUBJ PRON
+9	gives	give	mod:>7	@+FMAINV V
+10	the	the	det:>11	@DN> DET
+11	owner	owner	dat:>9	@I-OBJ N
+12	the	the	det:>13	@DN> DET
+13	right	right	obj:>9	@OBJ N
+14	to	to	pm:>15	@INFMARK> INFMARK>
+15	make	make	mod:>13	@-FMAINV V
+16	money	money	obj:>15	@OBJ N
+17	from	from	sou:>15	@ADVL PREP
+18	an	an	det:>19	@DN> DET
+19	idea	idea	pcomp:>17	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Goddard	Goddard	subj:>2	@SUBJ N
+2	may	may	v-ch:>3	@+FAUXV V
+3	have	have	main:>0	@-FMAINV V
+4	a	a	det:>5	@DN> DET
+5	patent	patent	obj:>3	@OBJ N
+	$,	
+7	but	but	cc:>3	@CC CC
+8	he	he	subj:>9	@SUBJ PRON
+9	has	have	cc:>3	@+FMAINV V
+10	yet	yet	meta:>9	@ADVL ADV
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	build	build	obj:>9	@-FMAINV V
+13	a	a	det:>14	@DN> DET
+14	rocket	rocket	obj:>12	@OBJ N
+15	and	and	cc:>12	@CC CC
+16	prove	prove	cc:>12	@-FMAINV V
+17	it	it	subj:>18	@SUBJ PRON
+18	can	can	v-ch:>19	@+FAUXV V
+19	fly	fly	obj:>16	@-FMAINV V
+20	in	in	loc:>19	@ADVL PREP
+21	space	space	pcomp:>20	@<P N
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	newspaper	newspaper	subj:>3	@SUBJ N
+3	thinks	think	main:>0	@+FMAINV V
+4	it_	it	subj:>5	@SUBJ PRON
+5	's	be	obj:>3	@+FMAINV V
+6	time	time	pcomp:>5	@PCOMPL-S N
+7	that	that	pm:>11	@CS CS
+8	people	people	subj:>11	@SUBJ N
+9	like	like	mod:>8	@<NOM PREP
+10	Goddard	Goddard	pcomp:>9	@<P N
+11	stop	stop	mod:>6	@+FMAINV V	@+FMAINV V
+12	trying	try	obj:>11	@OBJ A
+13	to	to	pm:>14	@INFMARK> INFMARK>
+14	fool	fool	cnt:>11	@-FMAINV V
+15	the	the	det:>16	@DN> DET
+16	public	public	obj:>14	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Most	many		@SUBJ PRON	@OBJ PRON	@PCOMPL-S PRON	@ADVL PRON	@SUBJ PRON	@OBJ PRON	@PCOMPL-S PRON	@ADVL PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>4	@DN> DET
+4	world's	world	pcomp:>2	@<P N
+5	great	great	attr:>6	@A> A
+6	machines	machine	subj:>7	@SUBJ N
+7	have	have	v-ch:>9	@+FAUXV V
+8	already	already	meta:>10	@ADVL ADV
+9	been	be	v-ch:>10	@-FAUXV EN
+10	built	build		@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Dreamers	dreamer	subj:>4	@SUBJ N
+2	like	like	mod:>1	@<NOM PREP
+3	Goddard	Goddard	pcomp:>2	@<P N
+4	should	should	v-ch:>5	@+FAUXV V
+5	start	start	main:>0	@-FMAINV V
+6	building	build	obj:>5	@-FMAINV ING
+7	useful	useful	attr:>8	@A> A
+8	things	thing	obj:>6	@OBJ N
+9	that	that	subj:>10	@SUBJ PRON
+10	will	will	v-ch:>11	@+FAUXV V
+11	help	help	mod:>8	@-FMAINV V
+12	people	people	obj:>11	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	has	have	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	foolish	foolish	attr:>5	@A> A
+5	idea	idea	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	his	he	attr:>4	@A> PRON
+4	idea	idea	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Goddard	Goddard	subj:>2	@SUBJ N
+4	get	get	main:>0	@-FMAINV V
+5	a	a	det:>6	@DN> DET
+6	patent	patent	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	Goddard	Goddard	subj:>2	@SUBJ N
+4	think	think	main:>0	@-FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	rocket	rocket	subj:>7	@SUBJ N
+7	could	could	v-ch:>8	@+FAUXV V
+8	go	go	obj:>4	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	this	this		@SUBJ PRON
+4	a	a	det:>6	@DN> DET
+5	silly	silly	attr:>6	@A> A
+6	idea	idea	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+

@@ -1,0 +1,309 @@
+0		
+1	Space	space	attr:>2	@A> N
+2	Pioneers	pioneer	attr:>3	@A> N
+3	Do_	do	main:>0	@NH N	@NH N
+4	n't	not	neg:>5	@ADVL NEG-PART
+5	Monkey	monkey		@NH N
+6	Around	around		@ADVL ADV
+	$<p>	
+
+0		
+	$(	
+2	Atlantic	Atlantic	attr:>3	@A> A
+3	Ocean	ocean		@APP N
+	$,	
+5	May	May	main:>1	@NH N	@APP N
+6	28,1959	28,1959	mod:>5	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Two	two	qn:>3	@QN> NUM
+2	small	small	attr:>3	@A> A
+3	monkeys	monkey	subj:>4	@SUBJ N
+4	have	have	v-ch:>5	@+FAUXV V
+5	made	make	main:>0	@-FMAINV EN
+6	a	a	det:>8	@DN> DET
+7	safe	safe	attr:>8	@A> A
+8	splashdown	splashdown	obj:>5	@OBJ N
+9	after	after	ha:>5	@ADVL PREP
+10	their	they	attr:>11	@A> PRON
+11	first	first	attr:>12	@A> NUM
+12	trip	trip	pcomp:>9	@<P N
+13	into	into	goa:>5	@ADVL PREP
+14	space	space	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Scientists	scientist	subj:>2	@SUBJ N
+2	say	say	main:>0	@+FMAINV V
+3	that	that	pm:>7	@CS CS
+4	Able	able	cc:>6	@SUBJ A	@SUBJ N
+5	and	and	cc:>6	@CC CC
+6	Baker	baker	subj:>7	@SUBJ N
+7	seem	seem	obj:>2	@+FMAINV V	@+FMAINV V
+8	healthy	healthy	comp:>7	@PCOMPL-S A
+9	and	and	cc:>8	@CC CC
+10	glad	glad	cc:>8	@PCOMPL-S A
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	be	be	mod:>10	@-FMAINV V
+13	back	back	ha:>12	@ADVL ADV
+14	on	on	loc:>12	@ADVL PREP
+15	the	the	det:>16	@DN> DET
+16	ground	ground	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Their	they	attr:>2	@A> PRON
+2	trip	trip	subj:>3	@SUBJ N
+3	took	take	main:>0	@+FMAINV V
+4	them	they	dat:>3	@I-OBJ PRON
+5	1,700	1,700	qn:>6	@QN> NUM
+6	miles	mile	obj:>3	@OBJ N
+7	through	through	ha:>3	@ADVL PREP
+8	space	space	pcomp:>7	@<P N
+9	at	at		@<NOM PREP	@ADVL PREP
+10	speeds	speed	pcomp:>9	@<P N
+11	reaching	reach	mod:>10	@-FMAINV ING
+12	10,000	10,000	qn:>13	@QN> NUM
+13	miles	mile	obj:>11	@OBJ N
+14	per	per	tmp:>11	@ADVL PREP
+15	hour	hour	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	These	this	det:>3	@DN> DET
+2	two	two	qn:>3	@QN> NUM
+3	monkeys	monkey	subj:>4	@SUBJ N
+4	are	be	main:>0	@+FMAINV V
+5	space	space	attr:>6	@A> N
+6	pioneers	pioneer	comp:>4	@PCOMPL-S N
+7	who	who	subj:>8	@SUBJ PRON
+8	took	take	mod:>6	@+FMAINV V
+9	the	the	det:>10	@DN> DET
+10	place	place	obj:>8	@OBJ N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	people	people	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>7	@ADVL PREP
+2	this	this	det:>3	@DN> DET
+3	way	way	pcomp:>1	@<P N
+	$,	
+5	scientists	scientist	subj:>6	@SUBJ N
+6	can	can	v-ch:>7	@+FAUXV V
+7	study	study	main:>0	@-FMAINV V
+8	how	how	man:>11	@ADVL ADV
+9	space	space	attr:>10	@A> N
+10	travel	travel	subj:>11	@SUBJ N
+11	affects	affect	obj:>7	@+FMAINV V
+12	living	live	attr:>13	@A> N
+13	creatures	creature	obj:>11	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Able	able	subj:>2	@SUBJ A
+2	weighs	weigh	main:>0	@+FMAINV V
+3	seven	seven	qn:>4	@QN> NUM
+4	pounds	pound		@OBJ N	@A> N	@ADVL N
+	$,	
+6	and	and	cc:>2	@CC CC
+7	tiny	tiny	attr:>8	@A> A
+8	Baker	baker	subj:>9	@SUBJ N
+9	weighs	weigh	cc:>2	@+FMAINV V
+10	just	just	ad:>11	@AD-A> ADV
+11	one	one	qn:>12	@QN> NUM
+12	pound	pound	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Both	both	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	them	they	pcomp:>2	@<P PRON
+4	have	have		@+FMAINV V
+5	small	small		@OBJ A	@PCOMPL-O A	@A> A	@<NOM A
+	$,	
+7	metal	metal		@SUBJ N	@OBJ N	@A> N	@<P N
+8	pieces	piece		@SUBJ N	@OBJ N	@<P N
+9	placed	place		@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V
+10	near	near	ha:>9	@ADVL PREP
+11	their	they	attr:>12	@A> PRON
+12	brains	brain	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>7	@ADVL PREP
+2	theirs	they	pcomp:>1	@<P PRON
+3	spacecraft	spacecraft		@NH N	@SUBJ N
+	$,	
+5	they	they	subj:>6	@SUBJ PRON
+6	were	be	v-ch:>7	@+FAUXV V
+7	wired	wire	main:>0	@-FMAINV EN
+8	to	to	ha:>7	@ADVL PREP
+9	boxes	box	pcomp:>8	@<P N
+10	so	so	pm:>13	@CS CS
+11	scientists	scientist	subj:>12	@SUBJ N
+12	could	could	v-ch:>13	@+FAUXV V
+13	tell	tell	cnd:>7	@-FMAINV V
+14	how	how	man:>16	@ADVL ADV
+15	they	they	subj:>16	@SUBJ PRON
+16	act	act	obj:>13	@+FMAINV V
+17	in	in	loc:>16	@ADVL PREP
+18	space	space	pcomp:>17	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	measured	measure	main:>0	@+FMAINV V
+3	their	they	attr:>4	@A> PRON
+4	heartbeat	heartbeat	obj:>2	@OBJ N
+	$,	
+6	breathing	breathe	mod:>4	@-FMAINV ING
+	$,	
+8	and	and		@CC CC
+9	other	other	det:>10	@DN> DET
+10	signs	sign		@OBJ N	@APP N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	life	life	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Recently	recent	tmp:>4	@ADVL ADV
+	$,	
+3	Russia	Russia	subj:>4	@SUBJ N
+4	sent	send	main:>0	@+FMAINV V
+5	a	a	det:>8	@DN> DET
+6	dog	dog	attr:>7	@A> N
+7	named	name	attr:>8	@A> A
+8	Laika	laika	obj:>4	@OBJ N
+9	into	into	goa:>4	@ADVL PREP
+10	space	space	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	her	she	attr:>3	@A> PRON
+3	spacecraft	spacecraft	subj:>4	@SUBJ N
+4	returned	return	tmp:>9	@+FMAINV V
+5	to	to	goa:>4	@ADVL PREP
+6	Earth	earth	pcomp:>5	@<P N
+	$,	
+8	Laika	laika	subj:>9	@SUBJ N
+9	was	be	main:>0	@+FMAINV V
+10	dead	dead	comp:>9	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	more	many	det:>4	@DN> DET
+3	space	space	attr:>4	@A> N
+4	tests	test	subj:>5	@SUBJ N
+5	will	will	v-ch:>6	@+FAUXV V
+6	have	have		@-FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	be	be	v-ch:>9	@-FAUXV V
+9	made	make	obj:>6	@-FMAINV EN
+10	before	before	tmp:>9	@ADVL PREP
+11	the	the	det:>13	@DN> DET
+12	first	first	attr:>13	@A> NUM
+13	person	person	pcomp:>10	@<P N
+14	can	can	v-ch:>15	@+FAUXV V
+15	be	be	v-ch:>17	@-FAUXV V
+16	safely	safe	>17	@ADVL ADV
+17	sent	send		@-FMAINV EN
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	went	go	main:>0	@+FMAINV V
+3	into	into	goa:>2	@ADVL PREP
+4	space	space	pcomp:>3	@<P N
+5	and	and	cc:>2	@CC CC
+6	came	come	cc:>2	@+FMAINV V
+7	back	back	ha:>6	@ADVL ADV
+8	safely	safe	man:>6	@ADVL ADV
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	kind	kind	main:>0	@NH N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	animals	animal	pcomp:>3	@<P N
+5	are	be		@+FMAINV V
+6	they	they	subj:>5	@SUBJ PRON
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	safely	safe	>5	@ADVL ADV
+5	land	land	main:>0	@-FMAINV V
+6	back	back	man:>5	@ADVL ADV
+7	on	on	loc:>5	@ADVL PREP
+8	Earth	earth	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	scientists	scientist	subj:>2	@SUBJ N
+4	place	place	main:>0	@-FMAINV V
+5	small	small	attr:>6	@A> A
+6	metal	metal	attr:>7	@A> N
+7	parts	part	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	are	be	v-ch:>4	@+FAUXV V
+3	animals	animal	subj:>2	@SUBJ N
+4	sent	send	main:>0	@-FMAINV EN
+5	into	into	goa:>4	@ADVL PREP
+6	space	space	pcomp:>5	@<P N
+	$?	
+	$<p>	
+

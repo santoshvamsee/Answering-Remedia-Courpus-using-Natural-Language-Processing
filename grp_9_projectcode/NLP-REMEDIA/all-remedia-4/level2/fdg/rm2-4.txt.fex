@@ -1,0 +1,280 @@
+ 9999 99       0       O      A            Young           attr/A            -----      1
+ 9999 99       1       O      N              Boy           attr/A            -----      2
+ 9999 99       2       O      N            Finds           attr/A            -----      3
+ 9999 99       3       O      A              Old           attr/A            -----      4
+ 9999 99       4       O      N            Bones          main/NH            -----     -1
+ 9999 99       5       O    SEP                !          main/NH            ?????     -1
+
+ 9999 99       0       O    SEP                (          main/NH            ?????     -1
+ 9999 99       1       O      A          PAINTED           attr/A            -----      2
+ 9999 99       2       O      N           DESERT      NOFUNC/SUBJ            -----     -1
+ 9999 99       3       O    SEP                ,      NOFUNC/SUBJ            ?????     -1
+ 9999 99       4       O      N          ARIZONA          mod/APP            -----      2
+ 9999 99       5       O    SEP                ,          mod/APP            ?????     -1
+ 9999 99       6       O      N              May       NOFUNC/APP            -----     -1
+ 9999 99       7       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       8       O    NUM             1989         mod/ADVL            -----      6
+ 9999 99       9       O    SEP                )         mod/ADVL            ?????     -1
+ 9999 99      10       O    DET                A           det/DN            -----     12
+ 9999 99      11       O      A            young           attr/A            -----     12
+ 9999 99      12       O      N              boy        subj/SUBJ            -----     13
+ 9999 99      13       O      V            T_may       v-ch/FAUXV            -----     14
+ 9999 99      14       O      V           T_have       v-ch/FAUXV            -----     15
+ 9999 99      15       O     EN           T_find      main/FMAINV            -----     -1
+ 9999 99      16       O    DET              the           det/DN            -----     17
+ 9999 99      17       O      N            bones          obj/OBJ            -----     15
+ 9999 99      18       O   PREP               of           mod/OF            -----     17
+ 9999 99      19       O    DET                a           det/DN            -----     21
+ 9999 99      20       O      A              new           attr/A            -----     21
+ 9999 99      21       O      N             kind          pcomp/P            -----     18
+ 9999 99      22       O   PREP               of           mod/OF            -----     21
+ 9999 99      23       O      N         dinosaur          pcomp/P            -----     22
+ 9999 99      24       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CS               If            pm/CS            -----      1
+ 9999 99       1       O    ADV               so         cnd/ADVL            -----      7
+ 9999 99       2       O    SEP                ,         cnd/ADVL            ?????     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N         dinosaur        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_will       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V             T_be       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN           T_name      main/FMAINV            -----     -1
+ 9999 99       8       O   PREP            after          ha/ADVL            -----      7
+ 9999 99       9       O   PRON              him          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N             Erik           attr/A            -----      1
+ 9999 99       1       O      N          Thybony        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O    ING           T_take      main/FMAINV            -----     -1
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N             walk          obj/OBJ            -----      3
+ 9999 99       6       O   PREP             with         ins/ADVL            -----      3
+ 9999 99       7       O   PRON              his           attr/A            -----      8
+ 9999 99       8       O      N              dad          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      A           lonely           attr/A            -----      5
+ 9999 99       5       O      N           desert          pcomp/P            -----      2
+ 9999 99       6       O   PREP               in          mod/NOM            -----      5
+ 9999 99       7       O      N          Arizona          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N             Erik        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_look      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV             down          ha/ADVL            -----      1
+ 9999 99       3       O     CC              and            cc/CC            -----      1
+ 9999 99       4       O      V            T_see        cc/FMAINV            -----      1
+ 9999 99       5       O   PRON        something          obj/OBJ            -----      4
+ 9999 99       6       O   PRON             that        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_look       mod/FMAINV            -----      5
+ 9999 99       8       O   PREP             like         man/ADVL            -----      7
+ 9999 99       9       O      N            teeth          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      2
+ 9999 99       1       O    ADV             also      NOFUNC/ADVL            -----     -1
+ 9999 99       2       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       3       O      A            small           attr/A            -----      4
+ 9999 99       4       O      N            bones          obj/OBJ            -----      2
+ 9999 99       5       O    ADV           nearby          ha/ADVL            -----      2
+ 9999 99       6       O    SEP                .          ha/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV             very             ad/A            -----      3
+ 9999 99       3       O      A          excited           comp/S            -----      1
+ 9999 99       4       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O      N             Erik          cc/SUBJ            -----      3
+ 9999 99       1       O     CC              and            cc/CC            -----      3
+ 9999 99       2       O   PRON              his           attr/A            -----      3
+ 9999 99       3       O      N              dad        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      N        scientist           attr/A            -----      7
+ 9999 99       7       O      N             look          obj/OBJ            -----      4
+ 9999 99       8       O   PREP               at         loc/ADVL            -----      4
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N            bones          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON             they        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_must       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V             T_be       obj/FMAINV            -----      1
+ 9999 99       5       O   PREP             from         sou/ADVL            -----      4
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N         dinosaur          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       2       O      N          samples          obj/OBJ            -----      1
+ 9999 99       3       O   PREP             with         com/ADVL            -----      1
+ 9999 99       4       O   PRON              him          pcomp/P            -----      3
+ 9999 99       5       O   PREP               to         dat/ADVL            -----      1
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N              lab          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV           So_far        meta/ADVL            -----      4
+ 9999 99       1       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       2       O    DET               no           det/DN            -----      3
+ 9999 99       3       O   PRON              one        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_know      main/FMAINV            -----     -1
+ 9999 99       5       O    DET             what           det/DN            -----      6
+ 9999 99       6       O      N             kind      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O      N         dinosaur          pcomp/P            -----      7
+ 9999 99       9       O   PRON             this        subj/SUBJ            -----     10
+ 9999 99      10       O      V             T_be       obj/FMAINV            -----      4
+ 9999 99      11       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_know      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON               it        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be       obj/FMAINV            -----      2
+ 9999 99       5       O      A            small           comp/S            -----      4
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      A             wild          pcomp/P            -----      2
+ 9999 99       5       O   PREP       along_with          mod/NOM            -----      4
+ 9999 99       6       O    DET             many           det/DN            -----      7
+ 9999 99       7       O    DET            other          attr/DN            -----      8
+ 9999 99       8       O      N        dinosaurs          pcomp/P            -----      5
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            teeth          cc/SUBJ            -----      3
+ 9999 99       2       O     CC              and            cc/CC            -----      3
+ 9999 99       3       O      N            bones        subj/SUBJ            -----      4
+ 9999 99       4       O      V            T_may       v-ch/FAUXV            -----      5
+ 9999 99       5       O      V           T_have       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN             T_be      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP               on         loc/ADVL            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N           ground          pcomp/P            -----      7
+ 9999 99      10       O   PREP              for          mod/NOM            -----      9
+ 9999 99      11       O      N        thousands          pcomp/P            -----     10
+ 9999 99      12       O     CC               or            cc/CC            -----     11
+ 9999 99      13       O      N         millions             cc/P            -----     11
+ 9999 99      14       O   PREP               of           mod/OF            -----     13
+ 9999 99      15       O      N            years          pcomp/P            -----     14
+ 9999 99      16       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      3
+ 9999 99       1       O      A   eight-year-old           attr/A            -----      2
+ 9999 99       2       O      N             Erik        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON             them          obj/OBJ            -----      3
+ 9999 99       5       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV          Someday         tmp/ADVL            -----      5
+ 9999 99       1       O   PRON              his           attr/A            -----      2
+ 9999 99       2       O      N             name        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_may       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_find      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP               in         loc/ADVL            -----      5
+ 9999 99       7       O      N          science           attr/A            -----      8
+ 9999 99       8       O      N            books          pcomp/P            -----      6
+ 9999 99       9       O   PREP         all_over          mod/NOM            -----      8
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N            world          pcomp/P            -----      9
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N             Erik        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              n't         neg/ADVL            -----      1
+ 9999 99       3       O      V            T_get      main/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_keep       obj/FMAINV            -----      3
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            bones          obj/OBJ            -----      5
+ 9999 99       8       O     CC              and            cc/CC            -----      7
+ 9999 99       9       O      N            teeth           cc/OBJ            -----      7
+ 9999 99      10       O    SEP                .           cc/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN            T_put      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      A             safe           attr/A            -----      7
+ 9999 99       7       O      N            place          pcomp/P            -----      4
+ 9999 99       8       O   PREP               in          mod/NOM            -----      7
+ 9999 99       9       O    DET                a           det/DN            -----     10
+ 9999 99      10       O      N           museum          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N             Erik           comp/S            -----      1
+ 9999 99       3       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    DET             What           det/DN            -----      1
+ 9999 99       1       O      N             kind          obj/OBJ            -----      7
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O      N           animal           attr/A            -----      4
+ 9999 99       4       O      N            bones          pcomp/P            -----      2
+ 9999 99       5       O      V             T_do       v-ch/FAUXV            -----      7
+ 9999 99       6       O   PRON             they        subj/SUBJ            -----      5
+ 9999 99       7       O      V          T_think      main/FMAINV            -----     -1
+ 9999 99       8       O      N             Erik             oc/O            -----      9
+ 9999 99       9       O      V           T_find    NOFUNC/FMAINV            -----     -1
+ 9999 99      10       O    SEP                ?    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N         dinosaur        subj/SUBJ            -----      1
+ 9999 99       4       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V           T_will     NOFUNC/FAUXV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N            bones        subj/SUBJ            -----      1
+ 9999 99       4       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99       5       O      N            teeth      NOFUNC/SUBJ            -----     -1
+ 9999 99       6       O      V             T_be       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN           T_keep       mod/FMAINV            -----      5
+ 9999 99       8       O    SEP                ?       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      5
+ 9999 99       1       O      V          T_might       v-ch/FAUXV            -----      5
+ 9999 99       2       O      N           Erik's           attr/A            -----      3
+ 9999 99       3       O    DET             last           det/DN            -----      4
+ 9999 99       4       O      N             name        subj/SUBJ            -----      1
+ 9999 99       5       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       6       O      A           famous           comp/S            -----      5
+ 9999 99       7       O    ADV          someday         tmp/ADVL            -----      5
+ 9999 99       8       O    SEP                ?         tmp/ADVL            ?????     -1
+

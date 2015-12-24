@@ -1,0 +1,358 @@
+0		
+	$<p>	
+
+0		
+1	Disneyland	Disneyland	subj:>2	@SUBJ N
+2	Opens	open	main:>0	@+FMAINV V
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	ANAHEIM	Anaheim		@NH N
+	$,	
+4	CALIF.	Calif.	mod:>2	@<NOM ABBR
+	$,	
+6	July	July		@APP N	@A> N
+7	24,1955	24,1955		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	A	a		@DN> DET
+2	giant	giant		@NH N	@SUBJ N	@OBJ N	@A> N
+	$,	
+4	new	new	attr:>5	@A> A
+5	park	park	subj:>6	@SUBJ N
+6	opens	open	main:>0	@+FMAINV V
+7	this	this	det:>8	@DN> DET
+8	week	week	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	like	like	man:>2	@ADVL PREP
+4	no	no	det:>5	@DN> DET
+5	other	other	attr:>6	@DN> DET
+6	place	place	pcomp:>3	@<P N
+7	in	in	mod:>6	@<NOM PREP
+8	the	the	det:>9	@DN> DET
+9	world	world	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	Disneyland	Disneyland	comp:>3	@PCOMPL-S N
+	$,	
+6	and	and	cc:>3	@CC CC
+7	it	it	subj:>8	@SUBJ PRON
+8	has	have	cc:>3	@+FMAINV V
+9	a_lot_of	a_lot_of	det:>11	@DN> DET
+10	fun	fun	attr:>11	@A> N
+11	rides	ride	obj:>8	@OBJ N
+	$,	
+13	like	like	ha:>8	@ADVL PREP
+14	roller	roller	attr:>15	@A> N
+15	coasters	coaster	pcomp:>13	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Disneyland	Disneyland	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	dream	dream	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	Walt	Walt	attr:>7	@A> N
+7	Disney	Disney	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	wanted	want	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	build	build	obj:>2	@-FMAINV V
+5	a	a	det:>6	@DN> DET
+6	place	place	obj:>4	@OBJ N
+7	where	where	loc:>12	@ADVL ADV
+8	the	the	det:>10	@DN> DET
+9	whole	whole	attr:>10	@A> A
+10	family	family	subj:>11	@SUBJ N
+11	could	could	v-ch:>12	@+FAUXV V
+12	have	have	mod:>6	@-FMAINV V
+13	fun	fun	obj:>12	@OBJ N
+14	together	together	meta:>12	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	Four	four	qn:>2	@QN> NUM
+2	areas	area	subj:>3	@SUBJ N
+3	make	make	main:>0	@+FMAINV V
+4	up	up	phr:>3	@ADVL ADV
+5	the	the	det:>6	@DN> DET
+6	park	park	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	One	one	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	Adventure	adventure	attr:>5	@A> N
+5	Land	land	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	There	there	meta:>4	@ADVL ADV
+2	you	you	subj:>3	@SUBJ PRON
+3	can	can	v-ch:>4	@+FAUXV V
+4	ride	ride	main:>0	@-FMAINV V
+5	on	on	loc:>4	@ADVL PREP
+6	boats	boat	pcomp:>5	@<P N
+7	that	that	subj:>8	@SUBJ PRON
+8	take	take	mod:>6	@+FMAINV V
+9	you	you	obj:>8	@OBJ PRON
+10	through	through	ha:>8	@ADVL PREP
+11	forests	forest	pcomp:>10	@<P N
+12	with	with		@<NOM PREP	@ADVL PREP
+13	wild-looking	wild-looking	attr:>14	@A> A
+14	animals	animal	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	boat	boat	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	named	name	main:>0	@-FMAINV EN
+5	for	for	ha:>4	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	famous	fam	attr:>8	@A> A
+8	river	river	pcomp:>5	@<P N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>11	@DN> DET
+11	world	world	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	hop	hop	main:>0	@-FMAINV V
+4	on	on	loc:>3	@ADVL PREP
+5	the	the	det:>7	@DN> DET
+6	Nile	Nile	attr:>7	@A> N
+7	Princess	princess	pcomp:>4	@<P N
+8	or	or	cc:>7	@CC CC
+9	the	the	det:>11	@DN> DET
+10	Amazon	amazon	attr:>11	@A> N
+11	Belle	belle	cc:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	second	second	attr:>3	@A> NUM
+3	area	area	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	Fantasy	fantasy	attr:>6	@A> N
+6	Land	land	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Here	here		@ADVL ADV
+2	you	you	subj:>3	@SUBJ PRON
+3	can	can	v-ch:>4	@+FAUXV V
+4	see	see	main:>0	@-FMAINV V
+5	ghosts	ghost	obj:>4	@OBJ N
+6	in	in	ha:>4	@ADVL PREP
+7	haunted	haunt	attr:>8	@A> A
+8	houses	house	pcomp:>6	@<P N
+9	without	without		@<NOM PREP	@ADVL PREP
+10	getting	get	pcomp:>9	@<P-FMAINV ING
+11	scared	scare	comp:>10	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	It_	it	subj:>2	@SUBJ PRON
+2	's	be	main:>0	@+FMAINV V
+3	all	all	det:>4	@DN> DET
+4	make-believe	make-believe	comp:>2	@PCOMPL-S N
+	$,	
+6	but	but	cc:>2	@CC CC
+7	it	it	subj:>8	@SUBJ PRON
+8	looks	look	cc:>2	@+FMAINV V
+9	real	real	comp:>8	@PCOMPL-S A
+	$.	
+	$<p>	
+
+0		
+1	Frontier	frontier	attr:>2	@A> N
+2	Land	land	subj:>3	@SUBJ N
+3	shows	show	main:>0	@+FMAINV V
+4	you	you	dat:>3	@I-OBJ PRON
+5	what	what		@SUBJ PRON	@OBJ PRON	@PCOMPL-S PRON
+6	it	it	subj:>7	@SUBJ PRON
+7	was	be	obj:>3	@+FMAINV V
+8	like	like	ha:>7	@ADVL PREP
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	live	live	comp:>7	@-FMAINV V
+11	in	in	ha:>10	@ADVL PREP
+12	the	the	det:>14	@DN> DET
+13	Old	old	attr:>14	@A> A
+14	West	west	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	And	and	cc:>0	@CC CC
+	$,	
+3	Tomorrow	tomorrow	tmp:>5	@ADVL N
+4	Land	land	subj:>5	@SUBJ N
+5	gives	give	main:>0	@+FMAINV V
+6	you	you	dat:>5	@I-OBJ PRON
+7	an	an	det:>8	@DN> DET
+8	idea	idea	obj:>5	@OBJ N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	what	what	subj:>13	@SUBJ PRON
+11	the	the	det:>12	@DN> DET
+12	future	future	mod:>10	@ADVL N
+13	might	might	v-ch:>14	@+FAUXV V
+14	be	be	pcomp:>9	@-FMAINV V
+15	like	like	ha:>14	@ADVL PREP
+	$.	
+	$<p>	
+
+0		
+1	One	one	subj:>6	@SUBJ NUM
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>5	@DN> DET
+4	best	good	attr:>5	@A> A
+5	rides	ride	pcomp:>2	@<P N
+6	is	be	main:>0	@+FMAINV V
+7	the	the	det:>8	@DN> DET
+8	Matterhorn	Matterhorn	comp:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	roller	roller	attr:>5	@A> N
+5	coaster	coaster	comp:>2	@PCOMPL-S N
+6	that	that	subj:>7	@SUBJ PRON
+7	takes	take	mod:>5	@+FMAINV V
+8	you	you	obj:>7	@OBJ PRON
+9	up_and_down	up_and_down	ha:>7	@ADVL PREP
+10	a	a	det:>12	@DN> DET
+11	fake	fake	attr:>12	@A> N
+12	mountain	mountain	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	real	real	attr:>3	@A> A
+3	Matterhorn	Matterhorn	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	in	in	loc:>4	@ADVL PREP
+6	Switzerland	Switzerland	pcomp:>5	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	had	have	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	dream	dream	obj:>2	@OBJ N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	build	build	mod:>4	@-FMAINV V
+7	a	a	det:>9	@DN> DET
+8	family	family	attr:>9	@A> N
+9	park	park	obj:>6	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	names	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	boats	boat	pcomp:>5	@<P N
+8	in	in	mod:>7	@<NOM PREP
+9	Adventure	adventure	attr:>10	@A> N
+10	Land	land	pcomp:>8	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Disneyland	Disneyland	subj:>2	@SUBJ N
+4	open	open	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	would	would	v-ch:>4	@+FAUXV V
+3	you	you	subj:>2	@SUBJ PRON
+4	see	see	main:>0	@-FMAINV V
+5	ghosts	ghost	obj:>4	@OBJ N
+6	at	at	ha:>4	@ADVL PREP
+7	Disneyland	Disneyland	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	Matterhorn	Matterhorn	subj:>2	@SUBJ N
+5	one	one	mod:>4	@<NOM NUM
+6	of	of	mod:>5	@<NOM-OF PREP
+7	the	the	det:>9	@DN> DET
+8	best	good	attr:>9	@A> A
+9	rides	ride	pcomp:>6	@<P N
+	$?	
+	$<p>	
+

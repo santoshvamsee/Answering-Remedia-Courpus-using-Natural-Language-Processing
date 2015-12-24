@@ -1,0 +1,322 @@
+
+ 9999 99       0       O      N           People          main/NH            -----     -1
+ 9999 99       1       O     EN           T_move       mod/FMAINV            -----      0
+ 9999 99       2       O   PREP               By          ha/ADVL            -----      1
+ 9999 99       3       O      A              New           attr/A            -----      4
+ 9999 99       4       O      N        Invention          pcomp/P            -----      2
+
+ 9999 99       0       O    SEP                (          pcomp/P            ?????     -1
+ 9999 99       1       O      A              NEW           attr/A            -----      2
+ 9999 99       2       O      N             YORK       NOFUNC/APP            -----     -1
+ 9999 99       3       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       4       O    NUM             1854        NOFUNC/NH            -----     -1
+ 9999 99       5       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       6       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O   PREP               In         cla/ADVL            -----     10
+ 9999 99       1       O      N        buildings          pcomp/P            -----      0
+ 9999 99       2       O   PREP         all_over          mod/NOM            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N          country          pcomp/P            -----      2
+ 9999 99       5       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       6       O    DET                a           det/DN            -----      8
+ 9999 99       7       O      A              new           attr/A            -----      8
+ 9999 99       8       O      N        invention        subj/SUBJ            -----      9
+ 9999 99       9       O      V             T_be       v-ch/FAUXV            -----     10
+ 9999 99      10       O    ING           T_take      main/FMAINV            -----     -1
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N            place          obj/OBJ            -----     10
+ 9999 99      13       O   PREP               of           mod/OF            -----     12
+ 9999 99      14       O      N           stairs          pcomp/P            -----     13
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N         elevator           comp/S            -----      2
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      A            small           attr/A            -----      4
+ 9999 99       4       O      N         platform           comp/S            -----      1
+ 9999 99       5       O   PRON             that        subj/SUBJ            -----      6
+ 9999 99       6       O      V          T_carry       mod/FMAINV            -----      4
+ 9999 99       7       O      N           people          obj/OBJ            -----      6
+ 9999 99       8       O   PREP      up_and_down          ha/ADVL            -----      6
+ 9999 99       9       O      N           inside           attr/A            -----     10
+ 9999 99      10       O      N        buildings          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N         elevator        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_go      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               up          ha/ADVL            -----      3
+ 9999 99       5       O    NUM               60            qn/QN            -----      6
+ 9999 99       6       O      N             feet           comp/S            -----      3
+ 9999 99       7       O     CC               or            cc/CC            -----      6
+ 9999 99       8       O   PRON             more             cc/S            -----      6
+ 9999 99       9       O    SEP                .             cc/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N           people        subj/SUBJ            -----      5
+ 9999 99       2       O   PRON              who        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_ride       mod/FMAINV            -----      1
+ 9999 99       4       O   PRON               it          obj/OBJ            -----      3
+ 9999 99       5       O      V           T_will       v-ch/FAUXV            -----      7
+ 9999 99       6       O NEG-PART              n't         neg/ADVL            -----      5
+ 9999 99       7       O      V            T_get      main/FMAINV            -----     -1
+ 9999 99       8       O      A            dizzy           comp/S            -----      7
+ 9999 99       9       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N         platform        subj/SUBJ            -----      5
+ 9999 99       2       O    ADV            where         loc/ADVL            -----      4
+ 9999 99       3       O   PRON             they        subj/SUBJ            -----      4
+ 9999 99       4       O      V          T_stand       mod/FMAINV            -----      1
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN       T_surround      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP               by         agt/ADVL            -----      6
+ 9999 99       8       O      N            walls          pcomp/P            -----      7
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              It_        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP             like         man/ADVL            -----      1
+ 9999 99       3       O    ING           T_ride     pcomp/FMAINV            -----      2
+ 9999 99       4       O    ADV      up_and_down      NOFUNC/ADVL            -----     -1
+ 9999 99       5       O   PREP               in      NOFUNC/ADVL            -----     -1
+ 9999 99       6       O    DET                a           det/DN            -----      8
+ 9999 99       7       O      A            small           attr/A            -----      8
+ 9999 99       8       O      N             room          pcomp/P            -----      5
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N            Ropes        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_lift      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N         elevator          obj/OBJ            -----      1
+ 9999 99       4       O   PREP               to         goa/ADVL            -----      1
+ 9999 99       5       O    DET             each           det/DN            -----      6
+ 9999 99       6       O      N            floor          pcomp/P            -----      4
+ 9999 99       7       O    ADV            where         loc/ADVL            -----     10
+ 9999 99       8       O   PRON               it        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_must       v-ch/FAUXV            -----     10
+ 9999 99      10       O      V           T_stop       mod/FMAINV            -----      6
+ 9999 99      11       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET             Some           det/DN            -----      1
+ 9999 99       1       O      N           people        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_have       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O      A           afraid           comp/S            -----      3
+ 9999 99       5       O     CS             that            pm/CS            -----      9
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            ropes        subj/SUBJ            -----      8
+ 9999 99       8       O      V          T_would       v-ch/FAUXV            -----      9
+ 9999 99       9       O      V          T_break       mod/FMAINV            -----      4
+ 9999 99      10       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O      N           Elisha           attr/A            -----      1
+ 9999 99       1       O      N             Otis        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_think      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               of         phr/ADVL            -----      2
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N              way          pcomp/P            -----      3
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V           T_make       mod/FMAINV            -----      5
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N        elevators          obj/OBJ            -----      7
+ 9999 99      10       O      N             safe             oc/O            -----      7
+ 9999 99      11       O    SEP                .             oc/O            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      N           safety           attr/A            -----      5
+ 9999 99       5       O      N            brake          obj/OBJ            -----      2
+ 9999 99       6       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N            clamp           comp/S            -----      1
+ 9999 99       4       O   PRON             that        subj/SUBJ            -----      5
+ 9999 99       5       O      V            T_can       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V           T_stop       mod/FMAINV            -----      0
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N         elevator          obj/OBJ            -----      6
+ 9999 99       9       O     CC              and            cc/CC            -----      6
+ 9999 99      10       O      V           T_hold        cc/FMAINV            -----      6
+ 9999 99      11       O   PRON               it          obj/OBJ            -----     10
+ 9999 99      12       O   PREP               in         loc/ADVL            -----     10
+ 9999 99      13       O      N            place          pcomp/P            -----     12
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV          Earlier      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    DET             this           det/DN            -----      2
+ 9999 99       2       O      N             year         tmp/ADVL            -----      5
+ 9999 99       3       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       4       O      N             Otis        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_show      main/FMAINV            -----     -1
+ 9999 99       6       O    ADV              how         man/ADVL            -----     10
+ 9999 99       7       O   PRON              his           attr/A            -----      8
+ 9999 99       8       O      N           safety           attr/A            -----      9
+ 9999 99       9       O      N            brake        subj/SUBJ            -----     10
+ 9999 99      10       O      V           T_work       obj/FMAINV            -----      5
+ 9999 99      11       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O   PREP               As         cla/ADVL            -----      8
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N            crowd          pcomp/P            -----      0
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O      N           people           attr/A            -----      5
+ 9999 99       5       O      A          watched          pcomp/P            -----      3
+ 9999 99       6       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       7       O   PRON               he        subj/SUBJ            -----      8
+ 9999 99       8       O      V           T_ride      main/FMAINV            -----     -1
+ 9999 99       9       O    DET               an           det/DN            -----     10
+ 9999 99      10       O      N         elevator          obj/OBJ            -----      8
+ 9999 99      11       O   PREP               to         goa/ADVL            -----      8
+ 9999 99      12       O    DET              the           det/DN            -----     13
+ 9999 99      13       O      N              top          pcomp/P            -----     11
+ 9999 99      14       O   PREP               of           mod/OF            -----     13
+ 9999 99      15       O    DET                a           det/DN            -----     17
+ 9999 99      16       O      A             tall           attr/A            -----     17
+ 9999 99      17       O      N         building          pcomp/P            -----     14
+ 9999 99      18       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      2
+ 9999 99       1       O   PRON               he        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON              his           attr/A            -----      4
+ 9999 99       4       O      N           helper         subj/OBJ            -----      5
+ 9999 99       5       O      V            T_cut       obj/FMAINV            -----      2
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            ropes          obj/OBJ            -----      5
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N         elevator        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_begin      main/FMAINV            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V           T_fall       obj/FMAINV            -----      2
+ 9999 99       5       O    SEP                !       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O      N             Otis        subj/SUBJ            -----      3
+ 9999 99       2       O    ADV           calmly         man/ADVL            -----      3
+ 9999 99       3       O      V           T_pull      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON              his           attr/A            -----      5
+ 9999 99       5       O      N           safety           attr/A            -----      6
+ 9999 99       6       O      N            brake          obj/OBJ            -----      3
+ 9999 99       7       O    ADV             just             ad/A            -----      8
+ 9999 99       8       O     CS           before            pm/CS            -----     10
+ 9999 99       9       O   PRON               he        subj/SUBJ            -----     10
+ 9999 99      10       O      V          T_crash       tmp/FMAINV            -----      3
+ 9999 99      11       O   PREP             into         goa/ADVL            -----     10
+ 9999 99      12       O    DET              the           det/DN            -----     13
+ 9999 99      13       O      N           ground          pcomp/P            -----     11
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N         elevator        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_stop      main/FMAINV            -----     -1
+ 9999 99       3       O     CC              and            cc/CC            -----      2
+ 9999 99       4       O      V           T_stay        cc/FMAINV            -----      2
+ 9999 99       5       O   PREP               in         loc/ADVL            -----      4
+ 9999 99       6       O      N            place          pcomp/P            -----      5
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      2
+ 9999 99       1       O      N             Otis        subj/SUBJ            -----      2
+ 9999 99       2       O      V        T_release      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N            brake          obj/OBJ            -----      2
+ 9999 99       5       O     CC              and            cc/CC            -----      2
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N         elevator        subj/SUBJ            -----      8
+ 9999 99       8       O      V             T_be       v-ch/FAUXV            -----      9
+ 9999 99       9       O     EN          T_lower        cc/FMAINV            -----      2
+ 9999 99      10       O   PREP               to          ha/ADVL            -----      9
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N           ground          pcomp/P            -----     10
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N             Otis        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_bow      main/FMAINV            -----     -1
+ 9999 99       2       O     CS               as            pm/CS            -----      4
+ 9999 99       3       O   PRON               he        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_step       man/FMAINV            -----      1
+ 9999 99       5       O    ADV            forth          ha/ADVL            -----      4
+ 9999 99       6       O    SEP                .          ha/ADVL            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a        NOFUNC/DN            -----     -1
+ 9999 99       4       O      N           safety       NOFUNC/OBJ            -----     -1
+ 9999 99       5       O      N            brake      NOFUNC/SUBJ            -----     -1
+ 9999 99       6       O    SEP                ?      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             name           comp/S            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N        invention          pcomp/P            -----      4
+ 9999 99       7       O   PRON             that        subj/SUBJ            -----      8
+ 9999 99       8       O      V           T_take       mod/FMAINV            -----      6
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N            place          dat/OBJ            -----      8
+ 9999 99      11       O   PREP               of           mod/OF            -----     10
+ 9999 99      12       O      N           stairs          pcomp/P            -----     11
+ 9999 99      13       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET             this           det/DN            -----      3
+ 9999 99       3       O      N            story        subj/SUBJ            -----      1
+ 9999 99       4       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       5       O      N            place          obj/OBJ            -----      4
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N           people        subj/SUBJ            -----      1
+ 9999 99       3       O      V          T_stand      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in          ha/ADVL            -----      3
+ 9999 99       5       O    DET               an           det/DN            -----      6
+ 9999 99       6       O      N         elevator          pcomp/P            -----      4
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET             some           det/DN            -----      3
+ 9999 99       3       O      N           people        subj/SUBJ            -----      1
+ 9999 99       4       O      A           afraid           comp/S            -----      1
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V           T_ride       mod/FMAINV            -----      4
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N         elevator          obj/OBJ            -----      6
+ 9999 99       9       O    SEP                ?          obj/OBJ            ?????     -1
+

@@ -1,0 +1,304 @@
+
+ 9999 99       0       O      N           Hawaii        subj/SUBJ            -----      1
+ 9999 99       1       O      V         T_become      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM             50th           attr/A            -----      3
+ 9999 99       3       O      N            State           comp/S            -----      1
+
+ 9999 99       0       O    SEP                (           comp/S            ?????     -1
+ 9999 99       1       O      N         HONOLULU          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N           HAWAII            cc/NH            -----      1
+ 9999 99       4       O    SEP                ,            cc/NH            ?????     -1
+ 9999 99       5       O      N           August        NOFUNC/NH            -----     -1
+ 9999 99       6       O    NUM               21          mod/NOM            -----      5
+ 9999 99       7       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       8       O    NUM             1959          mod/NOM            -----      6
+ 9999 99       9       O    SEP                )          mod/NOM            ?????     -1
+ 9999 99      10       O    NUM            Eight            qn/QN            -----     11
+ 9999 99      11       O      N          islands        subj/SUBJ            -----     19
+ 9999 99      12       O   PREP               in          mod/NOM            -----     11
+ 9999 99      13       O    DET              the           det/DN            -----     14
+ 9999 99      14       O      N           middle          pcomp/P            -----     12
+ 9999 99      15       O   PREP               of           mod/OF            -----     14
+ 9999 99      16       O    DET              the           det/DN            -----     18
+ 9999 99      17       O      N          Pacific           attr/A            -----     18
+ 9999 99      18       O      N            Ocean          pcomp/P            -----     15
+ 9999 99      19       O      V           T_have       v-ch/FAUXV            -----     20
+ 9999 99      20       O     EN         T_become      main/FMAINV            -----     -1
+ 9999 99      21       O   PRON              our           attr/A            -----     22
+ 9999 99      22       O    NUM             50th           attr/A            -----     23
+ 9999 99      23       O      N            state           comp/S            -----     20
+ 9999 99      24       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N          islands        subj/SUBJ            -----      4
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O      N           Hawaii          pcomp/P            -----      2
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_give      main/FMAINV            -----     -1
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N           rights          obj/OBJ            -----      5
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O      N        statehood          pcomp/P            -----      8
+ 9999 99      10       O      N            today         tmp/ADVL            -----      5
+ 9999 99      11       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O      N           Hawaii        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O    ING            T_try      main/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V         T_become       obj/FMAINV            -----      3
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N            state           comp/S            -----      5
+ 9999 99       8       O   PREP            since         tmp/ADVL            -----      5
+ 9999 99       9       O    NUM             1900          pcomp/P            -----      8
+ 9999 99      10       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99      11       O   PRON               It        subj/SUBJ            -----     12
+ 9999 99      12       O      V           T_have    NOFUNC/FMAINV            -----     -1
+ 9999 99      13       O    ADV           almost             ad/A            -----     14
+ 9999 99      14       O    NUM          600,000            qn/QN            -----     15
+ 9999 99      15       O      N           people          obj/OBJ            -----     12
+ 9999 99      16       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O     CS          Because            pm/CS            -----      2
+ 9999 99       1       O   PRON               it        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       cnt/FMAINV            -----      8
+ 9999 99       3       O    ADV               so             ad/A            -----      4
+ 9999 99       4       O      A        beautiful           comp/S            -----      2
+ 9999 99       5       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       6       O      N         Hawaii's           attr/A            -----      7
+ 9999 99       7       O      N         nickname        subj/SUBJ            -----      8
+ 9999 99       8       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       9       O    SEP               "_      main/FMAINV            ?????     -1
+ 9999 99      10       O      N         Paradise      NOFUNC/SUBJ            -----     -1
+ 9999 99      11       O   PREP               of           mod/OF            -----     10
+ 9999 99      12       O    DET              the           det/DN            -----     13
+ 9999 99      13       O      N          Pacific          pcomp/P            -----     11
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+ 9999 99      15       O    SEP               _"          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N        President           attr/A            -----      1
+ 9999 99       1       O      N           Dwight           attr/A            -----      2
+ 9999 99       2       O      N       Eisenhower        subj/SUBJ            -----      3
+ 9999 99       3       O      V        T_display      main/FMAINV            -----     -1
+ 9999 99       4       O    DET                a           det/DN            -----      7
+ 9999 99       5       O      A              new           attr/A            -----      6
+ 9999 99       6       O      N             flag           attr/A            -----      7
+ 9999 99       7       O      N           design          obj/OBJ            -----      3
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM             nine            qn/QN            -----      3
+ 9999 99       3       O      N             rows          obj/OBJ            -----      1
+ 9999 99       4       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             Some        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM              six            qn/QN            -----      3
+ 9999 99       3       O      N            stars          obj/OBJ            -----      1
+ 9999 99       4       O   PRON             each      NOFUNC/SUBJ            -----     -1
+ 9999 99       5       O     CC              and            cc/CC            -----      1
+ 9999 99       6       O   PRON           others        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_have        cc/FMAINV            -----      1
+ 9999 99       8       O    NUM             five            qn/QN            -----      9
+ 9999 99       9       O      N            stars          obj/OBJ            -----      7
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O    NUM             20th           attr/A            -----      4
+ 9999 99       4       O      N             time           comp/S            -----      1
+ 9999 99       5       O     CS             that            pm/CS            -----     10
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O      A           United           attr/A            -----      8
+ 9999 99       8       O      N           States        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_have       v-ch/FAUXV            -----     10
+ 9999 99      10       O     EN           T_have       mod/FMAINV            -----      4
+ 9999 99      11       O    DET                a           det/DN            -----     13
+ 9999 99      12       O      A              new           attr/A            -----     13
+ 9999 99      13       O      N             flag          obj/OBJ            -----     10
+ 9999 99      14       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O    NUM           second           attr/A            -----      4
+ 9999 99       4       O      N             time           comp/S            -----      1
+ 9999 99       5       O    DET             this           det/DN            -----      6
+ 9999 99       6       O      N             year         tmp/ADVL            -----      1
+ 9999 99       7       O     CS             that            pm/CS            -----     13
+ 9999 99       8       O    DET                a           det/DN            -----     10
+ 9999 99       9       O      A              new           attr/A            -----     10
+ 9999 99      10       O      N            state        subj/SUBJ            -----     11
+ 9999 99      11       O      V           T_have       v-ch/FAUXV            -----     12
+ 9999 99      12       O     EN             T_be       v-ch/FAUXV            -----     13
+ 9999 99      13       O     EN            T_add    NOFUNC/FMAINV            -----     -1
+ 9999 99      14       O    SEP                .    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O   PREP               On         loc/ADVL            -----      5
+ 9999 99       1       O      N          January          pcomp/P            -----      0
+ 9999 99       2       O    NUM                3          mod/NOM            -----      1
+ 9999 99       3       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       4       O      N           Alaska        subj/SUBJ            -----      5
+ 9999 99       5       O      V         T_become      main/FMAINV            -----     -1
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O    NUM             49th           attr/A            -----      8
+ 9999 99       8       O      N            state           comp/S            -----      5
+ 9999 99       9       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O    NUM            first           attr/A            -----      4
+ 9999 99       4       O      A              new           attr/A            -----      5
+ 9999 99       5       O      N            state           comp/S            -----      1
+ 9999 99       6       O   PREP            since          ha/ADVL            -----      1
+ 9999 99       7       O      N          Arizona          pcomp/P            -----      6
+ 9999 99       8       O   PREP               in         tmp/ADVL            -----      1
+ 9999 99       9       O    NUM             1912          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N           Alaska        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    DET         a_lot_of           det/DN            -----      4
+ 9999 99       3       O      N              oil           attr/A            -----      4
+ 9999 99       4       O      N      underground          obj/OBJ            -----      1
+ 9999 99       5       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      A          largest           attr/A            -----      4
+ 9999 99       4       O      N            state           comp/S            -----      1
+ 9999 99       5       O   PREP             with          ha/ADVL            -----      1
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O   PRON           fewest            qn/QN            -----      8
+ 9999 99       8       O      N           number          pcomp/P            -----      5
+ 9999 99       9       O   PREP               of           mod/OF            -----      8
+ 9999 99      10       O      N           people          pcomp/P            -----      9
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV          Neither        meta/ADVL            -----      1
+ 9999 99       1       O      N           Alaska          cc/SUBJ            -----      3
+ 9999 99       2       O     CC              nor            cc/CC            -----      3
+ 9999 99       3       O      N           Hawaii        subj/SUBJ            -----      4
+ 9999 99       4       O      V         T_border      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON              any          obj/OBJ            -----      4
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O    DET            other          attr/DN            -----      9
+ 9999 99       9       O      N           states          pcomp/P            -----      6
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP            Until         tmp/ADVL            -----      6
+ 9999 99       1       O    DET             this           det/DN            -----      2
+ 9999 99       2       O      N             year          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O   PRON             they        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_have       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN             T_be      main/FMAINV            -----     -1
+ 9999 99       7       O      N      territories           comp/S            -----      6
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O    DET              the           det/DN            -----     11
+ 9999 99      10       O      A           United           attr/A            -----     11
+ 9999 99      11       O      N           States          pcomp/P            -----      8
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             That        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_mean      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      A           United           attr/A            -----      4
+ 9999 99       4       O      N           States        subj/SUBJ            -----      5
+ 9999 99       5       O      V            T_own       obj/FMAINV            -----      1
+ 9999 99       6       O   PRON             them          obj/OBJ            -----      5
+ 9999 99       7       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       8       O     CC              but            cc/CC            -----      5
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N           people        subj/SUBJ            -----     11
+ 9999 99      11       O      V          T_could       v-ch/FAUXV            -----     13
+ 9999 99      12       O NEG-PART              not         neg/ADVL            -----     11
+ 9999 99      13       O      V           T_vote        cc/FMAINV            -----      5
+ 9999 99      14       O     CC               or            cc/CC            -----     13
+ 9999 99      15       O      V           T_have        cc/FMAINV            -----     13
+ 9999 99      16       O      A          certain           attr/A            -----     17
+ 9999 99      17       O    DET            other           det/DN            -----     18
+ 9999 99      18       O      N           rights          obj/OBJ            -----     15
+ 9999 99      19       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV              Now         tmp/ADVL            -----      6
+ 9999 99       1       O      N           Hawaii          cc/SUBJ            -----      3
+ 9999 99       2       O     CC              and            cc/CC            -----      3
+ 9999 99       3       O      N           Alaska        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_will       v-ch/FAUXV            -----      5
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN          T_treat      main/FMAINV            -----     -1
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O   PRON             same         NOFUNC/S            -----     -1
+ 9999 99       9       O   PREP               as      copred/ADVL            -----      6
+ 9999 99      10       O    DET              all           det/DN            -----     11
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O    DET            other          attr/DN            -----     13
+ 9999 99      13       O      N           states          pcomp/P            -----      9
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V        T_display      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      5
+ 9999 99       3       O      A              new           attr/A            -----      4
+ 9999 99       4       O      N             flag           attr/A            -----      5
+ 9999 99       5       O      N           design          obj/OBJ            -----      1
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O    NUM             50th           attr/A            -----      4
+ 9999 99       4       O      N            state           comp/S            -----      1
+ 9999 99       5       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      5
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O    DET             last          attr/DN            -----      4
+ 9999 99       4       O      N            state        subj/SUBJ            -----      1
+ 9999 99       5       O     EN            T_add      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP           before          ha/ADVL            -----      5
+ 9999 99       7       O      N           Alaska          pcomp/P            -----      6
+ 9999 99       8       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N           Hawaii        subj/SUBJ            -----      1
+ 9999 99       3       O    SEP                ?        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON               it        subj/SUBJ            -----      1
+ 9999 99       3       O      A           better           comp/S            -----      1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V             T_be       mod/FMAINV            -----      3
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N            state           comp/S            -----      5
+ 9999 99       8       O   PREP             than          ha/ADVL            -----      5
+ 9999 99       9       O    DET                a           det/DN            -----     10
+ 9999 99      10       O      N        territory          pcomp/P            -----      8
+ 9999 99      11       O    SEP                ?          pcomp/P            ?????     -1
+

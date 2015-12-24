@@ -1,0 +1,362 @@
+0		
+	$<p>	
+
+0		
+1	Hawaii	Hawaii	subj:>2	@SUBJ N
+2	Becomes	become	main:>0	@+FMAINV V
+3	50th	50th	attr:>4	@A> NUM
+4	State	state	comp:>2	@PCOMPL-S N
+	$<p>	
+
+0		
+	$(	
+2	HONOLULU	Honolulu	main:>1	@NH N
+	$,	
+4	HAWAII	Hawaii	cc:>2	@NH N
+	$,	
+6	August	August		@NH N
+7	21	21	mod:>6	@<NOM NUM
+	$,	
+9	1959	1959	mod:>7	@<NOM NUM
+	$)	
+11	Eight	eight	qn:>12	@QN> NUM
+12	islands	island	subj:>20	@SUBJ N
+13	in	in	mod:>12	@<NOM PREP
+14	the	the	det:>15	@DN> DET
+15	middle	middle	pcomp:>13	@<P N
+16	of	of	mod:>15	@<NOM-OF PREP
+17	the	the	det:>19	@DN> DET
+18	Pacific	Pacific	attr:>19	@A> N
+19	Ocean	ocean	pcomp:>16	@<P N
+20	have	have	v-ch:>21	@+FAUXV V
+21	become	become	main:>0	@-FMAINV EN
+22	our	we	attr:>23	@A> PRON
+23	50th	50th	attr:>24	@A> NUM
+24	state	state	comp:>21	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	islands	island	subj:>5	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	Hawaii	Hawaii	pcomp:>3	@<P N
+5	were	be	v-ch:>6	@+FAUXV V
+6	given	give	main:>0	@-FMAINV EN
+7	the	the	det:>8	@DN> DET
+8	rights	right	obj:>6	@OBJ N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	statehood	statehood	pcomp:>9	@<P N
+11	today	today	tmp:>6	@ADVL N
+	$.	
+	$<p>	
+
+0		
+1	Hawaii	Hawaii	subj:>2	@SUBJ N
+2	has	have	v-ch:>3	@+FAUXV V
+3	been	be	v-ch:>4	@-FAUXV EN
+4	trying	try	main:>0	@-FMAINV ING
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	become	become	obj:>4	@-FMAINV V
+7	a	a	det:>8	@DN> DET
+8	state	state	comp:>6	@PCOMPL-S N
+9	since	since	tmp:>6	@ADVL PREP
+10	1900	1900	pcomp:>9	@<P NUM
+	$,	
+12	It	it	subj:>13	@SUBJ PRON
+13	has	have		@+FMAINV V
+14	almost	almost	ad:>15	@AD-A> ADV
+15	600,000	600,000	qn:>16	@QN> NUM
+16	people	people	obj:>13	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Because	because	pm:>3	@CS CS
+2	it	it	subj:>3	@SUBJ PRON
+3	is	be	cnt:>9	@+FMAINV V
+4	so	so	ad:>5	@AD-A> ADV
+5	beautiful	beautiful	comp:>3	@PCOMPL-S A
+	$,	
+7	Hawaii's	Hawaii	attr:>8	@A> N
+8	nickname	nickname	subj:>9	@SUBJ N
+9	is	be	main:>0	@+FMAINV V
+	$"_	
+11	Paradise	paradise		@SUBJ N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	the	the	det:>14	@DN> DET
+14	Pacific	Pacific	pcomp:>12	@<P N
+	$.	
+	$_"	
+	$<p>	
+
+0		
+1	President	president	attr:>2	@A> N
+2	Dwight	Dwight	attr:>3	@A> N
+3	Eisenhower	Eisenhower	subj:>4	@SUBJ N
+4	displayed	display	main:>0	@+FMAINV V
+5	a	a	det:>8	@DN> DET
+6	new	new	attr:>7	@A> A
+7	flag	flag	attr:>8	@A> N
+8	design	design	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	has	have	main:>0	@+FMAINV V
+3	nine	nine	qn:>4	@QN> NUM
+4	rows	row	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Some	some	subj:>2	@SUBJ PRON
+2	have	have	main:>0	@+FMAINV V
+3	six	six	qn:>4	@QN> NUM
+4	stars	star	obj:>2	@OBJ N
+5	each	each		@SUBJ PRON	@OBJ PRON	@PCOMPL-O PRON	@APP PRON	@<NOM PRON	@QN> PRON	@ADVL PRON
+6	and	and	cc:>2	@CC CC
+7	others	other	subj:>8	@SUBJ PRON
+8	have	have	cc:>2	@+FMAINV V
+9	five	five	qn:>10	@QN> NUM
+10	stars	star	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	20th	20th	attr:>5	@A> NUM
+5	time	time	comp:>2	@PCOMPL-S N
+6	that	that	pm:>11	@CS CS
+7	the	the	det:>9	@DN> DET
+8	United	unite	attr:>9	@A> A
+9	States	state	subj:>10	@SUBJ N
+10	has	have	v-ch:>11	@+FAUXV V
+11	had	have	mod:>5	@-FMAINV EN
+12	a	a	det:>14	@DN> DET
+13	new	new	attr:>14	@A> A
+14	flag	flag	obj:>11	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	second	second	attr:>5	@A> NUM
+5	time	time	comp:>2	@PCOMPL-S N
+6	this	this	det:>7	@DN> DET
+7	year	year	tmp:>2	@ADVL N
+8	that	that	pm:>14	@CS CS
+9	a	a	det:>11	@DN> DET
+10	new	new	attr:>11	@A> A
+11	state	state	subj:>12	@SUBJ N
+12	has	have	v-ch:>13	@+FAUXV V
+13	been	be	v-ch:>14	@-FAUXV EN
+14	added	add		@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	On	on	loc:>6	@ADVL PREP
+2	January	January	pcomp:>1	@<P N
+3	3	3	mod:>2	@<NOM NUM
+	$,	
+5	Alaska	Alaska	subj:>6	@SUBJ N
+6	became	become	main:>0	@+FMAINV V
+7	the	the	det:>9	@DN> DET
+8	49th	49th	attr:>9	@A> NUM
+9	state	state	comp:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	new	new	attr:>6	@A> A
+6	state	state	comp:>2	@PCOMPL-S N
+7	since	since	ha:>2	@ADVL PREP
+8	Arizona	Arizona	pcomp:>7	@<P N
+9	in	in	tmp:>2	@ADVL PREP
+10	1912	1912	pcomp:>9	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	Alaska	Alaska	subj:>2	@SUBJ N
+2	has	have	main:>0	@+FMAINV V
+3	a_lot_of	a_lot_of	det:>5	@DN> DET
+4	oil	oil	attr:>5	@A> N
+5	underground	underground	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	largest	large	attr:>5	@A> A
+5	state	state	comp:>2	@PCOMPL-S N
+6	with	with	ha:>2	@ADVL PREP
+7	the	the	det:>9	@DN> DET
+8	fewest	few	qn:>9	@QN> PRON
+9	number	number	pcomp:>6	@<P N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	people	people	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Neither	neither	meta:>2	@ADVL ADV	@ADVL ADV	@AD-A> ADV
+2	Alaska	Alaska	cc:>4	@SUBJ N
+3	nor	nor	cc:>4	@CC CC
+4	Hawaii	Hawaii	subj:>5	@SUBJ N
+5	border	border	main:>0	@+FMAINV V
+6	any	any	obj:>5	@OBJ PRON
+7	of	of	mod:>6	@<NOM-OF PREP
+8	the	the	det:>9	@DN> DET
+9	other	other	attr:>10	@DN> DET
+10	states	state	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Until	until	tmp:>7	@ADVL PREP
+2	this	this	det:>3	@DN> DET
+3	year	year	pcomp:>1	@<P N
+	$,	
+5	they	they	subj:>6	@SUBJ PRON
+6	have	have	v-ch:>7	@+FAUXV V
+7	been	be	main:>0	@-FMAINV EN
+8	territories	territory	comp:>7	@PCOMPL-S N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>12	@DN> DET
+11	United	unite	attr:>12	@A> A
+12	States	state	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	means	mean	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	United	unite	attr:>5	@A> A
+5	States	state	subj:>6	@SUBJ N
+6	owned	own	obj:>2	@+FMAINV V
+7	them	they	obj:>6	@OBJ PRON
+	$,	
+9	but	but	cc:>6	@CC CC
+10	the	the	det:>11	@DN> DET
+11	people	people	subj:>12	@SUBJ N
+12	could	could	v-ch:>14	@+FAUXV V
+13	not	not	neg:>12	@ADVL NEG-PART
+14	vote	vote	cc:>6	@-FMAINV V
+15	or	or	cc:>14	@CC CC
+16	have	have	cc:>14	@-FMAINV V
+17	certain	certain	attr:>18	@A> A
+18	other	other	det:>19	@DN> DET
+19	rights	right	obj:>16	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	tmp:>7	@ADVL ADV
+2	Hawaii	Hawaii	cc:>4	@SUBJ N
+3	and	and	cc:>4	@CC CC
+4	Alaska	Alaska	subj:>5	@SUBJ N
+5	will	will	v-ch:>6	@+FAUXV V
+6	be	be	v-ch:>7	@-FAUXV V
+7	treated	treat	main:>0	@-FMAINV EN
+8	the	the	det:>9	@DN> DET
+9	same	same		@PCOMPL-S PRON
+10	as	as	copred:>7	@ADVL PREP
+11	all	all	det:>12	@DN> DET
+12	the	the	det:>13	@DN> DET
+13	other	other	attr:>14	@DN> DET
+14	states	state	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	displayed	display	main:>0	@+FMAINV V
+3	a	a	det:>6	@DN> DET
+4	new	new	attr:>5	@A> A
+5	flag	flag	attr:>6	@A> N
+6	design	design	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	50th	50th	attr:>5	@A> NUM
+5	state	state	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	was	be	v-ch:>6	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	last	last	attr:>5	@DN> DET
+5	state	state	subj:>2	@SUBJ N
+6	added	add	main:>0	@-FMAINV EN
+7	before	before	ha:>6	@ADVL PREP
+8	Alaska	Alaska	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	Hawaii	Hawaii	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	it	it	subj:>2	@SUBJ PRON
+4	better	good	comp:>2	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	be	be	mod:>4	@-FMAINV V
+7	a	a	det:>8	@DN> DET
+8	state	state	comp:>6	@PCOMPL-S N
+9	than	than	ha:>6	@ADVL PREP
+10	a	a	det:>11	@DN> DET
+11	territory	territory	pcomp:>9	@<P N
+	$?	
+	$<p>	
+

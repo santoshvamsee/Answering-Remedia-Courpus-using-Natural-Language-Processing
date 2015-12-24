@@ -1,0 +1,285 @@
+ 9999 99       0       O      A          Special           attr/A            -----      1
+ 9999 99       1       O      N           School           attr/A            -----      2
+ 9999 99       2       O      N           Trains           attr/A            -----      3
+ 9999 99       3       O      A         Faithful           attr/A            -----      4
+ 9999 99       4       O      N          Friends          main/NH            -----     -1
+
+ 9999 99       0       O    SEP                (          main/NH            ?????     -1
+ 9999 99       1       O      N       MORRISTOWN          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      A              NEW           attr/A            -----      4
+ 9999 99       4       O      N           JERSEY        NOFUNC/NH            -----     -1
+ 9999 99       5       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       6       O    NUM             1952        NOFUNC/NH            -----     -1
+ 9999 99       7       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       8       O     --               $-          NOFUNC/            -----     -1
+ 9999 99       9       O    DET                A           det/DN            -----     11
+ 9999 99      10       O      A           famous           attr/A            -----     11
+ 9999 99      11       O      N           school        subj/SUBJ            -----     12
+ 9999 99      12       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99      13       O    NUM               25            qn/QN            -----     14
+ 9999 99      14       O      A        years_old           comp/S            -----     12
+ 9999 99      15       O    DET             this           det/DN            -----     16
+ 9999 99      16       O      N             year         tmp/ADVL            -----     12
+ 9999 99      17       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O    DET             this           det/DN            -----      2
+ 9999 99       2       O      N           school        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O NEG-PART              not         neg/ADVL            -----      5
+ 9999 99       5       O   PREP              for      NOFUNC/ADVL            -----     -1
+ 9999 99       6       O      N         children          pcomp/P            -----      5
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP              for          ha/ADVL            -----      1
+ 9999 99       3       O      N             dogs          pcomp/P            -----      2
+ 9999 99       4       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O      A           Seeing           attr/A            -----      4
+ 9999 99       4       O      N              Eye           attr/A            -----      5
+ 9999 99       5       O      N           School           comp/S            -----      1
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV             Only        meta/ADVL            -----      2
+ 9999 99       1       O      A          special           attr/A            -----      2
+ 9999 99       2       O      N             dogs        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_can       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V             T_go      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP               to         goa/ADVL            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N           school          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_learn      main/FMAINV            -----     -1
+ 9999 99       2       O INFMARK               to       pm/INFMARK            -----      3
+ 9999 99       3       O      V            T_see       obj/FMAINV            -----      1
+ 9999 99       4       O   PREP              for          ha/ADVL            -----      3
+ 9999 99       5       O   PRON            their           attr/A            -----      6
+ 9999 99       6       O      N           owners          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             dogs        subj/SUBJ            -----      2
+ 9999 99       2       O      V         T_belong      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               to          ha/ADVL            -----      2
+ 9999 99       4       O      N           people          pcomp/P            -----      3
+ 9999 99       5       O   PRON              who        subj/SUBJ            -----      6
+ 9999 99       6       O      V             T_be       mod/FMAINV            -----      4
+ 9999 99       7       O      A            blind           comp/S            -----      6
+ 9999 99       8       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      4
+ 9999 99       1       O    NUM            first           attr/A            -----      2
+ 9999 99       2       O      A           Seeing           attr/A            -----      3
+ 9999 99       3       O      N              Eye           attr/A            -----      4
+ 9999 99       4       O      N              dog        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       6       O    DET                a           det/DN            -----      8
+ 9999 99       7       O      A           German           attr/A            -----      8
+ 9999 99       8       O      N         shepherd           comp/S            -----      5
+ 9999 99       9       O     EN           T_name       mod/FMAINV            -----      8
+ 9999 99      10       O      N            Buddy          obj/OBJ            -----      9
+ 9999 99      11       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_bear      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               in         loc/ADVL            -----      2
+ 9999 99       4       O      N      Switzerland          pcomp/P            -----      3
+ 9999 99       5       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CS          Because            pm/CS            -----      2
+ 9999 99       1       O   PRON               he        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       cnt/FMAINV            -----      8
+ 9999 99       3       O    ADV               so             ad/A            -----      4
+ 9999 99       4       O      A            smart           comp/S            -----      2
+ 9999 99       5       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       6       O   PRON               he        subj/SUBJ            -----      7
+ 9999 99       7       O      V             T_be       v-ch/FAUXV            -----      8
+ 9999 99       8       O     EN           T_send      main/FMAINV            -----     -1
+ 9999 99       9       O   PREP               to         dat/ADVL            -----      8
+ 9999 99      10       O    DET              the           det/DN            -----     12
+ 9999 99      11       O      A           United           attr/A            -----     12
+ 9999 99      12       O      N           States          pcomp/P            -----      9
+ 9999 99      13       O INFMARK               to       pm/INFMARK            -----     14
+ 9999 99      14       O      V             T_be       v-ch/FAUXV            -----     15
+ 9999 99      15       O     EN          T_train       mod/FMAINV            -----     12
+ 9999 99      16       O   PREP               at         loc/ADVL            -----     15
+ 9999 99      17       O    DET             this           det/DN            -----     19
+ 9999 99      18       O      A          special           attr/A            -----     19
+ 9999 99      19       O      N           school          pcomp/P            -----     16
+ 9999 99      20       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N            Buddy        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_learn      main/FMAINV            -----     -1
+ 9999 99       2       O INFMARK               to       pm/INFMARK            -----      3
+ 9999 99       3       O      V           T_lead       obj/FMAINV            -----      1
+ 9999 99       4       O   PRON              his           attr/A            -----      5
+ 9999 99       5       O      A            blind           attr/A            -----      6
+ 9999 99       6       O      N            owner          obj/OBJ            -----      3
+ 9999 99       7       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       8       O      N           Morris          voc/VOC            -----      3
+ 9999 99       9       O    SEP                .          voc/VOC            ?????     -1
+
+ 9999 99       0       O      N            Buddy        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_would       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_tell      main/FMAINV            -----     -1
+ 9999 99       3       O      N           Morris          dat/OBJ            -----      2
+ 9999 99       4       O    ADV             when         tmp/ADVL            -----      6
+ 9999 99       5       O   PRON               it        subj/SUBJ            -----      6
+ 9999 99       6       O      V             T_be       tmp/FMAINV            -----      2
+ 9999 99       7       O      A             safe           comp/S            -----      6
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V          T_cross       mod/FMAINV            -----      7
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N           street          obj/OBJ            -----      9
+ 9999 99      12       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_would       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_lead      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON              him          obj/OBJ            -----      2
+ 9999 99       4       O   PREP           around          ha/ADVL            -----      2
+ 9999 99       5       O      N           things          pcomp/P            -----      4
+ 9999 99       6       O   PRON             that        subj/SUBJ            -----      7
+ 9999 99       7       O      V             T_be       mod/FMAINV            -----      5
+ 9999 99       8       O   PREP               in         man/ADVL            -----      7
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N              way          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N           Morris        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_keep      main/FMAINV            -----     -1
+ 9999 99       2       O      N            Buddy          obj/OBJ            -----      1
+ 9999 99       3       O      A            close          mod/NOM            -----      2
+ 9999 99       4       O    ADV               by      NOFUNC/ADVL            -----     -1
+ 9999 99       5       O   PREP               on          ha/ADVL            -----      1
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N            leash          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM              Ten            qn/QN            -----      1
+ 9999 99       1       O      N            years        NOFUNC/NH            -----     -1
+ 9999 99       2       O   PREP            after       NOFUNC/NOM            -----     -1
+ 9999 99       3       O    DET              the        NOFUNC/DN            -----     -1
+ 9999 99       4       O      N           school        NOFUNC/NH            -----     -1
+ 9999 99       5       O     EN           T_open    NOFUNC/FMAINV            -----     -1
+ 9999 99       6       O    SEP                ,    NOFUNC/FMAINV            ?????     -1
+ 9999 99       7       O    ADV            there        subj/SUBJ            -----      8
+ 9999 99       8       O      V             T_be    NOFUNC/FMAINV            -----     -1
+ 9999 99       9       O    NUM              250            qn/QN            -----     12
+ 9999 99      10       O      A           Seeing           attr/A            -----     11
+ 9999 99      11       O      N              Eye           attr/A            -----     12
+ 9999 99      12       O      N             dogs           comp/S            -----      8
+ 9999 99      13       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O      N            Today         tmp/ADVL            -----      3
+ 9999 99       1       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       2       O    ADV            there        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O      N        thousands           comp/S            -----      3
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O   PRON             that        subj/SUBJ            -----      3
+ 9999 99       2       O    ADV            still        meta/ADVL            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O NEG-PART              not         neg/ADVL            -----      3
+ 9999 99       5       O    ADV           enough      NOFUNC/ADVL            -----     -1
+ 9999 99       6       O   PREP              for      NOFUNC/ADVL            -----     -1
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O    DET             many           det/DN            -----     10
+ 9999 99       9       O      A            blind           attr/A            -----     10
+ 9999 99      10       O      N           people          pcomp/P            -----      6
+ 9999 99      11       O   PRON              who        subj/SUBJ            -----     12
+ 9999 99      12       O      V           T_need       mod/FMAINV            -----     10
+ 9999 99      13       O      N             help          obj/OBJ            -----     12
+ 9999 99      14       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      4
+ 9999 99       1       O      A             good           attr/A            -----      2
+ 9999 99       2       O      A           Seeing           attr/A            -----      3
+ 9999 99       3       O      N              Eye           attr/A            -----      4
+ 9999 99       4       O      N              dog        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_will       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V           T_give      main/FMAINV            -----     -1
+ 9999 99       7       O   PRON              its           attr/A            -----      8
+ 9999 99       8       O      A              own           attr/A            -----      9
+ 9999 99       9       O      N             life      NOFUNC/SUBJ            -----     -1
+ 9999 99      10       O     CS           before            pm/CS            -----     12
+ 9999 99      11       O   PRON               it        subj/SUBJ            -----     12
+ 9999 99      12       O      V            T_let       tmp/FMAINV            -----      6
+ 9999 99      13       O   PRON              its           attr/A            -----     14
+ 9999 99      14       O      N            owner          obj/OBJ            -----     12
+ 9999 99      15       O      V             T_be       v-ch/FAUXV            -----     16
+ 9999 99      16       O     EN           T_hurt       mod/FMAINV            -----     14
+ 9999 99      17       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      A         faithful           attr/A            -----      3
+ 9999 99       3       O      N          friends           comp/S            -----      1
+ 9999 99       4       O    ADV          forever         tmp/ADVL            -----      1
+ 9999 99       5       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N            Buddy           comp/S            -----      1
+ 9999 99       3       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    DET             What           det/DN            -----      1
+ 9999 99       1       O      N             kind          main/NH            -----     -1
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O      N              dog          pcomp/P            -----      2
+ 9999 99       4       O      V             T_be    NOFUNC/FMAINV            -----     -1
+ 9999 99       5       O      N            Buddy           comp/S            -----      4
+ 9999 99       6       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      6
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O      A           Seeing           attr/A            -----      4
+ 9999 99       4       O      N              Eye           attr/A            -----      5
+ 9999 99       5       O      N           School        subj/SUBJ            -----      1
+ 9999 99       6       O     EN          T_start      main/FMAINV            -----     -1
+ 9999 99       7       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N            Buddy        subj/SUBJ            -----      1
+ 9999 99       3       O     EN           T_bear      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      5
+ 9999 99       3       O      A           seeing           attr/A            -----      4
+ 9999 99       4       O      N              eye           attr/A            -----      5
+ 9999 99       5       O      N              dog      NOFUNC/SUBJ            -----     -1
+ 9999 99       6       O    DET                a           det/DN            -----      8
+ 9999 99       7       O      A         faithful           attr/A            -----      8
+ 9999 99       8       O      N           friend        subj/SUBJ            -----      1
+ 9999 99       9       O    SEP                ?        subj/SUBJ            ?????     -1
+

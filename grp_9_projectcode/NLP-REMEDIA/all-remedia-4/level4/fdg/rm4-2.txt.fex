@@ -1,0 +1,319 @@
+
+ 9999 99       0       O      A           Secret           attr/A            -----      1
+ 9999 99       1       O      N        Surprises           attr/A            -----      2
+ 9999 99       2       O      N          England          main/NH            -----     -1
+
+ 9999 99       0       O    SEP                (          main/NH            ?????     -1
+ 9999 99       1       O      N          ENGLAND          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N             July       NOFUNC/APP            -----     -1
+ 9999 99       4       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       5       O    NUM             1865         mod/ADVL            -----      3
+ 9999 99       6       O    SEP                )         mod/ADVL            ?????     -1
+ 9999 99       7       O    SEP                .         mod/ADVL            ?????     -1
+
+ 9999 99       0       O      N            James           attr/A            -----      1
+ 9999 99       1       O      N            Barry        subj/SUBJ            -----      8
+ 9999 99       2       O    SEP                ,        subj/SUBJ            ?????     -1
+ 9999 99       3       O    DET              the           det/DN            -----      6
+ 9999 99       4       O      A           famous           attr/A            -----      5
+ 9999 99       5       O      N             army           attr/A            -----      6
+ 9999 99       6       O      N           doctor          mod/APP            -----      1
+ 9999 99       7       O    SEP                ,          mod/APP            ?????     -1
+ 9999 99       8       O      V            T_die      main/FMAINV            -----     -1
+ 9999 99       9       O    DET            a_few           det/DN            -----     10
+ 9999 99      10       O      N            weeks         tmp/ADVL            -----      8
+ 9999 99      11       O    ADV              ago             ad/A            -----     10
+ 9999 99      12       O    SEP                .             ad/A            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      A       well-known           comp/S            -----      2
+ 9999 99       4       O   PREP               in         mod/ADVL            -----      3
+ 9999 99       5       O      N          England          pcomp/P            -----      4
+ 9999 99       6       O   PREP              for         dur/ADVL            -----      2
+ 9999 99       7       O    NUM               50            qn/QN            -----      8
+ 9999 99       8       O      N            years          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O      A         shocking           attr/A            -----      2
+ 9999 99       2       O      N             news        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN          T_learn      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP            since          ha/ADVL            -----      5
+ 9999 99       7       O   PRON              his           attr/A            -----      8
+ 9999 99       8       O      N            death          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_seem      main/FMAINV            -----     -1
+ 9999 99       2       O   ABBR              Dr.           attr/A            -----      3
+ 9999 99       3       O      N            Barry        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be    NOFUNC/FMAINV            -----     -1
+ 9999 99       5       O    ADV           really         man/ADVL            -----      4
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N            woman           comp/S            -----      4
+ 9999 99       8       O    SEP                !           comp/S            ?????     -1
+
+ 9999 99       0       O    DET               No           det/DN            -----      1
+ 9999 99       1       O   PRON              one        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_guess      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O      N         doctor's           attr/A            -----      5
+ 9999 99       5       O      N           secret          obj/OBJ            -----      2
+ 9999 99       6       O    DET              all           det/DN            -----      7
+ 9999 99       7       O    DET            those           det/DN            -----      8
+ 9999 99       8       O      N            years         tmp/ADVL            -----      2
+ 9999 99       9       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O      N            Women        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O     EN          T_allow      main/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V          T_serve       cnt/FMAINV            -----      3
+ 9999 99       6       O   PREP               as          ha/ADVL            -----      5
+ 9999 99       7       O      N          doctors          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_seem      main/FMAINV            -----     -1
+ 9999 99       2       O   ABBR              Dr.           attr/A            -----      3
+ 9999 99       3       O      N            Barry        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_hide    NOFUNC/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N            truth          obj/OBJ            -----      4
+ 9999 99       7       O     CS               so            pm/CS            -----     10
+ 9999 99       8       O   PRON              she        subj/SUBJ            -----      9
+ 9999 99       9       O      V          T_could       v-ch/FAUXV            -----     10
+ 9999 99      10       O      V       T_practice       cnd/FMAINV            -----      4
+ 9999 99      11       O   PRON              her           attr/A            -----     12
+ 9999 99      12       O      N             love          obj/OBJ            -----     10
+ 9999 99      13       O   PREP               of           mod/OF            -----     12
+ 9999 99      14       O      N         medicine          pcomp/P            -----     13
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   ABBR              Dr.           attr/A            -----      1
+ 9999 99       1       O      N            Barry        subj/SUBJ            -----      2
+ 9999 99       2       O      V         T_finish      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON              her           attr/A            -----      4
+ 9999 99       4       O      N         training          obj/OBJ            -----      2
+ 9999 99       5       O   PREP               in         loc/ADVL            -----      2
+ 9999 99       6       O      N         medicine          pcomp/P            -----      5
+ 9999 99       7       O   PREP               at       NOFUNC/NOM            -----     -1
+ 9999 99       8       O    DET              the           det/DN            -----     10
+ 9999 99       9       O      A            young           attr/A            -----     10
+ 9999 99      10       O      N              age          pcomp/P            -----      7
+ 9999 99      11       O   PREP               of           mod/OF            -----     10
+ 9999 99      12       O    NUM               15          pcomp/P            -----     11
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      2
+ 9999 99       1       O   PRON              she        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_begin      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON              her           attr/A            -----      4
+ 9999 99       4       O    DET             many           det/DN            -----      5
+ 9999 99       5       O      N            years          obj/OBJ            -----      2
+ 9999 99       6       O   PREP               in         loc/ADVL            -----      2
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N             army          pcomp/P            -----      6
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       2       O    ADV            often         frq/ADVL            -----      3
+ 9999 99       3       O     EN          T_honor      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP              for          ha/ADVL            -----      3
+ 9999 99       5       O   PRON              her           attr/A            -----      6
+ 9999 99       6       O      N             work          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM              One            qn/QN            -----      1
+ 9999 99       1       O      N             time         tmp/ADVL            -----      4
+ 9999 99       2       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       3       O   PRON              she        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_risk      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON              her           attr/A            -----      6
+ 9999 99       6       O      A              own           attr/A            -----      7
+ 9999 99       7       O      N             life          obj/OBJ            -----      4
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V          T_treat       cnt/FMAINV            -----      4
+ 9999 99      10       O      A          wounded           attr/A            -----     11
+ 9999 99      11       O      N         soldiers          obj/OBJ            -----      9
+ 9999 99      12       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V         T_happen      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               at         loc/ADVL            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N           Battle          pcomp/P            -----      2
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O      N         Waterloo          pcomp/P            -----      5
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              Her           attr/A            -----      1
+ 9999 99       1       O      N          courage        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN         T_reward      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN            T_put      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               in         man/ADVL            -----      2
+ 9999 99       4       O      N           charge          pcomp/P            -----      3
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O    DET              all           det/DN            -----      7
+ 9999 99       7       O    DET              the        NOFUNC/DN            -----     -1
+ 9999 99       8       O      N             army         NOFUNC/A            -----     -1
+ 9999 99       9       O      N          doctors      NOFUNC/SUBJ            -----     -1
+ 9999 99      10       O   PREP               in          mod/NOM            -----      9
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N          country          pcomp/P            -----     10
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Over      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N            years         tmp/ADVL            -----      5
+ 9999 99       3       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       4       O   PRON              she        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_go      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP               to         goa/ADVL            -----      5
+ 9999 99       7       O      N           Europe          pcomp/P            -----      6
+ 9999 99       8       O     CC              and            cc/CC            -----      7
+ 9999 99       9       O      N           Africa             cc/P            -----      7
+ 9999 99      10       O    SEP                .             cc/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_treat      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      A             sick          obj/OBJ            -----      1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       5       O      N           Canada          pcomp/P            -----      4
+ 9999 99       6       O     CC              and            cc/CC            -----      5
+ 9999 99       7       O      N            India             cc/P            -----      5
+ 9999 99       8       O    SEP                .             cc/P            ?????     -1
+
+ 9999 99       0       O    DET               No           det/DN            -----      1
+ 9999 99       1       O      N            place        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV              too             ad/A            -----      4
+ 9999 99       4       O    ADV              far         loc/ADVL            -----      2
+ 9999 99       5       O   PREP              for        subj/ADVL            -----      8
+ 9999 99       6       O   PRON              her          pcomp/P            -----      5
+ 9999 99       7       O INFMARK               to       pm/INFMARK            -----      8
+ 9999 99       8       O      V         T_travel       obj/FMAINV            -----      2
+ 9999 99       9       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET               No           det/DN            -----      1
+ 9999 99       1       O   PRON              one        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      A             sure           comp/S            -----      2
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      8
+ 9999 99       6       O      N         doctor's           attr/A            -----      7
+ 9999 99       7       O      A             real           attr/A            -----      8
+ 9999 99       8       O      N             name          pcomp/P            -----      4
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM              One            qn/QN            -----      1
+ 9999 99       1       O      N            story        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       3       O     CS             that            pm/CS            -----      6
+ 9999 99       4       O   PRON              she        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be       obj/FMAINV            -----      2
+ 9999 99       6       O     EN           T_bear    NOFUNC/FMAINV            -----     -1
+ 9999 99       7       O    DET                a           det/DN            -----      8
+ 9999 99       8       O      N         princess          obj/OBJ            -----      6
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O   PRON              she        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       3       O    ADV            never         frq/ADVL            -----      4
+ 9999 99       4       O     EN          T_allow      main/FMAINV            -----     -1
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V           T_grow       cnt/FMAINV            -----      4
+ 9999 99       7       O    ADV               up         phr/ADVL            -----      6
+ 9999 99       8       O   PREP               in          ha/ADVL            -----      6
+ 9999 99       9       O    DET              the           det/DN            -----     11
+ 9999 99      10       O      N           king's           attr/A            -----     11
+ 9999 99      11       O      N           castle          pcomp/P            -----      8
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            story        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON              she        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       5       O NEG-PART              not         neg/ADVL            -----      4
+ 9999 99       6       O     EN          T_allow       obj/FMAINV            -----      2
+ 9999 99       7       O INFMARK               to       pm/INFMARK            -----      8
+ 9999 99       8       O      V           T_tell       cnt/FMAINV            -----      6
+ 9999 99       9       O   PRON              her          dat/OBJ            -----      8
+ 9999 99      10       O      A             true           attr/A            -----     11
+ 9999 99      11       O      N             name          obj/OBJ            -----      8
+ 9999 99      12       O     CC              and            cc/CC            -----     11
+ 9999 99      13       O      N       background           cc/OBJ            -----     11
+ 9999 99      14       O    SEP                .           cc/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_die      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       3       O      N             July          pcomp/P            -----      2
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    NUM             1865          pcomp/P            -----      4
+ 9999 99       6       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   ABBR              Dr.           attr/A            -----      3
+ 9999 99       3       O      N          Barry's           attr/A            -----      4
+ 9999 99       4       O      N           secret           comp/S            -----      1
+ 9999 99       5       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O      N            James           attr/A            -----      3
+ 9999 99       3       O      N            Barry        subj/SUBJ            -----      1
+ 9999 99       4       O      V         T_become      main/FMAINV            -----     -1
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N           doctor           comp/S            -----      4
+ 9999 99       7       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O   ABBR              Dr.           attr/A            -----      3
+ 9999 99       3       O      N            Barry        subj/SUBJ            -----      1
+ 9999 99       4       O      V          T_treat      main/FMAINV            -----     -1
+ 9999 99       5       O      A          wounded           attr/A            -----      6
+ 9999 99       6       O      N         soldiers          obj/OBJ            -----      4
+ 9999 99       7       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O   ABBR              Dr.           attr/A            -----      3
+ 9999 99       3       O      N            Barry        subj/SUBJ            -----      1
+ 9999 99       4       O      V           T_keep      main/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N           secret          obj/OBJ            -----      4
+ 9999 99       7       O    SEP                ?          obj/OBJ            ?????     -1
+

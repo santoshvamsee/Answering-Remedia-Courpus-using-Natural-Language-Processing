@@ -1,0 +1,347 @@
+0		
+	$<p>	
+
+0		
+1	Titanic	titanic	subj:>2	@SUBJ A
+2	Found	find	main:>0	@+FMAINV V
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	Atlantic	Atlantic	attr:>3	@A> A
+3	Ocean	ocean		@APP N
+	$,	
+5	September	September	main:>1	@NH N
+6	1	1	mod:>5	@<NOM NUM
+	$,	
+8	1985	1985	mod:>6	@<NOM NUM
+	$)	
+10	A	a	det:>11	@DN> DET
+11	team	team	subj:>15	@SUBJ N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	deep-sea	deep-sea	attr:>14	@A> A
+14	divers	diver	pcomp:>12	@<P N
+15	has	have	v-ch:>16	@+FAUXV V
+16	found	find	main:>0	@-FMAINV EN
+17	the	the	det:>18	@DN> DET
+18	Titanic	titanic	obj:>16	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	famous	fam	attr:>5	@A> A
+5	ship	ship	comp:>2	@PCOMPL-S N
+6	that	that	subj:>7	@SUBJ PRON
+7	sank	sink	mod:>5	@+FMAINV V
+8	in	in	tmp:>7	@ADVL PREP
+9	1912	1912	pcomp:>8	@<P NUM
+10	on	on	mod:>9	@<NOM PREP
+11	its	it	attr:>12	@A> PRON
+12	first	first	attr:>13	@A> NUM
+13	sea	sea	attr:>14	@A> N
+14	voyage	voyage	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	hit	hit	main:>0	@+FMAINV V
+3	an	an	det:>4	@DN> DET
+4	iceberg	iceberg	obj:>2	@OBJ N
+5	and	and	cc:>2	@CC CC
+6	sank	sink	cc:>2	@+FMAINV V
+7	with	with	ha:>6	@ADVL PREP
+8	1,595	1,595	qn:>9	@QN> NUM
+9	people	people	pcomp:>7	@<P N
+10	on	on	mod:>9	@<NOM PREP
+11	board	board	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	For	for	tmp:>8	@ADVL PREP
+2	73	73	qn:>3	@QN> NUM
+3	years	year	pcomp:>1	@<P N
+	$,	
+5	no	no	det:>6	@DN> DET
+6	one	one	subj:>7	@SUBJ PRON
+7	has	have	v-ch:>8	@+FAUXV V
+8	known	know	main:>0	@-FMAINV EN
+9	exactly	exact	ad:>10	@AD-A> ADV
+10	where	where	loc:>13	@ADVL ADV
+11	the	the	det:>12	@DN> DET
+12	ship	ship	subj:>13	@SUBJ N
+13	sank	sink		@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	too	too	ad:>4	@AD-A> ADV
+4	deep	deep	comp:>2	@PCOMPL-S A
+5	in	in	mod:>4	@<NOM PREP
+6	the	the	det:>7	@DN> DET
+7	ocean	ocean	pcomp:>5	@<P N
+8	for	for	subj:>11	@ADVL PREP
+9	divers	diver	pcomp:>8	@<P N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	reach	reach	mod:>1	@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	Since	since	pm:>5	@CS CS
+2	no	no	det:>3	@DN> DET
+3	person	person	subj:>4	@SUBJ N
+4	could	could	v-ch:>5	@+FAUXV V
+5	swim	swim		@-FMAINV V
+6	in	in	loc:>5	@ADVL PREP
+7	waters	water	pcomp:>6	@<P N
+8	that	that		@CS CS	@SUBJ PRON	@OBJ PRON	@DN> DET
+9	deep	deep		@ADVL ADV	@SUBJ A	@OBJ A	@ADVL A
+	$,	
+11	the	the	det:>12	@DN> DET
+12	divers	diver		@SUBJ N	@OBJ N	@<P N
+13	used	use		@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V
+14	TV	tv	attr:>15	@A> N
+15	cameras	camera	obj:>13	@OBJ N
+16	to	to	pm:>17	@INFMARK> INFMARK>
+17	spot	spot	cnt:>13	@-FMAINV V
+18	the	the	det:>19	@DN> DET
+19	wreck	wreck	obj:>17	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	cameras	camera	subj:>3	@SUBJ N
+3	were	be	v-ch:>4	@+FAUXV V
+4	attached	attach	main:>0	@-FMAINV EN
+5	to	to	ha:>4	@ADVL PREP
+6	robots	robot	pcomp:>5	@<P N
+7	which	which	subj:>8	@SUBJ PRON
+8	spotted	spot	mod:>6	@+FMAINV V
+9	the	the	det:>10	@DN> DET
+10	ship	ship	obj:>8	@OBJ N
+11	about	about	ad:>12	@AD-A> ADV
+12	12,000	12,000	qn:>13	@QN> NUM
+13	feet	foot	copred:>8	@OBJ N
+14	underwater	underwater	loc:>8	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	south	south	comp:>2	@PCOMPL-S N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	a	a	det:>6	@DN> DET
+6	place	place	pcomp:>4	@<P N
+7	in	in	mod:>6	@<NOM PREP
+8	Canada	Canada	attr:>9	@A> N
+9	called	call	attr:>10	@A> A
+10	Newfoundland	Newfoundland	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ship	ship	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	found	find	main:>0	@-FMAINV EN
+5	by	by	agt:>4	@ADVL PREP
+6	a	a	det:>7	@DN> DET
+7	team	team	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	French	french	cc:>11	@A> A
+10	and	and	cc:>11	@CC CC
+11	American	American	attr:>12	@A> A
+12	divers	diver	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Three	three	qn:>2	@QN> NUM
+2	other	other	det:>3	@DN> DET
+3	times	time		@NH N	@SUBJ N	@OBJ N
+	$,	
+5	teams	team	subj:>6	@SUBJ N
+6	have	have	v-ch:>7	@+FAUXV V
+7	tried	try	main:>0	@-FMAINV EN
+8	and	and	cc:>7	@CC CC
+9	failed	fail	cc:>7	@-FMAINV EN
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	spot	spot	obj:>9	@-FMAINV V
+12	the	the	det:>13	@DN> DET
+13	ship	ship	obj:>11	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ship	ship	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	lying	lie	main:>0	@-FMAINV ING
+5	on	on	loc:>4	@ADVL PREP
+6	its	it	attr:>7	@A> PRON
+7	side	side	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	has	have	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	layer	layer	obj:>2	@OBJ N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	crust	crust	pcomp:>5	@<P N
+7	on	on	mod:>6	@<NOM PREP
+8	it	it	pcomp:>7	@<P PRON
+9	from	from	sou:>2	@ADVL PREP
+10	minerals	mineral	pcomp:>9	@<P N
+11	in	in	mod:>10	@<NOM PREP
+12	the	the	det:>14	@DN> DET
+13	ocean	ocean	attr:>14	@A> N
+14	waters	water	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	unlikely	unlikely	comp:>2	@PCOMPL-S A
+4	that	that	pm:>10	@CS CS
+5	the	the	det:>6	@DN> DET
+6	ship	ship	subj:>7	@SUBJ N
+7	will	will	v-ch:>9	@+FAUXV V
+8	ever	ever	frq:>10	@ADVL ADV
+9	be	be	v-ch:>10	@-FAUXV V
+10	raised	raise	mod:>3	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	some	some	subj:>6	@SUBJ PRON
+3	of	of	mod:>2	@<NOM-OF PREP
+4	its	it	attr:>5	@A> PRON
+5	contents	content	pcomp:>3	@<P N
+6	will	will	v-ch:>7	@+FAUXV V
+7	be	be	v-ch:>8	@-FAUXV V
+8	removed	remove	main:>0	@-FMAINV EN
+9	and	and	cc:>8	@CC CC
+10	studied	study	cc:>8	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	divers	diver	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	keeping	keep	main:>0	@-FMAINV ING
+5	the	the	det:>7	@DN> DET
+6	exact	exact	attr:>7	@A> A
+7	location	location	comp:>4	@PCOMPL-S N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	the	the	det:>10	@DN> DET
+10	ship	ship	pcomp:>8	@<P N
+11	a	a	det:>12	@DN> DET
+12	secret	secret		@SUBJ N	@PCOMPL-O N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	do_	do	v-ch:>4	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	want	want	main:>0	@-FMAINV V
+5	looters	looter	subj:>7	@OBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	try	try	obj:>4	@-FMAINV V
+8	and	and	cc:>7	@CC CC
+9	steal	steal	cc:>7	@-FMAINV V
+10	its	it	attr:>11	@A> PRON
+11	treasures	treasure	obj:>9	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	found	find	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	Titanic	titanic	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	used	use	main:>0	@-FMAINV EN
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	spot	spot	cnt:>3	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	ship	ship	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>2	@ADVL ADV
+2	did	do		@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	Titanic	titanic	attr:>5	@A> A
+5	sink	sink	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	was	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	ship	ship	subj:>2	@SUBJ N
+5	found	find	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	location	location	subj:>2	@SUBJ N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	ship	ship	pcomp:>5	@<P N
+8	a	a	det:>9	@DN> DET
+9	secret	secret		@SUBJ N
+	$?	
+	$<p>	
+

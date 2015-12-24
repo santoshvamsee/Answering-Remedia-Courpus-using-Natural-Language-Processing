@@ -1,0 +1,386 @@
+0		
+1	Day	day	main:>0	@NH N
+2	of	of	mod:>1	@<NOM-OF PREP
+3	Thanks_To	thanks_to	mod:>2	@ADVL PREP
+4	Be	be		@-FAUXV V
+5	Held	hold		@-FMAINV EN
+	$<p>	
+
+0		
+	$(	
+2	PLYMOUTH	Plymouth	main:>1	@NH N
+	$,	
+4	MASSACHUSETTS	Massachusetts	cc:>2	@NH N
+	$,	
+6	July	July		@APP N	@NH N
+	$,	
+8	1623	1623	mod:>6	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	month	month	tmp:>10	@ADVL N
+	$,	
+4	a	a	det:>5	@DN> DET
+5	day	day	subj:>8	@SUBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	thanks	thanks	pcomp:>6	@<P N
+8	will	will	v-ch:>9	@+FAUXV V
+9	be	be	v-ch:>10	@-FAUXV V
+10	held	hold	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	On	on	tmp:>7	@ADVL PREP
+2	that	that	det:>3	@DN> DET
+3	day	day	pcomp:>1	@<P N
+	$,	
+5	people	people	subj:>6	@SUBJ N
+6	will	will	v-ch:>7	@+FAUXV V
+7	eat	eat	main:>0	@-FMAINV V
+8	a	a	det:>10	@DN> DET
+9	great	great	attr:>10	@A> A
+10	feast	feast	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	thankful	thankful	comp:>3	@PCOMPL-S A
+5	for	for	mod:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	rains	rain	pcomp:>5	@<P N
+8	that	that	subj:>9	@SUBJ PRON
+9	made	make	mod:>7	@+FMAINV V
+10	a	a	det:>12	@DN> DET
+11	good	good	attr:>12	@A> A
+12	crop	crop	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	day	day	subj:>6	@SUBJ N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	thanks	thanks	pcomp:>4	@<P N
+6	was	be	v-ch:>7	@+FAUXV V
+7	held	hold	main:>0	@-FMAINV EN
+8	in	in	tmp:>7	@ADVL PREP
+9	1621	1621	pcomp:>8	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	people	people	subj:>7	@SUBJ N
+	$,	
+4	called	call	mod:>2	@-FMAINV EN
+5	Pilgrims	pilgrim	obj:>4	@OBJ N
+	$,	
+7	gave	give	main:>0	@+FMAINV V
+8	thanks	thanks	obj:>7	@OBJ N
+9	for	for		@ADVL PREP
+10	their	they	attr:>11	@A> PRON
+11	lives	life	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	had	have	v-ch:>3	@+FAUXV V
+3	come	come	main:>0	@-FMAINV EN
+4	to	to	goa:>3	@ADVL PREP
+5	this	this	det:>7	@DN> DET
+6	new	new	attr:>7	@A> A
+7	land	land	pcomp:>4	@<P N
+8	from	from	sou:>3	@ADVL PREP
+9	England	England	pcomp:>8	@<P N
+10	in	in	tmp:>3	@ADVL PREP
+11	1620	1620	pcomp:>10	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	winter	winter	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	a	a	det:>6	@DN> DET
+6	long	long	comp:>4	@PCOMPL-S A
+	$,	
+8	hard	hard	man:>4	@ADVL ADV
+9	one	one		@SUBJ NUM	@PCOMPL-S NUM	@ADVL NUM	@SUBJ PRON	@PCOMPL-S PRON
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	men	man	cc:>7	@SUBJ N
+	$,	
+4	women	woman		@NH N	@SUBJ N	@OBJ N	@PCOMPL-S N	@APP N
+	$,	
+6	and	and	cc:>7	@CC CC
+7	children	child	subj:>8	@SUBJ N
+8	died	die	main:>0	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	By	by	tmp:>8	@ADVL PREP
+2	spring	spring	pcomp:>1	@<P N
+	$,	
+4	only	only	ad:>5	@AD-A> ADV
+5	55	55	qn:>6	@QN> NUM
+6	Pilgrims	pilgrim	subj:>7	@SUBJ N
+7	were	be	v-ch:>8	@+FAUXV V
+8	left	leave	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	very	very	ad:>4	@AD-A> ADV
+4	sad	sad	comp:>2	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	An	an	det:>2	@DN> DET
+2	Indian	Indian	subj:>5	@SUBJ N
+3	named	name	mod:>2	@-FMAINV EN
+4	Squanto	squanto	obj:>3	@OBJ N
+5	came	come	main:>0	@+FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	help	help	cnt:>5	@-FMAINV V
+8	them	they	obj:>7	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	gave	give	main:>0	@+FMAINV V
+3	them	they	dat:>2	@I-OBJ PRON
+4	seeds	seed	obj:>2	@OBJ N
+5	and	and	cc:>2	@CC CC
+6	showed	show	cc:>2	@+FMAINV V
+7	them	they	dat:>6	@I-OBJ PRON
+8	how	how	man:>10	@ADVL ADV
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	grow	grow	obj:>6	@-FMAINV V
+11	a	a		@DN> DET
+12	food	food		@SUBJ N	@OBJ N	@A> N
+13	called	call		@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V	@A> A
+14	corn	corn		@NH N	@SUBJ N	@OBJ N	@PCOMPL-S N	@PCOMPL-O N
+	$.	
+	$<s>	
+
+0		
+1	By	by	cla:>6	@ADVL PREP
+2	fall	fall	pcomp:>1	@<P N
+	$,	
+4	the	the	det:>5	@DN> DET
+5	Pilgrims	pilgrim	subj:>6	@SUBJ N
+6	had	have	main:>0	@+FMAINV V
+7	enough	enough	det:>8	@DN> DET
+8	food	food	obj:>6	@OBJ N
+9	for	for	tmp:>6	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	winter	winter	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	thought	think	main:>0	@+FMAINV V
+3	it	it	subj:>4	@SUBJ PRON
+4	would	would	v-ch:>5	@+FAUXV V
+5	be	be	obj:>2	@-FMAINV V
+6	nice	nice	oc:>2	@PCOMPL-O A
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	have	have	mod:>6	@-FMAINV V
+9	a	a	det:>10	@DN> DET
+10	party	party	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	asked	ask	main:>0	@+FMAINV V
+3	Squanto	squanto	subj:>5	@OBJ N
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	come	come	obj:>2	@-FMAINV V
+6	and	and	cc:>5	@CC CC
+7	bring	bring	cc:>5	@-FMAINV V
+8	his	he	attr:>9	@A> PRON
+9	friends	friend	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	For	for	tmp:>7	@ADVL PREP
+2	three	three	qn:>3	@QN> NUM
+3	days	day	pcomp:>1	@<P N
+	$,	
+5	the	the	det:>6	@DN> DET
+6	Pilgrims	pilgrim	subj:>7	@SUBJ N
+7	cooked	cook	main:>0	@+FMAINV V
+8	deer	deer	cc:>12	@SUBJ N
+	$,	
+10	turkeys	turkey	mod:>8	@APP N
+	$,	
+12	ducks	duck		@SUBJ N
+	$,	
+14	and	and	cc:>7	@CC CC
+15	fish	fish	cc:>7	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	baked	bake	main:>0	@+FMAINV V
+3	bread	bread	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Squanto	squanto	subj:>2	@SUBJ N
+2	showed	show	main:>0	@+FMAINV V
+3	them	they	dat:>2	@I-OBJ PRON
+4	how	how	man:>6	@ADVL ADV
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	make	make	cnt:>2	@-FMAINV V
+7	pudding	pudding	obj:>6	@OBJ N
+8	from	from	sou:>6	@ADVL PREP
+9	corn	corn	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	tmp:>7	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	Pilgrims	pilgrim	cc:>6	@SUBJ N
+4	and	and	cc:>6	@CC CC
+5	the	the	det:>6	@DN> DET
+6	Indians	Indian	subj:>7	@SUBJ N
+7	ate	eat	main:>0	@+FMAINV V
+8	and	and	cc:>7	@CC CC
+9	played	play	cc:>7	@+FMAINV V
+10	games	game	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+	$"_	
+2	This	this	subj:>3	@SUBJ PRON
+3	is	be	obj:>8	@+FMAINV V
+4	fun	fun	comp:>3	@PCOMPL-S N
+	$,	
+	$_"	
+7	they	they	subj:>8	@SUBJ PRON
+8	said	say	main:>0	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+	$"_	
+2	We_	we	subj:>3	@SUBJ PRON
+3	'll	will	v-ch:>4	@+FAUXV V
+4	hold	hold	main:>0	@-FMAINV V
+5	a	a	det:>6	@DN> DET
+6	day	day	obj:>4	@OBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	thanks	thanks	pcomp:>7	@<P N
+9	each	each	det:>10	@DN> DET
+10	year	year	tmp:>4	@ADVL N
+	$.	
+	$_"	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	helped	help	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	Pilgrims	pilgrim	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	did	do	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	eat	eat	main:>0	@-FMAINV V
+5	on	on	tmp:>4	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	first	first	attr:>8	@A> NUM
+8	day	day	pcomp:>5	@<P N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	thanks	thanks	pcomp:>9	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>2	@ADVL ADV
+2	was	be	subj:>8	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	day	day	subj:>2	@SUBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	thanks	thanks	pcomp:>6	@<P N
+8	held	hold	main:>0	@+FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	Pilgrims	pilgrim	subj:>2	@SUBJ N
+5	live	live	main:>0	@-FMAINV V
+6	before	before	tmp:>5	@ADVL PREP
+7	coming	come	pcomp:>6	@<P-FMAINV ING
+8	to	to	goa:>7	@ADVL PREP
+9	America	America	pcomp:>8	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	were	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	Pilgrims	pilgrim	subj:>2	@SUBJ N
+5	sad	sad	comp:>2	@PCOMPL-S A
+	$?	
+	$<p>	
+

@@ -1,0 +1,314 @@
+0		
+1	School	school	attr:>2	@A> N
+2	Children	child		@NH N
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	Say	say	main:>0	@-FMAINV V
+5	Pledge	pledge	obj:>4	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	COLUMBUS	Columbus	main:>1	@NH N
+	$,	
+4	OHIO	Ohio	cc:>2	@NH N
+	$,	
+6	October	October		@NH N
+7	12	12	mod:>6	@<NOM NUM
+	$,	
+9	1892	1892	mod:>7	@<NOM NUM
+	$)	
+11	Four	four	qn:>12	@QN> NUM
+12	hundred	hundred	qn:>13	@QN> NUM
+13	years	year		@ADVL N
+14	ago	ago	ad:>13	@<AD-A ADV
+15	today	today	tmp:>20	@ADVL N
+	$,	
+17	Christopher	Christopher	attr:>18	@A> N
+18	Columbus	Columbus	subj:>20	@SUBJ N
+19	first	first	mod:>18	@<NOM NUM
+20	saw	see	main:>0	@+FMAINV V
+21	our	we	attr:>22	@A> PRON
+22	country	country	obj:>20	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	big	big	attr:>5	@A> A
+5	day	day	comp:>2	@PCOMPL-S N
+6	for	for	mod:>5	@<NOM PREP
+7	our	we	attr:>8	@A> PRON
+8	city	city	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	We	we	subj:>2	@SUBJ PRON
+2	are	be	v-ch:>3	@+FAUXV V
+3	named	name	main:>0	@-FMAINV EN
+4	after	after	ha:>3	@ADVL PREP
+5	this	this	det:>7	@DN> DET
+6	brave	brave	attr:>7	@A> A
+7	sailor	sailor	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	events	event	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	held	hold	main:>0	@-FMAINV EN
+6	in	in	loc:>5	@ADVL PREP
+7	his	he	attr:>8	@A> PRON
+8	name	name	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>7	@ADVL PREP
+2	our	we	attr:>3	@A> PRON
+3	schools	school	pcomp:>1	@<P N
+	$,	
+5	children	child	subj:>6	@SUBJ N
+6	will	will	v-ch:>7	@+FAUXV V
+7	say	say	main:>0	@-FMAINV V
+8	a	a	det:>10	@DN> DET
+9	new	new	attr:>10	@A> A
+10	poem	poem	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	promise	promise	comp:>2	@PCOMPL-S N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	be	be	mod:>1	@-FMAINV V
+7	loyal	loyal	comp:>6	@PCOMPL-S A
+8	and	and	cc:>7	@CC CC
+9	true	true	cc:>7	@PCOMPL-S A
+10	to	to		@<NOM PREP	@ADVL PREP
+11	our	we	attr:>12	@A> PRON
+12	country	country	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	the	the	det:>6	@DN> DET
+	$"_	
+6	Pledge	pledge		@<P N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	Allegiance	allegiance	pcomp:>7	@<P N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	pledge	pledge	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	written	write	main:>0	@-FMAINV EN
+5	by	by	agt:>4	@ADVL PREP
+6	Frances	Frances	attr:>7	@A> N
+7	Bellamy	Bellamy	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	wrote	write	main:>0	@+FMAINV V
+3	it	it	dat:>2	@I-OBJ PRON
+4	so	so	ad:>5	@AD-A> ADV
+5	young	young	attr:>6	@A> A
+6	people	people	subj:>7	@SUBJ N
+7	could	could	v-ch:>8	@+FAUXV V
+8	feel	feel	obj:>2	@-FMAINV V
+9	proud	proud	comp:>8	@PCOMPL-S A
+10	of	of	mod:>9	@<NOM-OF PREP
+11	their	they	attr:>12	@A> PRON
+12	land	land	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	President	president	attr:>2	@A> N
+2	Harrison	Harrison	subj:>3	@SUBJ N
+3	liked	like	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	pledge	pledge	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	asked	ask	main:>0	@+FMAINV V
+3	that	that	pm:>7	@CS CS
+4	a	a	det:>5	@DN> DET
+5	flag	flag	subj:>6	@SUBJ N
+6	be	be	v-ch:>7	@+FAUXV V
+7	placed	place	obj:>2	@-FMAINV EN
+8	in	in	loc:>7	@ADVL PREP
+9	every	every	det:>10	@DN> DET
+10	school	school	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	So	so		@ADVL ADV
+	$,	
+3	today	today	tmp:>10	@ADVL N
+	$,	
+5	schools	school	subj:>9	@SUBJ N
+6	all_over	all_over	mod:>5	@<NOM PREP
+7	our	we	attr:>8	@A> PRON
+8	land	land	pcomp:>6	@<P N
+9	will	will	v-ch:>10	@+FAUXV V
+10	display	display	main:>0	@-FMAINV V
+11	the	the	det:>12	@DN> DET
+12	flag	flag	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	From	from	cla:>8	@ADVL PREP
+2	state	state	pcomp:>1	@<P N
+3	to	to	mod:>2	@<NOM PREP
+4	state	state	pcomp:>3	@<P N
+	$,	
+6	children	child	subj:>7	@SUBJ N
+7	will	will	v-ch:>8	@+FAUXV V
+8	say	say	main:>0	@-FMAINV V
+9	the	the	det:>10	@DN> DET
+10	pledge	pledge	obj:>8	@OBJ N
+11	for	for	dur:>8	@ADVL PREP
+12	the	the	det:>14	@DN> DET
+13	first	first	attr:>14	@A> NUM
+14	time	time	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Parades	parade	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	v-ch:>4	@-FAUXV V
+4	held	hold	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	think	think	main:>0	@-FMAINV V
+4	about	about	phr:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	sailors	sailor	pcomp:>4	@<P N
+7	who	who	subj:>9	@SUBJ PRON
+8	first	first	mod:>7	@<NOM NUM
+9	came	come	mod:>6	@+FMAINV V
+10	here	here	loc:>9	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Everyone	everyone	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be		@-FMAINV V
+4	glad	glad	comp:>3	@PCOMPL-S A
+5	they	they	subj:>6	@SUBJ PRON
+6	live	live		@+FMAINV V
+7	in	in	loc:>6	@ADVL PREP
+8	this	this	det:>10	@DN> DET
+9	great	great	attr:>10	@A> A
+10	country	country	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	wrote	write	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+	$"_	
+5	Pledge	pledge		@APP N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	Allegiance	allegiance	pcomp:>6	@<P N
+	$_"	
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	city	city	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	named	name	main:>0	@-FMAINV EN
+5	after	after	ha:>4	@ADVL PREP
+6	Christopher	Christopher	attr:>7	@A> N
+7	Columbus	Columbus	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	Columbus	Columbus	subj:>2	@SUBJ N
+4	first	first	mod:>3	@<NOM NUM
+5	see	see	main:>0	@-FMAINV V
+6	a	a	det:>8	@DN> DET
+7	new	new	attr:>8	@A> A
+8	land	land	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	were	be	v-ch:>4	@+FAUXV V
+3	flags	flag	subj:>2	@SUBJ N
+4	placed	place	main:>0	@-FMAINV EN
+5	around	around	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	country	country	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	Frances	Frances	attr:>4	@A> N
+4	Bellamy	Bellamy	subj:>2	@SUBJ N
+5	write	write	main:>0	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	pledge	pledge	obj:>5	@OBJ N
+	$?	
+	$<p>	
+

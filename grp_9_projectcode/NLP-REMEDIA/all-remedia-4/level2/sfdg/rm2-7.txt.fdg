@@ -1,0 +1,362 @@
+0		
+1	Sailor	sailor	subj:>2	@SUBJ N
+2	Spends	spend	main:>0	@+FMAINV V
+3	4	4	qn:>4	@QN> NUM
+4	Years	year	obj:>2	@OBJ N
+5	on	on	loc:>2	@ADVL PREP
+6	Island	island	pcomp:>5	@<P N
+	$<p>	
+
+0		
+	$(	
+2	SCOTLAND	Scotland	main:>1	@NH N
+	$,	
+4	May	May		@NH N
+5	12	12	mod:>4	@<NOM NUM
+	$,	
+7	1709	1709	mod:>5	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	morning	morning	tmp:>8	@ADVL N
+	$,	
+4	a	a	det:>6	@DN> DET
+5	ship	ship	attr:>6	@A> N
+6	pulled	pull	subj:>8	@SUBJ A
+7	up_to	up_to	mod:>6	@<NOM PREP
+8	shore	shear	main:>0	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	On	on	loc:>3	@ADVL PREP
+2	board	board	pcomp:>1	@<P N
+3	was	be	main:>0	@+FMAINV V
+4	a	a	det:>5	@DN> DET
+5	sailor	sailor	subj:>3	@SUBJ N
+6	with	with	ha:>3	@ADVL PREP
+7	a	a	det:>9	@DN> DET
+8	strange	strange	attr:>9	@A> A
+9	tale	tale	pcomp:>6	@<P N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	tell	tell	mod:>9	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	man's	man	attr:>3	@A> N
+3	name	name	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	Alex	Alex	attr:>6	@A> N
+6	Selkirk	Selkirk	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	says	say	main:>0	@+FMAINV V
+3	he	he	subj:>4	@SUBJ PRON
+4	lived	live	obj:>2	@+FMAINV V
+5	alone	alone	man:>4	@ADVL ADV
+6	on	on	loc:>4	@ADVL PREP
+7	an	an	det:>8	@DN> DET
+8	island	island	pcomp:>6	@<P N
+9	for	for	dur:>4	@ADVL PREP
+10	four	four	qn:>11	@QN> NUM
+11	years	year	pcomp:>9	@<P N
+12	and	and	cc:>11	@CC CC
+13	four	four	qn:>14	@QN> NUM
+14	months	month	cc:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	tale	tale	subj:>5	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	Alex	Alex	pcomp:>3	@<P N
+5	starts	start	main:>0	@+FMAINV V
+6	almost	almost	ad:>7	@AD-A> ADV
+7	five	five	qn:>8	@QN> NUM
+8	years	year	tmp:>5	@ADVL N
+9	ago	ago	ad:>8	@<AD-A ADV
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	sailor	sailor	comp:>2	@PCOMPL-S N
+5	on	on	ha:>2	@ADVL PREP
+6	board	board	pcomp:>5	@<P N
+7	a	a	det:>8	@DN> DET
+8	ship	ship		@SUBJ N
+9	that	that	subj:>10	@SUBJ PRON
+10	leaked	leak	mod:>8	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ship	ship	subj:>3	@SUBJ N
+3	stopped	stop	main:>0	@+FMAINV V
+4	at	at	loc:>3	@ADVL PREP
+5	an	an	det:>6	@DN> DET
+6	island	island	pcomp:>4	@<P N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	be	be	v-ch:>9	@-FAUXV V
+9	fixed	fix	mod:>6	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Alex	Alex	subj:>2	@SUBJ N
+2	said	say	main:>0	@+FMAINV V
+3	he	he	subj:>4	@SUBJ PRON
+4	would	would	v-ch:>6	@+FAUXV V
+5	not	not	neg:>4	@ADVL NEG-PART
+6	sail	sail	obj:>2	@-FMAINV V
+7	on	on	ha:>6	@ADVL PREP
+8	a	a	det:>10	@DN> DET
+9	leaking	leak	attr:>10	@A> A
+10	ship	ship	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	So	so	meta:>4	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	ship	ship	subj:>4	@SUBJ N
+4	sailed	sail	main:>0	@+FMAINV V
+5	without	without	ha:>4	@ADVL PREP
+6	him	he	pcomp:>5	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	All	all	subj:>4	@SUBJ PRON
+2	Alex	Alex	subj:>3	@SUBJ N
+3	had	have	mod:>1	@+FMAINV V
+4	were	be	main:>0	@+FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	clothes	clothes	comp:>4	@PCOMPL-S N
+	$,	
+8	bedding	bed	cc:>6	@PCOMPL-S N
+	$,	
+10	books	book	cc:>8	@PCOMPL-S N
+	$,	
+12	compass	compass	cc:>10	@PCOMPL-S N
+	$,	
+14	knife	knife	cc:>12	@PCOMPL-S N
+	$,	
+16	and	and	cc:>14	@CC CC
+17	tools	tool	cc:>14	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	had	have	main:>0	@+FMAINV V
+3	enough	enough	det:>4	@DN> DET
+4	food	food	obj:>2	@OBJ N
+5	for	for	mod:>4	@<NOM PREP
+6	two	two	qn:>7	@QN> NUM
+7	meals	meal	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	made	make	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	fire	fire	obj:>2	@OBJ N
+5	from	from	sou:>2	@ADVL PREP
+6	some	some	det:>7	@DN> DET
+7	gunpowder	gunpowder	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	he	he	subj:>3	@SUBJ PRON
+3	explored	explore	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	island	island	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	about	about	ad:>4	@AD-A> ADV
+4	12	12	qn:>5	@QN> NUM
+5	miles	mile	comp:>2	@PCOMPL-S N
+6	long	long	copred:>2	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Soon	soon	tmp:>3	@ADVL ADV
+2	he	he	subj:>3	@SUBJ PRON
+3	found	find	main:>0	@+FMAINV V
+4	all	all	det:>5	@DN> DET
+5	the	the	det:>6	@DN> DET
+6	food	food	obj:>3	@OBJ N
+7	he	he	subj:>8	@SUBJ PRON
+8	needed	need	mod:>6	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	ate	eat	main:>0	@+FMAINV V
+3	plums	plum	obj:>2	@OBJ N
+	$,	
+5	crayfish	crayfish	cc:>3	@OBJ N
+	$,	
+7	peppers	pepper	cc:>5	@OBJ N
+	$,	
+9	and	and	cc:>7	@CC CC
+10	turnips	turnip	cc:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	lived	live	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	a	a	det:>5	@DN> DET
+5	cave	cave	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Once	once	frq:>4	@ADVL ADV
+	$,	
+3	pirates	pirate	subj:>4	@SUBJ N
+4	came	come	main:>0	@+FMAINV V
+5	ashore	ashore	loc:>4	@ADVL ADV
+6	but	but	cc:>4	@CC CC
+7	did_	do	v-ch:>9	@+FAUXV V
+8	n't	not	neg:>7	@ADVL NEG-PART
+9	find	find	cc:>4	@-FMAINV V
+10	him	he	obj:>9	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	At_long_last	at_long_last		@ADVL ADV
+	$,	
+3	a	a	det:>5	@DN> DET
+4	friendly	friendly	attr:>5	@A> A
+5	ship	ship	subj:>6	@SUBJ N
+6	saw	see	main:>0	@+FMAINV V
+7	his	he	attr:>8	@A> PRON
+8	campfire	campfire	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Alex	Alex	subj:>2	@SUBJ N
+2	was	be	v-ch:>3	@+FAUXV V
+3	rescued	rescue	main:>0	@-FMAINV EN
+4	on	on	tmp:>3	@ADVL PREP
+5	February	February	pcomp:>4	@<P N
+6	12	12	mod:>5	@<NOM NUM
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	time	time		@NH N	@SUBJ N	@OBJ N	@PCOMPL-S N	@NH N	@SUBJ N	@OBJ N	@PCOMPL-S N
+	$,	
+4	he	he	subj:>5	@SUBJ PRON
+5	was	be		@+FMAINV V
+6	happy	happy	comp:>5	@PCOMPL-S A
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	get	get	mod:>6	@-FMAINV V
+9	on	on	ha:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	ship	ship	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	Alex	Alex	attr:>4	@A> N
+4	Selkirk	Selkirk	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	did	do	v-ch:>4	@+FAUXV V
+3	Alex	Alex	subj:>2	@SUBJ N
+4	eat	eat	main:>0	@-FMAINV V
+5	on	on	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	island	island	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	was	be	v-ch:>4	@+FAUXV V
+3	he	he	subj:>2	@SUBJ PRON
+4	rescued	rescue	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Alex	Alex	subj:>2	@SUBJ N
+4	live	live	main:>0	@-FMAINV V
+5	on	on	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	island	island	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Alex	Alex	subj:>2	@SUBJ N
+4	stay	stay	main:>0	@-FMAINV V
+5	on	on	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	island	island	comp:>4	@PCOMPL-S N
+	$?	
+	$<p>	
+

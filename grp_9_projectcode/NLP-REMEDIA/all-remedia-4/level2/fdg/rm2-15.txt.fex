@@ -1,0 +1,257 @@
+ 9999 99       0       O      N              Sea           attr/A            -----      1
+ 9999 99       1       O      N            World           attr/A            -----      2
+ 9999 99       2       O      N         Welcomes           attr/A            -----      3
+ 9999 99       3       O      A              New           attr/A            -----      4
+ 9999 99       4       O      N             Baby          main/NH            -----     -1
+ 9999 99       5       O    SEP                !          main/NH            ?????     -1
+
+ 9999 99       0       O    SEP                (          main/NH            ?????     -1
+ 9999 99       1       O      N          ORLANDO          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N          FLORIDA            cc/NH            -----      1
+ 9999 99       4       O    SEP                ,            cc/NH            ?????     -1
+ 9999 99       5       O      N        September       NOFUNC/APP            -----     -1
+ 9999 99       6       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       7       O    NUM             1985         mod/ADVL            -----      5
+ 9999 99       8       O    SEP                )         mod/ADVL            ?????     -1
+ 9999 99       9       O    SEP                .         mod/ADVL            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      2
+ 9999 99       1       O      A    six-foot-long           attr/A            -----      2
+ 9999 99       2       O      N             baby        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN           T_bear      main/FMAINV            -----     -1
+ 9999 99       5       O    DET             this           det/DN            -----      6
+ 9999 99       6       O      N            month          obj/OBJ            -----      4
+ 9999 99       7       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON              Her           attr/A            -----      1
+ 9999 99       1       O      N             name        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      N             Baby           attr/A            -----      4
+ 9999 99       4       O      N            Shamu           comp/S            -----      2
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      N           killer           attr/A            -----      4
+ 9999 99       4       O      N            whale           comp/S            -----      1
+ 9999 99       5       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_bear      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               in          ha/ADVL            -----      2
+ 9999 99       4       O    DET                a           det/DN            -----      7
+ 9999 99       5       O      N              sea           attr/A            -----      6
+ 9999 99       6       O      N           animal           attr/A            -----      7
+ 9999 99       7       O      N             park          pcomp/P            -----      3
+ 9999 99       8       O      A           called           attr/A            -----      9
+ 9999 99       9       O      N              Sea           attr/A            -----     10
+ 9999 99      10       O      N            World          obj/OBJ            -----      2
+ 9999 99      11       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      N             Baby           attr/A            -----      1
+ 9999 99       1       O      N          Shamu's           attr/A            -----      2
+ 9999 99       2       O      N           mother        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN           T_name      main/FMAINV            -----     -1
+ 9999 99       5       O      N            Kandu          obj/OBJ            -----      4
+ 9999 99       6       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N             year        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O      N        thousands        subj/SUBJ            -----      6
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O      N           people          pcomp/P            -----      4
+ 9999 99       6       O      V           T_come      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP               to         goa/ADVL            -----      6
+ 9999 99       8       O      N              Sea           attr/A            -----      9
+ 9999 99       9       O      N            World          pcomp/P            -----      7
+ 9999 99      10       O INFMARK               to       pm/INFMARK            -----     11
+ 9999 99      11       O      V            T_see       cnt/FMAINV            -----      6
+ 9999 99      12       O   PRON              her         subj/OBJ            -----     13
+ 9999 99      13       O      V             T_do       obj/FMAINV            -----     11
+ 9999 99      14       O      N           tricks          obj/OBJ            -----     13
+ 9999 99      15       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV          Someday         tmp/ADVL            -----      5
+ 9999 99       1       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       2       O      N             Baby           attr/A            -----      3
+ 9999 99       3       O      N            Shamu        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_will       v-ch/FAUXV            -----      5
+ 9999 99       5       O      V           T_join      main/FMAINV            -----     -1
+ 9999 99       6       O   PRON              her           attr/A            -----      7
+ 9999 99       7       O      N         mother's           attr/A            -----      8
+ 9999 99       8       O      N              act          obj/OBJ            -----      5
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      3
+ 9999 99       2       O    ADV          already        meta/ADVL            -----      3
+ 9999 99       3       O     EN          T_learn      main/FMAINV            -----     -1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_swim       obj/FMAINV            -----      3
+ 9999 99       6       O   PREP               by         man/ADVL            -----      5
+ 9999 99       7       O    ING          T_watch     pcomp/FMAINV            -----      6
+ 9999 99       8       O   PRON              her           attr/A            -----      9
+ 9999 99       9       O      N           mother          obj/OBJ            -----      7
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O NEG-PART              Not         neg/ADVL            -----      1
+ 9999 99       1       O   PRON             much        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_know      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP            about          ha/ADVL            -----      3
+ 9999 99       5       O      N             baby           attr/A            -----      6
+ 9999 99       6       O      N           killer           attr/A            -----      7
+ 9999 99       7       O      N           whales          pcomp/P            -----      4
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N          workers        subj/SUBJ            -----      5
+ 9999 99       2       O   PREP               at          mod/NOM            -----      1
+ 9999 99       3       O      N              Sea           attr/A            -----      4
+ 9999 99       4       O      N            World          pcomp/P            -----      2
+ 9999 99       5       O      V           T_will       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V          T_watch      main/FMAINV            -----     -1
+ 9999 99       7       O      N             Baby           attr/A            -----      8
+ 9999 99       8       O      N            Shamu          obj/OBJ            -----      6
+ 9999 99       9       O    DET             each           det/DN            -----     10
+ 9999 99      10       O      N              day         tmp/ADVL            -----      6
+ 9999 99      11       O     CC              and            cc/CC            -----      6
+ 9999 99      12       O      V           T_make        cc/FMAINV            -----      6
+ 9999 99      13       O      N            notes          obj/OBJ            -----     12
+ 9999 99      14       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_could       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_grow      main/FMAINV            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V             T_be       obj/FMAINV            -----      2
+ 9999 99       5       O    NUM               20            qn/QN            -----      6
+ 9999 99       6       O      N             feet           comp/S            -----      4
+ 9999 99       7       O      A             long         copred/S            -----      4
+ 9999 99       8       O     CC              and            cc/CC            -----      4
+ 9999 99       9       O      V          T_weigh        cc/FMAINV            -----      4
+ 9999 99      10       O   PRON             more         qua/ADVL            -----      9
+ 9999 99      11       O   PREP             than          mod/NOM            -----     10
+ 9999 99      12       O    NUM           10,000            qn/QN            -----     13
+ 9999 99      13       O      N           pounds          pcomp/P            -----     11
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      A             fast           attr/A            -----      5
+ 9999 99       5       O      N          swimmer           comp/S            -----      2
+ 9999 99       6       O   PREP             like         man/ADVL            -----      2
+ 9999 99       7       O    DET            other           det/DN            -----      9
+ 9999 99       8       O      N           killer           attr/A            -----      9
+ 9999 99       9       O      N           whales          pcomp/P            -----      6
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N             Baby           attr/A            -----      1
+ 9999 99       1       O      N            Shamu        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O    DET              the           det/DN            -----      7
+ 9999 99       5       O    NUM            first           attr/A            -----      6
+ 9999 99       6       O      N           killer           attr/A            -----      7
+ 9999 99       7       O      N            whale           comp/S            -----      3
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V           T_grow       mod/FMAINV            -----      7
+ 9999 99      10       O    ADV               up         phr/ADVL            -----      9
+ 9999 99      11       O   PREP             with          ha/ADVL            -----      9
+ 9999 99      12       O      N           people          pcomp/P            -----     11
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O    DET            other           det/DN            -----      3
+ 9999 99       2       O      N           killer           attr/A            -----      3
+ 9999 99       3       O      N           whales        subj/SUBJ            -----      7
+ 9999 99       4       O   PREP               at          mod/NOM            -----      3
+ 9999 99       5       O      N              Sea           attr/A            -----      6
+ 9999 99       6       O      N            World          pcomp/P            -----      4
+ 9999 99       7       O      V           T_grow      main/FMAINV            -----     -1
+ 9999 99       8       O    ADV               up         phr/ADVL            -----      7
+ 9999 99       9       O   PREP               in         loc/ADVL            -----      7
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N            ocean          pcomp/P            -----      9
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      3
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN        T_capture      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN          T_bring      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               to         dat/ADVL            -----      2
+ 9999 99       4       O      N              Sea           attr/A            -----      5
+ 9999 99       5       O      N            World          pcomp/P            -----      3
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V             T_be       v-ch/FAUXV            -----      8
+ 9999 99       8       O     EN          T_train       mod/FMAINV            -----      5
+ 9999 99       9       O     CC              and            cc/CC            -----      8
+ 9999 99      10       O     EN          T_study        cc/FMAINV            -----      8
+ 9999 99      11       O    SEP                .        cc/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N             baby          obj/OBJ            -----      1
+ 9999 99       4       O   PREP               at         loc/ADVL            -----      1
+ 9999 99       5       O      N              Sea           attr/A            -----      6
+ 9999 99       6       O      N            World          pcomp/P            -----      4
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      N           baby's           attr/A            -----      4
+ 9999 99       4       O      N             name           comp/S            -----      1
+ 9999 99       5       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             baby        subj/SUBJ            -----      1
+ 9999 99       4       O     EN           T_bear      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      5
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      5
+ 9999 99       2       O    DET            these           det/DN            -----      4
+ 9999 99       3       O      N              sea           attr/A            -----      4
+ 9999 99       4       O      N          animals        subj/SUBJ            -----      1
+ 9999 99       5       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       6       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET             this           det/DN            -----      3
+ 9999 99       3       O      N             baby        subj/SUBJ            -----      1
+ 9999 99       4       O      A        important           comp/S            -----      1
+ 9999 99       5       O    SEP                ?           comp/S            ?????     -1
+

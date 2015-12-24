@@ -1,0 +1,312 @@
+
+ 9999 99       0       O      N           Divers        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_spend      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM              Two            qn/QN            -----      3
+ 9999 99       3       O      N            Weeks         tmp/ADVL            -----      1
+ 9999 99       4       O    ADV       Underwater         loc/ADVL            -----      1
+
+ 9999 99       0       O    SEP                (         loc/ADVL            ?????     -1
+ 9999 99       1       O   ABBR              ST.           attr/A            -----      2
+ 9999 99       2       O      N             JOHN       NOFUNC/APP            -----     -1
+ 9999 99       3       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       4       O      N           Virgin           attr/A            -----      5
+ 9999 99       5       O      N          Islands          mod/APP            -----      2
+ 9999 99       6       O    SEP                ,          mod/APP            ?????     -1
+ 9999 99       7       O      N             July       NOFUNC/APP            -----     -1
+ 9999 99       8       O    NUM          20,1970        NOFUNC/NH            -----     -1
+ 9999 99       9       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99      10       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N             team        subj/SUBJ            -----      5
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O    NUM             five            qn/QN            -----      4
+ 9999 99       4       O      N            women          pcomp/P            -----      2
+ 9999 99       5       O      V        T_surface      main/FMAINV            -----     -1
+ 9999 99       6       O      N            today         tmp/ADVL            -----      5
+ 9999 99       7       O   PREP            after         tmp/ADVL            -----      6
+ 9999 99       8       O    ING          T_spend     pcomp/FMAINV            -----      7
+ 9999 99       9       O    NUM              two            qn/QN            -----     10
+ 9999 99      10       O      N            weeks         tmp/ADVL            -----      8
+ 9999 99      11       O    ADV       underwater         loc/ADVL            -----      8
+ 9999 99      12       O    SEP                .         loc/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N             part           comp/S            -----      1
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N             team          pcomp/P            -----      3
+ 9999 99       6       O   PRON             that        subj/SUBJ            -----      7
+ 9999 99       7       O      V          T_study       mod/FMAINV            -----      5
+ 9999 99       8       O      N            ocean           attr/A            -----      9
+ 9999 99       9       O      N           plants          obj/OBJ            -----      7
+ 9999 99      10       O     CC              and            cc/CC            -----      9
+ 9999 99      11       O      N          animals           cc/OBJ            -----      9
+ 9999 99      12       O    SEP                .           cc/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP               On         loc/ADVL            -----      5
+ 9999 99       1       O      N             July          pcomp/P            -----      0
+ 9999 99       2       O    NUM                6          mod/NOM            -----      1
+ 9999 99       3       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       4       O   PRON             they        subj/SUBJ            -----      5
+ 9999 99       5       O      V          T_enter      main/FMAINV            -----     -1
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            water          obj/OBJ            -----      5
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       3       O    NUM              two            qn/QN            -----      5
+ 9999 99       4       O      A            white           attr/A            -----      5
+ 9999 99       5       O      N            tanks          pcomp/P            -----      2
+ 9999 99       6       O     EN          T_place       mod/FMAINV            -----      5
+ 9999 99       7       O   PREP            below          ha/ADVL            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N          surface          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N              day        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O   PRON             they        subj/SUBJ            -----      4
+ 9999 99       4       O      V          T_leave    NOFUNC/FMAINV            -----     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N            tanks          obj/OBJ            -----      4
+ 9999 99       7       O   PREP              for         dur/ADVL            -----      4
+ 9999 99       8       O    DET          several           det/DN            -----      9
+ 9999 99       9       O      N            hours          pcomp/P            -----      7
+ 9999 99      10       O   PREP               to         dat/ADVL            -----      4
+ 9999 99      11       O      N            scuba           attr/A            -----     12
+ 9999 99      12       O      N             dive          pcomp/P            -----     10
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+ 9999 99      14       O    SEP               "_          pcomp/P            ?????     -1
+ 9999 99      15       O      N            Scuba           attr/A            -----     17
+ 9999 99      16       O    SEP               _"           attr/A            ?????     -1
+ 9999 99      17       O      N            means         NOFUNC/O            -----     -1
+ 9999 99      18       O INFMARK               to       pm/INFMARK            -----     19
+ 9999 99      19       O      V           T_swim       mod/FMAINV            -----     17
+ 9999 99      20       O    ADV       underwater         loc/ADVL            -----     19
+ 9999 99      21       O    ING            T_use       obj/FMAINV            -----     19
+ 9999 99      22       O      N              air          obj/OBJ            -----     21
+ 9999 99      23       O   PREP             from         sou/ADVL            -----     21
+ 9999 99      24       O    DET                a           det/DN            -----     25
+ 9999 99      25       O      N          machine          pcomp/P            -----     23
+ 9999 99      26       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             team        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_would       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V           T_swim      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV               as             ad/A            -----      5
+ 9999 99       5       O    ADV              far         loc/ADVL            -----      3
+ 9999 99       6       O   PREP               as      copred/ADVL            -----      3
+ 9999 99       7       O    NUM            1,500            qn/QN            -----      8
+ 9999 99       8       O      N             feet          pcomp/P            -----      6
+ 9999 99       9       O    ADV             away          ad/ADVL            -----      8
+ 9999 99      10       O   PREP             from         sou/ADVL            -----      3
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N            tanks          pcomp/P            -----     10
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N             dive        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_last      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV            about             ad/A            -----      4
+ 9999 99       4       O    NUM             four            qn/QN            -----      5
+ 9999 99       5       O      N            hours         dur/ADVL            -----      2
+ 9999 99       6       O    SEP                .         dur/ADVL            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            women        subj/SUBJ            -----      2
+ 9999 99       2       O      V        T_breathe      main/FMAINV            -----     -1
+ 9999 99       3       O      N              air          obj/OBJ            -----      2
+ 9999 99       4       O   PREP          through          ha/ADVL            -----      2
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O      A              new           attr/A            -----      7
+ 9999 99       7       O      N             kind          pcomp/P            -----      4
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O      N          machine          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_weigh      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM               65            qn/QN            -----      3
+ 9999 99       3       O      N           pounds          obj/OBJ            -----      1
+ 9999 99       4       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV          However        meta/ADVL            -----      5
+ 9999 99       1       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       2       O   PRON               it        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_do       v-ch/FAUXV            -----      5
+ 9999 99       4       O NEG-PART              not         neg/ADVL            -----      3
+ 9999 99       5       O      V           T_send      main/FMAINV            -----     -1
+ 9999 99       6       O      N              air           attr/A            -----      7
+ 9999 99       7       O      N          bubbles          obj/OBJ            -----      5
+ 9999 99       8       O   PREP               to         dat/ADVL            -----      5
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N          surface          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_let      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N           divers          obj/OBJ            -----      1
+ 9999 99       4       O      V           T_swim    NOFUNC/FMAINV            -----     -1
+ 9999 99       5       O    ADV            close          ha/ADVL            -----      4
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V           T_fish       obj/FMAINV            -----      4
+ 9999 99       8       O   PREP          without         man/ADVL            -----      7
+ 9999 99       9       O    ING          T_scare     pcomp/FMAINV            -----      8
+ 9999 99      10       O   PRON             them          obj/OBJ            -----      9
+ 9999 99      11       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON            Their           attr/A            -----      1
+ 9999 99       1       O      A             hard           attr/A            -----      2
+ 9999 99       2       O      N             work        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_pay      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV              off         phr/ADVL            -----      3
+ 9999 99       5       O    SEP                .         phr/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_study      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM               35            qn/QN            -----      3
+ 9999 99       3       O      N            kinds          obj/OBJ            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O      N             fish          pcomp/P            -----      4
+ 9999 99       6       O     CC              and            cc/CC            -----      1
+ 9999 99       7       O      V           T_find        cc/FMAINV            -----      1
+ 9999 99       8       O    NUM              150            qn/QN            -----      9
+ 9999 99       9       O      N            types          obj/OBJ            -----      7
+ 9999 99      10       O   PREP               of           mod/OF            -----      9
+ 9999 99      11       O      N           plants          pcomp/P            -----     10
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             Many        subj/SUBJ            -----      3
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O   PRON            these          pcomp/P            -----      1
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      5
+ 9999 99       4       O    ADV            never         frq/ADVL            -----      6
+ 9999 99       5       O     EN             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN            T_see      main/FMAINV            -----     -1
+ 9999 99       7       O    ADV           before         tmp/ADVL            -----      6
+ 9999 99       8       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON            Their           attr/A            -----      1
+ 9999 99       1       O      N             team           attr/A            -----      2
+ 9999 99       2       O      N           leader        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O   ABBR              Dr.           attr/A            -----      5
+ 9999 99       5       O      N           Sylvia           attr/A            -----      6
+ 9999 99       6       O      N            Earle           attr/A            -----      7
+ 9999 99       7       O      N             Mead           comp/S            -----      3
+ 9999 99       8       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       9       O      N              age           attr/A            -----     10
+ 9999 99      10       O    NUM               35      NOFUNC/SUBJ            -----     -1
+ 9999 99      11       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      N            scuba           attr/A            -----      5
+ 9999 99       5       O      N            diver           comp/S            -----      2
+ 9999 99       6       O     CS            since            pm/CS            -----      8
+ 9999 99       7       O   PRON              she        subj/SUBJ            -----      8
+ 9999 99       8       O      V             T_be       tmp/FMAINV            -----      2
+ 9999 99       9       O    DET                a           det/DN            -----     10
+ 9999 99      10       O      N         teenager           comp/S            -----      8
+ 9999 99      11       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       1       O      N           Sylvia        subj/SUBJ            -----      0
+ 9999 99       2       O     EN          T_scare      main/FMAINV            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V           T_have       cnt/FMAINV            -----      2
+ 9999 99       5       O   PRON              her           attr/A            -----      6
+ 9999 99       6       O      N             feet          obj/OBJ            -----      4
+ 9999 99       7       O   PREP              off          ha/ADVL            -----      4
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N           ground          pcomp/P            -----      7
+ 9999 99      10       O   PREP              for          mod/NOM            -----      9
+ 9999 99      11       O    ADV               so             ad/A            -----     12
+ 9999 99      12       O      A             long          pcomp/P            -----     10
+ 9999 99      13       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    SEP               "_          pcomp/P            ?????     -1
+ 9999 99       1       O   PRON               it        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       obj/FMAINV            -----     13
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      A           safest           comp/S            -----      2
+ 9999 99       5       O    NUM              two            qn/QN            -----      6
+ 9999 99       6       O      N            weeks      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O   PRON               my           attr/A            -----      9
+ 9999 99       9       O      N             life          pcomp/P            -----      7
+ 9999 99      10       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99      11       O    SEP               _"          pcomp/P            ?????     -1
+ 9999 99      12       O   PRON              she        subj/SUBJ            -----     13
+ 9999 99      13       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99      14       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N           leader           comp/S            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      8
+ 9999 99       6       O      A            under           attr/A            -----      7
+ 9999 99       7       O      N            water           attr/A            -----      8
+ 9999 99       8       O      N             team          pcomp/P            -----      4
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What          obj/OBJ            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             team        subj/SUBJ            -----      1
+ 9999 99       4       O      V             T_do      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON             that          dat/OBJ            -----      4
+ 9999 99       6       O      V             T_be    NOFUNC/FMAINV            -----     -1
+ 9999 99       7       O      A        different           comp/S            -----      6
+ 9999 99       8       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O   PRON             they        subj/SUBJ            -----      1
+ 9999 99       3       O    NUM            first         NOFUNC/S            -----     -1
+ 9999 99       4       O      V             T_go      main/FMAINV            -----     -1
+ 9999 99       5       O    ADV       underwater         loc/ADVL            -----      4
+ 9999 99       6       O    SEP                ?         loc/ADVL            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON             they        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV       underwater         man/ADVL            -----      3
+ 9999 99       5       O    SEP                ?         man/ADVL            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON            their           attr/A            -----      3
+ 9999 99       3       O      N             trip        subj/SUBJ            -----      1
+ 9999 99       4       O   PREP            worth          ha/ADVL            -----      1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N             work          pcomp/P            -----      4
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+

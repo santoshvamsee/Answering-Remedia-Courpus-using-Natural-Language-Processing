@@ -1,0 +1,331 @@
+0		
+1	Tooth	tooth	attr:>2	@A> N
+2	Care	care	attr:>3	@A> N
+3	Important	important	main:>0	@NH N
+4	for	for	mod:>3	@<NOM PREP
+5	Animals	animal	pcomp:>4	@<P N
+	$,	
+7	Too	too		@ADVL ADV
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	PHOENIX	phoenix	main:>1	@NH N
+	$,	
+4	ARIZONA	Arizona	cc:>2	@NH N
+	$,	
+6	April	April		@NH N
+7	12	12	mod:>6	@<NOM NUM
+	$,	
+9	1989	1989	mod:>7	@<NOM NUM
+	$)	
+11	$-		
+12	Most	many	det:>13	@DN> DET
+13	times	time		@ADVL N	@<P N
+14	you	you	subj:>15	@SUBJ PRON
+15	do_	do	v-ch:>17	@+FAUXV V
+16	n't	not	neg:>15	@ADVL NEG-PART
+17	watch	watch	main:>0	@-FMAINV V
+18	someone	someone	subj:>19	@OBJ PRON
+19	brush	brush	obj:>17	@-FMAINV V
+20	his	he	attr:>22	@A> PRON
+21	or	or	attr:>22	@CC CC
+22	her	she	attr:>23	@A> PRON
+23	teeth	tooth	obj:>19	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	a	a	det:>4	@DN> DET
+3	whole	whole	attr:>4	@A> A
+4	crowd	crowd	subj:>5	@SUBJ N
+5	came	come	main:>0	@+FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	see	see	cnt:>5	@-FMAINV V
+8	a	a	det:>9	@DN> DET
+9	patient	patient	subj:>10	@OBJ N
+10	get	get	obj:>7	@-FMAINV V
+11	his	he	attr:>12	@A> PRON
+12	teeth	tooth		@OBJ N	@A> N
+13	brushed	brush	oc:>7	@PCOMPL-O A
+14	today	today	tmp:>10	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	patient	patient	subj:>3	@SUBJ N
+3	was	be	main:>0	@+FMAINV V
+4	a	a	det:>5	@DN> DET
+5	dog	dog	comp:>3	@PCOMPL-S N
+6	named	name	mod:>5	@-FMAINV EN
+7	Sam	Sam	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Mark	mark	subj:>3	@SUBJ N
+3	showed	show	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	crowd	crowd	dat:>3	@I-OBJ N
+6	how	how	man:>8	@ADVL ADV
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	take	take	obj:>3	@-FMAINV V
+9	care	care	obj:>8	@OBJ N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	a	a	det:>13	@DN> DET
+12	pet's	pet	attr:>13	@A> N
+13	teeth	tooth	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Mark	mark	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	a	a	det:>6	@DN> DET
+5	pet	pet	attr:>6	@A> N
+6	doctor	doctor	comp:>3	@PCOMPL-S N
+7	called	call	mod:>6	@-FMAINV EN
+8	a	a	det:>9	@DN> DET
+9	vet	vet	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Most	many	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	do_	do	v-ch:>5	@+FAUXV V
+4	n't	not	neg:>3	@ADVL NEG-PART
+5	think	think	main:>0	@-FMAINV V
+6	their	they	attr:>7	@A> PRON
+7	pet's	pet	attr:>8	@A> N
+8	teeth	tooth	subj:>9	@SUBJ N
+9	matter	matter	obj:>5	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	vets	vet	subj:>3	@SUBJ N
+3	say	say	main:>0	@+FMAINV V
+4	that	that	pm:>9	@CS CS
+5	dogs	dog	cc:>7	@SUBJ N
+6	and	and	cc:>7	@CC CC
+7	cats	cat	subj:>8	@SUBJ N
+8	can	can	v-ch:>9	@+FAUXV V
+9	get	get	obj:>3	@-FMAINV V
+10	cavities	cavity		@SUBJ N	@OBJ N	@I-OBJ N
+	$,	
+12	just	just	ad:>13	@AD-A> ADV
+13	like	like		@ADVL PREP
+14	people	people	subj:>15	@OBJ N
+15	do	do	pcomp:>13	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Mark	mark	subj:>3	@SUBJ N
+3	says	say	main:>0	@+FMAINV V
+4	it	it	subj:>5	@SUBJ PRON
+5	is	be	obj:>3	@+FMAINV V
+6	smart	smart	comp:>5	@PCOMPL-S A
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	brush	brush	mod:>6	@-FMAINV V
+9	the	the	det:>10	@DN> DET
+10	teeth	tooth	obj:>8	@OBJ N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	your	you	attr:>13	@A> PRON
+13	pet	pet	pcomp:>11	@<P N
+14	at_least	at_least		@ADVL ADV	@AD-A> ADV
+15	once	once	ad:>17	@AD-A> ADV
+16	a	a	det:>17	@DN> DET
+17	week	week	tmp:>8	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Mark	mark	subj:>3	@SUBJ N
+3	says	say	main:>0	@+FMAINV V
+4	that	that	pm:>7	@CS CS
+5	germs	germ	subj:>6	@SUBJ N
+6	can	can	v-ch:>7	@+FAUXV V
+7	enter	enter	obj:>3	@-FMAINV V
+8	through	through	ha:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	mouth	mouth	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	These	this	det:>2	@DN> DET
+2	germs	germ	subj:>3	@SUBJ N
+3	can	can	v-ch:>4	@+FAUXV V
+4	get	get	main:>0	@-FMAINV V
+5	into	into	ha:>4	@ADVL PREP
+6	your	you	attr:>7	@A> PRON
+7	pet's	pet	attr:>8	@A> N
+8	heart	heart	pcomp:>5	@<P N
+9	or	or	cc:>8	@CC CC
+10	liver	liver	cc:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	make	make	main:>0	@-FMAINV V
+4	dogs	dog		@SUBJ N	@OBJ N	@I-OBJ N	@PCOMPL-O N
+5	and	and		@CC CC
+6	cats	cat		@SUBJ N	@OBJ N	@I-OBJ N	@PCOMPL-O N
+7	quite	quite	ad:>8	@AD-A> ADV
+8	sick	sick		@PCOMPL-O A	@OBJ A	@I-OBJ A
+	$.	
+	$<s>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Mark	mark	subj:>3	@SUBJ N
+3	brushed	brush	main:>0	@+FMAINV V
+4	Sam's	Sam	attr:>5	@A> N
+5	teeth	tooth	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	put	put	main:>0	@+FMAINV V
+3	toothpaste	toothpaste	obj:>2	@OBJ N
+4	on	on	loc:>2	@ADVL PREP
+5	a	a	det:>7	@DN> DET
+6	special	special	attr:>7	@A> A
+7	brush	brush	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	rubbed	rub	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	paste	paste	obj:>2	@OBJ N
+5	on	on	loc:>2	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	dog's	dog	attr:>8	@A> N
+8	teeth	tooth	pcomp:>5	@<P N
+9	and	and	cc:>8	@CC CC
+10	gums	gum	cc:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Sam	Sam	subj:>2	@SUBJ N
+2	is	be	v-ch:>3	@+FAUXV V
+3	used	use	main:>0	@-FMAINV EN
+4	to	to	ha:>3	@ADVL PREP
+5	this	this	pcomp:>4	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	did_	do	v-ch:>5	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	even	even	meta:>5	@ADVL ADV
+5	mind	mind	main:>0	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	After	after	tmp:>6	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	brushing	brush	pcomp:>1	@<P A
+	$,	
+5	Sam	Sam	subj:>6	@SUBJ N
+6	got	get	main:>0	@+FMAINV V
+7	a	a	det:>8	@DN> DET
+8	reward	reward	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	got	get	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	biscuit	biscuit	obj:>2	@OBJ N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	chew	chew	cnt:>2	@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	vet	vet	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	Sam's	Sam	attr:>4	@A> N
+4	reward	reward	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Sam	Sam	subj:>2	@SUBJ N
+4	get	get	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	reward	reward	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Sam	Sam	subj:>2	@SUBJ N
+4	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	are	be	main:>0	@+FMAINV V
+3	germs	germ	subj:>2	@SUBJ N
+4	bad	bad	comp:>2	@PCOMPL-S A
+	$?	
+	$<p>	
+

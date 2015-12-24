@@ -1,0 +1,257 @@
+
+ 9999 99       0       O      N           Palace        subj/SUBJ            -----      3
+ 9999 99       1       O   PREP              for          mod/NOM            -----      0
+ 9999 99       2       O      N         Shoppers          pcomp/P            -----      1
+ 9999 99       3       O      V           T_open      main/FMAINV            -----     -1
+
+ 9999 99       0       O    SEP                (      main/FMAINV            ?????     -1
+ 9999 99       1       O      A              NEW           attr/A            -----      2
+ 9999 99       2       O      N             YORK           attr/A            -----      3
+ 9999 99       3       O      N             CITY       NOFUNC/APP            -----     -1
+ 9999 99       4       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       5       O      N         December          main/NH            -----      0
+ 9999 99       6       O    NUM               20          mod/NOM            -----      5
+ 9999 99       7       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       8       O    NUM             1862          mod/NOM            -----      6
+ 9999 99       9       O    SEP                )          mod/NOM            ?????     -1
+ 9999 99      10       O    DET              The           det/DN            -----     12
+ 9999 99      11       O      A             best           attr/A            -----     12
+ 9999 99      12       O      N            place        NOFUNC/NH            -----     -1
+ 9999 99      13       O INFMARK               to       pm/INFMARK            -----     14
+ 9999 99      14       O      V             T_do       mod/FMAINV            -----     12
+ 9999 99      15       O    DET              all           det/DN            -----     18
+ 9999 99      16       O   PRON             your           attr/A            -----     17
+ 9999 99      17       O      N          holiday           attr/A            -----     18
+ 9999 99      18       O      N         shopping        subj/SUBJ            -----     21
+ 9999 99      19       O    DET             this           det/DN            -----     20
+ 9999 99      20       O      N             year         mod/ADVL            -----     18
+ 9999 99      21       O      V             T_be    NOFUNC/FMAINV            -----     -1
+ 9999 99      22       O      N        Stewart's           attr/A            -----     23
+ 9999 99      23       O      N             Cast           attr/A            -----     24
+ 9999 99      24       O      N             Iron           attr/A            -----     25
+ 9999 99      25       O      N           Palace           comp/S            -----     21
+ 9999 99      26       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      2
+ 9999 99       1       O      A              new           attr/A            -----      2
+ 9999 99       2       O      N         building        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O    NUM            eight            qn/QN            -----      5
+ 9999 99       5       O      N          stories           comp/S            -----      3
+ 9999 99       6       O      A             tall         copred/S            -----      3
+ 9999 99       7       O     CC              and            cc/CC            -----      3
+ 9999 99       8       O      V             T_be        cc/FMAINV            -----      3
+ 9999 99       9       O    DET              the           det/DN            -----     11
+ 9999 99      10       O      A          biggest           attr/A            -----     11
+ 9999 99      11       O      N            store           comp/S            -----      8
+ 9999 99      12       O   PREP               in          mod/NOM            -----     11
+ 9999 99      13       O    DET              the           det/DN            -----     14
+ 9999 99      14       O      N            world          pcomp/P            -----     12
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_name      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP              for          ha/ADVL            -----      2
+ 9999 99       4       O   ABBR             A.T.           attr/A            -----      5
+ 9999 99       5       O      N          Stewart          pcomp/P            -----      3
+ 9999 99       6       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N          builder          mod/APP            -----      5
+ 9999 99       9       O    SEP                .          mod/APP            ?????     -1
+
+ 9999 99       0       O      N        Stewart's        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON             more         qua/ADVL            -----      1
+ 9999 99       3       O   PREP             than          mod/NOM            -----      2
+ 9999 99       4       O    NUM            2,000            qn/QN            -----      5
+ 9999 99       5       O      N           clerks             cc/P            -----      3
+ 9999 99       6       O      A            ready         NOFUNC/O            -----     -1
+ 9999 99       7       O INFMARK               to       pm/INFMARK            -----      8
+ 9999 99       8       O      V          T_serve       mod/FMAINV            -----      6
+ 9999 99       9       O   PRON              you          obj/OBJ            -----      8
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O     CS          Whether            pm/CS            -----      2
+ 9999 99       1       O   PRON              you        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_need       cnd/FMAINV            -----     14
+ 9999 99       3       O      N           gloves          obj/OBJ            -----      2
+ 9999 99       4       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       5       O    DET               an           det/DN            -----      6
+ 9999 99       6       O      N         umbrella          mod/APP            -----      3
+ 9999 99       7       O    SEP                ,          mod/APP            ?????     -1
+ 9999 99       8       O     CC               or        NOFUNC/CC            -----     -1
+ 9999 99       9       O    DET                a           det/DN            -----     10
+ 9999 99      10       O      N         suitcase      NOFUNC/SUBJ            -----     -1
+ 9999 99      11       O    SEP                ,      NOFUNC/SUBJ            ?????     -1
+ 9999 99      12       O   PRON              you        subj/SUBJ            -----     13
+ 9999 99      13       O      V            T_can       v-ch/FAUXV            -----     14
+ 9999 99      14       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99      15       O   PRON               it          obj/OBJ            -----     14
+ 9999 99      16       O   PREP               at         loc/ADVL            -----     14
+ 9999 99      17       O      N        Stewart's          pcomp/P            -----     16
+ 9999 99      18       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      2
+ 9999 99       1       O      A              new           attr/A            -----      2
+ 9999 99       2       O      N             kind        subj/SUBJ            -----      6
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O    ING           T_shop     pcomp/FMAINV            -----      3
+ 9999 99       5       O      N            place          obj/OBJ            -----      4
+ 9999 99       6       O      V             T_be       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       8       O    DET                a           det/DN            -----     10
+ 9999 99       9       O      N       department           attr/A            -----     10
+ 9999 99      10       O      N            store           comp/S            -----      7
+ 9999 99      11       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_look      main/FMAINV            -----     -1
+ 9999 99       2       O      A        different           comp/S            -----      1
+ 9999 99       3       O   PREP               on         loc/ADVL            -----      1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N          outside          pcomp/P            -----      3
+ 9999 99       6       O     CC       as_well_as            cc/CC            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N           inside             cc/P            -----      5
+ 9999 99       9       O    SEP                .             cc/P            ?????     -1
+
+ 9999 99       0       O      N        Stewart's           attr/A            -----      1
+ 9999 99       1       O      N           Palace        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP             from          ha/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      9
+ 9999 99       6       O      N         material           attr/A            -----      7
+ 9999 99       7       O      A           called           attr/A            -----      8
+ 9999 99       8       O      N             cast           attr/A            -----      9
+ 9999 99       9       O      N             iron          obj/OBJ            -----      3
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      5
+ 9999 99       3       O    ADV             very             ad/A            -----      4
+ 9999 99       4       O      A           strong           attr/A            -----      5
+ 9999 99       5       O      N             iron           comp/S            -----      1
+ 9999 99       6       O   PRON             that        subj/SUBJ            -----      7
+ 9999 99       7       O      V            T_can       v-ch/FAUXV            -----      8
+ 9999 99       8       O      V        T_support       mod/FMAINV            -----      0
+ 9999 99       9       O    DET                a           det/DN            -----     11
+ 9999 99      10       O      A             tall           attr/A            -----     11
+ 9999 99      11       O      N         building          obj/OBJ            -----      8
+ 9999 99      12       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP               On         cla/ADVL            -----      4
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N           ground          pcomp/P            -----      0
+ 9999 99       3       O      N            floor        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       5       O    DET             many           det/DN            -----      7
+ 9999 99       6       O      A             huge           attr/A            -----      7
+ 9999 99       7       O      N          windows           comp/S            -----      4
+ 9999 99       8       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O      N         Shoppers        subj/SUBJ            -----      7
+ 9999 99       1       O   PRON              who        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O    ING           T_walk       mod/FMAINV            -----      0
+ 9999 99       4       O   PREP            along          ha/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N        sidewalks          pcomp/P            -----      4
+ 9999 99       7       O      V            T_can       v-ch/FAUXV            -----      8
+ 9999 99       8       O      V         T_stroll      main/FMAINV            -----     -1
+ 9999 99       9       O    DET             past           det/DN            -----     11
+ 9999 99      10       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99      11       O      N             look          obj/OBJ            -----      8
+ 9999 99      12       O   PREP             into      NOFUNC/ADVL            -----     -1
+ 9999 99      13       O    DET              the           det/DN            -----     14
+ 9999 99      14       O      N            store          pcomp/P            -----     12
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV           Inside         loc/ADVL            -----      4
+ 9999 99       1       O    SEP                ,         loc/ADVL            ?????     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N            store        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_look      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP             like         man/ADVL            -----      4
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N           palace          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V        T_contain      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      A            grand           attr/A            -----      4
+ 9999 99       4       O      N        staircase          obj/OBJ            -----      1
+ 9999 99       5       O     CC              and            cc/CC            -----      4
+ 9999 99       6       O    DET                a           det/DN            -----      8
+ 9999 99       7       O      N            glass           attr/A            -----      8
+ 9999 99       8       O      N             roof           cc/OBJ            -----      4
+ 9999 99       9       O   PRON            which        subj/SUBJ            -----     10
+ 9999 99      10       O      V            T_let       mod/FMAINV            -----      8
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N         sunshine          obj/OBJ            -----     10
+ 9999 99      13       O      V          T_enter    NOFUNC/FMAINV            -----     -1
+ 9999 99      14       O    SEP                .    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_build      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      A              new           attr/A            -----      4
+ 9999 99       4       O      N             kind          obj/OBJ            -----      1
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O      N            store          pcomp/P            -----      5
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    DET             What           det/DN            -----      1
+ 9999 99       1       O      N             kind          main/NH            -----     -1
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O      N            store          pcomp/P            -----      2
+ 9999 99       4       O      V             T_be    NOFUNC/FMAINV            -----     -1
+ 9999 99       5       O      N        Stewart's           comp/S            -----      4
+ 9999 99       6       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      4
+ 9999 99       3       O      A            great           attr/A            -----      4
+ 9999 99       4       O      N             time        subj/SUBJ            -----      1
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V           T_shop       mod/FMAINV            -----      4
+ 9999 99       7       O   PREP               at         loc/ADVL            -----      6
+ 9999 99       8       O      N        Stewart's          pcomp/P            -----      7
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      4
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET             this           det/DN            -----      3
+ 9999 99       3       O      N            store        subj/SUBJ            -----      1
+ 9999 99       4       O     EN          T_build      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON             this        subj/SUBJ            -----      1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      A              new           attr/A            -----      5
+ 9999 99       5       O      N             kind           comp/S            -----      1
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O      N            store          pcomp/P            -----      6
+ 9999 99       8       O    SEP                ?          pcomp/P            ?????     -1
+

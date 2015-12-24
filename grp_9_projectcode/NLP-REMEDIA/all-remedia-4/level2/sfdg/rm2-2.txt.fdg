@@ -1,0 +1,358 @@
+0		
+1	Pony	pony	attr:>2	@A> N
+2	Express	express	subj:>3	@SUBJ N
+3	Makes	make	main:>0	@+FMAINV V
+4	Final	final	attr:>5	@A> A
+5	Run	run	obj:>3	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	JOPLIN	Joplin	main:>1	@NH N
+	$,	
+4	MISSOURI	Missouri	cc:>2	@NH N
+	$,	
+6	October	October		@NH N
+7	26	26	mod:>6	@<NOM NUM
+	$,	
+9	1861	1861	mod:>7	@<NOM NUM
+	$)	
+11	From_now_on	from_now_on		@ADVL ADV
+	$,	
+13	mail	mail	subj:>14	@SUBJ N
+14	will	will	v-ch:>15	@+FAUXV V
+15	be	be	v-ch:>16	@-FAUXV V
+16	sent	send	main:>0	@-FMAINV EN
+17	a	a	det:>21	@DN> DET
+18	new	new	cc:>20	@A> A
+	$,	
+20	faster	fast	attr:>21	@A> A
+21	way	way	obj:>16	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	the	the	det:>5	@DN> DET
+5	telegraph	telegraph	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	uses	use	main:>0	@+FMAINV V
+3	wires	wire	obj:>2	@OBJ N
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	send	send	mod:>1	@-FMAINV V
+6	messages	message	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>4	@ADVL ADV
+2	there	there	subj:>3	@F-SUBJ ADV
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	main:>0	@-FMAINV V
+5	no	no	det:>6	@DN> DET
+6	need	need	comp:>4	@PCOMPL-S N
+7	for	for	mod:>6	@<NOM PREP
+8	the	the	det:>10	@DN> DET
+9	Pony	pony	attr:>10	@A> N
+10	Express	express	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Since	since	cla:>9	@ADVL PREP
+2	April	April	pcomp:>1	@<P N
+	$,	
+4	1860	1860	mod:>2	@ADVL NUM
+	$,	
+6	mail	mail	subj:>7	@SUBJ N
+7	has	have	v-ch:>8	@+FAUXV V
+8	been	be	v-ch:>9	@-FAUXV EN
+9	sent	send	main:>0	@-FMAINV EN
+10	this	this	det:>11	@DN> DET
+11	way	way	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	last	last	det:>5	@DN> DET
+3	Pony	pony	attr:>4	@A> N
+4	Express	express	attr:>5	@A> N
+5	rider	rider	subj:>6	@SUBJ N
+6	leaves	leave	main:>0	@+FMAINV V
+7	town	town	obj:>6	@OBJ N
+8	today	today	tmp:>6	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	His	he	attr:>2	@A> PRON
+2	horse	horse	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	carry	carry	main:>0	@-FMAINV V
+5	sacks	sack	obj:>4	@OBJ N
+6	full	full	copred:>4	@<NOM A
+7	of	of	mod:>6	@<NOM-OF PREP
+8	mail	mail	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	ride	ride	main:>0	@-FMAINV V
+4	for	for	ha:>3	@ADVL PREP
+5	15	15	qn:>6	@QN> NUM
+6	miles	mile	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>5	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	rider	rider	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	stop	stop	main:>0	@-FMAINV V
+6	at	at	ha:>5	@ADVL PREP
+7	a	a	det:>9	@DN> DET
+8	swing	swing	attr:>9	@A> N
+9	station	station	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	There	there	meta:>4	@ADVL ADV
+2	he	he	subj:>3	@SUBJ PRON
+3	will	will	v-ch:>4	@+FAUXV V
+4	get	get	main:>0	@-FMAINV V
+5	a	a	det:>7	@DN> DET
+6	fresh	fresh	attr:>7	@A> A
+7	horse	horse	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	rider	rider	subj:>3	@SUBJ N
+3	will	will	v-ch:>5	@+FAUXV V
+4	also	also	>5	@ADVL ADV
+5	have	have	main:>0	@-FMAINV V
+6	a	a	det:>8	@DN> DET
+7	hot	hot	attr:>8	@A> A
+8	meal	meal	obj:>5	@OBJ N
+9	there	there	ha:>5	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Like	like	cla:>9	@ADVL PREP
+2	most	many	det:>5	@DN> DET
+3	Pony	pony	attr:>4	@A> N
+4	Express	express	attr:>5	@A> N
+5	riders	rider	pcomp:>1	@<P N
+	$,	
+7	he	he	subj:>8	@SUBJ PRON
+8	will	will	v-ch:>9	@+FAUXV V
+9	ride	ride	main:>0	@-FMAINV V
+10	about	about	ad:>11	@AD-A> ADV
+11	75	75	qn:>12	@QN> NUM
+12	miles	mile	qua:>9	@ADVL N
+13	today	today	tmp:>9	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	make	make	main:>0	@-FMAINV V
+4	about	about	ad:>5	@AD-A> ADV
+5	five	five	qn:>6	@QN> NUM
+6	stops	stop	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Last	last	det:>2	@DN> DET
+2	year	year	tmp:>7	@ADVL N
+	$,	
+4	the	the	det:>6	@DN> DET
+5	Pony	pony	attr:>6	@A> N
+6	Express	express	subj:>7	@SUBJ N
+7	was	be	main:>0	@+FMAINV V
+8	a	a	det:>10	@DN> DET
+9	new	new	attr:>10	@A> A
+10	way	way	comp:>7	@PCOMPL-S N
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	deliver	deliver	mod:>10	@-FMAINV V
+13	the	the	det:>14	@DN> DET
+14	mail	mail	obj:>12	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Brave	brave	cc:>3	@A> A
+	$,	
+3	young	young	attr:>4	@A> A
+4	men	man	subj:>5	@SUBJ N
+5	were	be	v-ch:>6	@+FAUXV V
+6	hired	hire	main:>0	@-FMAINV EN
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	ride	ride	cnt:>6	@-FMAINV V
+9	the	the	det:>10	@DN> DET
+10	horses	horse	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Along	along	cla:>7	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	way	way	pcomp:>1	@<P N
+	$,	
+5	they	they	subj:>7	@SUBJ PRON
+6	often	often	frq:>7	@ADVL ADV
+7	met	meet	main:>0	@+FMAINV V
+8	thieves	thief	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Sometimes	sometimes	frq:>4	@ADVL ADV
+2	their	they	attr:>3	@A> PRON
+3	horses	horse	subj:>4	@SUBJ N
+4	got	get	main:>0	@+FMAINV V
+5	hurt	hurt	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Before	before	cla:>8	@ADVL PREP
+2	the	the	det:>4	@DN> DET
+3	Pony	pony	attr:>4	@A> N
+4	Express	express	pcomp:>1	@<P N
+	$,	
+6	mail	mail	subj:>7	@SUBJ N
+7	was	be	v-ch:>8	@+FAUXV V
+8	sent	send	main:>0	@-FMAINV EN
+9	by	by	agt:>8	@ADVL PREP
+10	stagecoach	stagecoach	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	Pony	pony	attr:>3	@A> N
+3	Express	express	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	12	12	qua:>4	@ADVL NUM
+6	to	to		@<NOM PREP	@ADVL PREP
+7	14	14	qn:>8	@QN> NUM
+8	days	day	ad:>9	@ADVL N
+9	faster	fast	tmp:>4	@ADVL ADV
+10	than	than		@<NOM PREP	@ADVL PREP
+11	the	the	det:>12	@DN> DET
+12	coach	coach	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	tmp:>4	@ADVL ADV
+	$,	
+3	there	there	subj:>4	@F-SUBJ ADV
+4	is	be	main:>0	@+FMAINV V
+5	another	another	det:>9	@DN> DET
+6	newer	new	cc:>8	@A> A
+	$,	
+8	faster	fast	attr:>9	@A> A
+9	way	way	comp:>4	@PCOMPL-S N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	send	send	mod:>9	@-FMAINV V
+12	mail	mail	obj:>11	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	left	leave	main:>0	@+FMAINV V
+3	Joplin	Joplin	obj:>2	@OBJ N
+4	on	on	tmp:>2	@ADVL PREP
+5	October	October	pcomp:>4	@<P N
+6	26	26	mod:>5	@<NOM NUM
+	$,	
+8	1861	1861	mod:>6	@ADVL NUM
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>7	@OBJ PRON
+2	did	do	v-ch:>7	@+FAUXV V
+3	the	the	det:>6	@DN> DET
+4	Pony	pony	attr:>5	@A> N
+5	Express	express	attr:>6	@A> N
+6	riders	rider	subj:>2	@SUBJ N
+7	do	do	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>2	@ADVL ADV
+2	did	do		@+FAUXV V
+3	the	the	det:>6	@DN> DET
+4	Pony	pony	attr:>5	@A> N
+5	Express	express	attr:>6	@A> N
+6	start	start	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	riders	rider	subj:>2	@SUBJ N
+5	stop	stop	main:>0	@-FMAINV V
+6	for	for	ha:>5	@ADVL PREP
+7	a	a	det:>8	@DN> DET
+8	rest	rest	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	did	do	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	Pony	pony	attr:>5	@A> N
+5	Express	express	attr:>6	@A> N
+6	end	end	obj:>2	@OBJ N
+	$?	
+	$<p>	
+

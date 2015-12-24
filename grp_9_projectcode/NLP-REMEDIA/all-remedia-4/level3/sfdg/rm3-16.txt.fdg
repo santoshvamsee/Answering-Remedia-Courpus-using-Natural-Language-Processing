@@ -1,0 +1,336 @@
+0		
+1	Whooping	whoop	attr:>2	@A> A
+2	Crane	crane	attr:>3	@A> N
+3	Nests	nest	subj:>4	@SUBJ N
+4	Found	find	main:>0	@+FMAINV V
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	CANADA	Canada	main:>1	@NH N
+	$,	
+4	August	August		@APP N	@NH N
+	$,	
+6	1952	1952	mod:>4	@ADVL NUM
+	$)	
+8	$-		
+9	Some	some	det:>12	@DN> DET
+10	whooping	whoop	attr:>11	@A> A
+11	crane	crane	attr:>12	@A> N
+12	nests	nest	subj:>13	@SUBJ N
+13	have	have	v-ch:>14	@+FAUXV V
+14	been	be	v-ch:>15	@-FAUXV EN
+15	found	find	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	last	last	attr:>3	@DN> DET
+3	time	time	tmp:>7	@ADVL N
+4	a	a	det:>5	@DN> DET
+5	nest	nest	subj:>6	@SUBJ N
+6	was	be	v-ch:>7	@+FAUXV V
+7	seen	see	main:>0	@-FMAINV EN
+8	was	be		@+FMAINV V
+9	50	50	qn:>10	@QN> NUM
+10	years	year	tmp:>8	@ADVL N
+11	ago	ago	ad:>10	@<AD-A ADV
+	$.	
+	$<s>	
+
+0		
+1	Only	only	ad:>2	@AD-A> ADV
+2	about	about	ad:>3	@AD-A> ADV
+3	30	30	qn:>5	@QN> NUM
+4	whooping	whoop	attr:>5	@A> A
+5	cranes	crane	subj:>6	@SUBJ N
+6	are	be	v-ch:>7	@+FAUXV V
+7	left	leave	main:>0	@-FMAINV EN
+8	in	in	loc:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	world	world	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	To	to	pm:>2	@INFMARK> INFMARK>
+2	guard	guard	cnt:>7	@-FMAINV V
+3	their	they	attr:>4	@A> PRON
+4	young	young	obj:>2	@OBJ A
+	$,	
+6	they	they	subj:>7	@SUBJ PRON
+7	hide	hide	main:>0	@+FMAINV V
+8	their	they	attr:>9	@A> PRON
+9	nests	nest	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	bird	bird	subj:>3	@SUBJ N
+3	gets	get	main:>0	@+FMAINV V
+4	its	it	attr:>5	@A> PRON
+5	name	name	obj:>3	@OBJ N
+6	from	from	sou:>3	@ADVL PREP
+7	its	it	attr:>8	@A> PRON
+8	whistle	whistle	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	gives	give	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	loud	loud	attr:>5	@A> A
+5	call	call	obj:>2	@OBJ N
+	$,	
+7	like	like	ha:>2	@ADVL PREP
+8	a	a	det:>9	@DN> DET
+9	whoop	whoop	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	call	call	subj:>3	@SUBJ N
+3	can	can	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	heard	hear	main:>0	@-FMAINV EN
+6	by	by	agt:>5	@ADVL PREP
+7	people	people	pcomp:>6	@<P N
+8	two	two	qn:>9	@QN> NUM
+9	miles	mile		@SUBJ N	@ADVL N
+10	away	away	ad:>9	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	whooping	whoop	attr:>3	@A> A
+3	cranes	crane	subj:>4	@SUBJ N
+4	do	do	v-ch:>6	@+FAUXV V
+5	not	not	neg:>4	@ADVL NEG-PART
+6	like	like	main:>0	@-FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	be	be	v-ch:>9	@-FAUXV V
+9	seen	see	obj:>6	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	very	very	ad:>4	@AD-A> ADV
+4	shy	shy	comp:>2	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	would	would	v-ch:>3	@+FAUXV V
+3	think	think	main:>0	@-FMAINV V
+4	it	it	subj:>5	@SUBJ PRON
+5	would	would	v-ch:>6	@+FAUXV V
+6	be	be	obj:>3	@-FMAINV V
+7	hard	hard	oc:>3	@PCOMPL-O A
+8	for	for	subj:>13	@ADVL PREP
+9	a	a	det:>11	@DN> DET
+10	whooping	whoop	attr:>11	@A> A
+11	crane	crane	pcomp:>8	@<P N
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	hide	hide	cnt:>3	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	almost	almost	ad:>4	@AD-A> ADV
+4	as	as	ad:>5	@AD-A> ADV
+5	tall	tall	comp:>2	@PCOMPL-S A
+6	as	as	mod:>5	@ADVL PREP
+7	a	a	det:>8	@DN> DET
+8	person	person	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Its	it	attr:>2	@A> PRON
+2	legs	leg	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	quite	quite	ad:>5	@AD-A> ADV
+5	long	long	comp:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	wings	wing	subj:>3	@SUBJ N
+3	stretch	stretch	main:>0	@+FMAINV V
+4	farther	far	loc:>3	@ADVL ADV
+5	than	than	pm:>8	@CS CS
+6	you	you	subj:>7	@SUBJ PRON
+7	can	can	v-ch:>8	@+FAUXV V
+8	reach	reach	mod:>4	@-FMAINV V
+9	with	with	ha:>8	@ADVL PREP
+10	your	you	attr:>11	@A> PRON
+11	arms	arm	pcomp:>9	@<P N
+12	spread	spread	mod:>11	@-FMAINV EN
+13	out	out	loc:>12	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	These	this	det:>2	@DN> DET
+2	birds	bird	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	very	very	ad:>5	@AD-A> ADV
+5	playful	playful	comp:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	One	one	subj:>6	@SUBJ NUM
+2	of	of	mod:>1	@<NOM-OF PREP
+3	their	they	attr:>4	@A> PRON
+4	favorite	favorite	attr:>5	@A> N
+5	games	game	pcomp:>2	@<P N
+6	is	be	main:>0	@+FMAINV V
+7	to	to	ha:>6	@ADVL PREP
+8	form	form	comp:>6	@PCOMPL-S N
+9	two	two	qn:>10	@QN> NUM
+10	lines	line		@SUBJ N	@<P N
+11	in	in	mod:>10	@<NOM PREP
+12	the	the	det:>13	@DN> DET
+13	air	air	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	fly	fly	main:>0	@+FMAINV V
+4	toward	toward	goa:>3	@ADVL PREP
+5	each_other	each_other	pcomp:>4	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	It_	it	subj:>2	@SUBJ PRON
+2	's	be	v-ch:>5	@+FAUXV V
+3	like	like		@ADVL PREP
+4	playing	play	pcomp:>3	@<P-FMAINV ING
+5	whooping	whoop	main:>0	@-FMAINV ING
+6	crane	crane	attr:>8	@A> N
+	$"_	
+8	chicken	chicken		@SUBJ N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	Think	think	main:>0	@+FMAINV V
+2	how	how	ad:>3	@AD-A> ADV
+3	funny	funny	comp:>5	@PCOMPL-S A
+4	it	it	subj:>5	@SUBJ PRON
+5	looks	look	obj:>1	@+FMAINV V
+6	from	from	sou:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	ground	ground	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	feared	fear	main:>0	@-FMAINV EN
+4	that	that	pm:>13	@CS CS
+5	someday	someday	tmp:>13	@ADVL ADV
+6	soon	soon	ad:>5	@ADVL ADV
+7	all	all	det:>8	@DN> DET
+8	the	the	det:>10	@DN> DET
+9	whooping	whoop	attr:>10	@A> A
+10	cranes	crane	subj:>11	@SUBJ N
+11	will	will	v-ch:>12	@+FAUXV V
+12	be	be	v-ch:>13	@-FAUXV V
+13	gone	go	obj:>3	@-FMAINV EN
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	hear	hear	main:>0	@-FMAINV V
+4	whooping	whoop	attr:>5	@A> A
+5	cranes	crane	obj:>3	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	found	find		@-FMAINV EN
+4	that	that	dat:>3	@I-OBJ PRON	@I-OBJ PRON
+5	was	be		@+FMAINV V
+6	special	special	comp:>5	@PCOMPL-S A
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	was	be	v-ch:>6	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	last	last	attr:>5	@DN> DET
+5	nest	nest	subj:>2	@SUBJ N
+6	seen	see	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	were	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	nests	nest	subj:>2	@SUBJ N
+5	found	find	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	it	it	subj:>2	@SUBJ PRON
+4	hard	hard	comp:>2	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	find	find	mod:>4	@-FMAINV V
+7	whooping	whoop	attr:>8	@A> A
+8	cranes	crane	obj:>6	@OBJ N
+	$?	
+	$<p>	
+

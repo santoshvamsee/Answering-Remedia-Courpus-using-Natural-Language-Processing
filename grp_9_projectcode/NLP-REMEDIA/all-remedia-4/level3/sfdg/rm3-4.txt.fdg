@@ -1,0 +1,343 @@
+0		
+1	Young	young	attr:>2	@A> A
+2	Boy	boy	subj:>3	@SUBJ N
+3	Is	be	v-ch:>4	@+FAUXV V
+4	Mailed	mail	main:>0	@-FMAINV EN
+5	Home	home	obj:>4	@OBJ N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	DETROIT	Detroit		@NH N
+	$,	
+4	1929	1929		@NH NUM	@PCOMPL-S NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+6	$-		
+7	A	a	det:>9	@DN> DET
+8	four-year-old	four-year-old	attr:>9	@A> A
+9	boy	boy	subj:>10	@SUBJ N
+10	went	go	main:>0	@+FMAINV V
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	visit	visit	cnt:>10	@-FMAINV V
+13	his	he	attr:>14	@A> PRON
+14	relatives	relative	obj:>12	@OBJ N
+15	last	last	det:>16	@DN> DET
+16	month	month	tmp:>12	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	After	after	tmp:>7	@ADVL PREP
+2	a	a	det:>4	@DN> DET
+3	nice	nice	attr:>4	@A> A
+4	visit	visit	pcomp:>1	@<P N
+	$,	
+6	it	it	subj:>7	@SUBJ PRON
+7	was	be	main:>0	@+FMAINV V
+8	time	time	comp:>7	@PCOMPL-S N
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	go	go	mod:>8	@-FMAINV V
+11	home	home	goa:>10	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	boy	boy	subj:>3	@SUBJ N
+3	was	be	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	fly	fly	comp:>3	@-FMAINV V
+6	on	on	ha:>5	@ADVL PREP
+7	a	a	det:>8	@DN> DET
+8	plane	plane	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	His	he	attr:>2	@A> PRON
+2	relatives	relative	subj:>3	@SUBJ N
+3	thought	think	main:>0	@+FMAINV V
+4	of	of	phr:>3	@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	joke	joke	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	would	would	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	buy	buy	main:>0	@-FMAINV V
+5	him	he	dat:>4	@I-OBJ PRON
+6	a	a	det:>7	@DN> DET
+7	ticket	ticket	obj:>4	@OBJ N
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	fly	fly	cnt:>4	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Instead	instead	meta:>5	@ADVL ADV
+	$,	
+3	they	they	subj:>4	@SUBJ PRON
+4	would	would	v-ch:>5	@+FAUXV V
+5	send	send	main:>0	@-FMAINV V
+6	him	he	dat:>5	@I-OBJ PRON
+7	home	home	obj:>5	@OBJ N
+8	like	like	ha:>5	@ADVL PREP
+9	a	a	det:>10	@DN> DET
+10	letter	letter	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	would	would	v-ch:>3	@+FAUXV V
+3	be	be	v-ch:>4	@-FAUXV V
+4	sent	send	main:>0	@-FMAINV EN
+5	home	home	attr:>6	@A> N
+6	airmail	airmail	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	sign	sign	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	hung	hang	main:>0	@-FMAINV EN
+5	around	around	ha:>4	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	boy's	boy	attr:>8	@A> N
+8	neck	neck	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	said	say	main:>0	@+FMAINV V
+3	he	he	subj:>4	@SUBJ PRON
+4	was	be	obj:>2	@+FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	be	be	v-ch:>7	@-FAUXV V
+7	delivered	deliver	comp:>4	@-FMAINV EN
+8	to	to	dat:>7	@ADVL PREP
+9	the	the	det:>11	@DN> DET
+10	post	post	attr:>11	@A> N
+11	office	office	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Stamps	stamp	subj:>2	@SUBJ N
+2	were	be	v-ch:>3	@+FAUXV V
+3	put	put	main:>0	@-FMAINV EN
+4	on	on	phr:>3	@ADVL ADV
+5	his	he	attr:>6	@A> PRON
+6	sign	sign		@SUBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>3	@SUBJ PRON
+2	also	also	>3	@ADVL ADV
+3	told	tell	main:>0	@+FMAINV V
+4	where	where	loc:>7	@ADVL ADV
+5	his	he	attr:>6	@A> PRON
+6	parents	parent	subj:>7	@SUBJ N
+7	lived	live	obj:>3	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	boy	boy	subj:>3	@SUBJ N
+3	wore	wear	main:>0	@+FMAINV V
+4	his	he	attr:>5	@A> PRON
+5	best	good	attr:>6	@A> A
+6	suit	suit	obj:>3	@OBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	clothes	clothes	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	he	he	subj:>3	@SUBJ PRON
+3	boarded	board	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	plane	plane	obj:>3	@OBJ N
+6	with	with	phr:>3	@ADVL PREP
+7	his	he	attr:>8	@A> PRON
+8	extra-large	extra-large	attr:>9	@A> A
+9	sign	sign	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	plane	plane	subj:>3	@SUBJ N
+3	landed	land	main:>0	@+FMAINV V
+4	safely	safe	man:>3	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	boy's	boy	attr:>3	@A> N
+3	parents	parent	subj:>4	@SUBJ N
+4	were	be	main:>0	@+FMAINV V
+5	there	there	ha:>4	@ADVL ADV
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	greet	greet	comp:>4	@-FMAINV V
+8	him	he	obj:>7	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	first	first		@PCOMPL-S NUM	@SUBJ NUM	@OBJ NUM	@ADVL NUM	@<NOM NUM	@ADVL NUM
+	$,	
+4	he	he	subj:>5	@SUBJ PRON
+5	was	be	v-ch:>6	@+FAUXV V
+6	taken	take	main:>0	@-FMAINV EN
+7	to	to	dat:>6	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	post	post	attr:>10	@A> N
+10	office	office	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	His	he	attr:>2	@A> PRON
+2	sign	sign	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	stamped	stamp	main:>0	@-FMAINV EN
+	$,	
+6	just	just	ad:>7	@AD-A> ADV
+7	like	like		@ADVL PREP
+8	a	a	det:>9	@DN> DET
+9	letter	letter	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	proof	proof	comp:>2	@PCOMPL-S N
+5	that	that	pm:>8	@CS CS
+6	he	he	subj:>7	@SUBJ PRON
+7	had	have	v-ch:>8	@+FAUXV V
+8	arrived	arrive	mod:>4	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>4	@ADVL ADV
+2	he	he	subj:>3	@SUBJ PRON
+3	was	be	v-ch:>4	@+FAUXV V
+4	allowed	allow	main:>0	@-FMAINV EN
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	go	go	cnt:>4	@-FMAINV V
+7	home	home	goa:>6	@ADVL N
+8	with	with	ha:>6	@ADVL PREP
+9	his	he	attr:>10	@A> PRON
+10	mom	mom	pcomp:>8	@<P N
+11	and	and	cc:>10	@CC CC
+12	dad	dad	cc:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>3	@SUBJ PRON
+2	all	all	mod:>1	@APP PRON
+3	laughed	laugh	main:>0	@+FMAINV V
+4	at	at	loc:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	joke	joke	pcomp:>4	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	boy	boy		@SUBJ N	@OBJ N	@I-OBJ N
+5	visit	visit	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	did	do	v-ch:>4	@+FAUXV V
+3	he	he	subj:>2	@SUBJ PRON
+4	wear	wear	main:>0	@-FMAINV V
+5	around	around	ha:>4	@ADVL PREP
+6	his	he	attr:>7	@A> PRON
+7	neck	neck	pcomp:>5	@<P N
+8	on	on	mod:>7	@<NOM PREP
+9	the	the	det:>10	@DN> DET
+10	way	way	pcomp:>8	@<P N
+11	home	home	mod:>10	@ADVL N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	was	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	boy	boy	subj:>2	@SUBJ N
+5	allowed	allow	main:>0	@-FMAINV EN
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	go	go	cnt:>5	@-FMAINV V
+8	home	home	goa:>7	@ADVL N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	boy	boy	subj:>2	@SUBJ N
+5	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	his	he	attr:>4	@A> PRON
+4	relatives	relative	subj:>2	@SUBJ N
+5	send	send	main:>0	@-FMAINV V
+6	him	he	dat:>5	@I-OBJ PRON
+7	home	home	attr:>8	@A> N
+8	airmail	airmail	obj:>5	@OBJ N
+	$?	
+	$<p>	
+

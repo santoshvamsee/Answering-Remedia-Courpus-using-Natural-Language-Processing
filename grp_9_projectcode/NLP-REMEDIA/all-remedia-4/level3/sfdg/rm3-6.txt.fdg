@@ -1,0 +1,336 @@
+0		
+1	Phone	phone	attr:>2	@A> N
+2	Lines	line	attr:>3	@A> N
+3	Cross	cross	main:>0	@NH N
+4	the	the	det:>5	@DN> DET
+5	Ocean	ocean		@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	LONDON	London		@NH N
+	$,	
+4	1927	1927		@NH NUM	@PCOMPL-S NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+6	$-		
+7	A	a	det:>8	@DN> DET
+8	man	man	subj:>11	@SUBJ N
+9	in	in	mod:>8	@<NOM PREP
+10	London	London	pcomp:>9	@<P N
+11	was	be	v-ch:>12	@+FAUXV V
+12	talking	talk	main:>0	@-FMAINV ING
+13	to	to	ha:>12	@ADVL PREP
+14	a	a	det:>15	@DN> DET
+15	man	man	pcomp:>13	@<P N
+16	in	in	mod:>15	@<NOM PREP
+17	New	new	attr:>18	@A> A
+18	York	York	pcomp:>16	@<P N
+	$.	
+	$<s>	
+
+0		
+1	How	how	man:>4	@ADVL ADV
+2	could	could	v-ch:>4	@+FAUXV V
+3	this	this	subj:>2	@SUBJ PRON
+4	happen	happen	main:>0	@-FMAINV V
+	$?	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	thousands	thousand	comp:>2	@PCOMPL-S N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	miles	mile	ad:>6	@ADVL N
+6	apart	apart	loc:>2	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	For	for	tmp:>10	@ADVL PREP
+2	the	the	det:>4	@DN> DET
+3	first	first	attr:>4	@A> NUM
+4	time	time	pcomp:>1	@<P N
+	$,	
+6	phone	phone	attr:>7	@A> N
+7	lines	line	subj:>8	@SUBJ N
+8	have	have	v-ch:>9	@+FAUXV V
+9	been	be	v-ch:>10	@-FAUXV EN
+10	placed	place	main:>0	@-FMAINV EN
+11	in	in	loc:>10	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	ocean	ocean	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	carry	carry	main:>0	@-FMAINV V
+4	the	the	det:>5	@DN> DET
+5	sound	sound	obj:>3	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	your	you	attr:>8	@A> PRON
+8	voice	voice	pcomp:>6	@<P N
+9	many	many	det:>10	@DN> DET
+10	miles	mile		@SUBJ N	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	cords	cord	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	rather	rather	ad:>5	@AD-A> ADV
+5	thin	thin	comp:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	they	they	subj:>3	@SUBJ PRON
+3	are	be	main:>0	@+FMAINV V
+4	very	very	ad:>5	@AD-A> ADV
+5	strong	strong	comp:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>4	@ADVL ADV
+2	you	you	subj:>3	@SUBJ PRON
+3	can	can	v-ch:>4	@+FAUXV V
+4	talk	talk	main:>0	@-FMAINV V
+5	to	to	ha:>4	@ADVL PREP
+6	your	you	attr:>7	@A> PRON
+7	friends	friend	pcomp:>5	@<P N
+8	across	across	mod:>7	@<NOM PREP
+9	the	the	det:>10	@DN> DET
+10	ocean	ocean	pcomp:>8	@<P N
+11	on	on	mod:>10	@<NOM PREP
+12	the	the	det:>13	@DN> DET
+13	telephone	telephone	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	These	this	det:>4	@DN> DET
+2	ocean	ocean	attr:>3	@A> N
+3	phone	phone	attr:>4	@A> N
+4	calls	call	subj:>5	@SUBJ N
+5	are	be	main:>0	@+FMAINV V
+6	not	not	neg:>5	@ADVL NEG-PART
+7	cheap	cheap	comp:>5	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	call	call	subj:>4	@SUBJ N
+4	cost	cost	main:>0	@+FMAINV V
+5	$75	$75	obj:>4	@OBJ NUM
+6	for	for	dur:>4	@ADVL PREP
+7	three	three	qn:>8	@QN> NUM
+8	minutes	minute	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Suppose	suppose		@+FMAINV V	@NH N	@SUBJ N	@OBJ N	@<P N
+2	you	you	subj:>3	@SUBJ PRON
+3	are	be		@+FMAINV V
+4	in	in	loc:>3	@ADVL PREP
+5	New	new	attr:>6	@A> A
+6	York	York	pcomp:>4	@<P N
+7	and	and	cc:>3	@CC CC
+8	you	you	subj:>9	@SUBJ PRON
+9	call	call	cc:>3	@+FMAINV V
+10	London	London	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	ask	ask	main:>0	@+FMAINV V
+3	your	you	attr:>4	@A> PRON
+4	British	British	attr:>5	@A> A
+5	friend	friend	obj:>2	@OBJ N
+6	for	for	dur:>2	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	time	time	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Your	you	attr:>2	@A> PRON
+2	friend	friend	subj:>3	@SUBJ N
+3	says	say	main:>0	@+FMAINV V
+4	it	it	subj:>5	@SUBJ PRON
+5	is	be	obj:>3	@+FMAINV V
+6	3	3	qn:>7	@QN> NUM
+7	o'clock	o'clock	tmp:>5	@ADVL N
+8	in	in	tmp:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	afternoon	afternoon	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	your	you	attr:>3	@A> PRON
+3	watch	watch	subj:>4	@SUBJ N
+4	says	say		@+FMAINV V
+5	it_	it	subj:>6	@SUBJ PRON
+6	's	be	obj:>4	@+FMAINV V
+7	only	only	ad:>8	@AD-A> ADV
+8	10	10	qn:>9	@QN> NUM
+9	o'clock	o'clock	tmp:>6	@ADVL N
+10	in	in	tmp:>9	@ADVL PREP
+11	the	the	det:>12	@DN> DET
+12	morning	morning	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Both	both	det:>2	@DN> DET
+2	times	time	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	correct	correct	comp:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	the	the	det:>3	@DN> DET
+3	sun	sun	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	higher	high	comp:>4	@PCOMPL-S A
+6	in	in	mod:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	sky	sky	pcomp:>6	@<P N
+9	in	in	mod:>8	@<NOM PREP
+10	England	England	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	makes	make	main:>0	@+FMAINV V
+3	it	it	obj:>2	@OBJ PRON
+4	later	late	tmp:>2	@ADVL ADV
+5	in	in	dur:>2	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	day	day	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>4	@+FAUXV V
+3	never	never	frq:>4	@ADVL ADV
+4	be	be	main:>0	@-FMAINV V
+5	the	the	det:>7	@DN> DET
+6	same	same	attr:>7	@A> A
+7	time	time	comp:>4	@PCOMPL-S N
+8	in	in	ha:>4	@ADVL PREP
+9	both	both	det:>10	@DN> DET
+10	places	place	pcomp:>8	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	man	man	comp:>2	@PCOMPL-S N
+5	in	in	ha:>2	@ADVL PREP
+6	London	London	pcomp:>5	@<P N
+7	talking	talk	mod:>6	@-FMAINV ING
+8	to	to	ha:>7	@ADVL PREP
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	were	be	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	using	use	main:>0	@-FMAINV ING
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	talk	talk	cnt:>4	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	it	it	subj:>3	@SUBJ PRON
+3	is	be		@+FMAINV V
+4	3	3	qn:>5	@QN> NUM
+5	o'clock	o'clock		@ADVL N
+6	in	in	tmp:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	afternoon	afternoon	pcomp:>6	@<P N
+9	in	in	mod:>8	@<NOM PREP
+10	London	London	pcomp:>9	@<P N
+	$,	
+12	what	what	det:>13	@DN> DET
+13	time	time		@SUBJ N	@<P N
+14	is	be		@+FMAINV V
+15	it	it	subj:>14	@SUBJ PRON
+16	in	in	ha:>14	@ADVL PREP
+17	New	new	attr:>18	@A> A
+18	York	York	pcomp:>16	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>7	@ADVL ADV
+2	have	have	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	phone	phone	attr:>5	@A> N
+5	lines	line	subj:>2	@SUBJ N
+6	been	be	v-ch:>7	@-FAUXV EN
+7	placed	place	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	do	do	v-ch:>4	@+FAUXV V
+3	you	you	subj:>2	@SUBJ PRON
+4	think	think	main:>0	@-FMAINV V
+5	an	an	det:>8	@DN> DET
+6	ocean	ocean	attr:>7	@A> N
+7	phone	phone	attr:>8	@A> N
+8	call	call	subj:>9	@SUBJ N
+9	costs	cost	obj:>4	@+FMAINV V
+10	so	so	ad:>11	@AD-A> ADV
+11	much	much	qua:>9	@ADVL PRON
+	$?	
+	$<p>	
+

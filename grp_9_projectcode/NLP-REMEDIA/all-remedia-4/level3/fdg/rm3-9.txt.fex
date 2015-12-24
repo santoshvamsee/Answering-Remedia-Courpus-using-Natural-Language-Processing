@@ -1,0 +1,281 @@
+ 9999 99       0       O    DET              The        NOFUNC/DN            -----     -1
+ 9999 99       1       O      N             King           attr/A            -----      2
+ 9999 99       2       O      V           T_give      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV               Up         phr/ADVL            -----      2
+ 9999 99       4       O   PRON              His           attr/A            -----      5
+ 9999 99       5       O      N           Throne          obj/OBJ            -----      2
+ 9999 99       6       O    SEP                !          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    SEP                (          obj/OBJ            ?????     -1
+ 9999 99       1       O      N           LONDON        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O    NUM             1937        NOFUNC/NH            -----     -1
+ 9999 99       4       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       5       O     --               $-          NOFUNC/            -----     -1
+ 9999 99       6       O      N          England        subj/SUBJ            -----      7
+ 9999 99       7       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       8       O    ADV            about          ha/ADVL            -----      7
+ 9999 99       9       O INFMARK               to       pm/INFMARK            -----     10
+ 9999 99      10       O      V           T_have      comp/FMAINV            -----      7
+ 9999 99      11       O    DET                a           det/DN            -----     13
+ 9999 99      12       O      A              new           attr/A            -----     13
+ 9999 99      13       O      N             king          obj/OBJ            -----     10
+ 9999 99      14       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      A          present           attr/A            -----      2
+ 9999 99       2       O      N             king        subj/SUBJ            -----      6
+ 9999 99       3       O    SEP                ,        subj/SUBJ            ?????     -1
+ 9999 99       4       O      N           Edward          mod/APP            -----      2
+ 9999 99       5       O    SEP                ,          mod/APP            ?????     -1
+ 9999 99       6       O      V           T_have       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN            T_say      main/FMAINV            -----     -1
+ 9999 99       8       O   PRON               he        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_will       v-ch/FAUXV            -----     11
+ 9999 99      10       O    ADV             soon         tmp/ADVL            -----     11
+ 9999 99      11       O      V          T_leave       obj/FMAINV            -----      7
+ 9999 99      12       O    DET              the           det/DN            -----     13
+ 9999 99      13       O      N           throne          obj/OBJ            -----     11
+ 9999 99      14       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      N             king           comp/S            -----      2
+ 9999 99       4       O    ADV             only        meta/ADVL            -----      5
+ 9999 99       5       O   PREP              for         dur/ADVL            -----      2
+ 9999 99       6       O    NUM              one            qn/QN            -----      7
+ 9999 99       7       O      N             year          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      1
+ 9999 99       3       O     EN         T_happen      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in         dur/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      7
+ 9999 99       6       O    NUM         thousand            qn/QN            -----      7
+ 9999 99       7       O      N            years          pcomp/P            -----      4
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CS             Once            pm/CS            -----      4
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N             king        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN          T_crown       tmp/FMAINV            -----      7
+ 9999 99       5       O    SEP                ,       tmp/FMAINV            ?????     -1
+ 9999 99       6       O   PRON               he        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_rule      main/FMAINV            -----     -1
+ 9999 99       8       O    DET              all           det/DN            -----     10
+ 9999 99       9       O   PRON              his           attr/A            -----     10
+ 9999 99      10       O      N             life          obj/OBJ            -----      7
+ 9999 99      11       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      N         Edward's           attr/A            -----      1
+ 9999 99       1       O      N          brother        subj/SUBJ            -----      5
+ 9999 99       2       O    SEP                ,        subj/SUBJ            ?????     -1
+ 9999 99       3       O      N           George          mod/APP            -----      1
+ 9999 99       4       O    SEP                ,          mod/APP            ?????     -1
+ 9999 99       5       O      V           T_will       v-ch/FAUXV            -----      6
+ 9999 99       6       O      V         T_become      main/FMAINV            -----     -1
+ 9999 99       7       O      N             king           comp/S            -----      6
+ 9999 99       8       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O      N         Edward's           attr/A            -----      1
+ 9999 99       1       O      N           father        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      N             king           comp/S            -----      2
+ 9999 99       4       O     CS            until            pm/CS            -----      6
+ 9999 99       5       O   PRON               he        subj/SUBJ            -----      6
+ 9999 99       6       O      V            T_die       tmp/FMAINV            -----      2
+ 9999 99       7       O    DET             last           det/DN            -----      8
+ 9999 99       8       O      N             year          obj/OBJ            -----      6
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      2
+ 9999 99       1       O      N           Edward        subj/SUBJ            -----      2
+ 9999 99       2       O      V         T_become      main/FMAINV            -----     -1
+ 9999 99       3       O      N             king           comp/S            -----      2
+ 9999 99       4       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN            T_say      main/FMAINV            -----     -1
+ 9999 99       3       O     CS             that            pm/CS            -----      6
+ 9999 99       4       O      N           Edward        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be       obj/FMAINV            -----      2
+ 9999 99       6       O    ING           T_give       mod/FMAINV            -----      0
+ 9999 99       7       O    ADV               up         phr/ADVL            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N           throne          obj/OBJ            -----      6
+ 9999 99      10       O INFMARK               to       pm/INFMARK            -----     11
+ 9999 99      11       O      V            T_get       cnt/FMAINV            -----      6
+ 9999 99      12       O      A          married           comp/S            -----     11
+ 9999 99      13       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            woman        subj/SUBJ            -----      7
+ 9999 99       2       O   PRON              who        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V             T_be       mod/FMAINV            -----      1
+ 9999 99       5       O   PRON              his           attr/A            -----      6
+ 9999 99       6       O      N             wife           comp/S            -----      4
+ 9999 99       7       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       8       O NEG-PART              not         neg/ADVL            -----      9
+ 9999 99       9       O   PREP             from         sou/ADVL            -----      7
+ 9999 99      10       O      N          England          pcomp/P            -----      9
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON              She        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O NEG-PART              not         neg/ADVL            -----      3
+ 9999 99       3       O   PREP             from         sou/ADVL            -----      1
+ 9999 99       4       O    DET                a           det/DN            -----      6
+ 9999 99       5       O      A            royal           attr/A            -----      6
+ 9999 99       6       O      N           family          pcomp/P            -----      3
+ 9999 99       7       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       8       O    ADV           either        meta/ADVL            -----      1
+ 9999 99       9       O    SEP                .        meta/ADVL            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             king        subj/SUBJ            -----      4
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O      N          England          pcomp/P            -----      2
+ 9999 99       4       O      V           T_rule      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP             over          ha/ADVL            -----      4
+ 9999 99       6       O      N         millions          pcomp/P            -----      5
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O      N           people          pcomp/P            -----      7
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             Many        subj/SUBJ            -----      3
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O   PRON             them          pcomp/P            -----      1
+ 9999 99       3       O      V             T_do       v-ch/FAUXV            -----      6
+ 9999 99       4       O NEG-PART              n't         neg/ADVL            -----      3
+ 9999 99       5       O    ADV             even        meta/ADVL            -----      6
+ 9999 99       6       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP               in         loc/ADVL            -----      6
+ 9999 99       8       O      N          England          pcomp/P            -----      7
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             Most        subj/SUBJ            -----      3
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O   PRON             them          pcomp/P            -----      1
+ 9999 99       3       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       5       O      N            India          pcomp/P            -----      4
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      2
+ 9999 99       1       O      N           George        subj/SUBJ            -----      2
+ 9999 99       2       O      V         T_become       tmp/FMAINV            -----      7
+ 9999 99       3       O      N             king           comp/S            -----      2
+ 9999 99       4       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       5       O   PRON               he        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_will       v-ch/FAUXV            -----      7
+ 9999 99       7       O      V          T_bring      main/FMAINV            -----     -1
+ 9999 99       8       O   PRON              his           attr/A            -----      9
+ 9999 99       9       O      N           family          obj/OBJ            -----      7
+ 9999 99      10       O   PREP             with         com/ADVL            -----      7
+ 9999 99      11       O   PRON              him          pcomp/P            -----     10
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM              two            qn/QN            -----      3
+ 9999 99       3       O      N        daughters          obj/OBJ            -----      1
+ 9999 99       4       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON            Their           attr/A            -----      1
+ 9999 99       1       O      N            names        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      N        Elizabeth           comp/S            -----      2
+ 9999 99       4       O     CC              and            cc/CC            -----      3
+ 9999 99       5       O      N         Margaret           attr/A            -----      6
+ 9999 99       6       O      N             Rose             cc/S            -----      3
+ 9999 99       7       O    SEP                .             cc/S            ?????     -1
+
+ 9999 99       0       O    ADV          Someday         tmp/ADVL            -----      4
+ 9999 99       1       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       2       O      N        Elizabeth        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       5       O      N            queen           comp/S            -----      4
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV            There        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET               no           det/DN            -----      3
+ 9999 99       3       O      N             sons           comp/S            -----      1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_take       mod/FMAINV            -----      3
+ 9999 99       6       O    ADV             over          ha/ADVL            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N           throne          obj/OBJ            -----      5
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             king           comp/S            -----      1
+ 9999 99       4       O   PRON              who        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O    ING           T_give       mod/FMAINV            -----      3
+ 9999 99       7       O    ADV               up         phr/ADVL            -----      6
+ 9999 99       8       O   PRON              his           attr/A            -----      9
+ 9999 99       9       O      N           throne          obj/OBJ            -----      6
+ 9999 99      10       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N           reason         NOFUNC/S            -----     -1
+ 9999 99       4       O   PRON               he        subj/SUBJ            -----      5
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O    ING           T_give       mod/FMAINV            -----      3
+ 9999 99       7       O    ADV               up         phr/ADVL            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N           throne          obj/OBJ            -----      6
+ 9999 99      10       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N           Edward        subj/SUBJ            -----      1
+ 9999 99       3       O      V         T_become      main/FMAINV            -----     -1
+ 9999 99       4       O      N             king           comp/S            -----      3
+ 9999 99       5       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET             many           det/DN            -----      3
+ 9999 99       3       O      N           people        subj/SUBJ            -----      1
+ 9999 99       4       O     EN           T_rule      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP               by          ha/ADVL            -----      4
+ 9999 99       6       O      N          England           attr/A            -----      7
+ 9999 99       7       O      A             live          pcomp/P            -----      5
+ 9999 99       8       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      4
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       2       O      N        Elizabeth        subj/SUBJ            -----      1
+ 9999 99       3       O    ADV          someday         tmp/ADVL            -----      4
+ 9999 99       4       O      V           T_rule      main/FMAINV            -----     -1
+ 9999 99       5       O      N          England          obj/OBJ            -----      4
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+

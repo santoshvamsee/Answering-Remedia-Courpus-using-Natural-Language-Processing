@@ -1,0 +1,378 @@
+0		
+	$<p>	
+
+0		
+1	Free	free	attr:>2	@A> A
+2	Land	land	main:>0	@NH N
+3	For	for	mod:>2	@<NOM PREP
+4	All	all	pcomp:>3	@<P PRON
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	USA	USA		@NH ABBR	@<NOM ABBR
+	$,	
+4	May	May		@NH N
+5	20,1862	20,1862	mod:>4	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	new	new	attr:>3	@A> A
+3	law	law	subj:>4	@SUBJ N
+4	was	be	v-ch:>5	@+FAUXV V
+5	passed	pass	main:>0	@-FMAINV EN
+6	today	today	obj:>5	@OBJ N
+7	that	that	subj:>8	@SUBJ PRON
+8	allows	allow	mod:>6	@+FMAINV V
+9	every	every	det:>10	@DN> DET
+10	family	family	dat:>8	@I-OBJ N
+11	the	the	det:>12	@DN> DET
+12	right	right	obj:>8	@OBJ N
+13	to	to	goa:>8	@ADVL PREP
+14	own	own	attr:>15	@A> A
+15	land	land	pcomp:>13	@<P N
+16	and	and		@CC CC
+17	not	not	neg:>18	@ADVL NEG-PART
+18	have	have		@-FMAINV V
+19	to	to	pm:>20	@INFMARK> INFMARK>
+20	pay	pay	obj:>18	@-FMAINV V
+21	for	for	ha:>20	@ADVL PREP
+22	it	it	pcomp:>21	@<P PRON
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	name	name	subj:>6	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	the	the	det:>5	@DN> DET
+5	law	law	pcomp:>3	@<P N
+6	is	be	main:>0	@+FMAINV V
+7	the	the	det:>9	@DN> DET
+8	Homestead	homestead	attr:>9	@A> N
+9	Act	act	comp:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	says	say	main:>0	@+FMAINV V
+3	that	that	pm:>17	@CS CS
+4	anyone	anyone	subj:>16	@SUBJ PRON
+5	who	who	subj:>6	@SUBJ PRON
+6	is	be	mod:>4	@+FMAINV V
+7	21	21	qn:>8	@QN> NUM
+8	years_old	years_old	comp:>6	@PCOMPL-S A
+9	and	and	cc:>8	@CC CC
+10	a	a	det:>11	@DN> DET
+11	citizen	citizen	cc:>8	@PCOMPL-S N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	the	the	det:>15	@DN> DET
+14	United	unite	attr:>15	@A> A
+15	States	state	pcomp:>12	@<P N
+16	can	can	v-ch:>17	@+FAUXV V
+17	have	have	obj:>2	@-FMAINV V
+18	160	160	qn:>19	@QN> NUM
+19	acres	acre	obj:>17	@OBJ N
+20	of	of	mod:>19	@<NOM-OF PREP
+21	free	free	attr:>22	@A> A
+22	land	land	pcomp:>20	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Most	much	subj:>6	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>5	@DN> DET
+4	available	available	attr:>5	@A> A
+5	land	land	pcomp:>2	@<P N
+6	is	be	main:>0	@+FMAINV V
+7	in	in	loc:>6	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	Western	western	attr:>10	@A> A
+10	states	state	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	how	how	man:>6	@ADVL ADV
+4	the	the	det:>5	@DN> DET
+5	plan	plan	subj:>6	@SUBJ N
+6	works	work	comp:>2	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	ask	ask	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	government	government	obj:>2	@OBJ N
+5	for	for	phr:>2	@ADVL PREP
+6	your	you	attr:>7	@A> PRON
+7	plot	plot	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	land	land	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	pay	pay	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	small	small	attr:>5	@A> A
+5	fee	fee	obj:>2	@OBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	record	record	cnt:>2	@-FMAINV V
+8	your	you	attr:>9	@A> PRON
+9	claim	claim	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>4	@ADVL ADV
+2	you	you	subj:>3	@SUBJ PRON
+3	must	must	v-ch:>4	@+FAUXV V
+4	begin	begin	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	build	build	obj:>4	@-FMAINV V
+7	your	you	attr:>8	@A> PRON
+8	home	home		@OBJ N	@I-OBJ N	@ADVL N
+9	and	and	cc:>6	@CC CC
+10	farm	farm	cc:>6	@-FMAINV V
+11	the	the	det:>12	@DN> DET
+12	soil	soil	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>3	@CS CS
+2	you	you	subj:>3	@SUBJ PRON
+3	stay	stay	cnd:>12	@+FMAINV V
+4	on	on	ha:>3	@ADVL ADV
+5	the	the	det:>6	@DN> DET
+6	land	land	comp:>3	@PCOMPL-S N
+7	for	for	dur:>3	@ADVL PREP
+8	five	five	qn:>9	@QN> NUM
+9	years	year	pcomp:>7	@<P N
+	$,	
+11	it	it	subj:>12	@SUBJ PRON
+12	becomes	become	main:>0	@+FMAINV V
+13	yours	you	comp:>12	@PCOMPL-S PRON
+	$.	
+	$<p>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	slow	slow	comp:>3	@PCOMPL-S A
+	$,	
+6	hard	hard	man:>3	@ADVL ADV
+7	work	work	cnt:>3	@-FMAINV V
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	develop	develop	obj:>7	@-FMAINV V
+10	your	you	attr:>11	@A> PRON
+11	land	land	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	soil	soil	subj:>6	@SUBJ N
+3	in	in	mod:>2	@<NOM PREP
+4	many	many	det:>5	@DN> DET
+5	places	place	pcomp:>3	@<P N
+6	is	be	main:>0	@+FMAINV V
+7	full	full	comp:>6	@PCOMPL-S A
+8	of	of	mod:>7	@<NOM-OF PREP
+9	prairie	prairie	attr:>10	@A> N
+10	grass	grass	pcomp:>8	@<P N
+11	with	with		@<NOM PREP	@ADVL PREP
+12	thick	thick	attr:>13	@A> A
+13	roots	root	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	takes	take	main:>0	@+FMAINV V
+3	special	special	attr:>4	@A> A
+4	tools	tool	cc:>6	@OBJ N
+5	and	and	cc:>6	@CC CC
+6	plows	plow	subj:>8	@OBJ N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	cut	cut	obj:>2	@-FMAINV V
+9	through	through	ha:>8	@ADVL PREP
+10	this	this	det:>11	@DN> DET
+11	grass	grass	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	live	live		@-FMAINV V
+5	in	in	ha:>4	@ADVL PREP
+6	sod	sod	attr:>7	@A> N
+7	houses	house	pcomp:>5	@<P N
+8	until	until	pm:>11	@CS CS
+9	they	they	subj:>10	@SUBJ PRON
+10	can	can	v-ch:>11	@+FAUXV V
+11	afford	afford	tmp:>15	@-FMAINV V
+12	the	the	det:>13	@DN> DET
+13	$1,000	$1,000	obj:>11	@OBJ NUM
+14	it	it	subj:>15	@SUBJ PRON
+15	takes	take		@+FMAINV V
+16	to	to	pm:>17	@INFMARK> INFMARK>
+17	buy	buy	obj:>15	@-FMAINV V
+18	lumber	lumber	obj:>17	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	If	if	pm:>3	@CS CS
+2	you	you	subj:>3	@SUBJ PRON
+3	are	be	cnd:>13	@+FMAINV V
+4	not	not	neg:>5	@ADVL NEG-PART
+5	near	near	ha:>3	@ADVL PREP
+6	a	a	det:>7	@DN> DET
+7	stream	stream	pcomp:>5	@<P N
+8	or	or	cc:>7	@CC CC
+9	lake	lake	cc:>7	@<P N
+	$,	
+11	you	you	subj:>12	@SUBJ PRON
+12	may	may	v-ch:>13	@+FAUXV V
+13	have	have	main:>0	@-FMAINV V
+14	to	to	pm:>15	@INFMARK> INFMARK>
+15	dig	dig	obj:>13	@-FMAINV V
+16	until	until	pm:>18	@CS CS
+17	you	you		@OBJ PRON	@PCOMPL-S PRON	@PCOMPL-O PRON
+18	strike	strike	tmp:>15	@+FMAINV V	@-FMAINV V
+19	water	water	obj:>18	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>4	@ADVL ADV
+2	you	you	subj:>3	@SUBJ PRON
+3	will	will	v-ch:>4	@+FAUXV V
+4	need	need	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	build	build	obj:>4	@-FMAINV V
+7	a	a	det:>8	@DN> DET
+8	well	well	obj:>6	@OBJ N
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	hold	hold	cnt:>6	@-FMAINV V
+11	it	it	obj:>10	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>3	@SUBJ PRON
+2	probably	probable	meta:>5	@ADVL ADV
+3	will	will	v-ch:>5	@+FAUXV V
+4	also	also	>5	@ADVL ADV
+5	need	need	main:>0	@-FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	build	build	obj:>5	@-FMAINV V
+8	a	a	det:>9	@DN> DET
+9	windmill	windmill	obj:>7	@OBJ N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	pump	pump	cnt:>7	@-FMAINV V
+12	the	the	det:>13	@DN> DET
+13	water	water	obj:>11	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	giving	give	main:>0	@-FMAINV ING
+4	away	away	loc:>3	@ADVL ADV
+5	free	free	attr:>6	@A> A
+6	land	land	obj:>3	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>8	@DN> DET
+7	new	new	attr:>8	@A> A
+8	law	law	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	land	land	subj:>2	@SUBJ N
+5	be	be	main:>0	@-FMAINV V
+6	totally	total	ad:>7	@AD-A> ADV
+7	yours	you	comp:>5	@PCOMPL-S PRON
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	many	many	det:>4	@DN> DET
+4	people	people	subj:>2	@SUBJ N
+5	live	live	main:>0	@-FMAINV V
+6	until	until	pm:>9	@CS CS
+7	they	they	subj:>8	@SUBJ PRON
+8	can	can	v-ch:>9	@+FAUXV V
+9	afford	afford	mod:>4	@-FMAINV V
+10	lumber	lumber	obj:>9	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	you	you	subj:>2	@SUBJ PRON
+4	probably	probable	meta:>5	@ADVL ADV
+5	need	need	main:>0	@-FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	build	build	obj:>5	@-FMAINV V
+8	a	a	det:>9	@DN> DET
+9	windmill	windmill	obj:>7	@OBJ N
+	$?	
+	$<p>	
+

@@ -1,0 +1,261 @@
+ 9999 99       0       O      N            Light           attr/A            -----      1
+ 9999 99       1       O      N             Bulb           attr/A            -----      2
+ 9999 99       2       O      N            Burns          main/NH            -----     -1
+ 9999 99       3       O   PREP              for          mod/NOM            -----      2
+ 9999 99       4       O    NUM               78            qn/QN            -----      5
+ 9999 99       5       O      N            Years          pcomp/P            -----      3
+ 9999 99       6       O    SEP                !          pcomp/P            ?????     -1
+
+ 9999 99       0       O    SEP                (          pcomp/P            ?????     -1
+ 9999 99       1       O      N        LIVERMORE          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N       CALIFORNIA        NOFUNC/NH            -----     -1
+ 9999 99       4       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       5       O    NUM             1979        NOFUNC/NH            -----     -1
+ 9999 99       6       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       7       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      1
+ 9999 99       1       O      N             year         tmp/ADVL            -----      6
+ 9999 99       2       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O      N            light           attr/A            -----      5
+ 9999 99       5       O      N             bulb        subj/SUBJ            -----      6
+ 9999 99       6       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       7       O    NUM              100            qn/QN            -----      8
+ 9999 99       8       O      A        years_old           comp/S            -----      6
+ 9999 99       9       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PREP           Before         tmp/ADVL            -----      4
+ 9999 99       1       O    NUM             1879          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O      N           people        subj/SUBJ            -----      4
+ 9999 99       4       O      V            T_use      main/FMAINV            -----     -1
+ 9999 99       5       O      N          candles          obj/OBJ            -----      4
+ 9999 99       6       O     CC               or            cc/CC            -----      5
+ 9999 99       7       O      N              oil           attr/A            -----      8
+ 9999 99       8       O      N            lamps           cc/OBJ            -----      5
+ 9999 99       9       O    SEP                .           cc/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV             Most             ad/A            -----      1
+ 9999 99       1       O      A            light           attr/A            -----      2
+ 9999 99       2       O      N            bulbs        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN            T_use      main/FMAINV            -----     -1
+ 9999 99       5       O    ADV             only        meta/ADVL            -----      7
+ 9999 99       6       O    DET            a_few           det/DN            -----      7
+ 9999 99       7       O      N            hours      NOFUNC/SUBJ            -----     -1
+ 9999 99       8       O    DET                a           det/DN            -----      9
+ 9999 99       9       O      N              day         mod/ADVL            -----      7
+ 9999 99      10       O    SEP                .         mod/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_last      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N             year          obj/OBJ            -----      1
+ 9999 99       4       O     CC               or            cc/CC            -----      3
+ 9999 99       5       O    NUM              two           cc/OBJ            -----      3
+ 9999 99       6       O    SEP                .           cc/OBJ            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N             bulb        subj/SUBJ            -----      5
+ 9999 99       3       O   PREP               in          mod/NOM            -----      2
+ 9999 99       4       O      N        Livermore          pcomp/P            -----      3
+ 9999 99       5       O      V           T_have       v-ch/FAUXV            -----      6
+ 9999 99       6       O     EN             T_be       v-ch/FAUXV            -----      7
+ 9999 99       7       O    ING          T_shine      main/FMAINV            -----     -1
+ 9999 99       8       O      N              day         tmp/ADVL            -----      7
+ 9999 99       9       O     CC              and            cc/CC            -----      8
+ 9999 99      10       O      N            night          cc/ADVL            -----      8
+ 9999 99      11       O   PREP            since         tmp/ADVL            -----     10
+ 9999 99      12       O    NUM             1901          pcomp/P            -----     11
+ 9999 99      13       O    SEP                !          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET               No           det/DN            -----      1
+ 9999 99       1       O   PRON              one        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V        T_explain      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV              why         cnt/ADVL            -----      8
+ 9999 99       5       O   PRON               it        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_have       v-ch/FAUXV            -----      8
+ 9999 99       7       O NEG-PART              n't         neg/ADVL            -----      6
+ 9999 99       8       O     EN           T_burn       obj/FMAINV            -----      3
+ 9999 99       9       O    ADV              out         loc/ADVL            -----      8
+ 9999 99      10       O    SEP                .         loc/ADVL            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      2
+ 9999 99       1       O      N            light           attr/A            -----      2
+ 9999 99       2       O      N             bulb        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in          ha/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      7
+ 9999 99       6       O      N             fire           attr/A            -----      7
+ 9999 99       7       O      N          station          pcomp/P            -----      4
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      A       hand-blown           comp/S            -----      1
+ 9999 99       3       O      N            years         tmp/ADVL            -----      1
+ 9999 99       4       O    ADV              ago             ad/A            -----      3
+ 9999 99       5       O   PREP               by          ha/ADVL            -----      1
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O      N           Shelby           attr/A            -----      8
+ 9999 99       8       O      N          Company          pcomp/P            -----      5
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N           switch        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               by         loc/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N            light          pcomp/P            -----      3
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O    DET               no           det/DN            -----      2
+ 9999 99       2       O   PRON              one        subj/SUBJ            -----      4
+ 9999 99       3       O    ADV             ever         frq/ADVL            -----      4
+ 9999 99       4       O      V            T_use      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON               it          obj/OBJ            -----      4
+ 9999 99       6       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            light        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_have       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV              out         loc/ADVL            -----      3
+ 9999 99       5       O    ADV             only             ad/A            -----      6
+ 9999 99       6       O    ADV            twice         frq/ADVL            -----      3
+ 9999 99       7       O    SEP                .         frq/ADVL            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O    NUM            first           attr/A            -----      2
+ 9999 99       2       O      N             time        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O    ADV             when         tmp/ADVL            -----      8
+ 9999 99       5       O    DET              the           det/DN            -----      7
+ 9999 99       6       O      N             fire           attr/A            -----      7
+ 9999 99       7       O      N          station        subj/SUBJ            -----      8
+ 9999 99       8       O      V           T_move      comp/FMAINV            -----      3
+ 9999 99       9       O   PREP               to         goa/ADVL            -----      8
+ 9999 99      10       O    DET                a           det/DN            -----     12
+ 9999 99      11       O      A              new           attr/A            -----     12
+ 9999 99      12       O      N         building          pcomp/P            -----      9
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O    DET            other          attr/DN            -----      2
+ 9999 99       2       O      N             time        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP              for         dur/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N             week          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Some           det/DN            -----      1
+ 9999 99       1       O      N             work        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN             T_do       obj/FMAINV            -----      2
+ 9999 99       6       O    SEP                ,       obj/FMAINV            ?????     -1
+ 9999 99       7       O     CC              and            cc/CC            -----      2
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N            power        subj/SUBJ            -----     10
+ 9999 99      10       O      V             T_be        cc/FMAINV            -----      2
+ 9999 99      11       O      A           turned           comp/S            -----     10
+ 9999 99      12       O    ADV              off          ha/ADVL            -----     10
+ 9999 99      13       O    SEP                .          ha/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN            T_say      main/FMAINV            -----     -1
+ 9999 99       3       O     CS             that            pm/CS            -----     11
+ 9999 99       4       O    DET              the           det/DN            -----      7
+ 9999 99       5       O      N        Livermore           attr/A            -----      6
+ 9999 99       6       O      N            light           attr/A            -----      7
+ 9999 99       7       O      N             bulb        subj/SUBJ            -----      8
+ 9999 99       8       O      V         T_should       v-ch/FAUXV            -----      9
+ 9999 99       9       O      V           T_have       v-ch/FAUXV            -----     10
+ 9999 99      10       O     EN             T_be       v-ch/FAUXV            -----     11
+ 9999 99      11       O     EN         T_change       obj/FMAINV            -----      2
+ 9999 99      12       O   PRON             more         qua/ADVL            -----     11
+ 9999 99      13       O   PREP             than          mod/NOM            -----     12
+ 9999 99      14       O    NUM              800            qn/QN            -----     15
+ 9999 99      15       O      N            times          pcomp/P            -----     13
+ 9999 99      16       O    ADV           by_now        meta/ADVL            -----     11
+ 9999 99      17       O    SEP                .        meta/ADVL            ?????     -1
+
+ 9999 99       0       O   PREP              For         cla/ADVL            -----      3
+ 9999 99       1       O   PRON              all          pcomp/P            -----      0
+ 9999 99       2       O   PRON               we        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_know      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                ,      main/FMAINV            ?????     -1
+ 9999 99       5       O   PRON               it        subj/SUBJ            -----      6
+ 9999 99       6       O      V          T_could       v-ch/FAUXV            -----      7
+ 9999 99       7       O      V           T_last    NOFUNC/FMAINV            -----     -1
+ 9999 99       8       O    NUM               78            qn/QN            -----      9
+ 9999 99       9       O    DET             more           det/DN            -----     10
+ 9999 99      10       O      N            years          obj/OBJ            -----      7
+ 9999 99      11       O    SEP                !          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O      N        Livermore           attr/A            -----      4
+ 9999 99       4       O      N            light           attr/A            -----      5
+ 9999 99       5       O      N             bulb          obj/OBJ            -----      1
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      A          strange           comp/S            -----      1
+ 9999 99       3       O   PREP            about         mod/ADVL            -----      2
+ 9999 99       4       O    DET             this           det/DN            -----      5
+ 9999 99       5       O      N            light          pcomp/P            -----      3
+ 9999 99       6       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      6
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O    NUM            first           attr/A            -----      4
+ 9999 99       4       O      N            light           attr/A            -----      5
+ 9999 99       5       O      N             bulb        subj/SUBJ            -----      1
+ 9999 99       6       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       7       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O      A  longest-lasting           attr/A            -----      4
+ 9999 99       4       O      N            light           attr/A            -----      5
+ 9999 99       5       O      N             bulb        subj/SUBJ            -----      1
+ 9999 99       6       O    SEP                ?        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      6
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      6
+ 9999 99       2       O NEG-PART              n't         neg/ADVL            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O      N            light           attr/A            -----      5
+ 9999 99       5       O      N             bulb        subj/SUBJ            -----      1
+ 9999 99       6       O      V           T_burn      main/FMAINV            -----     -1
+ 9999 99       7       O    ADV              out         loc/ADVL            -----      6
+ 9999 99       8       O    SEP                ?         loc/ADVL            ?????     -1
+

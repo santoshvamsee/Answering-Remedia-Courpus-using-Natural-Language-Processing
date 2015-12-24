@@ -1,0 +1,295 @@
+ 9999 99       0       O      N        Storybook           attr/A            -----      1
+ 9999 99       1       O      N           Person        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       3       O      N            Alive          obj/OBJ            -----      2
+ 9999 99       4       O    SEP                !          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    SEP                (          obj/OBJ            ?????     -1
+ 9999 99       1       O      N          ENGLAND          main/NH            -----      0
+ 9999 99       2       O    SEP                ,          main/NH            ?????     -1
+ 9999 99       3       O      N             June       NOFUNC/APP            -----     -1
+ 9999 99       4       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       5       O    NUM             1989         mod/ADVL            -----      3
+ 9999 99       6       O    SEP                )         mod/ADVL            ?????     -1
+ 9999 99       7       O    SEP                .         mod/ADVL            ?????     -1
+
+ 9999 99       0       O      N      Christopher           attr/A            -----      1
+ 9999 99       1       O      N            Robin        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      A            alive           comp/S            -----      2
+ 9999 99       4       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99       5       O    ADV             well      NOFUNC/ADVL            -----     -1
+ 9999 99       6       O    SEP                .      NOFUNC/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       3       O      N          England          pcomp/P            -----      2
+ 9999 99       4       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      A             same           attr/A            -----      4
+ 9999 99       4       O      N           person           comp/S            -----      1
+ 9999 99       5       O   PRON             that          obj/OBJ            -----      7
+ 9999 99       6       O   PRON              you        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_read       mod/FMAINV            -----      4
+ 9999 99       8       O    ADV            about      NOFUNC/ADVL            -----     -1
+ 9999 99       9       O   PREP               in         loc/ADVL            -----      7
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N             book          pcomp/P            -----      9
+ 9999 99      12       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99      13       O      N           Winnie      NOFUNC/SUBJ            -----     -1
+ 9999 99      14       O    DET              the           det/DN            -----     15
+ 9999 99      15       O      N             Pooh      NOFUNC/SUBJ            -----     -1
+ 9999 99      16       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O   PREP               As         cla/ADVL            -----      5
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N              boy          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O      N            Chris        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP               in          ha/ADVL            -----      5
+ 9999 99       7       O    DET                a           det/DN            -----      9
+ 9999 99       8       O      A           pretty           attr/A            -----      9
+ 9999 99       9       O      N             home          pcomp/P            -----      6
+ 9999 99      10       O     EN           T_call       mod/FMAINV            -----      9
+ 9999 99      11       O      N       Cotchfield           attr/A            -----     12
+ 9999 99      12       O      N             Farm          obj/OBJ            -----     10
+ 9999 99      13       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      2
+ 9999 99       1       O      N            Chris        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       tmp/FMAINV            -----      8
+ 9999 99       3       O    NUM            three            qn/QN            -----      4
+ 9999 99       4       O      A        years_old           comp/S            -----      2
+ 9999 99       5       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       6       O   PRON              his           attr/A            -----      7
+ 9999 99       7       O      N           father        subj/SUBJ            -----      8
+ 9999 99       8       O      V          T_write      main/FMAINV            -----     -1
+ 9999 99       9       O    DET                a           det/DN            -----     10
+ 9999 99      10       O      N             poem          obj/OBJ            -----      8
+ 9999 99      11       O   PREP            about          ha/ADVL            -----      8
+ 9999 99      12       O   PRON              him          pcomp/P            -----     11
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             poem        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN          T_print      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      3
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N         magazine          pcomp/P            -----      4
+ 9999 99       7       O   PREP              for        subj/ADVL            -----     10
+ 9999 99       8       O   PRON           others          pcomp/P            -----      7
+ 9999 99       9       O INFMARK               to       pm/INFMARK            -----     10
+ 9999 99      10       O      V           T_read       cnt/FMAINV            -----      3
+ 9999 99      11       O    SEP                .       cnt/FMAINV            ?????     -1
+
+ 9999 99       0       O   ABBR              Mr.           attr/A            -----      1
+ 9999 99       1       O      N            Robin        subj/SUBJ            -----      3
+ 9999 99       2       O    ADV             then        meta/ADVL            -----      3
+ 9999 99       3       O      V          T_write      main/FMAINV            -----     -1
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N             book          obj/OBJ            -----      3
+ 9999 99       6       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV               up         phr/ADVL            -----      1
+ 9999 99       3       O    DET                a           det/DN            -----      6
+ 9999 99       4       O      N            fairy           attr/A            -----      5
+ 9999 99       5       O      N             tale           attr/A            -----      6
+ 9999 99       6       O      N             land          obj/OBJ            -----      1
+ 9999 99       7       O    ADV            where         loc/ADVL            -----      9
+ 9999 99       8       O      N            Chris        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_live       mod/FMAINV            -----      6
+ 9999 99      10       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON              His           attr/A            -----      1
+ 9999 99       1       O      N          friends        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      N          animals           comp/S            -----      2
+ 9999 99       4       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV            There        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N             bear           comp/S            -----      1
+ 9999 99       4       O     EN           T_call       mod/FMAINV            -----      3
+ 9999 99       5       O      N           Winnie          obj/OBJ            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N             Pooh             oc/O            -----      4
+ 9999 99       8       O    SEP                .             oc/O            ?????     -1
+
+ 9999 99       0       O    ADV            There        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV             also          ha/ADVL            -----      1
+ 9999 99       3       O    DET               an           det/DN            -----      4
+ 9999 99       4       O      N              owl           comp/S            -----      1
+ 9999 99       5       O     CC              and            cc/CC            -----      4
+ 9999 99       6       O    DET                a           det/DN            -----      8
+ 9999 99       7       O      A            young           attr/A            -----      8
+ 9999 99       8       O      N              pig             cc/S            -----      4
+ 9999 99       9       O    SEP                ,             cc/S            ?????     -1
+ 9999 99      10       O     EN           T_call       mod/FMAINV            -----      8
+ 9999 99      11       O    DET                a           det/DN            -----     12
+ 9999 99      12       O      N           piglet          obj/OBJ            -----     10
+ 9999 99      13       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              All           det/DN            -----      1
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N          animals        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN          T_stuff      main/FMAINV            -----     -1
+ 9999 99       5       O      N             toys          obj/OBJ            -----      4
+ 9999 99       6       O   PRON             that          obj/OBJ            -----      8
+ 9999 99       7       O      N            Chris        subj/SUBJ            -----      8
+ 9999 99       8       O      V            T_own       mod/FMAINV            -----      5
+ 9999 99       9       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O   ABBR              Mr.           attr/A            -----      1
+ 9999 99       1       O      N            Robin        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON             them         subj/OBJ            -----      4
+ 9999 99       4       O      V           T_come       obj/FMAINV            -----      2
+ 9999 99       5       O   PREP               to         goa/ADVL            -----      4
+ 9999 99       6       O      N             life          pcomp/P            -----      5
+ 9999 99       7       O   PREP             with       NOFUNC/NOM            -----     -1
+ 9999 99       8       O   PRON              his           attr/A            -----      9
+ 9999 99       9       O      N            words          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N           places        subj/SUBJ            -----      5
+ 9999 99       2       O   PREP               in          mod/NOM            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N            story          pcomp/P            -----      2
+ 9999 99       5       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       6       O    DET              all           det/DN            -----      9
+ 9999 99       7       O      A             near           attr/A            -----      8
+ 9999 99       8       O      N       Cotchfield           attr/A            -----      9
+ 9999 99       9       O      N             Farm           comp/S            -----      5
+ 9999 99      10       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O      N           Winnie          obj/OBJ            -----      4
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N             Pooh        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN          T_write      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP               in         tmp/ADVL            -----      4
+ 9999 99       6       O    NUM             1925          pcomp/P            -----      5
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N         Children        subj/SUBJ            -----      2
+ 9999 99       1       O    ADV            still        meta/ADVL            -----      2
+ 9999 99       2       O      V           T_love      main/FMAINV            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V           T_read       obj/FMAINV            -----      2
+ 9999 99       5       O   PREP            about          ha/ADVL            -----      4
+ 9999 99       6       O      N      Christopher           attr/A            -----      7
+ 9999 99       7       O      N            Robin          pcomp/P            -----      5
+ 9999 99       8       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99       9       O   PRON              his           attr/A            -----     10
+ 9999 99      10       O      N           animal         NOFUNC/A            -----     -1
+ 9999 99      11       O      N          friends      NOFUNC/SUBJ            -----     -1
+ 9999 99      12       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O    DET             Most           det/DN            -----      1
+ 9999 99       1       O      N           people        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       3       O NEG-PART              n't         neg/ADVL            -----      2
+ 9999 99       4       O      V           T_know      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON               he        subj/SUBJ            -----      6
+ 9999 99       6       O      V             T_be       obj/FMAINV            -----      4
+ 9999 99       7       O    DET                a           det/DN            -----      9
+ 9999 99       8       O      A             real           attr/A            -----      9
+ 9999 99       9       O      N           person           comp/S            -----      6
+ 9999 99      10       O   PRON              who        subj/SUBJ            -----     11
+ 9999 99      11       O      V             T_be       v-ch/FAUXV            -----     12
+ 9999 99      12       O     EN           T_grow       mod/FMAINV            -----      9
+ 9999 99      13       O    ADV              now        meta/ADVL            -----     12
+ 9999 99      14       O    SEP                .        meta/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN          T_write      main/FMAINV            -----     -1
+ 9999 99       3       O    NUM              two            qn/QN            -----      4
+ 9999 99       4       O      N            books          obj/OBJ            -----      2
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O   PRON              his           attr/A            -----      7
+ 9999 99       7       O      A              own          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_tell      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON             what      NOFUNC/SUBJ            -----     -1
+ 9999 99       3       O   PRON               it        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be       obj/FMAINV            -----      1
+ 9999 99       5       O   PREP             like          ha/ADVL            -----      4
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V             T_be      comp/FMAINV            -----      4
+ 9999 99       8       O      A           famous           comp/S            -----      7
+ 9999 99       9       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N      Christopher           attr/A            -----      3
+ 9999 99       3       O      N            Robin           comp/S            -----      1
+ 9999 99       4       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What      NOFUNC/SUBJ            -----     -1
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O   ABBR              Mr.           attr/A            -----      3
+ 9999 99       3       O      N            Robin        subj/SUBJ            -----      1
+ 9999 99       4       O      V             T_do      main/FMAINV            -----     -1
+ 9999 99       5       O    ADV             when         tmp/ADVL            -----      7
+ 9999 99       6       O      N            Chris        subj/SUBJ            -----      7
+ 9999 99       7       O      V             T_be       obj/FMAINV            -----      4
+ 9999 99       8       O    NUM            three            qn/QN            -----      9
+ 9999 99       9       O      A        years_old           comp/S            -----      7
+ 9999 99      10       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N           Winnie        subj/SUBJ            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N             Pooh           comp/S            -----      1
+ 9999 99       5       O     EN          T_write       mod/FMAINV            -----      4
+ 9999 99       6       O    SEP                ?       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O      A            young           attr/A            -----      3
+ 9999 99       3       O      N            Chris        subj/SUBJ            -----      1
+ 9999 99       4       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N            Chris        subj/SUBJ            -----      1
+ 9999 99       3       O      V          T_write      main/FMAINV            -----     -1
+ 9999 99       4       O    NUM              two            qn/QN            -----      5
+ 9999 99       5       O      N            books          obj/OBJ            -----      3
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O   PRON              his           attr/A            -----      8
+ 9999 99       8       O      A              own          pcomp/P            -----      6
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+

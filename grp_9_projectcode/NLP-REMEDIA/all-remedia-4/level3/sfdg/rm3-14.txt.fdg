@@ -1,0 +1,330 @@
+0		
+1	Shuttle	shuttle	attr:>2	@A> N
+2	Flies	fly	main:>0	@NH N
+3	Through	through	mod:>2	@<NOM PREP
+4	Space	space	pcomp:>3	@<P N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	CAPE	cape	attr:>3	@A> N
+3	CANAVERAL	Canaveral	main:>1	@APP N
+	$,	
+5	FLORIDA	Florida	cc:>3	@NH N
+	$,	
+7	April	April		@NH N
+8	12	12	mod:>7	@<NOM NUM
+	$,	
+10	1981	1981	mod:>8	@<NOM NUM
+	$)	
+12	$-		
+13	Two	two	qn:>14	@QN> NUM
+14	men	man	subj:>15	@SUBJ N
+15	are	be	v-ch:>16	@+FAUXV V
+16	flying	fly	main:>0	@-FMAINV ING
+17	through	through	ha:>16	@ADVL PREP
+18	space	space	pcomp:>17	@<P N
+19	tonight	tonight	tmp:>16	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	v-ch:>3	@+FAUXV V
+3	riding	ride	main:>0	@-FMAINV ING
+4	in	in	loc:>3	@ADVL PREP
+5	a	a	det:>7	@DN> DET
+6	new	new	attr:>7	@A> A
+7	type	type	pcomp:>4	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	spaceship	spaceship	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	the	the	det:>6	@DN> DET
+5	space	space	attr:>6	@A> N
+6	shuttle	shuttle	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	two	two	qn:>3	@QN> NUM
+3	men	man	subj:>4	@SUBJ N
+4	are	be	main:>0	@+FMAINV V
+5	Young	Young	comp:>4	@PCOMPL-S N
+6	and	and	cc:>5	@CC CC
+7	Crippen	Crippen	cc:>5	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	very	very	ad:>4	@AD-A> ADV
+4	brave	brave	comp:>2	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	be	be	mod:>4	@-FMAINV V
+7	the	the	det:>8	@DN> DET
+8	first	first		@PCOMPL-S NUM	@SUBJ NUM	@ADVL NUM	@ADVL NUM
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	ride	ride	cnt:>6	@-FMAINV V
+11	in	in	ha:>10	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	shuttle	shuttle	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	space	space	attr:>3	@A> N
+3	shuttle	shuttle	subj:>4	@SUBJ N
+4	was	be	v-ch:>5	@+FAUXV V
+5	launched	launch	main:>0	@-FMAINV EN
+	$,	
+7	or	or		@CC CC
+8	shot	shoot		@OBJ A
+	$,	
+10	into	into		@ADVL PREP
+11	space	space	pcomp:>10	@<P N
+12	like	like	mod:>11	@<NOM PREP
+13	spaceships	spaceship	pcomp:>12	@<P N
+14	before	before	mod:>13	@<NOM PREP
+15	it	it	pcomp:>14	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	it	it	subj:>3	@SUBJ PRON
+3	can	can	v-ch:>4	@+FAUXV V
+4	land	land	main:>0	@-FMAINV V
+5	like	like	ha:>4	@ADVL PREP
+6	an	an	det:>7	@DN> DET
+7	airplane	airplane	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Never	never	frq:>6	@ADVL ADV
+2	before	before	tmp:>6	@ADVL ADV
+3	could	could	v-ch:>6	@+FAUXV V
+4	a	a	det:>5	@DN> DET
+5	spaceship	spaceship	subj:>3	@SUBJ N
+6	return	return	main:>0	@-FMAINV V
+7	to	to	goa:>6	@ADVL PREP
+8	Earth	earth	pcomp:>7	@<P N
+9	without	without		@<NOM PREP	@ADVL PREP
+10	splashing	splash	pcomp:>9	@<P-FMAINV ING
+11	into	into	goa:>10	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	ocean	ocean	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Young	Young	cc:>3	@SUBJ N
+2	and	and	cc:>3	@CC CC
+3	Crippen	Crippen	subj:>4	@SUBJ N
+4	are	be	main:>0	@+FMAINV V
+5	pilots	pilot	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	have	have	v-ch:>3	@+FAUXV V
+3	spent	spend	main:>0	@-FMAINV EN
+4	years	year	attr:>5	@A> N
+5	training	train	obj:>3	@OBJ N
+6	for	for	tmp:>3	@ADVL PREP
+7	these	this	det:>8	@DN> DET
+8	few	few	attr:>9	@DN> DET
+9	days	day	pcomp:>6	@<P N
+10	in	in	mod:>9	@<NOM PREP
+11	space	space	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	land	land	main:>0	@-FMAINV V
+4	in	in	loc:>3	@ADVL PREP
+5	California	California	pcomp:>4	@<P N
+6	later	late		@ADVL ADV
+7	this	this	det:>8	@DN> DET
+8	week	week	tmp:>3	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	best	good	attr:>3	@A> A
+3	thing	thing	subj:>8	@SUBJ N
+4	about	about	mod:>3	@<NOM PREP
+5	the	the	det:>7	@DN> DET
+6	space	space	attr:>7	@A> N
+7	shuttle	shuttle	pcomp:>4	@<P N
+8	is	be	main:>0	@+FMAINV V
+9	that	that	pm:>13	@CS CS
+10	it	it	subj:>11	@SUBJ PRON
+11	can	can	v-ch:>12	@+FAUXV V
+12	be	be	v-ch:>13	@-FAUXV V
+13	used	use	comp:>8	@-FMAINV EN
+14	again	again	frq:>13	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	After	after	pm:>3	@CS CS
+2	it	it	subj:>3	@SUBJ PRON
+3	returns	return	tmp:>8	@+FMAINV V
+	$,	
+5	it	it	subj:>6	@SUBJ PRON
+6	will	will	v-ch:>7	@+FAUXV V
+7	be	be	v-ch:>8	@-FAUXV V
+8	cleaned	clean	main:>0	@-FMAINV EN
+9	up	up	man:>8	@ADVL ADV
+10	and	and	cc:>8	@CC CC
+11	checked	check	cc:>8	@-FMAINV EN
+12	over	over	ha:>11	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>5	@ADVL ADV
+2	it	it	subj:>3	@SUBJ PRON
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	flown	fly	main:>0	@-FMAINV EN
+6	back	back	ha:>5	@ADVL ADV
+7	to	to	ad:>6	@ADVL PREP
+8	Florida	Florida	pcomp:>7	@<P N
+9	on	on		@<NOM PREP	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	top	top	pcomp:>9	@<P N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	an	an	det:>14	@DN> DET
+14	airplane	airplane	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Young	Young	cc:>3	@SUBJ N
+2	and	and	cc:>3	@CC CC
+3	Crippen	Crippen	subj:>4	@SUBJ N
+4	can	can	v-ch:>5	@+FAUXV V
+5	talk	talk	main:>0	@-FMAINV V
+6	to	to	ha:>5	@ADVL PREP
+7	people	people	pcomp:>6	@<P N
+8	as	as	pm:>10	@CS CS
+9	they	they	subj:>10	@SUBJ PRON
+10	circle	circle	man:>5	@+FMAINV V
+11	the	the	det:>12	@DN> DET
+12	earth	earth	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>3	@SUBJ PRON
+2	often	often	frq:>3	@ADVL ADV
+3	joke	joke	main:>0	@+FMAINV V
+4	about	about	ha:>3	@ADVL PREP
+5	life	life	pcomp:>4	@<P N
+6	in	in	mod:>5	@<NOM PREP
+7	space	space	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	they	they	subj:>3	@SUBJ PRON
+3	are	be	main:>0	@+FMAINV V
+4	quite	quite	ad:>5	@AD-A> ADV
+5	proud	proud	comp:>3	@PCOMPL-S A
+6	of	of	mod:>5	@<NOM-OF PREP
+7	their	they	attr:>8	@A> PRON
+8	jobs	job	pcomp:>6	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	men	man	comp:>2	@PCOMPL-S N
+5	in	in	ha:>2	@ADVL PREP
+6	space	space	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	pcomp:>5	@<P PRON
+2	are	be	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	traveling	travel	main:>0	@-FMAINV ING
+5	in	in	ha:>4	@ADVL PREP
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	will	will	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	return	return	main:>0	@-FMAINV V
+5	to	to	goa:>4	@ADVL PREP
+6	Earth	earth	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	are	be	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	traveling	travel	main:>0	@-FMAINV ING
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	shuttle	shuttle	subj:>2	@SUBJ N
+5	better	well	man:>2	@ADVL ADV
+6	than	than	mod:>5	@ADVL PREP
+7	other	other	det:>8	@DN> DET
+8	spaceships	spaceship	pcomp:>6	@<P N
+	$?	
+	$<p>	
+

@@ -1,0 +1,345 @@
+0		
+1	School	school	attr:>2	@A> N
+2	Kids	kid	attr:>3	@A> N
+3	Clean	clean	attr:>4	@A> N
+4	Up	up	attr:>5	@A> N
+5	Creek	creek	main:>0	@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	EVERETT	Everett	main:>1	@NH N
+	$,	
+4	WASHINGTON	Washington	cc:>2	@NH N
+	$,	
+6	June	June		@APP N	@NH N
+	$,	
+8	1988	1988	mod:>6	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	taken	take	main:>0	@-FMAINV EN
+4	five	five	qn:>5	@QN> NUM
+5	years	year	obj:>3	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	hard	hard	attr:>8	@A> A
+8	work	work	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	a	a	det:>3	@DN> DET
+3	group	group	subj:>7	@SUBJ N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	school	school	attr:>6	@A> N
+6	children	child	pcomp:>4	@<P N
+7	have	have	v-ch:>8	@+FAUXV V
+8	cleaned	clean	main:>0	@-FMAINV EN
+9	up	up	man:>8	@ADVL ADV
+10	Pigeon	pigeon	attr:>11	@A> N
+11	Creek	creek	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	In	in	tmp:>6	@ADVL PREP
+2	1983	1983	pcomp:>1	@<P NUM
+	$,	
+4	the	the	det:>5	@DN> DET
+5	creek	creek	subj:>6	@SUBJ N
+6	was	be	main:>0	@+FMAINV V
+7	so	so	ad:>8	@AD-A> ADV
+8	dirty	dirty	comp:>6	@PCOMPL-S A
+9	that	that	pm:>14	@CS CS
+10	the	the	det:>11	@DN> DET
+11	fish	fish	subj:>12	@SUBJ N
+12	had	have	v-ch:>14	@+FAUXV V
+13	all	all	mod:>11	@APP PRON
+14	died	die	mod:>7	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	group	group	subj:>8	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	kids	kid	pcomp:>3	@<P N
+5	at	at	mod:>4	@<NOM PREP
+6	Jackson	Jackson	attr:>7	@A> N
+7	School	school	pcomp:>5	@<P N
+8	decided	decide	main:>0	@+FMAINV V
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	do	do	obj:>8	@-FMAINV V
+11	something	something	obj:>10	@OBJ PRON
+12	about	about		@<NOM PREP	@ADVL PREP
+13	it	it	pcomp:>12	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	became	become	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	project	project	comp:>2	@PCOMPL-S N
+5	for	for	mod:>4	@<NOM PREP
+6	their	they	attr:>7	@A> PRON
+7	whole	whole	attr:>8	@A> A
+8	class	class	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	First	first	attr:>2	@A> NUM
+2	they	they	subj:>3	@SUBJ PRON
+3	cleaned	clean	main:>0	@+FMAINV V
+4	out	out	phr:>3	@ADVL ADV
+5	the	the	det:>6	@DN> DET
+6	bottom	bottom	obj:>3	@OBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	the	the	det:>9	@DN> DET
+9	creek	creek	pcomp:>7	@<P N
+	$,	
+11	called	call	mod:>9	@-FMAINV EN
+12	the	the	det:>14	@DN> DET
+13	creek	creek	attr:>14	@A> N
+14	bed	bed	obj:>11	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	There	there	subj:>2	@F-SUBJ ADV
+2	were	be	main:>0	@+FMAINV V
+3	many	many	det:>4	@DN> DET
+4	weeds	weed	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>3	@SUBJ PRON
+2	also	also	>3	@ADVL ADV
+3	found	find	main:>0	@+FMAINV V
+4	a_lot_of	a_lot_of	det:>5	@DN> DET
+5	trash	trash		@OBJ N	@I-OBJ N	@PCOMPL-O N
+6	and	and		@CC CC
+7	litter	litter		@SUBJ N	@OBJ N	@I-OBJ N	@PCOMPL-O N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>4	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	students	student	subj:>4	@SUBJ N
+4	raised	raise	main:>0	@+FMAINV V
+5	fish	fish	attr:>6	@A> N
+6	eggs	egg	obj:>4	@OBJ N
+7	in	in	loc:>4	@ADVL PREP
+8	a	a	det:>9	@DN> DET
+9	tank	tank	pcomp:>7	@<P N
+10	of	of	mod:>9	@<NOM-OF PREP
+11	water	water	pcomp:>10	@<P N
+12	called	call	mod:>11	@-FMAINV EN
+13	an	an	det:>14	@DN> DET
+14	aquarium	aquarium	obj:>12	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	eggs	egg	subj:>4	@SUBJ N
+4	hatched	hatch	tmp:>7	@+FMAINV V
+	$,	
+6	they	they	subj:>7	@SUBJ PRON
+7	emptied	empty	main:>0	@+FMAINV V
+8	the	the	det:>10	@DN> DET
+9	new	new	attr:>10	@A> A
+10	fish	fish	obj:>7	@OBJ N
+11	into	into	goa:>7	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	creek	creek	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	wanted	want	main:>0	@+FMAINV V
+3	others	other	subj:>5	@OBJ PRON
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	stop	stop	obj:>2	@-FMAINV V
+6	making	make	obj:>5	@-FMAINV ING
+7	the	the	det:>8	@DN> DET
+8	creek	creek	obj:>6	@OBJ N
+9	dirty	dirty	oc:>6	@PCOMPL-O A
+	$.	
+	$<s>	
+
+0		
+1	So	so	meta:>3	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	made	make	main:>0	@+FMAINV V
+4	signs	sign	obj:>3	@OBJ N
+5	that	that	subj:>6	@SUBJ PRON
+6	said	say	mod:>4	@+FMAINV V
+	$,	
+	$"_	
+9	Do_	do	v-ch:>11	@+FAUXV V
+10	n't	not	neg:>9	@ADVL NEG-PART
+11	Dump	dump	obj:>6	@-FMAINV V
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	put	put	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	signs	sign	obj:>2	@OBJ N
+5	near	near	ha:>2	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	creek	creek	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>3	@SUBJ PRON
+2	also	also	>3	@ADVL ADV
+3	made	make	main:>0	@+FMAINV V
+4	little	little	attr:>5	@A> A
+5	books	book	obj:>3	@OBJ N
+	$,	
+7	called	call		@+FMAINV V
+8	booklets	booklet	subj:>7	@SUBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	booklets	booklet	subj:>3	@SUBJ N
+3	told	tell	main:>0	@+FMAINV V
+4	people	people	dat:>3	@I-OBJ N
+5	how	how	man:>7	@ADVL ADV
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	keep	keep	obj:>3	@-FMAINV V
+8	the	the	det:>9	@DN> DET
+9	creek	creek	obj:>7	@OBJ N
+10	clean	clean	oc:>7	@PCOMPL-O A
+	$.	
+	$<s>	
+
+0		
+1	Now	now	tmp:>5	@ADVL ADV
+	$,	
+3	the	the	det:>4	@DN> DET
+4	water	water	subj:>5	@SUBJ N
+5	is	be	main:>0	@+FMAINV V
+6	clean	clean	cc:>8	@A> A
+7	and	and	cc:>8	@CC CC
+8	new	new	attr:>9	@A> A
+9	fish	fish	subj:>10	@SUBJ N
+10	are	be	v-ch:>11	@+FAUXV V
+11	being	be	v-ch:>12	@-FAUXV ING
+12	born	bear		@-FMAINV EN
+13	in	in	loc:>12	@ADVL PREP
+14	the	the	det:>15	@DN> DET
+15	creek	creek	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Pigeon	pigeon	attr:>2	@A> N
+2	Creek	creek	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	a	a	det:>5	@DN> DET
+5	sign	sign	comp:>3	@PCOMPL-S N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	the	the	det:>9	@DN> DET
+8	good	good	attr:>9	@A> A
+9	things	thing	pcomp:>6	@<P N
+10	young	young	attr:>11	@A> A
+11	people	people	subj:>12	@SUBJ N
+12	can	can	v-ch:>13	@+FAUXV V
+13	do	do		@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	cleaned	clean	main:>0	@+FMAINV V
+3	up	up	man:>2	@ADVL ADV
+4	the	the	det:>5	@DN> DET
+5	creek	creek	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	creek	creek	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	work	work	subj:>2	@SUBJ N
+5	begin	begin	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	bed	bed	subj:>2	@SUBJ N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	a	a	det:>7	@DN> DET
+7	creek	creek	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	kids	kid	subj:>2	@SUBJ N
+5	make	make	main:>0	@-FMAINV V
+6	booklets	booklet	obj:>5	@OBJ N
+	$?	
+	$<p>	
+

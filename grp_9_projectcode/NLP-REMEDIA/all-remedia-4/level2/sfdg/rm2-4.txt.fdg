@@ -1,0 +1,338 @@
+0		
+1	Young	young	attr:>2	@A> A
+2	Boy	boy	attr:>3	@A> N
+3	Finds	find	attr:>4	@A> N
+4	Old	old	attr:>5	@A> A
+5	Bones	bone	main:>0	@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	PAINTED	paint	attr:>3	@A> A
+3	DESERT	desert		@SUBJ N
+	$,	
+5	ARIZONA	Arizona	mod:>3	@APP N
+	$,	
+7	May	May		@APP N	@NH N
+	$,	
+9	1989	1989	mod:>7	@ADVL NUM
+	$)	
+11	A	a	det:>13	@DN> DET
+12	young	young	attr:>13	@A> A
+13	boy	boy	subj:>14	@SUBJ N
+14	may	may	v-ch:>15	@+FAUXV V
+15	have	have	v-ch:>16	@-FAUXV V
+16	found	find	main:>0	@-FMAINV EN
+17	the	the	det:>18	@DN> DET
+18	bones	bone	obj:>16	@OBJ N
+19	of	of	mod:>18	@<NOM-OF PREP
+20	a	a	det:>22	@DN> DET
+21	new	new	attr:>22	@A> A
+22	kind	kind	pcomp:>19	@<P N
+23	of	of	mod:>22	@<NOM-OF PREP
+24	dinosaur	dinosaur	pcomp:>23	@<P N
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>2	@CS CS
+2	so	so	cnd:>8	@ADVL ADV
+	$,	
+4	the	the	det:>5	@DN> DET
+5	dinosaur	dinosaur	subj:>6	@SUBJ N
+6	will	will	v-ch:>7	@+FAUXV V
+7	be	be	v-ch:>8	@-FAUXV V
+8	named	name	main:>0	@-FMAINV EN
+9	after	after	ha:>8	@ADVL PREP
+10	him	he	pcomp:>9	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	Erik	Erik	attr:>2	@A> N
+2	Thybony	thybony	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	taking	take	main:>0	@-FMAINV ING
+5	a	a	det:>6	@DN> DET
+6	walk	walk	obj:>4	@OBJ N
+7	with	with	ins:>4	@ADVL PREP
+8	his	he	attr:>9	@A> PRON
+9	dad	dad	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	a	a	det:>6	@DN> DET
+5	lonely	lonely	attr:>6	@A> A
+6	desert	desert	pcomp:>3	@<P N
+7	in	in	mod:>6	@<NOM PREP
+8	Arizona	Arizona	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Erik	Erik	subj:>2	@SUBJ N
+2	looked	look	main:>0	@+FMAINV V
+3	down	down	ha:>2	@ADVL ADV
+4	and	and	cc:>2	@CC CC
+5	saw	see	cc:>2	@+FMAINV V
+6	something	something	obj:>5	@OBJ PRON
+7	that	that	subj:>8	@SUBJ PRON
+8	looked	look	mod:>6	@+FMAINV V
+9	like	like	man:>8	@ADVL PREP
+10	teeth	tooth	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>3	@SUBJ PRON
+2	also	also	>3	@ADVL ADV
+3	found	find	main:>0	@+FMAINV V
+4	small	small	attr:>5	@A> A
+5	bones	bone	obj:>3	@OBJ N
+6	nearby	nearby	ha:>3	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	very	very	ad:>4	@AD-A> ADV
+4	excited	excite	comp:>2	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Erik	Erik	cc:>4	@SUBJ N
+2	and	and	cc:>4	@CC CC
+3	his	he	attr:>4	@A> PRON
+4	dad	dad	subj:>5	@SUBJ N
+5	had	have	main:>0	@+FMAINV V
+6	a	a	det:>8	@DN> DET
+7	scientist	scientist	attr:>8	@A> N
+8	look	look	obj:>5	@OBJ N
+9	at	at	loc:>5	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	bones	bone	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	said	say	main:>0	@+FMAINV V
+3	they	they	subj:>4	@SUBJ PRON
+4	must	must	v-ch:>5	@+FAUXV V
+5	be	be	obj:>2	@-FMAINV V
+6	from	from	sou:>5	@ADVL PREP
+7	a	a	det:>8	@DN> DET
+8	dinosaur	dinosaur	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	took	take	main:>0	@+FMAINV V
+3	samples	sample	obj:>2	@OBJ N
+4	with	with	com:>2	@ADVL PREP
+5	him	he	pcomp:>4	@<P PRON
+6	to	to	dat:>2	@ADVL PREP
+7	a	a	det:>8	@DN> DET
+8	lab	lab	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	So_far	so_far	meta:>5	@ADVL ADV
+	$,	
+3	no	no	det:>4	@DN> DET
+4	one	one	subj:>5	@SUBJ PRON
+5	knows	know	main:>0	@+FMAINV V
+6	what	what	det:>7	@DN> DET
+7	kind	kind		@SUBJ N	@OBJ N	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	dinosaur	dinosaur	pcomp:>8	@<P N
+10	this	this	subj:>11	@SUBJ PRON
+11	was	be	obj:>5	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	do	do	v-ch:>3	@+FAUXV V
+3	know	know	main:>0	@-FMAINV V
+4	it	it	subj:>5	@SUBJ PRON
+5	was	be	obj:>3	@+FMAINV V
+6	small	small	comp:>5	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	lived	live	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	wild	wild	pcomp:>3	@<P A
+6	along_with	along_with	mod:>5	@<NOM PREP
+7	many	many	det:>8	@DN> DET
+8	other	other	attr:>9	@DN> DET
+9	dinosaurs	dinosaur	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	teeth	tooth	cc:>4	@SUBJ N
+3	and	and	cc:>4	@CC CC
+4	bones	bone	subj:>5	@SUBJ N
+5	may	may	v-ch:>6	@+FAUXV V
+6	have	have	v-ch:>7	@-FAUXV V
+7	been	be	main:>0	@-FMAINV EN
+8	on	on	loc:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	ground	ground	pcomp:>8	@<P N
+11	for	for	mod:>10	@<NOM PREP
+12	thousands	thousand	pcomp:>11	@<P N
+13	or	or	cc:>12	@CC CC
+14	millions	million	cc:>12	@<P N
+15	of	of	mod:>14	@<NOM-OF PREP
+16	years	year	pcomp:>15	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>4	@ADVL ADV
+2	eight-year-old	eight-year-old	attr:>3	@A> A
+3	Erik	Erik	subj:>4	@SUBJ N
+4	found	find	main:>0	@+FMAINV V
+5	them	they	obj:>4	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	Someday	someday	tmp:>6	@ADVL ADV
+2	his	he	attr:>3	@A> PRON
+3	name	name	subj:>4	@SUBJ N
+4	may	may	v-ch:>5	@+FAUXV V
+5	be	be	v-ch:>6	@-FAUXV V
+6	found	find	main:>0	@-FMAINV EN
+7	in	in	loc:>6	@ADVL PREP
+8	science	science	attr:>9	@A> N
+9	books	book	pcomp:>7	@<P N
+10	all_over	all_over	mod:>9	@<NOM PREP
+11	the	the	det:>12	@DN> DET
+12	world	world	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Erik	Erik	subj:>2	@SUBJ N
+2	wo_	will	v-ch:>4	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	get	get	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	keep	keep	obj:>4	@-FMAINV V
+7	the	the	det:>8	@DN> DET
+8	bones	bone	obj:>6	@OBJ N
+9	and	and	cc:>8	@CC CC
+10	teeth	tooth	cc:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	v-ch:>4	@-FAUXV V
+4	put	put	main:>0	@-FMAINV EN
+5	in	in	loc:>4	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	safe	safe	attr:>8	@A> A
+8	place	place	pcomp:>5	@<P N
+9	in	in	mod:>8	@<NOM PREP
+10	a	a	det:>11	@DN> DET
+11	museum	museum	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	Erik	Erik	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	kind	kind	obj:>8	@OBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	animal	animal	attr:>5	@A> N
+5	bones	bone	pcomp:>3	@<P N
+6	do	do	v-ch:>8	@+FAUXV V
+7	they	they	subj:>6	@SUBJ PRON
+8	think	think	main:>0	@-FMAINV V
+9	Erik	Erik	oc:>10	@PCOMPL-O N
+10	found	find		@+FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	dinosaur	dinosaur	subj:>2	@SUBJ N
+5	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where		@ADVL ADV
+2	will	will		@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	bones	bone	subj:>2	@SUBJ N
+5	and	and		@CC CC
+6	teeth	tooth		@SUBJ N	@OBJ N	@PCOMPL-S N
+7	be	be	v-ch:>8	@-FAUXV V
+8	kept	keep	mod:>6	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	might	might	v-ch:>6	@+FAUXV V
+3	Erik's	Erik	attr:>4	@A> N
+4	last	last	det:>5	@DN> DET
+5	name	name	subj:>2	@SUBJ N
+6	be	be	main:>0	@-FMAINV V
+7	famous	fam	comp:>6	@PCOMPL-S A
+8	someday	someday	tmp:>6	@ADVL ADV
+	$?	
+	$<p>	
+

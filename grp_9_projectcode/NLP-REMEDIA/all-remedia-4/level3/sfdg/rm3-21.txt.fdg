@@ -1,0 +1,347 @@
+0		
+1	New	new	attr:>2	@A> A
+2	Movie	movie	subj:>3	@SUBJ N
+3	Comes	come	main:>0	@+FMAINV V
+4	to	to	goa:>3	@ADVL PREP
+5	Town	town	pcomp:>4	@<P N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	KANSAS	Kansas	attr:>3	@A> N
+3	CITY	city		@APP N
+	$,	
+5	KANSAS	Kansas	mod:>3	@APP N
+	$,	
+7	November	November	main:>1	@NH N	@APP N
+8	13,1939	13,1939	mod:>7	@<NOM NUM
+	$)	
+10	$-		
+11	A	a	det:>13	@DN> DET
+12	new	new	attr:>13	@A> A
+13	movie	movie	subj:>14	@SUBJ N
+14	has	have	v-ch:>15	@+FAUXV V
+15	come	come	main:>0	@-FMAINV EN
+16	to	to	goa:>15	@ADVL PREP
+17	town	town	pcomp:>16	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	takes	take	main:>0	@+FMAINV V
+3	place	place	obj:>2	@OBJ N
+4	in	in	loc:>2	@ADVL PREP
+5	our	we	attr:>6	@A> PRON
+6	state	state	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	movie	movie	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	called	call	main:>0	@-FMAINV EN
+	$"_	
+6	The	the	det:>7	@DN> DET
+7	Wizard	wizard		@SUBJ N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	Oz.	oz.		@A> ABBR	@<P ABBR	ABBR
+	$_"	
+	$<s>	
+
+0		
+1	In	in	cla:>10	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	movie	movie	pcomp:>1	@<P N
+	$,	
+5	a	a	det:>7	@DN> DET
+6	young	young	attr:>7	@A> A
+7	girl	girl	subj:>10	@SUBJ N
+8	named	name	mod:>7	@-FMAINV EN
+9	Dorothy	Dorothy	obj:>8	@OBJ N
+10	lives	live	main:>0	@+FMAINV V
+11	on	on	loc:>10	@ADVL PREP
+12	a	a	det:>13	@DN> DET
+13	farm	farm	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	longs	long	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	travel	travel	obj:>2	@-FMAINV V
+5	to	to	goa:>4	@ADVL PREP
+6	a	a	det:>7	@DN> DET
+7	land	land	pcomp:>5	@<P N
+	$"_	
+9	over	over		@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	rainbow	rainbow	pcomp:>9	@<P N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	Then	then	meta:>4	@ADVL ADV
+2	a	a	det:>3	@DN> DET
+3	storm	storm	subj:>4	@SUBJ N
+4	comes	come	main:>0	@+FMAINV V
+5	along	along	ha:>4	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	winds	wind	subj:>3	@SUBJ N
+3	blow	blow	main:>0	@+FMAINV V
+4	Dorothy	Dorothy	obj:>3	@OBJ N
+5	and	and		@CC CC
+6	her	she	attr:>7	@A> PRON
+7	dog	dog	attr:>8	@A> N
+8	Toto	Toto		@OBJ N
+9	far	far	loc:>3	@ADVL ADV
+10	away	away		@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	land	land	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	a	a	det:>6	@DN> DET
+5	beautiful	beautiful	attr:>6	@A> A
+6	place	place	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	meet	meet	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	man	man	obj:>2	@OBJ N
+5	made	make	mod:>4	@-FMAINV EN
+6	out_of	out_of	sou:>5	@ADVL PREP
+7	tin	tin	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	is	be		@+FMAINV V
+3	afraid	afraid	comp:>2	@PCOMPL-S A
+4	he	he	subj:>5	@SUBJ PRON
+5	will	will	v-ch:>6	@+FAUXV V
+6	rust	rust		@-FMAINV V
+7	if	if	pm:>9	@CS CS
+8	it	it	subj:>9	@SUBJ PRON
+9	rains	rain	cnd:>6	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>3	@SUBJ PRON
+2	also	also	>3	@ADVL ADV
+3	meet	meet	main:>0	@+FMAINV V
+4	a	a	det:>5	@DN> DET
+5	lion	lion	obj:>3	@OBJ N
+6	who	who	subj:>7	@SUBJ PRON
+7	is	be	v-ch:>8	@+FAUXV V
+8	scared	scare	mod:>5	@-FMAINV EN
+9	of	of	ha:>8	@ADVL PREP
+10	most	many	det:>11	@DN> DET
+11	things	thing	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	third	third	attr:>3	@A> NUM
+3	friend	friend	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	a	a	det:>6	@DN> DET
+6	scarecrow	scarecrow	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	scarecrow	scarecrow	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	made	make	main:>0	@-FMAINV EN
+5	of	of	phr:>4	@ADVL PREP
+6	straw	straw	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	afraid	afraid	comp:>2	@PCOMPL-S A
+4	of	of	mod:>3	@<NOM-OF PREP
+5	just	just	ad:>6	@AD-A> ADV
+6	one	one	qn:>7	@QN> NUM
+7	thing	thing	pcomp:>4	@<P N
+8	$-		main:>11
+9	a	a	det:>11	@DN> DET
+10	lighted	light	attr:>11	@A> A
+11	match	match	mod:>7	@APP N
+	$.	
+	$<s>	
+
+0		
+1	Together	together	meta:>4	@ADVL ADV
+	$,	
+3	they	they	subj:>4	@SUBJ PRON
+4	go	go	main:>0	@+FMAINV V
+5	in	in	loc:>4	@ADVL PREP
+6	search	search	pcomp:>5	@<P N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	a	a	det:>9	@DN> DET
+9	wizard	wizard	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	wizard	wizard	subj:>3	@SUBJ N
+3	lives	live	main:>0	@+FMAINV V
+4	in	in	ha:>3	@ADVL PREP
+5	a	a		@DN> DET
+6	land	land		@A> N	@<P N
+7	called	call		@<P-FMAINV EN	@-FMAINV EN	@A> A	@OBJ A	@<P A	@NH A
+8	Oz	oz		@SUBJ ABBR	@OBJ ABBR	@PCOMPL-O ABBR	@<P ABBR
+	$.	
+	$<s>	
+
+0		
+1	Only	only	meta:>3	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	wizard	wizard	subj:>4	@SUBJ N
+4	can	can	v-ch:>5	@+FAUXV V
+5	help	help	main:>0	@-FMAINV V
+6	Dorothy	Dorothy	subj:>7	@OBJ N
+7	get	get	obj:>5	@-FMAINV V
+8	home	home		@SUBJ N	@OBJ N	@ADVL N
+9	again	again	frq:>7	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	wicked	wicked	attr:>3	@A> A
+3	witch	witch	subj:>4	@SUBJ N
+4	wants	want	main:>0	@+FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	stop	stop	obj:>4	@-FMAINV V
+7	Dorothy	Dorothy	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Can	can	v-ch:>4	@+FAUXV V
+2	Dorothy	Dorothy	subj:>1	@SUBJ N
+3	ever	ever	frq:>4	@ADVL ADV
+4	find	find	main:>0	@-FMAINV V
+5	her	she	attr:>6	@A> PRON
+6	way	way	obj:>4	@OBJ N
+7	home	home	mod:>6	@ADVL N
+8	again	again	meta:>4	@ADVL ADV
+	$?	
+	$<s>	
+
+0		
+1	You_	you	subj:>2	@SUBJ PRON
+2	'll	will	v-ch:>3	@+FAUXV V
+3	have	have	main:>0	@-FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	see	see	obj:>3	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	movie	movie	obj:>5	@OBJ N
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	see	see	oc:>5	@-FMAINV V
+10	what	what	subj:>11	@SUBJ PRON
+11	happens	happen	obj:>9	@+FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	young	young	attr:>5	@A> A
+5	girl	girl	comp:>2	@PCOMPL-S N
+6	in	in	ha:>2	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	movie	movie	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	movie	movie	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	was	be	v-ch:>6	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	movie	movie	subj:>2	@SUBJ N
+5	first	first		@SUBJ NUM	@OBJ NUM	@ADVL NUM	@<NOM NUM	@ADVL NUM
+6	shown	show	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	Dorothy	Dorothy	subj:>2	@SUBJ N
+4	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	would	would	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	scarecrow	scarecrow	subj:>2	@SUBJ N
+5	fear	fear	main:>0	@-FMAINV V
+6	a	a	det:>8	@DN> DET
+7	lighted	light	attr:>8	@A> A
+8	match	match	obj:>5	@OBJ N
+	$?	
+	$<p>	
+

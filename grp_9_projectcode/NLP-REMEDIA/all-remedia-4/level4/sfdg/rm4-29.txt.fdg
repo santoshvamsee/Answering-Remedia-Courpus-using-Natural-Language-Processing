@@ -1,0 +1,355 @@
+0		
+	$<p>	
+
+0		
+1	First	first	attr:>2	@A> NUM
+2	Dog	dog	subj:>3	@SUBJ N
+3	Will	will	v-ch:>4	@+FAUXV V
+4	Write	write	main:>0	@-FMAINV V
+5	Life	life	attr:>6	@A> N
+6	Story	story	obj:>4	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	Washington	Washington		@NH N	@APP N
+	$,	
+4	D	d	mod:>2	@APP ABBR
+	$.	
+	$<s>	
+
+0		
+1	C.	c.	main:>0	@NH ABBR
+	$,	
+3	June	June		@A> N	@ADVL N
+4	15,1989	15,1989		@NH NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Someone	someone	subj:>6	@SUBJ PRON
+2	in	in	mod:>1	@<NOM PREP
+3	the	the	det:>5	@DN> DET
+4	White	white	attr:>5	@A> A
+5	House	house	pcomp:>2	@<P N
+6	is	be	main:>0	@+FMAINV V
+7	about	about	ha:>6	@ADVL ADV
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	write	write	comp:>6	@-FMAINV V
+10	a	a	det:>11	@DN> DET
+11	book	book	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	No	no	meta:>4	@ADVL ADV
+	$,	
+3	it_	it	subj:>4	@SUBJ PRON
+4	's	be	main:>0	@+FMAINV V
+5	not	not	neg:>4	@ADVL NEG-PART
+6	President	president	attr:>7	@A> N
+7	Bush	bush	comp:>4	@PCOMPL-S N
+8	or	or	cc:>7	@CC CC
+9	his	he	attr:>10	@A> PRON
+10	wife	wife	cc:>7	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It_	it	subj:>2	@SUBJ PRON
+2	's	be	main:>0	@+FMAINV V
+3	their	they	attr:>4	@A> PRON
+4	family	family	attr:>5	@A> N
+5	dog	dog	comp:>2	@PCOMPL-S N
+	$,	
+7	Millie	Millie	voc:>2	@VOC N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	been	be	v-ch:>4	@-FAUXV EN
+4	learned	learn	main:>0	@-FMAINV EN
+5	that	that	pm:>7	@CS CS
+6	Millie	Millie	subj:>7	@SUBJ N
+7	plans	plan	obj:>4	@+FMAINV V
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	write	write	obj:>7	@-FMAINV V
+10	her	she	attr:>11	@A> PRON
+11	life	life	attr:>12	@A> N
+12	story	story		@SUBJ N	@OBJ N	@I-OBJ N
+13	and	and	cc:>9	@CC CC
+14	tell	tell	cc:>9	@-FMAINV V
+15	how	how	man:>17	@ADVL ADV
+16	she	she	subj:>17	@SUBJ PRON
+17	became	become	obj:>14	@+FMAINV V
+	$"_	
+19	First	first	attr:>20	@A> NUM
+20	Dog	dog		@SUBJ N
+	$.	
+	$_"	
+	$<p>	
+
+0		
+1	Millie	Millie	subj:>2	@SUBJ N
+2	was	be	v-ch:>3	@+FAUXV V
+3	born	bear	main:>0	@-FMAINV EN
+4	on	on	loc:>3	@ADVL PREP
+5	a	a	det:>7	@DN> DET
+6	Kentucky	Kentucky	attr:>7	@A> N
+7	farm	farm	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>7	@DN> DET
+4	two-year-old	two-year-old	attr:>5	@A> A
+5	English	English	attr:>6	@A> A
+6	springer	springer	attr:>7	@A> N
+7	spaniel	spaniel	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Millie	Millie	subj:>2	@SUBJ N
+2	has	have	v-ch:>3	@+FAUXV V
+3	spent	spend	main:>0	@-FMAINV EN
+4	much	much	qua:>3	@ADVL PRON
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	past	past	det:>8	@DN> DET
+8	few	few	attr:>9	@DN> DET
+9	years	year	pcomp:>5	@<P N
+10	begging	beg	mod:>9	@-FMAINV ING
+11	for	for	ha:>10	@ADVL PREP
+12	table	table	attr:>13	@A> N
+13	scraps	scrap	pcomp:>11	@<P N
+14	from	from	sou:>10	@ADVL PREP
+15	the	the	det:>17	@DN> DET
+16	Bush	bush	attr:>17	@A> N
+17	grandchildren	grandchild	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Not	not	neg:>2	@ADVL NEG-PART
+2	long_ago	long_ago	meta:>5	@ADVL ADV
+	$,	
+4	she	she	subj:>5	@SUBJ PRON
+5	became	become	main:>0	@+FMAINV V
+6	a	a	det:>7	@DN> DET
+7	mother	mother	comp:>5	@PCOMPL-S N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	six	six	pcomp:>8	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	Her	she	attr:>2	@A> PRON
+2	puppies	puppy	subj:>3	@SUBJ N
+3	have	have	v-ch:>5	@+FAUXV V
+4	now	now	meta:>5	@ADVL ADV
+5	grown	grow	main:>0	@-FMAINV EN
+6	old	old	comp:>5	@PCOMPL-S A
+7	enough	enough	ad:>6	@<AD-A ADV
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	leave	leave	cnt:>5	@-FMAINV V
+10	home	home	goa:>9	@ADVL N
+	$.	
+	$<p>	
+
+0		
+1	Since	since	pm:>3	@CS CS
+2	Millie	Millie	subj:>3	@SUBJ N
+3	had	have	cnt:>8	@+FMAINV V
+4	free	free	attr:>5	@A> A
+5	time	time		@SUBJ N	@OBJ N	@ADVL N
+	$,	
+7	she	she	subj:>8	@SUBJ PRON
+8	needed	need	main:>0	@+FMAINV V
+9	a	a	det:>10	@DN> DET
+10	hobby	hobby	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Mrs.	Mrs.	attr:>2	@A> ABBR
+2	Bush	bush	subj:>3	@SUBJ N
+3	thought	think	main:>0	@+FMAINV V
+4	that	that	pm:>7	@CS CS
+5	writing	write	subj:>6	@SUBJ N
+6	would	would	v-ch:>7	@+FAUXV V
+7	be	be	obj:>3	@-FMAINV V
+8	just	just	meta:>10	@ADVL ADV
+9	the	the	det:>10	@DN> DET
+10	thing	thing	comp:>7	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Because	because	pm:>6	@CS CS
+2	Millie's	Millie	attr:>3	@A> N
+3	paws	paw	subj:>4	@SUBJ N
+4	do_	do	v-ch:>6	@+FAUXV V
+5	n't	not	neg:>4	@ADVL NEG-PART
+6	hold	hold	cnt:>15	@-FMAINV V
+7	a	a	det:>8	@DN> DET
+8	pen	pen	obj:>6	@OBJ N
+9	very	very	ad:>10	@AD-A> ADV
+10	well	well	man:>6	@ADVL ADV
+	$,	
+12	Mrs.	Mrs.	attr:>13	@A> ABBR
+13	Bush	bush	subj:>14	@SUBJ N
+14	has	have	v-ch:>15	@+FAUXV V
+15	promised	promise	main:>0	@-FMAINV EN
+16	to	to	pm:>17	@INFMARK> INFMARK>
+17	write	write	obj:>15	@-FMAINV V
+18	down	down	ha:>17	@ADVL ADV
+19	the	the	det:>20	@DN> DET
+20	words	word	obj:>17	@OBJ N
+21	for	for	dat:>17	@ADVL PREP
+22	her	she	pcomp:>21	@<P PRON
+	$.	
+	$<p>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>5	@+FAUXV V
+3	most	much	ad:>4	@AD-A> ADV
+4	likely	likely	>5	@ADVL ADV
+5	share	share	main:>0	@-FMAINV V
+6	some	some	det:>9	@DN> DET
+7	White	white	attr:>8	@A> A
+8	House	house	attr:>9	@A> N
+9	secrets	secret	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Some	some	subj:>2	@SUBJ PRON
+2	think	think	main:>0	@+FMAINV V
+3	that	that	pm:>6	@CS CS
+4	Millie	Millie	subj:>5	@SUBJ N
+5	will	will	v-ch:>6	@+FAUXV V
+6	tell	tell	obj:>2	@-FMAINV V
+7	what	what	det:>8	@DN> DET
+8	song	song	dat:>6	@I-OBJ N
+9	the	the	det:>10	@DN> DET
+10	President	president	subj:>11	@SUBJ N
+11	likes	like	obj:>6	@+FMAINV V
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	sing	sing	obj:>11	@-FMAINV V
+14	while	while	tmp:>16	@ADVL ADV
+15	he	he	subj:>16	@SUBJ PRON
+16	works	work	tmp:>13	@+FMAINV V
+17	in	in	loc:>16	@ADVL PREP
+18	the	the	det:>20	@DN> DET
+19	Oval	oval	attr:>20	@A> N
+20	Office	office	pcomp:>17	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Others	other	subj:>2	@SUBJ PRON
+2	think	think	main:>0	@+FMAINV V
+3	she	she	subj:>4	@SUBJ PRON
+4	will	will	v-ch:>5	@+FAUXV V
+5	tell	tell	obj:>2	@-FMAINV V
+6	about	about	ha:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	time	time	pcomp:>6	@<P N
+9	she	she	subj:>10	@SUBJ PRON
+10	saw	see	mod:>8	@+FMAINV V
+11	Lincoln's	Lincoln	attr:>12	@A> N
+12	ghost	ghost	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	remains	remain	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	be	be	v-ch:>5	@-FAUXV V
+5	seen	see	comp:>2	@-FMAINV EN
+6	whether	whether	pm:>9	@CS CS
+7	Millie	Millie	subj:>8	@SUBJ N
+8	will	will	v-ch:>9	@+FAUXV V
+9	be	be	obj:>5	@-FMAINV V
+10	a	a	det:>13	@DN> DET
+11	dog-gone	dog-gone	attr:>12	@A> A
+12	good	good	attr:>13	@A> A
+13	writer	writer	comp:>9	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	Millie	Millie	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	comp:>4	@PCOMPL-S PRON
+2	is	be	v-ch:>4	@+FAUXV V
+3	she	she	subj:>2	@SUBJ PRON
+4	going	go	main:>0	@-FMAINV ING
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	do	do	cnt:>4	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	was	be	v-ch:>4	@+FAUXV V
+3	Millie	Millie	subj:>2	@SUBJ N
+4	born	bear	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	Millie	Millie	subj:>2	@SUBJ N
+4	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	Mrs.	Mrs.	attr:>4	@A> ABBR
+4	Bush	bush	subj:>2	@SUBJ N
+5	help	help	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+

@@ -1,0 +1,308 @@
+0		
+1	Climbers	climber	attr:>2	@A> N
+2	Reach	reach	attr:>3	@A> N
+3	Top	top	main:>0	@NH N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	the	the	det:>6	@DN> DET
+6	World	world	pcomp:>4	@<P N
+	$<p>	
+
+0		
+	$(	
+2	NEPAL	Nepal		@NH N
+	$,	
+4	1953	1953		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Two	two	qn:>3	@QN> NUM
+2	mountain	mountain	attr:>3	@A> N
+3	climbers	climber	subj:>4	@SUBJ N
+4	have	have	v-ch:>5	@+FAUXV V
+5	reached	reach	main:>0	@-FMAINV EN
+6	the	the	det:>7	@DN> DET
+7	top	top	obj:>5	@OBJ N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	the	the	det:>12	@DN> DET
+10	world's	world	attr:>11	@A> N
+11	tallest	tall	attr:>12	@A> A
+12	mountain	mountain	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	got	get	tmp:>15	@+FMAINV V
+4	to	to	ha:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	top	top	pcomp:>4	@<P N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	Mount	mount	attr:>9	@A> N
+9	Everest	Everest	pcomp:>7	@<P N
+	$,	
+11	the	the	det:>13	@DN> DET
+12	two	two	qn:>13	@QN> NUM
+13	men	man	subj:>14	@SUBJ N
+14	had	have	v-ch:>15	@+FAUXV V
+15	climbed	climb	main:>0	@-FMAINV EN
+16	29,028	29,028	qn:>17	@QN> NUM
+17	feet	foot	qua:>15	@O-ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	men	man	subj:>3	@SUBJ N
+3	were	be	v-ch:>4	@+FAUXV V
+4	helped	help	main:>0	@-FMAINV EN
+5	by	by	agt:>4	@ADVL PREP
+6	a	a	det:>7	@DN> DET
+7	team	team	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	climbers	climber	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	First	first	meta:>4	@ADVL NUM	@ADVL NUM
+	$,	
+3	they	they	subj:>4	@SUBJ PRON
+4	set	set	main:>0	@+FMAINV V
+5	up	up	phr:>4	@ADVL ADV
+6	a	a	det:>8	@DN> DET
+7	base	base	attr:>8	@A> N
+8	camp	camp	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	where	where	loc:>6	@ADVL ADV
+4	supplies	supply	subj:>5	@SUBJ N
+5	are	be	v-ch:>6	@+FAUXV V
+6	kept	keep	comp:>2	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Other	other	det:>2	@DN> DET
+2	camps	camp	subj:>3	@SUBJ N
+3	were	be	v-ch:>4	@+FAUXV V
+4	made	make	main:>0	@-FMAINV EN
+5	higher	high	comp:>4	@PCOMPL-S A
+6	up	up	ha:>4	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	mountain	mountain	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Here	here		@ADVL ADV
+	$,	
+3	the	the	det:>4	@DN> DET
+4	climbers	climber	subj:>5	@SUBJ N
+5	could	could	v-ch:>6	@+FAUXV V
+6	get	get	main:>0	@-FMAINV V
+7	away	away	loc:>6	@ADVL ADV
+8	from	from	sou:>6	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	wind	wind	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	At	at	tmp:>5	@ADVL PREP
+2	times	time	pcomp:>1	@<P N
+	$,	
+4	snowstorms	snowstorm	subj:>5	@SUBJ N
+5	made	make	main:>0	@+FMAINV V
+6	it	it	obj:>5	@OBJ PRON
+7	hard	hard	oc:>5	@PCOMPL-O A
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	climb	climb	mod:>7	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	So	so	meta:>3	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	stayed	stay	main:>0	@+FMAINV V
+4	in	in	loc:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	camps	camp	pcomp:>4	@<P N
+7	until	until	pm:>10	@CS CS
+8	the	the	det:>9	@DN> DET
+9	weather	weather	subj:>10	@SUBJ N
+10	got	get	tmp:>3	@+FMAINV V
+11	better	good	comp:>10	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	storms	storm	subj:>4	@SUBJ N
+4	cleared	clear	tmp:>7	@+FMAINV V
+	$,	
+6	they	they	subj:>7	@SUBJ PRON
+7	moved	move	main:>0	@+FMAINV V
+8	on	on	ha:>7	@ADVL PREP
+	$.	
+	$<s>	
+
+0		
+1	Edmund	Edmund	attr:>2	@A> N
+2	Hillary	Hillary	subj:>3	@SUBJ N
+3	was	be	main:>0	@+FMAINV V
+4	the	the	det:>6	@DN> DET
+5	best	good	attr:>6	@A> A
+6	climber	climber	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	took	take	main:>0	@+FMAINV V
+3	along	along	ha:>2	@ADVL PREP
+4	his	he	attr:>5	@A> PRON
+5	guide	guide	pcomp:>3	@<P N
+	$,	
+7	named	name	mod:>5	@-FMAINV EN
+8	Tenzing	Tenzing	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	After	after	tmp:>11	@ADVL PREP
+2	hours	hour	pcomp:>1	@<P N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	fighting	fight	pcomp:>3	@<P-FMAINV ING
+5	the	the	det:>6	@DN> DET
+6	snow	snow	obj:>4	@OBJ N
+7	and	and	cc:>6	@CC CC
+8	ice	ice	cc:>6	@OBJ N
+	$,	
+10	they	they	subj:>11	@SUBJ PRON
+11	reached	reach	main:>0	@+FMAINV V
+12	the	the	det:>13	@DN> DET
+13	top	top	obj:>11	@OBJ N
+	$,	
+15	called	call	mod:>13	@-FMAINV EN
+16	the	the	det:>17	@DN> DET
+17	summit	summit	obj:>15	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Eight	eight	qn:>2	@QN> NUM
+2	teams	team	subj:>5	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	climbers	climber	pcomp:>3	@<P N
+5	tried	try	main:>0	@+FMAINV V
+6	and	and	cc:>5	@CC CC
+7	failed	fail	cc:>5	@+FMAINV V
+8	before	before	tmp:>7	@ADVL PREP
+9	them	they	pcomp:>8	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	Hillary	Hillary	cc:>4	@SUBJ N
+3	and	and	cc:>4	@CC CC
+4	Tenzing	Tenzing	subj:>5	@SUBJ N
+5	proved	prove	main:>0	@+FMAINV V
+6	it	it	subj:>7	@SUBJ PRON
+7	can	can	v-ch:>8	@+FAUXV V
+8	be	be	v-ch:>9	@-FAUXV V
+9	done	do	obj:>5	@-FMAINV EN
+	$!	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	reached	reach	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	top	top	obj:>2	@OBJ N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	Mount	mount	attr:>7	@A> N
+7	Everest	Everest	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	another	another	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	for	for	mod:>4	@<NOM PREP
+6	a	a	det:>8	@DN> DET
+7	mountain	mountain	attr:>8	@A> N
+8	top	top	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	climbers	climber	subj:>2	@SUBJ N
+5	reach	reach	main:>0	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	top	top	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	Mount	mount	attr:>4	@A> N
+4	Everest	Everest	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	do	do	v-ch:>4	@+FAUXV V
+3	you	you	subj:>2	@SUBJ PRON
+4	think	think	main:>0	@-FMAINV V
+5	it	it	subj:>6	@SUBJ PRON
+6	is	be	obj:>4	@+FMAINV V
+7	so	so	ad:>8	@AD-A> ADV
+8	hard	hard	oc:>4	@PCOMPL-O A
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	reach	reach	mod:>8	@-FMAINV V
+11	the	the	det:>12	@DN> DET
+12	top	top	obj:>10	@OBJ N
+	$?	
+	$<p>	
+

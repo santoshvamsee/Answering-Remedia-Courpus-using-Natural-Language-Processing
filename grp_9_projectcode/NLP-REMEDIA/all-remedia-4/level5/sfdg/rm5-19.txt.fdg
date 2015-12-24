@@ -1,0 +1,351 @@
+0		
+	$<p>	
+
+0		
+1	U.S.	U.S.	attr:>2	@A> ABBR
+2	Swimmer	swimmer	attr:>3	@A> N
+3	Wins	win	main:>0	@NH N
+4	Seven	seven	qn:>6	@QN> NUM
+5	Gold	gold	attr:>6	@A> N
+6	Medals	medal		@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	MUNICH	Munich	main:>1	@NH N
+	$,	
+4	GERMANY	Germany	cc:>2	@NH N
+	$,	
+6	September	September		@NH N
+7	4	4	mod:>6	@<NOM NUM
+	$,	
+9	1972	1972	mod:>7	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>4	@DN> DET
+2	United	unite	attr:>3	@A> A
+3	States	state	attr:>4	@A> N
+4	swimmer	swimmer	subj:>5	@SUBJ N
+5	has	have	v-ch:>6	@+FAUXV V
+6	won	win	main:>0	@-FMAINV EN
+7	seven	seven	qn:>9	@QN> NUM
+8	gold	gold	attr:>9	@A> N
+9	medals	medal	obj:>6	@OBJ N
+10	at	at	loc:>6	@ADVL PREP
+11	the	the	det:>12	@DN> DET
+12	Olympics	Olympic	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Mark	mark	attr:>2	@A> N
+2	Spitz	Spitz	subj:>3	@SUBJ N
+3	has	have	v-ch:>4	@+FAUXV V
+4	set	set	main:>0	@-FMAINV EN
+5	a	a	det:>7	@DN> DET
+6	world	world	attr:>7	@A> N
+7	record	record	obj:>4	@OBJ N
+8	for	for	cnt:>4	@ADVL PREP
+9	winning	win	pcomp:>8	@<P-FMAINV ING
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	22	22	qn:>4	@QN> NUM
+4	years_old	years_old	comp:>2	@PCOMPL-S A
+5	and	and	cc:>4	@CC CC
+6	lives	life	cc:>4	@PCOMPL-S N
+7	in	in	mod:>6	@<NOM PREP
+8	California	California	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Mark	mark	subj:>2	@SUBJ N
+2	won	win	main:>0	@+FMAINV V
+3	each	each	det:>5	@DN> DET
+4	swimming	swim	attr:>5	@A> N
+5	event	event		@SUBJ N
+6	he	he	subj:>7	@SUBJ PRON
+7	entered	enter	mod:>5	@+FMAINV V
+8	at	at	loc:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	Olympics	Olympic	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	events	event	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	100	100	comp:>3	@PCOMPL-S NUM
+6	$-		
+7	and	and	cc:>6	@CC CC
+8	200-meter	200-meter	attr:>9	@A> A
+9	freestyle	freestyle		@NH N	@SUBJ N	@APP N
+	$,	
+11	the	the	det:>12	@DN> DET
+12	100	100		@NH NUM	@SUBJ NUM	@APP NUM
+13	$-		paren:>6
+14	and	and	cc:>3	@CC CC
+15	200-meter	200-meter	attr:>16	@A> A
+16	butterfly	butterfly	subj:>17	@SUBJ N
+17	stroke	stroke	cc:>3	@+FMAINV V
+	$,	
+19	and	and		@CC CC
+20	three	three	qn:>23	@QN> NUM
+21	different	different	attr:>22	@A> A
+22	relay	relay	attr:>23	@A> N
+23	races	race		@SUBJ N	@OBJ N	@PCOMPL-S N	@APP N
+24	with	with		@<NOM PREP	@ADVL PREP
+25	his	he	attr:>26	@A> PRON
+26	team	team	pcomp:>24	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	United	unite	attr:>3	@A> A
+3	States	state	subj:>4	@SUBJ N
+4	has	have	v-ch:>5	@+FAUXV V
+5	had	have	main:>0	@-FMAINV EN
+6	a	a	det:>9	@DN> DET
+7	second	second	attr:>8	@A> NUM
+8	big	big	attr:>9	@A> A
+9	win	win	obj:>5	@OBJ N
+10	at	at	loc:>5	@ADVL PREP
+11	these	this	det:>12	@DN> DET
+12	games	game	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	One	one	subj:>6	@SUBJ NUM
+2	of	of	mod:>1	@<NOM-OF PREP
+3	its	it	attr:>4	@A> PRON
+4	team	team	attr:>5	@A> N
+5	members	member	pcomp:>2	@<P N
+6	has	have	v-ch:>7	@+FAUXV V
+7	won	win	main:>0	@-FMAINV EN
+8	the	the	det:>10	@DN> DET
+9	gold	gold	attr:>10	@A> N
+10	medal	medal	obj:>7	@OBJ N
+11	in	in	loc:>7	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	marathon	marathon	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	His	he	attr:>2	@A> PRON
+2	name	name	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	Frank	Frank	attr:>5	@A> N
+5	Shorter	short	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	time	time	comp:>2	@PCOMPL-S N
+6	someone	someone	subj:>11	@SUBJ PRON
+7	from	from	sou:>2	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	United	unite	attr:>10	@A> A
+10	States	state	pcomp:>7	@<P N
+11	has	have	v-ch:>12	@+FAUXV V
+12	won	win	mod:>1	@-FMAINV EN
+13	this	this	det:>14	@DN> DET
+14	race	race	obj:>12	@OBJ N
+15	since	since	tmp:>12	@ADVL PREP
+16	1908	1908	pcomp:>15	@<P NUM
+	$.	
+	$<p>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	marathon	marathon	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	a	a	det:>6	@DN> DET
+5	running	run	attr:>6	@A> N
+6	race	race	comp:>3	@PCOMPL-S N
+7	that	that	subj:>8	@SUBJ PRON
+8	lasts	last	mod:>6	@+FMAINV V
+9	26	26	qn:>10	@QN> NUM
+10	miles	mile	dur:>8	@O-ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Very	very		@AD-A> ADV
+2	few	few	det:>3	@DN> DET
+3	runners	runner	subj:>4	@SUBJ N
+4	are	be	main:>0	@+FMAINV V
+5	able	able	comp:>4	@PCOMPL-S A
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	compete	compete	mod:>5	@-FMAINV V
+8	in	in	loc:>7	@ADVL PREP
+9	this	this	det:>10	@DN> DET
+10	race	race	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	takes	take	main:>0	@+FMAINV V
+3	three	three	cc:>5	@QN> NUM
+4	or	or	cc:>5	@CC CC
+5	four	four	qn:>6	@QN> NUM
+6	hours	hour		@OBJ N	@I-OBJ N	@ADVL N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	finish	finish	mod:>1	@-FMAINV V
+9	the	the	det:>10	@DN> DET
+10	course	course	obj:>8	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	There	there	subj:>2	@F-SUBJ ADV
+2	is	be	main:>0	@+FMAINV V
+3	one	one	qn:>5	@QN> NUM
+4	big	big	attr:>5	@A> A
+5	disappointment	disappointment	comp:>2	@PCOMPL-S N
+6	at	at	ha:>2	@ADVL PREP
+7	this	this	pcomp:>6	@<P PRON
+8	year's	year	attr:>9	@A> N
+9	Olympics	Olympic		@SUBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	United	unite	attr:>3	@A> A
+3	States	state	subj:>4	@SUBJ N
+4	lost	lose	main:>0	@+FMAINV V
+5	the	the	det:>7	@DN> DET
+6	gold	gold	attr:>7	@A> N
+7	medal	medal	obj:>4	@OBJ N
+8	in	in	loc:>4	@ADVL PREP
+9	basketball	basketball	pcomp:>8	@<P N
+10	to	to		@<NOM PREP	@ADVL PREP
+11	the	the	det:>12	@DN> DET
+12	team	team	pcomp:>10	@<P N
+13	from	from	sou:>4	@ADVL PREP
+14	Russia	Russia	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	time	time	tmp:>2	@ADVL N
+6	the	the	det:>8	@DN> DET
+7	United	unite	attr:>8	@A> A
+8	States	state	comp:>2	@PCOMPL-S N
+9	has	have	v-ch:>11	@+FAUXV V
+10	not	not	neg:>9	@ADVL NEG-PART
+11	won	win		@-FMAINV EN
+12	this	this	det:>13	@DN> DET
+13	event	event	obj:>11	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	won	win	main:>0	@-FMAINV EN
+4	seven	seven	qn:>6	@QN> NUM
+5	gold	gold	attr:>6	@A> N
+6	medals	medal	obj:>3	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>4	@DN> DET
+2	other	other		@DN> DET
+3	big	big	attr:>4	@A> A
+4	event	event	obj:>9	@OBJ N
+5	did	do	v-ch:>9	@+FAUXV V
+6	the	the	det:>8	@DN> DET
+7	United	unite	attr:>8	@A> A
+8	States	state	subj:>5	@SUBJ N
+9	win	win	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when		@ADVL ADV
+2	was	be		@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	last	last	attr:>5	@DN> DET
+5	time	time	tmp:>9	@ADVL N
+6	the	the	det:>8	@DN> DET
+7	United	unite	attr:>8	@A> A
+8	States	state	subj:>2	@SUBJ N
+9	won	win	mod:>8	@-FMAINV EN
+10	the	the	det:>12	@DN> DET
+11	gold	gold	attr:>12	@A> N
+12	medal	medal	obj:>9	@OBJ N
+13	in	in	loc:>9	@ADVL PREP
+14	a	a	det:>15	@DN> DET
+15	marathon	marathon	pcomp:>13	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>6	@ADVL ADV
+2	were	be	v-ch:>6	@+FAUXV V
+3	these	this	det:>5	@DN> DET
+4	Olympic	Olympic	attr:>5	@A> N
+5	games	game	subj:>2	@SUBJ N
+6	held	hold	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	is	be	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	United	unite	attr:>5	@A> A
+5	States	state	subj:>2	@SUBJ N
+6	disappointed	disappoint	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+

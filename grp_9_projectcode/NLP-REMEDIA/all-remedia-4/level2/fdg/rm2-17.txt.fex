@@ -1,0 +1,287 @@
+ 9999 99       0       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       1       O      N           Winter        subj/SUBJ            -----      0
+ 9999 99       2       O      V            T_end      main/FMAINV            -----     -1
+ 9999 99       3       O      N            Today         tmp/ADVL            -----      2
+ 9999 99       4       O    SEP                ?         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O    SEP                (         tmp/ADVL            ?????     -1
+ 9999 99       1       O    ADV         Anywhere        meta/ADVL            -----      3
+ 9999 99       2       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       3       O   ABBR              USA       NOFUNC/APP            -----     -1
+ 9999 99       4       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       5       O      N         February         NOFUNC/A            -----     -1
+ 9999 99       6       O    NUM           2,1989        NOFUNC/NH            -----     -1
+ 9999 99       7       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       8       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       1       O   PRON              you        subj/SUBJ            -----      0
+ 9999 99       2       O     EN           T_tire      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               of         phr/ADVL            -----      2
+ 9999 99       4       O    DET                a           det/DN            -----      8
+ 9999 99       5       O      A             long             cc/A            -----      7
+ 9999 99       6       O    SEP                ,             cc/A            ?????     -1
+ 9999 99       7       O      A             cold           attr/A            -----      8
+ 9999 99       8       O      N           winter          pcomp/P            -----      3
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Well        meta/ADVL            -----      2
+ 9999 99       1       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       2       O      V          T_cheer      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV               up         phr/ADVL            -----      2
+ 9999 99       4       O    SEP                !         phr/ADVL            ?????     -1
+
+ 9999 99       0       O    ADV           There_        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET             some           det/DN            -----      3
+ 9999 99       3       O      N             hope           comp/S            -----      1
+ 9999 99       4       O     CS             that            pm/CS            -----      7
+ 9999 99       5       O      N           spring        subj/SUBJ            -----      6
+ 9999 99       6       O      V          T_might       v-ch/FAUXV            -----      7
+ 9999 99       7       O      V           T_come       mod/FMAINV            -----      3
+ 9999 99       8       O    ADV            early          ha/ADVL            -----      7
+ 9999 99       9       O    DET             this           det/DN            -----     10
+ 9999 99      10       O      N             year         tmp/ADVL            -----      7
+ 9999 99      11       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O    DET             Some           det/DN            -----      1
+ 9999 99       1       O      N            folks        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       3       O     CS             that            pm/CS            -----      8
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N              way        subj/SUBJ            -----      8
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V           T_tell       mod/FMAINV            -----      5
+ 9999 99       8       O      V             T_be       obj/FMAINV            -----      2
+ 9999 99       9       O   PREP               by         man/ADVL            -----      2
+ 9999 99      10       O    ING          T_watch     pcomp/FMAINV            -----      9
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N        groundhog          obj/OBJ            -----     10
+ 9999 99      13       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      N       Groundhogs        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      A            small             cc/A            -----      4
+ 9999 99       3       O    SEP                ,             cc/A            ?????     -1
+ 9999 99       4       O      A            furry           attr/A            -----      5
+ 9999 99       5       O      N          animals           comp/S            -----      1
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       2       O    ADV             also          ad/ADVL            -----      3
+ 9999 99       3       O     EN           T_know      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               as          ha/ADVL            -----      3
+ 9999 99       5       O      N       woodchucks          pcomp/P            -----      4
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O NEG-PART              n't         neg/ADVL            -----      1
+ 9999 99       3       O      V           T_like      main/FMAINV            -----     -1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      A             cold          obj/OBJ            -----      3
+ 9999 99       6       O   PREP               of           mod/OF            -----      5
+ 9999 99       7       O      N           winter          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP           During         tmp/ADVL            -----      6
+ 9999 99       1       O    DET              the           det/DN            -----      3
+ 9999 99       2       O      A           chilly           attr/A            -----      3
+ 9999 99       3       O      N           months          pcomp/P            -----      0
+ 9999 99       4       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       5       O   PRON             they        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP               in         loc/ADVL            -----      6
+ 9999 99       8       O      N             dens           attr/A            -----      9
+ 9999 99       9       O      N      underground          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             Most        subj/SUBJ            -----      3
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O   PRON             them          pcomp/P            -----      1
+ 9999 99       3       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               in          ha/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      8
+ 9999 99       6       O      A         northern           attr/A            -----      7
+ 9999 99       7       O      A           United           attr/A            -----      8
+ 9999 99       8       O      N           States          pcomp/P            -----      4
+ 9999 99       9       O     CC              and            cc/CC            -----      8
+ 9999 99      10       O      N           Canada             cc/P            -----      8
+ 9999 99      11       O    SEP                .             cc/P            ?????     -1
+
+ 9999 99       0       O   PREP            After         tmp/ADVL            -----      9
+ 9999 99       1       O      N           months          pcomp/P            -----      0
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N             snow          pcomp/P            -----      2
+ 9999 99       5       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99       6       O      A             cold      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O    SEP                ,      NOFUNC/SUBJ            ?????     -1
+ 9999 99       8       O   PRON             they        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99      10       O    DET                a           det/DN            -----     12
+ 9999 99      11       O      N             peek           attr/A            -----     12
+ 9999 99      12       O      N          outside          obj/OBJ            -----      9
+ 9999 99      13       O INFMARK               to       pm/INFMARK            -----     14
+ 9999 99      14       O      V          T_check       cnt/FMAINV            -----      9
+ 9999 99      15       O    DET              the           det/DN            -----     16
+ 9999 99      16       O      N          weather          obj/OBJ            -----     14
+ 9999 99      17       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET               An           det/DN            -----      3
+ 9999 99       1       O      A              old           attr/A            -----      2
+ 9999 99       2       O      N             folk           attr/A            -----      3
+ 9999 99       3       O      N             tale        subj/SUBJ            -----      4
+ 9999 99       4       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       5       O     CS             that            pm/CS            -----      8
+ 9999 99       6       O   PRON             they        subj/SUBJ            -----      7
+ 9999 99       7       O      V            T_can       v-ch/FAUXV            -----      8
+ 9999 99       8       O      V           T_tell       obj/FMAINV            -----      4
+ 9999 99       9       O    ADV              how             ad/A            -----     10
+ 9999 99      10       O      A             long          dat/OBJ            -----      8
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N           winter        subj/SUBJ            -----     13
+ 9999 99      13       O      V           T_will       v-ch/FAUXV            -----     14
+ 9999 99      14       O      V           T_last       obj/FMAINV            -----      8
+ 9999 99      15       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O    ADV              How      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    SEP                ,      NOFUNC/ADVL            ?????     -1
+ 9999 99       2       O   PRON              you        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_ask      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             tale        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V          T_watch       obj/FMAINV            -----      2
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N       groundhogs          obj/OBJ            -----      4
+ 9999 99       7       O   PREP               on         tmp/ADVL            -----      4
+ 9999 99       8       O      N         February          pcomp/P            -----      7
+ 9999 99       9       O    NUM                2          mod/NOM            -----      8
+ 9999 99      10       O    SEP                .          mod/NOM            ?????     -1
+
+ 9999 99       0       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       1       O   PRON             what          obj/OBJ            -----      3
+ 9999 99       2       O   PRON             they        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_do       obj/FMAINV            -----      0
+ 9999 99       4       O    ADV             when         tmp/ADVL            -----      6
+ 9999 99       5       O   PRON             they        subj/SUBJ            -----      6
+ 9999 99       6       O      V          T_leave       tmp/FMAINV            -----      3
+ 9999 99       7       O   PRON            their           attr/A            -----      8
+ 9999 99       8       O      N             dens          obj/OBJ            -----      6
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O     CS               If            pm/CS            -----      2
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_see       cnd/FMAINV            -----      8
+ 9999 99       3       O   PRON            their           attr/A            -----      4
+ 9999 99       4       O      N          shadows          obj/OBJ            -----      2
+ 9999 99       5       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       6       O   PRON             they        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_will       v-ch/FAUXV            -----      8
+ 9999 99       8       O      V            T_run      main/FMAINV            -----     -1
+ 9999 99       9       O    ADV             back          ha/ADVL            -----      8
+ 9999 99      10       O   PREP           inside      NOFUNC/ADVL            -----     -1
+ 9999 99      11       O   PRON            their           attr/A            -----     12
+ 9999 99      12       O      N            homes      NOFUNC/SUBJ            -----     -1
+ 9999 99      13       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O   PRON             That        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_mean      main/FMAINV            -----     -1
+ 9999 99       2       O      N           winter        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_will       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V           T_last       obj/FMAINV            -----      1
+ 9999 99       5       O    NUM              six            qn/QN            -----      6
+ 9999 99       6       O    DET             more           det/DN            -----      7
+ 9999 99       7       O      N            weeks          obj/OBJ            -----      4
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O     CS               If            pm/CS            -----      4
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       3       O NEG-PART              n't         neg/ADVL            -----      2
+ 9999 99       4       O      V            T_see       cnd/FMAINV            -----     10
+ 9999 99       5       O   PRON            their           attr/A            -----      6
+ 9999 99       6       O      N          shadows          obj/OBJ            -----      4
+ 9999 99       7       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       8       O   PRON             they        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_will       v-ch/FAUXV            -----     10
+ 9999 99      10       O      V           T_stay      main/FMAINV            -----     -1
+ 9999 99      11       O      N          outside           comp/S            -----     10
+ 9999 99      12       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON             That        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_mean      main/FMAINV            -----     -1
+ 9999 99       2       O      N           spring        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_will       v-ch/FAUXV            -----      5
+ 9999 99       4       O    ADV             soon         tmp/ADVL            -----      5
+ 9999 99       5       O      V          T_start       obj/FMAINV            -----      1
+ 9999 99       6       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       3       O      N             dens           attr/A            -----      4
+ 9999 99       4       O      N      underground          pcomp/P            -----      2
+ 9999 99       5       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET          another           det/DN            -----      3
+ 9999 99       3       O      N             name           comp/S            -----      1
+ 9999 99       4       O   PREP              for         dat/ADVL            -----      1
+ 9999 99       5       O   PRON             them          pcomp/P            -----      4
+ 9999 99       6       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N              day        subj/SUBJ            -----      1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V          T_watch       cnt/FMAINV            -----      1
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N       groundhogs          obj/OBJ            -----      5
+ 9999 99       8       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      subj/FMAINV            -----      7
+ 9999 99       2       O   PRON             most           comp/S            -----      1
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N        groundhog          pcomp/P            -----      3
+ 9999 99       6       O      N            homes        subj/SUBJ            -----      1
+ 9999 99       7       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       8       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N           people        subj/SUBJ            -----      1
+ 9999 99       3       O      V          T_watch      main/FMAINV            -----     -1
+ 9999 99       4       O    DET            these           det/DN            -----      5
+ 9999 99       5       O      N          animals          obj/OBJ            -----      3
+ 9999 99       6       O    NUM              one            qn/QN            -----      7
+ 9999 99       7       O      N              day         tmp/ADVL            -----      3
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O    DET              the           det/DN            -----     10
+ 9999 99      10       O      N             year          pcomp/P            -----      8
+ 9999 99      11       O    SEP                ?          pcomp/P            ?????     -1
+

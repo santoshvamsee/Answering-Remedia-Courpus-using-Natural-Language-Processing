@@ -1,0 +1,315 @@
+0		
+1	First	first	attr:>2	@A> NUM
+2	Satellite	satellite	attr:>3	@A> N
+3	Circles	circle	main:>0	@NH N
+4	the	the	det:>5	@DN> DET
+5	Earth	earth		@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	RUSSIA	Russia	main:>1	@NH N
+	$,	
+4	October	October		@NH N
+5	4	4	mod:>4	@<NOM NUM
+	$,	
+7	1957	1957	mod:>5	@<NOM NUM
+	$)	
+9	$-		
+10	The	the	det:>13	@DN> DET
+11	first	first	attr:>12	@A> NUM
+12	man-made	man-made	attr:>13	@A> A
+13	object	object	subj:>14	@SUBJ N
+14	has	have	v-ch:>15	@+FAUXV V
+15	made	make	main:>0	@-FMAINV EN
+16	a	a	det:>17	@DN> DET
+17	trip	trip	obj:>15	@OBJ N
+18	around	around	ha:>15	@ADVL PREP
+19	the	the	det:>20	@DN> DET
+20	world	world	pcomp:>18	@<P N
+21	in	in	mod:>20	@<NOM PREP
+22	outer	outer	attr:>23	@A> A
+23	space	space	pcomp:>21	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	object	object	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	a	a	det:>5	@DN> DET
+5	satellite	satellite	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	only	only	ad:>4	@AD-A> ADV
+4	two	two	qn:>5	@QN> NUM
+5	feet	foot	comp:>2	@PCOMPL-S N
+6	around	around	ha:>2	@ADVL PREP
+7	its	it	attr:>8	@A> PRON
+8	center	center	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	carries	carry	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	radio	radio	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	radio	radio	subj:>3	@SUBJ N
+3	tells	tell	main:>0	@+FMAINV V
+4	it	it	dat:>3	@I-OBJ PRON
+5	where	where	loc:>7	@ADVL ADV
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	go	go	obj:>3	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	satellite	satellite	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	built	build	main:>0	@-FMAINV EN
+5	in	in	loc:>4	@ADVL PREP
+6	Russia	Russia	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>7	@ADVL PREP
+2	that	that	det:>3	@DN> DET
+3	country	country	pcomp:>1	@<P N
+	$,	
+5	it	it	subj:>6	@SUBJ PRON
+6	is	be	v-ch:>7	@+FAUXV V
+7	called	call	main:>0	@-FMAINV EN
+8	a	a	det:>9	@DN> DET
+9	sputnik	sputnik	comp:>7	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	took	take	main:>0	@+FMAINV V
+3	only	only	ad:>4	@AD-A> ADV
+4	96	96	qn:>5	@QN> NUM
+5	minutes	minute	obj:>2	@OBJ N
+6	for	for	subj:>10	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	object	object	pcomp:>6	@<P N
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	make	make	mod:>1	@-FMAINV V
+11	one	one	qn:>13	@QN> NUM
+12	whole	whole	attr:>13	@A> A
+13	trip	trip	obj:>10	@OBJ N
+14	around	around	ha:>10	@ADVL PREP
+15	the	the	det:>16	@DN> DET
+16	earth	earth	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	traveled	travel	main:>0	@+FMAINV V
+3	in	in	ha:>2	@ADVL PREP
+4	an	an	det:>6	@DN> DET
+5	oval	oval	attr:>6	@A> A
+6	path	path	pcomp:>3	@<P N
+7	called	call	mod:>6	@-FMAINV EN
+8	an	an	det:>9	@DN> DET
+9	orbit	orbit	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	satellite	satellite	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	fall	fall	main:>0	@-FMAINV V
+5	back	back	ha:>4	@ADVL ADV
+6	to	to	ad:>5	@ADVL PREP
+7	Earth	earth	pcomp:>6	@<P N
+8	soon	soon	tmp:>4	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	it	it	subj:>4	@SUBJ PRON
+3	already	already	meta:>5	@ADVL ADV
+4	has	have	v-ch:>5	@+FAUXV V
+5	done	do	main:>0	@-FMAINV EN
+6	an	an	det:>8	@DN> DET
+7	important	important	attr:>8	@A> A
+8	job	job	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	showed	show	main:>0	@+FMAINV V
+3	us	we	dat:>2	@I-OBJ PRON
+4	that	that	pm:>8	@CS CS
+5	objects	object	subj:>6	@SUBJ N
+6	can	can	v-ch:>7	@+FAUXV V
+7	be	be	v-ch:>8	@-FAUXV V
+8	sent	send	obj:>2	@-FMAINV EN
+9	into	into	goa:>8	@ADVL PREP
+10	space	space	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Someday	someday	tmp:>5	@ADVL ADV
+	$,	
+3	people	people	subj:>4	@SUBJ N
+4	may	may	v-ch:>5	@+FAUXV V
+5	be	be	main:>0	@-FMAINV V
+6	able	able	comp:>5	@PCOMPL-S A
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	travel	travel	mod:>6	@-FMAINV V
+9	in	in	loc:>8	@ADVL PREP
+10	space	space	pcomp:>9	@<P N
+	$,	
+12	too	too	meta:>8	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	There	there	subj:>2	@F-SUBJ ADV
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	movie	movie	comp:>2	@PCOMPL-S N
+5	called	call	mod:>4	@-FMAINV EN
+	$"_	
+7	Around	around		@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	World	world	pcomp:>7	@<P N
+10	in	in	mod:>9	@<NOM PREP
+11	80	80	qn:>12	@QN> NUM
+12	Days	day	pcomp:>10	@<P N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	about	about	ha:>2	@ADVL PREP
+4	men	man	comp:>2	@PCOMPL-S N
+5	who	who	subj:>6	@SUBJ PRON
+6	race	race	mod:>1	@+FMAINV V
+7	by	by	loc:>6	@ADVL PREP
+8	land	land	pcomp:>7	@<P N
+9	and	and	cc:>8	@CC CC
+10	sea	sea	cc:>8	@<P N
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	circle	circle	cnt:>6	@-FMAINV V
+13	the	the	det:>14	@DN> DET
+14	earth	earth	obj:>12	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>6	@ADVL ADV
+2	a	a	det:>4	@DN> DET
+3	small	small	attr:>4	@A> A
+4	object	object	subj:>5	@SUBJ N
+5	can	can	v-ch:>6	@+FAUXV V
+6	move	move	main:>0	@-FMAINV V
+7	faster	fast	man:>6	@ADVL ADV
+8	than	than	mod:>7	@ADVL PREP
+9	any	any	det:>10	@DN> DET
+10	person	person	cc:>8	@<P N
+	$,	
+12	plane	plane	cc:>10	@<P N
+	$,	
+14	or	or	cc:>12	@CC CC
+15	ship	ship	cc:>12	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	built	build	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	space	space	attr:>5	@A> N
+5	object	object	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>5	@OBJ PRON
+2	is	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	object	object		@PCOMPL-S N
+5	called	call	mod:>4	@-FMAINV EN
+6	in	in	ha:>5	@ADVL PREP
+7	Russian	Russian	pcomp:>6	@<P A	@<P N
+8	and	and	cc:>6	@CC CC
+9	in	in	cc:>6	@ADVL PREP
+10	English	English	pcomp:>9	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	was	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	object	object	subj:>2	@SUBJ N
+5	sent	send	main:>0	@-FMAINV EN
+6	into	into	goa:>5	@ADVL PREP
+7	space	space	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	it	it	subj:>2	@SUBJ PRON
+4	travel	travel	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	it	it	subj:>2	@SUBJ PRON
+4	important	important	comp:>2	@PCOMPL-S A
+	$?	
+	$<p>	
+

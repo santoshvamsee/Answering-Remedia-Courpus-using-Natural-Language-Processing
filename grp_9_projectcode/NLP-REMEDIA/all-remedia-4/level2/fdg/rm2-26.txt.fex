@@ -1,0 +1,299 @@
+ 9999 99       0       O      N             Tomb        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_keep      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON              Its           attr/A            -----      3
+ 9999 99       3       O      N          Secrets          obj/OBJ            -----      1
+
+ 9999 99       0       O    SEP                (          obj/OBJ            ?????     -1
+ 9999 99       1       O      N            EGYPT        NOFUNC/NH            -----     -1
+ 9999 99       2       O    SEP                ,        NOFUNC/NH            ?????     -1
+ 9999 99       3       O    NUM             1951        NOFUNC/NH            -----     -1
+ 9999 99       4       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       5       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N             tomb        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_find      main/FMAINV            -----     -1
+ 9999 99       4       O    DET             this           det/DN            -----      5
+ 9999 99       5       O      N             year           comp/S            -----      3
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N             tomb           comp/S            -----      1
+ 9999 99       4       O     EN          T_build       mod/FMAINV            -----      3
+ 9999 99       5       O   PREP              for          ha/ADVL            -----      4
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N             king          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             king        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_live      main/FMAINV            -----     -1
+ 9999 99       3       O   PRON             more         qua/ADVL            -----      2
+ 9999 99       4       O   PREP             than          mod/NOM            -----      3
+ 9999 99       5       O    NUM            4,000            qn/QN            -----      6
+ 9999 99       6       O      N            years          pcomp/P            -----      4
+ 9999 99       7       O    ADV              ago             ad/A            -----      6
+ 9999 99       8       O    SEP                .             ad/A            ?????     -1
+
+ 9999 99       0       O   PRON              His           attr/A            -----      1
+ 9999 99       1       O      N             home        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               in         loc/ADVL            -----      2
+ 9999 99       4       O      N            Egypt          pcomp/P            -----      3
+ 9999 99       5       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP              For         tmp/ADVL            -----      5
+ 9999 99       1       O      N            years          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O    DET               no           det/DN            -----      4
+ 9999 99       4       O   PRON              one        subj/SUBJ            -----      5
+ 9999 99       5       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N             tomb          obj/OBJ            -----      5
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN          T_carve      main/FMAINV            -----     -1
+ 9999 99       3       O      A             deep      copred/SUBJ            -----      2
+ 9999 99       4       O   PREP               in          mod/NOM            -----      3
+ 9999 99       5       O      N             rock          pcomp/P            -----      4
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             wind        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_blow      main/FMAINV            -----     -1
+ 9999 99       3       O      N             sand          obj/OBJ            -----      2
+ 9999 99       4       O   PREP             over          ha/ADVL            -----      2
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N              top          pcomp/P            -----      4
+ 9999 99       7       O     CC              and            cc/CC            -----      2
+ 9999 99       8       O      V           T_hide        cc/FMAINV            -----      2
+ 9999 99       9       O   PRON               it          obj/OBJ            -----      8
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      5
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N             team        subj/SUBJ            -----      5
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O      N          diggers          pcomp/P            -----      3
+ 9999 99       5       O      V           T_come      main/FMAINV            -----     -1
+ 9999 99       6       O    ADV            along          ha/ADVL            -----      5
+ 9999 99       7       O    SEP                .          ha/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON            Their           attr/A            -----      1
+ 9999 99       1       O      N              job        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V         T_search      comp/FMAINV            -----      2
+ 9999 99       5       O   PREP              for          ha/ADVL            -----      4
+ 9999 99       6       O      A           hidden           attr/A            -----      7
+ 9999 99       7       O      N        treasures          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             What          obj/OBJ            -----      2
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_find      subj/FMAINV            -----      3
+ 9999 99       3       O      V         T_thrill      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON             them          obj/OBJ            -----      3
+ 9999 99       5       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      N           Jewels          cc/SUBJ            -----      2
+ 9999 99       1       O     CC              and            cc/CC            -----      2
+ 9999 99       2       O      N             gold        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN           T_find      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP               in         loc/ADVL            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N             tomb          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      N           king's           attr/A            -----      2
+ 9999 99       2       O      N        treasures        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN           T_bury      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP           inside          ha/ADVL            -----      4
+ 9999 99       6       O    NUM              132            qn/QN            -----      7
+ 9999 99       7       O      N            rooms          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N              men        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_open      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      N    10-foot-thick           attr/A            -----      5
+ 9999 99       5       O      N             door          obj/OBJ            -----      2
+ 9999 99       6       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    NUM              130            qn/QN            -----      3
+ 9999 99       3       O      N             feet           comp/S            -----      1
+ 9999 99       4       O   PREP            below          ad/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N            earth          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ING            T_use       cla/FMAINV            -----      4
+ 9999 99       1       O      N          torches          obj/OBJ            -----      0
+ 9999 99       2       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       3       O   PRON             they        subj/SUBJ            -----      4
+ 9999 99       4       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N             case          obj/OBJ            -----      4
+ 9999 99       7       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    SEP               "_          obj/OBJ            ?????     -1
+ 9999 99       1       O   PRON               It        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_must       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V        T_contain       obj/FMAINV            -----     10
+ 9999 99       4       O    DET              the           det/DN            -----      6
+ 9999 99       5       O      N           king's           attr/A            -----      6
+ 9999 99       6       O      N            mummy          obj/OBJ            -----      3
+ 9999 99       7       O    SEP                !          obj/OBJ            ?????     -1
+ 9999 99       8       O    SEP               _"          obj/OBJ            ?????     -1
+ 9999 99       9       O   PRON             they        subj/SUBJ            -----     10
+ 9999 99      10       O      V            T_say      main/FMAINV            -----     -1
+ 9999 99      11       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N            mummy        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      4
+ 9999 99       4       O      N             body           comp/S            -----      2
+ 9999 99       5       O     EN           T_wrap       mod/FMAINV            -----      4
+ 9999 99       6       O   PREP               in          ha/ADVL            -----      5
+ 9999 99       7       O      N           sheets          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP             With         cla/ADVL            -----      7
+ 9999 99       1       O      A            great           attr/A            -----      2
+ 9999 99       2       O      N             care          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N             case        subj/SUBJ            -----      6
+ 9999 99       6       O      V             T_be       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN         T_remove      main/FMAINV            -----     -1
+ 9999 99       8       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_take      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               to         dat/ADVL            -----      2
+ 9999 99       4       O    DET                a           det/DN            -----      6
+ 9999 99       5       O      A             safe           attr/A            -----      6
+ 9999 99       6       O      N            place          pcomp/P            -----      3
+ 9999 99       7       O INFMARK               to       pm/INFMARK            -----      8
+ 9999 99       8       O      V             T_be       v-ch/FAUXV            -----      9
+ 9999 99       9       O     EN           T_open       mod/FMAINV            -----      6
+ 9999 99      10       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O   PREP              For         tmp/ADVL            -----      5
+ 9999 99       1       O    NUM              two            qn/QN            -----      2
+ 9999 99       2       O      N            hours          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O      N          workers        subj/SUBJ            -----      5
+ 9999 99       5       O      V            T_try      main/FMAINV            -----     -1
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V           T_lift       obj/FMAINV            -----      5
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N              lid          obj/OBJ            -----      7
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP               At         cla/ADVL            -----      4
+ 9999 99       1       O      V           T_last    NOFUNC/FMAINV            -----     -1
+ 9999 99       2       O    SEP                ,    NOFUNC/FMAINV            ?????     -1
+ 9999 99       3       O   PRON             they        subj/SUBJ            -----      4
+ 9999 99       4       O      V            T_get      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON               it          obj/OBJ            -----      4
+ 9999 99       6       O    ADV              off         phr/ADVL            -----      4
+ 9999 99       7       O    SEP                .         phr/ADVL            ?????     -1
+
+ 9999 99       0       O    ADV           Inside      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_see      main/FMAINV            -----     -1
+ 9999 99       3       O     --             $...          NOFUNC/            -----     -1
+ 9999 99       4       O   PRON          nothing          obj/OBJ            -----      2
+ 9999 99       5       O    SEP                !          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N             case        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      A            empty           comp/S            -----      2
+ 9999 99       4       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET               No           det/DN            -----      1
+ 9999 99       1       O   PRON              one        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_know      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV            where         loc/ADVL            -----      7
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N             body        subj/SUBJ            -----      6
+ 9999 99       6       O      V             T_be       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN           T_hide       obj/FMAINV            -----      2
+ 9999 99       8       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      2
+ 9999 99       1       O      A              new           attr/A            -----      2
+ 9999 99       2       O      N          mystery        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN          T_begin      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN        T_suppose      main/FMAINV            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_bury       obj/FMAINV            -----      2
+ 9999 99       6       O   PREP               in         phr/ADVL            -----      5
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N             tomb          pcomp/P            -----      6
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N            mummy           comp/S            -----      1
+ 9999 99       4       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET             this           det/DN            -----      3
+ 9999 99       3       O      N            story        subj/SUBJ            -----      1
+ 9999 99       4       O      V         T_happen      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      5
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      N    10-foot-thick           attr/A            -----      4
+ 9999 99       4       O      N             door        subj/SUBJ            -----      1
+ 9999 99       5       O     EN           T_find      main/FMAINV            -----     -1
+ 9999 99       6       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      4
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             body        subj/SUBJ            -----      1
+ 9999 99       4       O     EN             T_go      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ?      main/FMAINV            ?????     -1
+

@@ -1,0 +1,339 @@
+0		
+	$<p>	
+
+0		
+1	First	first	attr:>2	@A> NUM
+2	TV	tv	attr:>3	@A> N
+3	Debates	debate		@NH N
+4	To	to	pm:>5	@INFMARK> INFMARK>
+5	Take	take	main:>0	@-FMAINV V
+6	Place	place	obj:>5	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	September	September		@NH N
+	$,	
+4	1960	1960	mod:>2	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	month	month	tmp:>6	@ADVL N
+	$,	
+4	you	you	subj:>5	@SUBJ PRON
+5	can	can	v-ch:>6	@+FAUXV V
+6	take	take	main:>0	@-FMAINV V
+7	a	a	det:>9	@DN> DET
+8	close	close	attr:>9	@A> A
+9	look	look	obj:>6	@OBJ N
+10	at	at	loc:>6	@ADVL PREP
+11	two	two	qn:>12	@QN> NUM
+12	men	man	pcomp:>10	@<P N
+13	who	who	subj:>14	@SUBJ PRON
+14	want	want	mod:>12	@+FMAINV V
+15	to	to	pm:>16	@INFMARK> INFMARK>
+16	be	be	obj:>14	@-FAUXV V	@-FMAINV V
+17	President	president	comp:>16	@PCOMPL-S N
+18	of	of	mod:>17	@<NOM-OF PREP
+19	the	the	det:>21	@DN> DET
+20	United	unite	attr:>21	@A> A
+21	States	state	pcomp:>18	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	men	man	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	John	John	attr:>5	@A> N
+5	Kennedy	Kennedy	comp:>3	@PCOMPL-S N
+6	and	and	cc:>5	@CC CC
+7	Richard	Richard	attr:>8	@A> N
+8	Nixon	Nixon	cc:>5	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	v-ch:>3	@+FAUXV V
+3	going	go	main:>0	@-FMAINV ING
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	be	be	cnt:>3	@-FMAINV V
+6	on	on	loc:>5	@ADVL PREP
+7	TV	tv	pcomp:>6	@<P N
+8	together	together	meta:>5	@ADVL ADV
+9	four	four	qn:>11	@QN> NUM
+10	different	different		@A> A
+11	times	time	frq:>5	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	man	man	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	tell	tell	main:>0	@-FMAINV V
+5	what	what	obj:>8	@OBJ PRON
+6	he	he	subj:>7	@SUBJ PRON
+7	will	will	v-ch:>8	@+FAUXV V
+8	do	do	obj:>4	@-FMAINV V
+9	if	if	pm:>12	@CS CS
+10	he	he	subj:>11	@SUBJ PRON
+11	is	be	v-ch:>12	@+FAUXV V
+12	elected	elect	cnd:>8	@-FMAINV EN
+	$.	
+	$<p>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>10	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	time	time		@ADVL N
+6	such	such	det:>7	@DN> DET
+7	a	a	det:>8	@DN> DET
+8	talk	talk	comp:>2	@PCOMPL-S N
+9	has	have		@+FAUXV V
+10	been	be	v-ch:>11	@-FAUXV EN
+11	shown	show	main:>0	@-FMAINV EN
+12	on	on	loc:>11	@ADVL PREP
+13	TV	tv	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	a	a	det:>5	@DN> DET
+5	debate	debate	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>7	@SUBJ N
+2	who	who	subj:>3	@SUBJ PRON
+3	run	run	mod:>1	@+FMAINV V
+4	for	for	ha:>3	@ADVL PREP
+5	office	office	pcomp:>4	@<P N
+6	often	often	frq:>7	@ADVL ADV
+7	take	take	main:>0	@+FMAINV V
+8	part	part	obj:>7	@OBJ N
+9	in	in	loc:>7	@ADVL PREP
+10	a	a	det:>11	@DN> DET
+11	debate	debate	pcomp:>9	@<P N
+	$,	
+13	but	but		@CC CC
+14	never	never		@ADVL ADV
+15	on	on		@ADVL PREP
+16	TV	tv	pcomp:>15	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	two	two	qn:>3	@QN> NUM
+3	men	man	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	stand	stand	main:>0	@-FMAINV V
+6	on	on	loc:>5	@ADVL PREP
+7	a	a	det:>8	@DN> DET
+8	stage	stage	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Reporters	reporter	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	ask	ask	main:>0	@-FMAINV V
+4	them	they	dat:>3	@I-OBJ PRON
+5	many	many	det:>6	@DN> DET
+6	questions	question	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	have	have	main:>0	@-FMAINV V
+4	2	2	qn:>5	@QN> NUM
+5	1/2	1/2	qn:>6	@QN> NUM
+6	minutes	minute		@OBJ N	@ADVL N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	answer	answer	cnt:>3	@-FMAINV V
+9	each	each	det:>10	@DN> DET
+10	question	question	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	questions	question	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	main:>0	@-FMAINV V
+5	about	about	ha:>4	@ADVL PREP
+6	subjects	subject	comp:>4	@PCOMPL-S N
+7	such	such	mod:>6	@APP PRON
+8	as	as		@CS CS
+9	how	how	man:>11	@ADVL ADV
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	spend	spend		@-FMAINV V
+12	our	we	attr:>13	@A> PRON
+13	country's	country	attr:>14	@A> N
+14	money	money	obj:>11	@OBJ N
+15	and	and		@CC CC
+16	how	how	man:>18	@ADVL ADV
+17	to	to	pm:>18	@INFMARK> INFMARK>
+18	keep	keep	cnt:>11	@-FMAINV V
+19	our	we	attr:>20	@A> PRON
+20	country	country	attr:>21	@A> N
+21	safe	safe	obj:>18	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	talks	talk	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	being	be	v-ch:>5	@-FAUXV ING
+5	called	call	main:>0	@-FMAINV EN
+6	the	the	det:>9	@DN> DET
+	$"_	
+8	Great	great	attr:>9	@A> A
+9	Debates	debate	obj:>5	@OBJ N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	one	one	subj:>3	@SUBJ PRON
+3	will	will	v-ch:>4	@+FAUXV V
+4	last	last	main:>0	@-FMAINV V
+5	for	for	dur:>4	@ADVL PREP
+6	one	one	qn:>7	@QN> NUM
+7	hour	hour	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	shows	show	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	watched	watch	main:>0	@-FMAINV EN
+6	by	by	agt:>5	@ADVL PREP
+7	about	about	ad:>8	@AD-A> ADV
+8	70	70	qn:>9	@QN> NUM
+9	million	million	qn:>10	@QN> NUM
+10	people	people	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	help	help	main:>0	@-FMAINV V
+4	citizens	citizen	subj:>5	@OBJ N
+5	make	make	obj:>3	@-FMAINV V
+6	up	up	phr:>5	@ADVL ADV
+7	their	they	attr:>8	@A> PRON
+8	minds	mind		@SUBJ N	@OBJ N	@I-OBJ N	@PCOMPL-O N
+9	about	about		@<NOM PREP	@ADVL PREP
+10	how	how	man:>12	@ADVL ADV
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	vote	vote	pcomp:>9	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	voting	vote	subj:>3	@SUBJ A
+3	will	will	v-ch:>4	@+FAUXV V
+4	take	take	main:>0	@-FMAINV V
+5	place	place	obj:>4	@OBJ N
+6	in	in	tmp:>4	@ADVL PREP
+7	early	early	attr:>8	@A> A
+8	November	November	pcomp:>6	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	take	take	main:>0	@-FMAINV V
+4	part	part	obj:>3	@OBJ N
+5	in	in	loc:>3	@ADVL PREP
+6	four	four	qn:>7	@QN> NUM
+7	talks	talk	pcomp:>5	@<P N
+8	on	on	mod:>7	@<NOM PREP
+9	TV	tv	pcomp:>8	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>6	@OBJ PRON
+2	are	be	v-ch:>5	@+FAUXV V
+3	these	this	det:>4	@DN> DET
+4	talks	talk	subj:>2	@SUBJ N
+5	being	be	v-ch:>6	@-FAUXV ING
+6	called	call	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	will	will	v-ch:>4	@+FAUXV V
+3	people	people	subj:>2	@SUBJ N
+4	vote	vote	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>6	@ADVL ADV
+2	will	will	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	two	two	qn:>5	@QN> NUM
+5	men	man	subj:>2	@SUBJ N
+6	stand	stand	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	are	be	v-ch:>5	@+FAUXV V
+3	these	this	det:>4	@DN> DET
+4	debates	debate	subj:>2	@SUBJ N
+5	being	be	v-ch:>6	@-FAUXV ING
+6	held	hold	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+

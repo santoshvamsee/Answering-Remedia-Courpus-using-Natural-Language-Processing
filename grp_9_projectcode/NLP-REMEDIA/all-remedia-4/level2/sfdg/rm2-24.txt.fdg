@@ -1,0 +1,344 @@
+0		
+1	Having	have	main:>0	@-FMAINV ING
+2	a	a	det:>3	@DN> DET
+3	Ball	ball	obj:>1	@OBJ N
+4	in	in	loc:>1	@ADVL PREP
+5	Darwin	Darwin	pcomp:>4	@<P N
+	$<p>	
+
+0		
+	$(	
+2	DARWIN	Darwin		@NH N
+	$,	
+4	MINNESOTA	Minnesota		@APP N	@NH N
+	$,	
+6	March	march	main:>1	@NH N
+7	1	1	mod:>6	@<NOM NUM
+	$,	
+9	1978	1978		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	biggest	big	attr:>3	@A> A
+3	ball	ball	subj:>7	@SUBJ N
+4	in	in	mod:>3	@<NOM PREP
+5	the	the	det:>6	@DN> DET
+6	world	world	pcomp:>4	@<P N
+7	is	be	main:>0	@+FMAINV V
+8	28	28	qn:>9	@QN> NUM
+9	years_old	years_old	comp:>7	@PCOMPL-S A
+10	today	today	tmp:>7	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	a	a	det:>6	@DN> DET
+5	beach	beach	attr:>6	@A> N
+6	ball	ball	comp:>2	@PCOMPL-S N
+7	or	or	cc:>6	@CC CC
+8	a	a	det:>10	@DN> DET
+9	soccer	soccer	attr:>10	@A> N
+10	ball	ball	cc:>6	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	biggest	big	attr:>3	@A> A
+3	ball	ball	subj:>4	@SUBJ N
+4	is	be	v-ch:>5	@+FAUXV V
+5	made	make	main:>0	@-FMAINV EN
+6	from	from	sou:>5	@ADVL PREP
+7	string	string	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	odd	odd	attr:>3	@A> A
+3	ball	ball	subj:>4	@SUBJ N
+4	belongs	belong	main:>0	@+FMAINV V
+5	to	to	ha:>4	@ADVL PREP
+6	a	a	det:>7	@DN> DET
+7	farmer	farmer	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	His	he	attr:>2	@A> PRON
+2	name	name	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	Francis	Francis	attr:>5	@A> N
+5	Johnson	Johnson	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	In	in	tmp:>5	@ADVL PREP
+2	1950	1950	pcomp:>1	@<P NUM
+	$,	
+4	he	he	subj:>5	@SUBJ PRON
+5	started	start	main:>0	@+FMAINV V
+6	with	with	ha:>5	@ADVL PREP
+7	one	one	qn:>8	@QN> NUM
+8	piece	piece	pcomp:>6	@<P N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	string	string	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	thought	think	main:>0	@+FMAINV V
+3	it	it	subj:>4	@SUBJ PRON
+4	would	would	v-ch:>5	@+FAUXV V
+5	be	be	obj:>2	@-FMAINV V
+6	fun	fun	comp:>5	@PCOMPL-S N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	see	see	mod:>6	@-FMAINV V
+9	how	how	ad:>10	@AD-A> ADV
+10	much	much	det:>11	@DN> DET
+11	string	string	obj:>14	@OBJ N
+12	he	he	subj:>13	@SUBJ PRON
+13	could	could	v-ch:>14	@+FAUXV V
+14	save	save	obj:>8	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	kept	keep	main:>0	@+FMAINV V
+3	rolling	roll	obj:>2	@-FMAINV ING
+4	more_and_more	more_and_more	attr:>5	@A> A
+5	string	string	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	In	in	tmp:>6	@ADVL PREP
+2	time	time	pcomp:>1	@<P N
+	$,	
+4	the	the	det:>5	@DN> DET
+5	ball	ball	subj:>6	@SUBJ N
+6	was	be	main:>0	@+FMAINV V
+7	too	too	ad:>8	@AD-A> ADV
+8	big	big	comp:>6	@PCOMPL-S A
+9	for	for	mod:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	table	table	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	it	it	subj:>3	@SUBJ PRON
+3	was	be	main:>0	@+FMAINV V
+4	too	too	ad:>5	@AD-A> ADV
+5	big	big	comp:>3	@PCOMPL-S A
+6	for	for	mod:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	kitchen	kitchen	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	After	after	tmp:>5	@ADVL PREP
+2	awhile	awhile		@ADVL ADV
+	$,	
+4	he	he	subj:>5	@SUBJ PRON
+5	had	have	main:>0	@+FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	roll	roll	obj:>5	@-FMAINV V
+8	it	it	obj:>7	@OBJ PRON
+9	outside	outside	copred:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Today	today	tmp:>6	@ADVL N
+	$,	
+3	it	it	subj:>4	@SUBJ PRON
+4	can	can	v-ch:>5	@+FAUXV V
+5	be	be	v-ch:>6	@-FAUXV V
+6	seen	see	main:>0	@-FMAINV EN
+7	in	in	ha:>6	@ADVL PREP
+8	Mr.	Mr.	attr:>9	@A> ABBR
+9	Johnson's	Johnson	attr:>10	@A> N
+10	backyard	backyard	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	How	how	ad:>2	@AD-A> ADV
+2	big	big	comp:>3	@PCOMPL-S A
+3	is	be	main:>0	@+FMAINV V
+4	this	this	det:>5	@DN> DET
+5	ball	ball	subj:>3	@SUBJ N
+	$?	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	stands	stand	main:>0	@+FMAINV V
+3	13	13	qn:>4	@QN> NUM
+4	feet	foot		@OBJ N	@A> N	@ADVL N
+5	tall	tall		@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	man	man	subj:>3	@SUBJ N
+3	could	could	v-ch:>4	@+FAUXV V
+4	stand	stand	main:>0	@-FMAINV V
+5	on	on	loc:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	shoulders	shoulder	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	a	a	det:>11	@DN> DET
+10	second	second	attr:>11	@A> NUM
+11	man	man	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	would	would	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	be	be	main:>0	@-FMAINV V
+5	able	able	comp:>4	@PCOMPL-S A
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	see	see	mod:>5	@-FMAINV V
+8	over	over	ha:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	ball	ball	pcomp:>8	@<P N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	string	string	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ball	ball	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	fat	fat	comp:>3	@PCOMPL-S N
+	$,	
+6	too	too	meta:>3	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	38	38	qn:>4	@QN> NUM
+4	feet	foot	comp:>2	@PCOMPL-S N
+5	wide	wide	copred:>2	@PCOMPL-S A
+6	around	around	ha:>2	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	center	center	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>5	@CS CS
+2	it	it	subj:>3	@SUBJ PRON
+3	could	could	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	unwound	unwind	cnd:>9	@-FMAINV EN
+	$,	
+7	it	it	subj:>8	@SUBJ PRON
+8	would	would	v-ch:>9	@+FAUXV V
+9	stretch	stretch	main:>0	@-FMAINV V
+10	well	well	ad:>11	@AD-A> ADV
+11	over	over	ad:>12	@AD-A> ADV
+12	1,000	1,000	qn:>13	@QN> NUM
+13	miles	mile	obj:>9	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	made	make	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	biggest	big	attr:>5	@A> A
+5	ball	ball	obj:>2	@OBJ N
+6	in	in	mod:>5	@<NOM PREP
+7	the	the	det:>8	@DN> DET
+8	world	world	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	kind	kind	obj:>7	@OBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	ball	ball	pcomp:>3	@<P N
+5	did	do	v-ch:>7	@+FAUXV V
+6	Johnson	Johnson	subj:>5	@SUBJ N
+7	make	make	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	Farmer	farmer	attr:>4	@A> N
+4	Johnson	Johnson	subj:>2	@SUBJ N
+5	start	start	main:>0	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	ball	ball	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>6	@ADVL ADV
+2	can	can	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	ball	ball	subj:>2	@SUBJ N
+5	be	be	v-ch:>6	@-FAUXV V
+6	seen	see	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	he	he	subj:>2	@SUBJ PRON
+4	move	move	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	ball	ball	obj:>4	@OBJ N
+7	outside	outside	loc:>4	@ADVL ADV
+	$?	
+	$<p>	
+

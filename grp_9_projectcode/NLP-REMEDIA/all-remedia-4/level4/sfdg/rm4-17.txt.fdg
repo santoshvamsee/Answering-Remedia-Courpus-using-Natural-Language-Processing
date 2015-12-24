@@ -1,0 +1,383 @@
+0		
+	$<p>	
+
+0		
+1	First	first	attr:>2	@A> NUM
+2	Oil	oil	attr:>3	@A> N
+3	Well	well	main:>0	@NH N
+4	Drilled	drill	mod:>3	@-FMAINV EN
+	$<p>	
+
+0		
+	$(	
+2	Titusville	titusville	attr:>6	@A> N
+	$,	
+4	Penn.	Penn.	mod:>2	@<NOM ABBR
+	$,	
+6	August	August		@NH N
+7	31	31	mod:>6	@<NOM NUM
+	$,	
+9	1859	1859	mod:>7	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Two	two	qn:>2	@QN> NUM
+2	men	man	subj:>3	@SUBJ N
+3	have	have	v-ch:>4	@+FAUXV V
+4	found	find	main:>0	@-FMAINV EN
+5	a	a	det:>6	@DN> DET
+6	way	way	obj:>4	@OBJ N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	drill	drill	mod:>6	@-FMAINV V
+9	deep	deep		@ADVL ADV	@SUBJ A	@OBJ A	@<NOM A
+10	into	into	goa:>8	@ADVL PREP
+11	the	the	det:>12	@DN> DET
+12	ground	ground	pcomp:>10	@<P N
+13	and	and	cc:>8	@CC CC
+14	remove	remove	cc:>8	@-FMAINV V
+15	oil	oil	obj:>14	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	men	man	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	named	name	main:>0	@-FMAINV EN
+5	Drake	drake		@SUBJ N	@OBJ N	@I-OBJ N
+6	and	and		@CC CC
+7	Smith	smith		@SUBJ N	@OBJ N	@I-OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	use	use	main:>0	@+FMAINV V
+3	special	special	attr:>4	@A> A
+4	drills	drill	obj:>2	@OBJ N
+5	and	and	cc:>4	@CC CC
+6	tools	tool	cc:>4	@OBJ N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	cut	cut	cnt:>2	@-FMAINV V
+9	through	through	ha:>8	@ADVL PREP
+10	rock	rock	pcomp:>9	@<P N
+11	deep	deep	mod:>10	@<NOM A
+12	inside	inside	loc:>8	@ADVL ADV
+13	the	the	det:>14	@DN> DET
+14	earth	earth	obj:>8	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	thought	think	main:>0	@+FMAINV V
+3	they	they	subj:>4	@SUBJ PRON
+4	would	would	v-ch:>5	@+FAUXV V
+5	have	have	obj:>2	@-FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	drill	drill	obj:>5	@-FMAINV V
+8	1,000	1,000	qn:>9	@QN> NUM
+9	feet	foot		@OBJ N	@ADVL N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	find	find	cnt:>7	@-FMAINV V
+12	oil	oil	obj:>11	@OBJ N
+13	but	but	cc:>11	@CC CC
+	$,	
+15	instead	instead	meta:>18	@ADVL ADV
+	$,	
+17	they	they	subj:>18	@SUBJ PRON
+18	found	find	cc:>11	@+FMAINV V
+19	it	it	obj:>18	@OBJ PRON
+20	at	at	ha:>18	@ADVL PREP
+21	70	70	qn:>22	@QN> NUM
+22	feet	foot	pcomp:>20	@<P N
+	$.	
+	$<s>	
+
+0		
+1	As	as	pm:>3	@CS CS
+2	it	it	subj:>3	@SUBJ PRON
+3	flowed	flow		@+FMAINV V
+	$,	
+5	it	it	subj:>6	@SUBJ PRON
+6	made	make		@+FMAINV V
+7	its	it	attr:>8	@A> PRON
+8	own	own	obj:>6	@OBJ A
+9	well	well	man:>6	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	product	product	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	called	call		@-FMAINV EN
+5	rock	rock	attr:>6	@A> N
+6	oil	oil	comp:>4	@PCOMPL-S N
+	$,	
+8	and	and	cc:>4	@CC CC
+9	it	it	subj:>10	@SUBJ PRON
+10	is	be	cc:>4	@+FMAINV V
+11	the	the	det:>13	@DN> DET
+12	same	same	attr:>13	@A> A
+13	oil	oil	comp:>10	@PCOMPL-S N
+14	that	that	subj:>15	@SUBJ PRON
+15	has	have	v-ch:>17	@+FAUXV V
+16	often	often	frq:>18	@ADVL ADV
+17	been	be	v-ch:>18	@-FAUXV EN
+18	sold	sell	mod:>9	@-FMAINV EN
+19	as	as	ha:>18	@ADVL PREP
+20	medicine	medicine	pcomp:>19	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>10	@ADVL PREP
+2	parts	part	pcomp:>1	@<P N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	New	new	attr:>5	@A> A
+5	York	York	pcomp:>3	@<P N
+	$,	
+7	it	it	subj:>8	@SUBJ PRON
+8	can	can	v-ch:>9	@+FAUXV V
+9	be	be	v-ch:>10	@-FAUXV V
+10	seen	see	main:>0	@-FMAINV EN
+11	floating	float	copred:>10	@-FMAINV ING
+12	on	on	ha:>11	@ADVL PREP
+13	top	top	pcomp:>12	@<P N
+14	of	of	mod:>13	@<NOM-OF PREP
+15	water	water	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	For	for	tmp:>6	@ADVL PREP
+2	years	year	pcomp:>1	@<P N
+	$,	
+4	the	the	det:>5	@DN> DET
+5	Indians	Indian	subj:>6	@SUBJ N
+6	used	use	main:>0	@+FMAINV V
+7	blankets	blanket	obj:>6	@OBJ N
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	soak	soak	cnt:>6	@-FMAINV V
+10	up	up	phr:>9	@ADVL ADV
+11	the	the	det:>12	@DN> DET
+12	oil	oil	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>4	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	would	would	v-ch:>4	@+FAUXV V
+4	wring	wring	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	oil	oil	obj:>4	@OBJ N
+7	into	into	goa:>4	@ADVL PREP
+8	a	a	det:>9	@DN> DET
+9	bowl	bowl	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	used	use	main:>0	@+FMAINV V
+3	it	it	obj:>2	@OBJ PRON
+4	as	as	oc:>2	@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	lotion	lotion	pcomp:>4	@<P N
+	$.	
+	$<p>	
+
+0		
+1	In	in	tmp:>7	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	1830's	1830	pcomp:>1	@<P NUM
+	$,	
+5	some	some	det:>6	@DN> DET
+6	men	man	subj:>7	@SUBJ N
+7	began	begin	main:>0	@+FMAINV V
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	sell	sell	obj:>7	@-FMAINV V
+10	the	the	det:>11	@DN> DET
+11	oil	oil	obj:>9	@OBJ N
+12	as	as	copred:>9	@ADVL PREP
+13	medicine	medicine	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	put	put	main:>0	@+FMAINV V
+3	it	it	obj:>2	@OBJ PRON
+4	in	in	loc:>2	@ADVL PREP
+5	bottles	bottle	pcomp:>4	@<P N
+6	and	and	cc:>2	@CC CC
+7	said	say	cc:>2	@+FMAINV V
+8	it	it	subj:>9	@SUBJ PRON
+9	would	would	v-ch:>10	@+FAUXV V
+10	cure	cure	obj:>7	@-FMAINV V
+11	all	all	det:>12	@DN> DET
+12	kinds	kind	obj:>10	@OBJ N
+13	of	of	mod:>12	@<NOM-OF PREP
+14	sickness	sickness	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Whether	whether	pm:>4	@CS CS
+2	a	a	det:>3	@DN> DET
+3	person	person	subj:>4	@SUBJ N
+4	suffered	suffer	cnd:>21	@+FMAINV V
+5	from	from	phr:>4	@ADVL PREP
+6	a	a	det:>7	@DN> DET
+7	cold	cold	pcomp:>5	@<P A
+	$,	
+9	a	a	det:>10	@DN> DET
+10	toothache	toothache	cc:>7	@<P N
+	$,	
+12	or	or	cc:>10	@CC CC
+13	corns	corn	cc:>10	@<P N
+14	on	on	mod:>13	@<NOM PREP
+15	the	the	det:>16	@DN> DET
+16	toes	toe	pcomp:>14	@<P N
+	$,	
+18	the	the	det:>19	@DN> DET
+19	oil	oil	subj:>20	@SUBJ N
+20	was	be	v-ch:>21	@+FAUXV V
+21	supposed	suppose	main:>0	@-FMAINV EN
+22	to	to	pm:>23	@INFMARK> INFMARK>
+23	be	be	cnt:>21	@-FMAINV V
+24	the	the	det:>26	@DN> DET
+25	perfect	perfect	attr:>26	@A> A
+26	cure	cure	comp:>23	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	One	one	qn:>2	@QN> NUM
+2	salesman	salesman	subj:>3	@SUBJ N
+3	sold	sell	main:>0	@+FMAINV V
+4	250,000	250,000	qn:>5	@QN> NUM
+5	bottles	bottle	obj:>3	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	the	the	det:>8	@DN> DET
+8	oil	oil	pcomp:>6	@<P N
+9	for	for	qua:>3	@ADVL PREP
+10	$1	$1	pcomp:>9	@<P NUM
+11	a	a	det:>12	@DN> DET
+12	bottle	bottle	mod:>10	@ADVL N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	oil	oil	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	really	real	man:>3	@ADVL ADV
+5	not	not	neg:>6	@ADVL NEG-PART
+6	good	good	comp:>3	@PCOMPL-S A
+7	for	for	cnt:>3	@ADVL PREP
+8	curing	cure	pcomp:>7	@<P-FMAINV ING
+9	sickness	sickness	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	it	it	subj:>3	@SUBJ PRON
+3	will	will	v-ch:>4	@+FAUXV V
+4	keep	keep	main:>0	@-FMAINV V
+5	the	the	det:>6	@DN> DET
+6	lamps	lamp	subj:>7	@OBJ N
+7	burning	burn		@-FMAINV ING
+8	in	in	loc:>7	@ADVL PREP
+9	a_lot_of	a_lot_of	det:>10	@DN> DET
+10	homes	home	pcomp:>8	@<P N
+11	for	for	dur:>7	@ADVL PREP
+12	a	a	det:>14	@DN> DET
+13	long	long	attr:>14	@A> A
+14	time	time	pcomp:>11	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	drilled	drill	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	oil	oil	obj:>2	@OBJ N
+6	well	well	man:>2	@ADVL ADV
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	use	use	obj:>4	@OBJ N
+3	did	do	v-ch:>4	@+FAUXV V
+4	rock	rock	main:>0	@-FMAINV V
+5	oil	oil	subj:>3	@SUBJ N
+6	have	have		@+FMAINV V
+7	in	in	tmp:>6	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	1830's	1830	pcomp:>7	@<P NUM
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	story	story	subj:>2	@SUBJ N
+5	take	take	main:>0	@-FMAINV V
+6	place	place	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	men	man	subj:>2	@SUBJ N
+5	find	find	main:>0	@-FMAINV V
+6	oil	oil	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	oil	oil	subj:>2	@SUBJ N
+5	be	be	main:>0	@-FMAINV V
+6	useful	useful	comp:>5	@PCOMPL-S A
+	$?	
+	$<p>	
+

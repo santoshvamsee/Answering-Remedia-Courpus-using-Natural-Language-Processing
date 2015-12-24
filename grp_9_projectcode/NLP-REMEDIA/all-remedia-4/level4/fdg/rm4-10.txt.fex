@@ -1,0 +1,285 @@
+
+ 9999 99       0       O      N         Football           attr/A            -----      1
+ 9999 99       1       O      N          Catches          main/NH            -----     -1
+ 9999 99       2       O   PREP               On          mod/NOM            -----      1
+ 9999 99       3       O      N             Fast          pcomp/P            -----      2
+
+ 9999 99       0       O    SEP                (          pcomp/P            ?????     -1
+ 9999 99       1       O      N          LATROBE           attr/A            -----      5
+ 9999 99       2       O    SEP                ,           attr/A            ?????     -1
+ 9999 99       3       O   ABBR              PA.          mod/NOM            -----      1
+ 9999 99       4       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       5       O      N        September        NOFUNC/NH            -----     -1
+ 9999 99       6       O    NUM                4          mod/NOM            -----      5
+ 9999 99       7       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       8       O    NUM             1895          mod/NOM            -----      6
+ 9999 99       9       O    SEP                )          mod/NOM            ?????     -1
+ 9999 99      10       O    SEP                .          mod/NOM            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      A              new           attr/A            -----      2
+ 9999 99       2       O      N             game        subj/SUBJ            -----      5
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O      N         football          pcomp/P            -----      3
+ 9999 99       5       O      V             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O    ING          T_catch      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP               on         loc/ADVL            -----      6
+ 9999 99       8       O      A             fast          pcomp/P            -----      7
+ 9999 99       9       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99      10       O     CC              and            cc/CC            -----      6
+ 9999 99      11       O    DET             each           det/DN            -----     14
+ 9999 99      12       O      N            month           attr/A            -----     13
+ 9999 99      13       O      A              new           attr/A            -----     14
+ 9999 99      14       O      N            teams        subj/SUBJ            -----     15
+ 9999 99      15       O      V             T_be       v-ch/FAUXV            -----     16
+ 9999 99      16       O    ING             T_be       v-ch/FAUXV            -----     17
+ 9999 99      17       O     EN           T_form        cc/FMAINV            -----      6
+ 9999 99      18       O    SEP                .        cc/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET             Last           det/DN            -----      1
+ 9999 99       1       O      N            night        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O    NUM            first           attr/A            -----      5
+ 9999 99       5       O      N             time      NOFUNC/ADVL            -----     -1
+ 9999 99       6       O     CS             that            pm/CS            -----     10
+ 9999 99       7       O    DET                a           det/DN            -----      9
+ 9999 99       8       O      N         football           attr/A            -----      9
+ 9999 99       9       O      N           player        subj/SUBJ            -----     10
+ 9999 99      10       O      V             T_be      comp/FMAINV            -----      2
+ 9999 99      11       O      A             paid           comp/S            -----     10
+ 9999 99      12       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      N            man's           attr/A            -----      2
+ 9999 99       2       O      N             name        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O      N             John           attr/A            -----      5
+ 9999 99       5       O      N         Brallier           comp/S            -----      3
+ 9999 99       6       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       7       O     CC              and            cc/CC            -----      3
+ 9999 99       8       O   PRON               he        subj/SUBJ            -----      9
+ 9999 99       9       O      V             T_be        cc/FMAINV            -----      3
+ 9999 99      10       O      A             paid           attr/A            -----     11
+ 9999 99      11       O    NUM              $10         qua/ADVL            -----      9
+ 9999 99      12       O INFMARK               to       pm/INFMARK            -----     13
+ 9999 99      13       O      V           T_take      comp/FMAINV            -----      9
+ 9999 99      14       O    DET              the           det/DN            -----     15
+ 9999 99      15       O      N            place          obj/OBJ            -----     13
+ 9999 99      16       O   PREP               of           mod/OF            -----     15
+ 9999 99      17       O   PRON          someone          pcomp/P            -----     16
+ 9999 99      18       O   PRON              who        subj/SUBJ            -----     19
+ 9999 99      19       O      V             T_be       v-ch/FAUXV            -----     20
+ 9999 99      20       O     EN           T_hurt       mod/FMAINV            -----     17
+ 9999 99      21       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O      N           John's           attr/A            -----      1
+ 9999 99       1       O      N             team        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       4       O    DET              the           det/DN            -----      7
+ 9999 99       5       O      N        Jeannette           attr/A            -----      6
+ 9999 99       6       O      N           Sports           attr/A            -----      7
+ 9999 99       7       O      N             Club           comp/S            -----      3
+ 9999 99       8       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N      quarterback           comp/S            -----      1
+ 9999 99       4       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O    DET            other          attr/DN            -----      2
+ 9999 99       2       O      N             team        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N          Latrobe           comp/S            -----      3
+ 9999 99       6       O   ABBR             YMCA      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O    ADV             Even        meta/ADVL            -----      1
+ 9999 99       1       O   PREP             with      NOFUNC/ADVL            -----     -1
+ 9999 99       2       O      N           John's           attr/A            -----      3
+ 9999 99       3       O      A             paid           attr/A            -----      4
+ 9999 99       4       O      N             help          pcomp/P            -----      1
+ 9999 99       5       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       6       O   PRON              his           attr/A            -----      7
+ 9999 99       7       O      N             team        subj/SUBJ            -----      8
+ 9999 99       8       O      V           T_lose      main/FMAINV            -----     -1
+ 9999 99       9       O    NUM             12-0          obj/OBJ            -----      8
+ 9999 99      10       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      A    More_and_more           attr/A            -----      1
+ 9999 99       1       O      N         colleges        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O    ING          T_start      main/FMAINV            -----     -1
+ 9999 99       4       O      N         football           attr/A            -----      5
+ 9999 99       5       O      N            teams          obj/OBJ            -----      3
+ 9999 99       6       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V         T_travel      main/FMAINV            -----     -1
+ 9999 99       2       O    DET             many           det/DN            -----      3
+ 9999 99       3       O      N            miles         qua/ADVL            -----      1
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_play       cnt/FMAINV            -----      1
+ 9999 99       6       O    DET            other           det/DN            -----      8
+ 9999 99       7       O      A             good           attr/A            -----      8
+ 9999 99       8       O      N            teams          obj/OBJ            -----      5
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PREP               On         loc/ADVL            -----     11
+ 9999 99       1       O      N        Christmas           attr/A            -----      2
+ 9999 99       2       O      N              Day          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O    NUM             1894      NOFUNC/ADVL            -----     -1
+ 9999 99       5       O    SEP                ,      NOFUNC/ADVL            ?????     -1
+ 9999 99       6       O    DET                a           det/DN            -----      8
+ 9999 99       7       O      N          college           attr/A            -----      8
+ 9999 99       8       O      N             team        subj/SUBJ            -----     11
+ 9999 99       9       O   PREP             from          mod/NOM            -----      8
+ 9999 99      10       O      N          Chicago          pcomp/P            -----      9
+ 9999 99      11       O      V             T_go      main/FMAINV            -----     -1
+ 9999 99      12       O   PREP               to         goa/ADVL            -----     11
+ 9999 99      13       O      N              San           attr/A            -----     14
+ 9999 99      14       O      N        Francisco          pcomp/P            -----     12
+ 9999 99      15       O INFMARK               to       pm/INFMARK            -----     16
+ 9999 99      16       O      V           T_play       cnt/FMAINV            -----     11
+ 9999 99      17       O    SEP                .       cnt/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      3
+ 9999 99       1       O    NUM            first           attr/A            -----      2
+ 9999 99       2       O      N         football           attr/A            -----      3
+ 9999 99       3       O      N             game        subj/SUBJ            -----      7
+ 9999 99       4       O   PREP          between          mod/NOM            -----      3
+ 9999 99       5       O    NUM              two            qn/QN            -----      6
+ 9999 99       6       O      N          schools          pcomp/P            -----      4
+ 9999 99       7       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       8       O      N            place          obj/OBJ            -----      7
+ 9999 99       9       O   PREP               in         tmp/ADVL            -----      7
+ 9999 99      10       O    NUM             1869          pcomp/P            -----      9
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      6
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N           manner        subj/SUBJ            -----      6
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O    ING           T_keep     pcomp/FMAINV            -----      3
+ 9999 99       5       O      N            score          obj/OBJ            -----      4
+ 9999 99       6       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       7       O      A        different           comp/S            -----      6
+ 9999 99       8       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N             time        NOFUNC/NH            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N        touchdown      NOFUNC/SUBJ            -----     -1
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_make    NOFUNC/FMAINV            -----     -1
+ 9999 99       6       O    SEP                ,    NOFUNC/FMAINV            ?????     -1
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N             team        subj/SUBJ            -----      9
+ 9999 99       9       O      V          T_would       v-ch/FAUXV            -----     10
+ 9999 99      10       O      V          T_score    NOFUNC/FMAINV            -----     -1
+ 9999 99      11       O    NUM              one            qn/QN            -----     12
+ 9999 99      12       O      N            point          obj/OBJ            -----     10
+ 9999 99      13       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O    NUM            first           attr/A            -----      2
+ 9999 99       2       O      N             team        NOFUNC/NH            -----     -1
+ 9999 99       3       O INFMARK               to       pm/INFMARK            -----      4
+ 9999 99       4       O      V          T_reach    NOFUNC/FMAINV            -----     -1
+ 9999 99       5       O    NUM              six            qn/QN            -----      6
+ 9999 99       6       O      N           points      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O      V          T_would       v-ch/FAUXV            -----      8
+ 9999 99       8       O      V            T_win    NOFUNC/FMAINV            -----     -1
+ 9999 99       9       O    SEP                .    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N             game        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_last      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV            about             ad/A            -----      4
+ 9999 99       4       O    NUM              one            qn/QN            -----      5
+ 9999 99       5       O      N             hour         dur/ADVL            -----      2
+ 9999 99       6       O    SEP                .         dur/ADVL            ?????     -1
+
+ 9999 99       0       O    ADV              Now        meta/ADVL            -----      4
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N            rules        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN         T_change      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                .      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N        touchdown        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP            worth          ha/ADVL            -----      2
+ 9999 99       4       O    NUM              six            qn/QN            -----      5
+ 9999 99       5       O      N           points          pcomp/P            -----      3
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O    NUM            first           attr/A            -----      4
+ 9999 99       4       O      N         football           attr/A            -----      5
+ 9999 99       5       O      N           player           comp/S            -----      1
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V             T_be       v-ch/FAUXV            -----      8
+ 9999 99       8       O     EN            T_pay       mod/FMAINV            -----      5
+ 9999 99       9       O    SEP                ?       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             name           comp/S            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    DET             this           det/DN            -----      7
+ 9999 99       6       O      N         player's           attr/A            -----      7
+ 9999 99       7       O      N             team          pcomp/P            -----      4
+ 9999 99       8       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O    NUM            first           attr/A            -----      4
+ 9999 99       4       O      N         football           attr/A            -----      5
+ 9999 99       5       O      N             game        subj/SUBJ            -----      1
+ 9999 99       6       O   PREP          between          ha/ADVL            -----      1
+ 9999 99       7       O    NUM              two            qn/QN            -----      8
+ 9999 99       8       O      N          schools          pcomp/P            -----      6
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET             this           det/DN            -----      3
+ 9999 99       3       O      N            story        subj/SUBJ            -----      1
+ 9999 99       4       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       5       O      N            place          obj/OBJ            -----      4
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N             John           attr/A            -----      3
+ 9999 99       3       O      N         Brallier        subj/SUBJ            -----      1
+ 9999 99       4       O      A             paid           comp/S            -----      1
+ 9999 99       5       O    NUM              $10       NOFUNC/OBJ            -----     -1
+ 9999 99       6       O    SEP                ?       NOFUNC/OBJ            ?????     -1
+

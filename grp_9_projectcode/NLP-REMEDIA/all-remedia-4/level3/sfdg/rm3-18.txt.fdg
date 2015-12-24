@@ -1,0 +1,312 @@
+0		
+1	First	first	attr:>2	@A> NUM
+2	Man	man	attr:>3	@A> N
+3	Walks	walk	main:>0	@NH N
+4	on	on	mod:>3	@<NOM PREP
+5	the	the	det:>6	@DN> DET
+6	Moon	moon	pcomp:>4	@<P N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	THE	the	det:>3	@DN> DET
+3	MOON	moon		@APP N
+	$,	
+5	July	July	main:>1	@NH N	@APP N
+6	20,1969	20,1969	mod:>5	@<NOM NUM
+	$)	
+8	$-		
+	$"_	
+10	That_	that	subj:>11	@SUBJ PRON
+11	's	be	main:>0	@+FMAINV V
+12	one	one	qn:>14	@QN> NUM
+13	small	small	attr:>14	@A> A
+14	step	step	comp:>11	@PCOMPL-S N
+15	for	for		@ADVL PREP
+16	man	man	pcomp:>15	@<P N
+	$,	
+18	one	one	qn:>20	@QN> NUM
+19	giant	giant	attr:>20	@A> N
+20	leap	leap	mod:>16	@APP N
+21	for	for		@ADVL PREP
+22	mankind	mankind	pcomp:>21	@<P N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	Those	that	det:>2	@DN> DET
+2	words	word	subj:>3	@SUBJ N
+3	were	be	v-ch:>4	@+FAUXV V
+4	spoken	speak	main:>0	@-FMAINV EN
+5	from	from	sou:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	moon	moon	pcomp:>5	@<P N
+8	today	today	tmp:>4	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	v-ch:>3	@+FAUXV V
+3	said	say	main:>0	@-FMAINV EN
+4	by	by	agt:>3	@ADVL PREP
+5	Neil	Neil	attr:>6	@A> N
+6	Armstrong	Armstrong	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	v-ch:>4	@-FAUXV V
+4	known	know	main:>0	@-FMAINV EN
+5	for	for	dur:>4	@ADVL PREP
+6	all	all	det:>7	@DN> DET
+7	time	time	pcomp:>5	@<P N
+8	as	as	copred:>4	@ADVL PREP
+9	the	the	det:>11	@DN> DET
+10	first	first	attr:>11	@A> NUM
+11	man	man	pcomp:>8	@<P N
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	walk	walk	cnt:>4	@-FMAINV V
+14	on	on	ha:>13	@ADVL PREP
+15	the	the	det:>16	@DN> DET
+16	moon	moon	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	trip	trip	subj:>3	@SUBJ N
+3	had	have	v-ch:>4	@+FAUXV V
+4	been	be	v-ch:>5	@-FAUXV EN
+5	planned	plan	main:>0	@-FMAINV EN
+6	for	for	dur:>5	@ADVL PREP
+7	nine	nine	qn:>8	@QN> NUM
+8	years	year	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	trip	trip	subj:>4	@SUBJ N
+3	itself	it	mod:>2	@<NOM PRON
+4	will	will	v-ch:>5	@+FAUXV V
+5	last	last	main:>0	@-FMAINV V
+6	almost	almost	ad:>7	@AD-A> ADV
+7	two	two	qn:>8	@QN> NUM
+8	weeks	week	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	That_	that	subj:>2	@SUBJ PRON
+2	's	be	main:>0	@+FMAINV V
+3	how	how	ad:>4	@AD-A> ADV
+4	long	long	comp:>2	@PCOMPL-S A
+5	it	it	subj:>6	@SUBJ PRON
+6	takes	take	mod:>4	@+FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	travel	travel	obj:>6	@-FMAINV V
+9	to	to	goa:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	moon	moon	pcomp:>9	@<P N
+	$,	
+13	study	study	cc:>8	@-FMAINV V
+14	it	it	obj:>13	@OBJ PRON
+15	for	for	dur:>13	@ADVL PREP
+16	a_few	a_few	det:>17	@DN> DET
+17	days	day	pcomp:>15	@<P N
+	$,	
+19	and	and		@CC CC
+20	return	return		@+FMAINV V	@-FMAINV V	@<P-FMAINV V	@+FMAINV V
+21	to	to	goa:>20	@ADVL PREP
+22	Earth	earth	pcomp:>21	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Armstrong	Armstrong	subj:>2	@SUBJ N
+2	picked	pick	main:>0	@+FMAINV V
+3	up	up	phr:>2	@ADVL ADV
+4	moon	moon	attr:>5	@A> N
+5	rocks	rock	obj:>2	@OBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	bring	bring	cnt:>2	@-FMAINV V
+8	back	back	phr:>7	@ADVL ADV
+9	to	to		@ADVL PREP
+10	Earth	earth	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	says	say	main:>0	@+FMAINV V
+3	some	some	subj:>4	@SUBJ PRON
+4	are	be	obj:>2	@+FMAINV V
+5	purple	purple	comp:>4	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Armstrong	Armstrong	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	leave	leave	main:>0	@-FMAINV V
+4	some	some	det:>5	@DN> DET
+5	things	thing	obj:>3	@OBJ N
+6	behind	behind	ha:>3	@ADVL ADV
+	$,	
+8	too	too	meta:>3	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	One	one	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	United	unite	attr:>5	@A> A
+5	States	state	comp:>2	@PCOMPL-S N
+6	flag	flag		@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	other	other	subj:>3	@SUBJ PRON
+3	is	be	main:>0	@+FMAINV V
+4	a	a	det:>5	@DN> DET
+5	plaque	plaque	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	lists	list	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	names	name	obj:>2	@OBJ N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	Armstrong	Armstrong	pcomp:>5	@<P N
+7	and	and	cc:>6	@CC CC
+8	his	he	attr:>9	@A> PRON
+9	fellow	fellow	attr:>10	@A> N
+10	moon-visitors	moon-visitor	cc:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	says	say	main:>0	@+FMAINV V
+3	they	they	subj:>4	@SUBJ PRON
+4	came	come	obj:>2	@+FMAINV V
+5	in	in	man:>4	@ADVL PREP
+6	peace	peace	pcomp:>5	@<P N
+7	for	for	phr:>4	@ADVL PREP
+8	all	all	det:>9	@DN> DET
+9	mankind	mankind	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	More	many	det:>2	@DN> DET
+2	trips	trip	subj:>3	@SUBJ N
+3	are	be	v-ch:>4	@+FAUXV V
+4	planned	plan	main:>0	@-FMAINV EN
+5	to	to	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	moon	moon	pcomp:>5	@<P N
+8	in	in	dur:>4	@ADVL PREP
+9	the	the	det:>11	@DN> DET
+10	near	near	attr:>11	@A> A
+11	future	future	pcomp:>8	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	man	man	comp:>2	@PCOMPL-S N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	walk	walk	mod:>5	@-FMAINV V
+8	on	on	ha:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	moon	moon	pcomp:>8	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	did	do	v-ch:>4	@+FAUXV V
+3	he	he	subj:>2	@SUBJ PRON
+4	say	say	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	story	story	subj:>2	@SUBJ N
+5	happen	happen	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	are	be	main:>0	@+FMAINV V
+3	more	many	det:>4	@DN> DET
+4	trips	trip	subj:>2	@SUBJ N
+5	planned	plan	mod:>4	@-FMAINV EN
+6	in	in	dur:>5	@ADVL PREP
+7	the	the	det:>9	@DN> DET
+8	near	near	attr:>9	@A> A
+9	future	future	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	visitors	visitor	subj:>2	@SUBJ N
+5	come	come	main:>0	@-FMAINV V
+6	to	to	goa:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	moon	moon	pcomp:>6	@<P N
+	$,	
+10	according_to	according_to	meta:>5	@ADVL PREP
+11	the	the	det:>12	@DN> DET
+12	plaque	plaque	pcomp:>10	@<P N
+13	they	they	subj:>14	@SUBJ PRON
+14	left	leave	mod:>12	@+FMAINV V
+	$?	
+	$<p>	
+

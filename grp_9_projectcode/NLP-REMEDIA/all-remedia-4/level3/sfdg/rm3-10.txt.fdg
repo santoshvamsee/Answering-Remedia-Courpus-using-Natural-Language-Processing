@@ -1,0 +1,332 @@
+0		
+1	Television	television	subj:>2	@SUBJ N
+2	Celebrates	celebrate	main:>0	@+FMAINV V
+3	50	50	qn:>4	@QN> NUM
+4	Years	year	obj:>2	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	NEW	new	attr:>3	@A> A
+3	YORK	York		@APP N
+	$,	
+5	April	April		@APP N	@A> N	@ADVL N
+6	30,1989	30,1989		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	TV	tv	attr:>3	@A> N
+3	set	set	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	50	50	qn:>6	@QN> NUM
+6	years_old	years_old	comp:>4	@PCOMPL-S A
+7	today	today	tmp:>4	@ADVL N
+	$!	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	on	on	tmp:>2	@ADVL PREP
+4	this	this	det:>5	@DN> DET
+5	day	day	pcomp:>3	@<P N
+6	in	in	mod:>5	@ADVL PREP
+7	1939	1939	pcomp:>6	@<P NUM
+8	that	that	pm:>13	@CS CS
+9	the	the	det:>11	@DN> DET
+10	first	first	attr:>11	@A> NUM
+11	program	program	subj:>12	@SUBJ N
+12	was	be	v-ch:>13	@+FAUXV V
+13	shown	show	comp:>2	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	show	show	subj:>3	@SUBJ N
+3	was	be	main:>0	@+FMAINV V
+4	live	live	comp:>3	@PCOMPL-S A
+	$,	
+6	not	not	neg:>7	@ADVL NEG-PART
+7	taped	tape	mod:>4	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	about	about	ha:>2	@ADVL PREP
+4	the	the	det:>8	@DN> DET
+5	New	new	attr:>6	@A> A
+6	York	York	attr:>7	@A> N
+7	World's	world	attr:>8	@A> N
+8	Fair	fair	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>2	@SUBJ N
+2	were	be	v-ch:>3	@+FAUXV V
+3	amazed	amaze	main:>0	@-FMAINV EN
+4	that	that	pm:>7	@CS CS
+5	they	they	subj:>6	@SUBJ PRON
+6	could	could	v-ch:>7	@+FAUXV V
+7	see	see	obj:>3	@-FMAINV V
+8	pictures	picture	obj:>7	@OBJ N
+9	and	and	cc:>7	@CC CC
+10	hear	hear	cc:>7	@-FMAINV V
+11	sound	sound	obj:>10	@OBJ N
+12	at	at	tmp:>10	@ADVL PREP
+13	the	the	det:>15	@DN> DET
+14	same	same	attr:>15	@A> A
+15	time	time	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	tmp:>6	@ADVL PREP
+2	those	that	det:>3	@DN> DET
+3	days	day	pcomp:>1	@<P N
+	$,	
+5	there	there	subj:>6	@F-SUBJ ADV
+6	was	be	main:>0	@+FMAINV V
+7	no_such	no_such	det:>8	@DN> DET
+8	thing	thing	comp:>6	@PCOMPL-S N
+9	as	as	copred:>6	@ADVL PREP
+10	color	color	attr:>11	@A> N
+11	TV	tv	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	All	all	det:>2	@DN> DET
+2	the	the	det:>3	@DN> DET
+3	shows	show	subj:>4	@SUBJ N
+4	were	be	main:>0	@+FMAINV V
+5	in	in	loc:>4	@ADVL PREP
+6	black	black	pcomp:>5	@<P A
+7	and	and	cc:>6	@CC CC
+8	white	white	cc:>6	@<P A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>4	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	television	television	attr:>4	@A> N
+4	sets	set	subj:>5	@SUBJ N
+5	were	be	main:>0	@+FMAINV V
+6	rather	rather	ad:>7	@AD-A> ADV
+7	strange-looking	strange-looking	comp:>5	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	had	have	main:>0	@+FMAINV V
+3	tiny	tiny	attr:>4	@A> A
+4	screens	screen	obj:>2	@OBJ N
+5	and	and	cc:>2	@CC CC
+6	were	be	v-ch:>7	@+FAUXV V
+7	mounted	mount	cc:>2	@-FMAINV EN
+8	on	on	phr:>7	@ADVL PREP
+9	tall	tall	attr:>10	@A> A
+10	legs	leg	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	TV	tv	subj:>3	@SUBJ N
+3	had	have	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	be	be	v-ch:>6	@-FAUXV V
+6	hooked	hook	obj:>3	@-FMAINV EN
+7	up_to	up_to	ha:>6	@ADVL PREP
+8	special	special	attr:>9	@A> A
+9	wires	wire	attr:>10	@A> N
+10	underground	underground	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	TV	tv	subj:>3	@SUBJ N
+3	could	could	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	bought	buy	main:>0	@-FMAINV EN
+6	for	for	ha:>5	@ADVL PREP
+7	about	about	pcomp:>6	@ADVL ADV
+8	$200	$200		@OBJ NUM	@PCOMPL-S NUM	@PCOMPL-O NUM	@<P NUM	@ADVL NUM
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	not	not	neg:>3	@ADVL NEG-PART
+3	many	many	subj:>6	@SUBJ PRON
+4	of	of	mod:>3	@<NOM-OF PREP
+5	them	they	pcomp:>4	@<P PRON
+6	were	be	v-ch:>7	@+FAUXV V
+7	sold	sell	main:>0	@-FMAINV EN
+8	until	until	tmp:>7	@ADVL PREP
+9	about	about	ad:>10	@AD-A> ADV
+10	1948	1948	pcomp:>8	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	Color	color	attr:>2	@A> N
+2	television	television	subj:>3	@SUBJ N
+3	came	come	main:>0	@+FMAINV V
+4	about	about	phr:>3	@ADVL ADV
+5	in	in	tmp:>3	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	early	early	attr:>8	@A> A
+8	1960's	1960	pcomp:>5	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>4	@DN> DET
+2	Walt	Walt	attr:>3	@A> N
+3	Disney	Disney	attr:>4	@A> N
+4	Show	show	subj:>5	@SUBJ N
+5	was	be	main:>0	@+FMAINV V
+6	the	the	det:>9	@DN> DET
+7	first	first	attr:>8	@A> NUM
+8	TV	tv	attr:>9	@A> N
+9	show	show	comp:>5	@PCOMPL-S N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	air	air	mod:>9	@-FMAINV V
+12	in	in	ha:>11	@ADVL PREP
+13	color	color	pcomp:>12	@<P N
+14	each	each	det:>15	@DN> DET
+15	week	week	tmp:>11	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	pictures	picture	subj:>5	@SUBJ N
+3	you	you	subj:>4	@SUBJ PRON
+4	see	see	mod:>2	@+FMAINV V
+5	are	be	v-ch:>7	@+FAUXV V
+6	really	real	>7	@ADVL ADV
+7	made	make	main:>0	@-FMAINV EN
+8	from	from	sou:>7	@ADVL PREP
+9	tiny	tiny	attr:>10	@A> A
+10	dots	dot	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	dots	dot	subj:>3	@SUBJ N
+3	move	move	main:>0	@+FMAINV V
+4	across	across	ha:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	screen	screen	pcomp:>4	@<P N
+7	in	in	mod:>6	@<NOM PREP
+8	patterns	pattern	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	form	form	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	faces	face	obj:>2	@OBJ N
+5	and	and		@CC CC
+6	buildings	building		@SUBJ N	@OBJ N
+7	you	you	subj:>8	@SUBJ PRON
+8	see	see	mod:>6	@+FMAINV V
+9	on	on	loc:>8	@ADVL PREP
+10	your	you	attr:>11	@A> PRON
+11	television	television	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	had	have	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	TV	tv	subj:>6	@OBJ N
+6	show	show	obj:>2	@-FMAINV V
+7	in	in	loc:>6	@ADVL PREP
+8	color	color	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>6	@OBJ PRON
+2	was	be	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	program	program	subj:>2	@SUBJ N
+6	shown	show	main:>0	@-FMAINV EN
+7	on	on	ha:>6	@ADVL PREP
+8	television	television	pcomp:>7	@<P N
+9	in	in	tmp:>6	@ADVL PREP
+10	1939	1939	pcomp:>9	@<P NUM
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	TV	tv	attr:>4	@A> N
+4	sets	set	subj:>2	@SUBJ N
+5	become	become	main:>0	@-FMAINV V
+6	more	much	ad:>7	@AD-A> ADV
+7	common	common	comp:>5	@PCOMPL-S A
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	were	be	main:>0	@+FMAINV V
+3	TV's	tv	attr:>4	@A> N
+4	hooked	hook		@PCOMPL-S A
+5	up	up	ha:>2	@ADVL ADV
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	are	be	main:>0	@+FMAINV V
+3	tiny	tiny	attr:>4	@A> A
+4	dots	dot	subj:>2	@SUBJ N
+5	important	important	comp:>2	@PCOMPL-S A
+	$?	
+	$<p>	
+

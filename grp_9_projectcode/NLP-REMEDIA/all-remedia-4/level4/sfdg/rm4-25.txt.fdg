@@ -1,0 +1,388 @@
+0		
+	$<p>	
+
+0		
+1	People	people	main:>0	@NH N
+2	Moved	move	mod:>1	@-FMAINV EN
+3	By	by	ha:>2	@ADVL PREP
+4	New	new	attr:>5	@A> A
+5	Invention	invention	pcomp:>3	@<P N
+	$<p>	
+
+0		
+	$(	
+2	NEW	new	attr:>3	@A> A
+3	YORK	York		@APP N
+	$,	
+5	1854	1854		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>11	@ADVL PREP
+2	buildings	building	pcomp:>1	@<P N
+3	all_over	all_over	mod:>2	@<NOM PREP
+4	the	the	det:>5	@DN> DET
+5	country	country	pcomp:>3	@<P N
+	$,	
+7	a	a	det:>9	@DN> DET
+8	new	new	attr:>9	@A> A
+9	invention	invention	subj:>10	@SUBJ N
+10	is	be	v-ch:>11	@+FAUXV V
+11	taking	take	main:>0	@-FMAINV ING
+12	the	the	det:>13	@DN> DET
+13	place	place	obj:>11	@OBJ N
+14	of	of	mod:>13	@<NOM-OF PREP
+15	stairs	stair	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	the	the	det:>5	@DN> DET
+5	elevator	elevator	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	small	small	attr:>5	@A> A
+5	platform	platform	comp:>2	@PCOMPL-S N
+6	that	that	subj:>7	@SUBJ PRON
+7	carries	carry	mod:>5	@+FMAINV V
+8	people	people	obj:>7	@OBJ N
+9	up_and_down	up_and_down	ha:>7	@ADVL PREP
+10	inside	inside	attr:>11	@A> N
+11	buildings	building	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	elevator	elevator	subj:>3	@SUBJ N
+3	can	can	v-ch:>4	@+FAUXV V
+4	go	go	main:>0	@-FMAINV V
+5	up	up	ha:>4	@ADVL PREP
+6	60	60	qn:>7	@QN> NUM
+7	feet	foot	comp:>4	@PCOMPL-S N
+8	or	or	cc:>7	@CC CC
+9	more	many	cc:>7	@PCOMPL-S PRON
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	people	people	subj:>6	@SUBJ N
+3	who	who	subj:>4	@SUBJ PRON
+4	ride	ride	mod:>2	@+FMAINV V
+5	it	it	obj:>4	@OBJ PRON
+6	wo_	will	v-ch:>8	@+FAUXV V
+7	n't	not	neg:>6	@ADVL NEG-PART
+8	get	get	main:>0	@-FMAINV V
+9	dizzy	dizzy	comp:>8	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	platform	platform	subj:>6	@SUBJ N
+3	where	where	loc:>5	@ADVL ADV
+4	they	they	subj:>5	@SUBJ PRON
+5	stand	stand	mod:>2	@+FMAINV V
+6	is	be	v-ch:>7	@+FAUXV V
+7	surrounded	surround	main:>0	@-FMAINV EN
+8	by	by	agt:>7	@ADVL PREP
+9	walls	wall	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It_	it	subj:>2	@SUBJ PRON
+2	's	be	main:>0	@+FMAINV V
+3	like	like	man:>2	@ADVL PREP
+4	riding	ride	pcomp:>3	@<P-FMAINV ING
+5	up_and_down	up_and_down		@ADVL ADV
+6	in	in		@ADVL PREP
+7	a	a	det:>9	@DN> DET
+8	small	small	attr:>9	@A> A
+9	room	room	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Ropes	rope	subj:>2	@SUBJ N
+2	lift	lift	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	elevator	elevator	obj:>2	@OBJ N
+5	to	to	goa:>2	@ADVL PREP
+6	each	each	det:>7	@DN> DET
+7	floor	floor	pcomp:>5	@<P N
+8	where	where	loc:>11	@ADVL ADV
+9	it	it	subj:>10	@SUBJ PRON
+10	must	must	v-ch:>11	@+FAUXV V
+11	stop	stop	mod:>7	@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	have	have	v-ch:>4	@+FAUXV V
+4	been	be	main:>0	@-FMAINV EN
+5	afraid	afraid	comp:>4	@PCOMPL-S A
+6	that	that	pm:>10	@CS CS
+7	the	the	det:>8	@DN> DET
+8	ropes	rope	subj:>9	@SUBJ N
+9	would	would	v-ch:>10	@+FAUXV V
+10	break	break	mod:>5	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Elisha	Elisha	attr:>2	@A> N
+2	Otis	Otis	subj:>3	@SUBJ N
+3	thought	think	main:>0	@+FMAINV V
+4	of	of	phr:>3	@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	way	way	pcomp:>4	@<P N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	make	make	mod:>6	@-FMAINV V
+9	the	the	det:>10	@DN> DET
+10	elevators	elevator	obj:>8	@OBJ N
+11	safe	safe	oc:>8	@PCOMPL-O N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	made	make	main:>0	@-FMAINV EN
+4	a	a	det:>6	@DN> DET
+5	safety	safety	attr:>6	@A> N
+6	brake	brake	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	clamp	clamp	comp:>2	@PCOMPL-S N
+5	that	that	subj:>6	@SUBJ PRON
+6	can	can	v-ch:>7	@+FAUXV V
+7	stop	stop	mod:>1	@-FMAINV V
+8	the	the	det:>9	@DN> DET
+9	elevator	elevator	obj:>7	@OBJ N
+10	and	and	cc:>7	@CC CC
+11	hold	hold	cc:>7	@-FMAINV V
+12	it	it	obj:>11	@OBJ PRON
+13	in	in	loc:>11	@ADVL PREP
+14	place	place	pcomp:>13	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Earlier	early		@ADVL ADV
+2	this	this	det:>3	@DN> DET
+3	year	year	tmp:>6	@ADVL N
+	$,	
+5	Otis	Otis	subj:>6	@SUBJ N
+6	showed	show	main:>0	@+FMAINV V
+7	how	how	man:>11	@ADVL ADV
+8	his	he	attr:>9	@A> PRON
+9	safety	safety	attr:>10	@A> N
+10	brake	brake	subj:>11	@SUBJ N
+11	works	work	obj:>6	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	As	as	cla:>9	@ADVL PREP
+2	a	a	det:>3	@DN> DET
+3	crowd	crowd	pcomp:>1	@<P N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	people	people	attr:>6	@A> N
+6	watched	watch	pcomp:>4	@<P A
+	$,	
+8	he	he	subj:>9	@SUBJ PRON
+9	rode	ride	main:>0	@+FMAINV V
+10	an	an	det:>11	@DN> DET
+11	elevator	elevator	obj:>9	@OBJ N
+12	to	to	goa:>9	@ADVL PREP
+13	the	the	det:>14	@DN> DET
+14	top	top	pcomp:>12	@<P N
+15	of	of	mod:>14	@<NOM-OF PREP
+16	a	a	det:>18	@DN> DET
+17	tall	tall	attr:>18	@A> A
+18	building	build	pcomp:>15	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	he	he	subj:>3	@SUBJ PRON
+3	had	have	main:>0	@+FMAINV V
+4	his	he	attr:>5	@A> PRON
+5	helper	helper	subj:>6	@OBJ N
+6	cut	cut	obj:>3	@-FMAINV V
+7	the	the	det:>8	@DN> DET
+8	ropes	rope	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	elevator	elevator	subj:>3	@SUBJ N
+3	began	begin	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	fall	fall	obj:>3	@-FMAINV V
+	$!	
+	$<p>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	Otis	Otis	subj:>4	@SUBJ N
+3	calmly	calm	man:>4	@ADVL ADV
+4	pulled	pull	main:>0	@+FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	safety	safety	attr:>7	@A> N
+7	brake	brake	obj:>4	@OBJ N
+8	just	just	ad:>9	@AD-A> ADV
+9	before	before	pm:>11	@CS CS
+10	he	he	subj:>11	@SUBJ PRON
+11	crashed	crash	tmp:>4	@+FMAINV V
+12	into	into	goa:>11	@ADVL PREP
+13	the	the	det:>14	@DN> DET
+14	ground	ground	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	elevator	elevator	subj:>3	@SUBJ N
+3	stopped	stop	main:>0	@+FMAINV V
+4	and	and	cc:>3	@CC CC
+5	stayed	stay	cc:>3	@+FMAINV V
+6	in	in	loc:>5	@ADVL PREP
+7	place	place	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	Otis	Otis	subj:>3	@SUBJ N
+3	released	release	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	brake	brake	obj:>3	@OBJ N
+6	and	and	cc:>3	@CC CC
+7	the	the	det:>8	@DN> DET
+8	elevator	elevator	subj:>9	@SUBJ N
+9	was	be	v-ch:>10	@+FAUXV V
+10	lowered	lower	cc:>3	@-FMAINV EN
+11	to	to	ha:>10	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	ground	ground	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Otis	Otis	subj:>2	@SUBJ N
+2	bowed	bow	main:>0	@+FMAINV V
+3	as	as	pm:>5	@CS CS
+4	he	he	subj:>5	@SUBJ PRON
+5	stepped	step	man:>2	@+FMAINV V
+6	forth	forth	ha:>5	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	made	make	main:>0	@-FMAINV EN
+4	a	a		@DN> DET
+5	safety	safety		@OBJ N	@I-OBJ N	@PCOMPL-O N	@A> N
+6	brake	brake		@SUBJ N	@OBJ N	@I-OBJ N	@PCOMPL-O N	@-FMAINV V	@<P-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	invention	invention	pcomp:>5	@<P N
+8	that	that	subj:>9	@SUBJ PRON
+9	takes	take	mod:>7	@+FMAINV V
+10	the	the	det:>11	@DN> DET
+11	place	place	dat:>9	@I-OBJ N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	stairs	stair	pcomp:>12	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	story	story	subj:>2	@SUBJ N
+5	take	take	main:>0	@-FMAINV V
+6	place	place	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	do	do	v-ch:>4	@+FAUXV V
+3	people	people	subj:>2	@SUBJ N
+4	stand	stand	main:>0	@-FMAINV V
+5	in	in	ha:>4	@ADVL PREP
+6	an	an	det:>7	@DN> DET
+7	elevator	elevator	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	were	be	main:>0	@+FMAINV V
+3	some	some	det:>4	@DN> DET
+4	people	people	subj:>2	@SUBJ N
+5	afraid	afraid	comp:>2	@PCOMPL-S A
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	ride	ride	mod:>5	@-FMAINV V
+8	the	the	det:>9	@DN> DET
+9	elevator	elevator	obj:>7	@OBJ N
+	$?	
+	$<p>	
+

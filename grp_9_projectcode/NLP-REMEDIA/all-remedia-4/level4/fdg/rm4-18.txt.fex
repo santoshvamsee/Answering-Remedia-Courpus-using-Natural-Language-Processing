@@ -1,0 +1,291 @@
+
+ 9999 99       0       O      N           Pigeon           attr/A            -----      1
+ 9999 99       1       O      N          Express        subj/SUBJ            -----      2
+ 9999 99       2       O      V          T_bring      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              The           det/DN            -----      4
+ 9999 99       4       O      N             News          obj/OBJ            -----      2
+
+ 9999 99       0       O    SEP                (          obj/OBJ            ?????     -1
+ 9999 99       1       O      A              NEW           attr/A            -----      2
+ 9999 99       2       O      N             YORK           attr/A            -----      3
+ 9999 99       3       O      N             CITY       NOFUNC/APP            -----     -1
+ 9999 99       4       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       5       O    NUM             1846        NOFUNC/NH            -----     -1
+ 9999 99       6       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       7       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       1       O   PRON              you        subj/SUBJ            -----      0
+ 9999 99       2       O     EN           T_hear      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP            about          ha/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      6
+ 9999 99       5       O      A           latest           attr/A            -----      6
+ 9999 99       6       O      N              way          pcomp/P            -----      3
+ 9999 99       7       O INFMARK               to       pm/INFMARK            -----      8
+ 9999 99       8       O      V            T_get       mod/FMAINV            -----      6
+ 9999 99       9       O      N             news          obj/OBJ            -----      8
+ 9999 99      10       O   PREP             from         phr/ADVL            -----      8
+ 9999 99      11       O      A         overseas         NOFUNC/A            -----     -1
+ 9999 99      12       O    SEP                ?         NOFUNC/A            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      5
+ 9999 99       1       O      A            young           attr/A            -----      2
+ 9999 99       2       O      N              man           attr/A            -----      3
+ 9999 99       3       O      A            named           attr/A            -----      4
+ 9999 99       4       O      N           Daniel           attr/A            -----      5
+ 9999 99       5       O      N            Craig        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_have       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN          T_train      main/FMAINV            -----     -1
+ 9999 99       8       O      N          pigeons         subj/OBJ            -----     10
+ 9999 99       9       O INFMARK               to       pm/INFMARK            -----     10
+ 9999 99      10       O      V          T_carry       obj/FMAINV            -----      7
+ 9999 99      11       O    DET              the           det/DN            -----     12
+ 9999 99      12       O      N             news          obj/OBJ            -----     10
+ 9999 99      13       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV            Here_         loc/ADVL            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV              how      NOFUNC/ADVL            -----     -1
+ 9999 99       3       O   PRON              his           attr/A            -----      5
+ 9999 99       4       O    SEP               "_           attr/A            ?????     -1
+ 9999 99       5       O      N           Pigeon         NOFUNC/A            -----     -1
+ 9999 99       6       O      N          Express           attr/A            -----      8
+ 9999 99       7       O    SEP               _"           attr/A            ?????     -1
+ 9999 99       8       O      N            works           main/P            -----      4
+ 9999 99       9       O    SEP                .           main/P            ?????     -1
+
+ 9999 99       0       O      N            Craig        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_buy      main/FMAINV            -----     -1
+ 9999 99       2       O      N          pigeons          obj/OBJ            -----      1
+ 9999 99       3       O   PREP             from         sou/ADVL            -----      1
+ 9999 99       4       O      N           Europe          pcomp/P            -----      3
+ 9999 99       5       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       6       O     CC              and            cc/CC            -----      1
+ 9999 99       7       O   PRON               he        subj/SUBJ            -----      8
+ 9999 99       8       O      V          T_train        cc/FMAINV            -----      1
+ 9999 99       9       O   PRON             them         subj/OBJ            -----     11
+ 9999 99      10       O INFMARK               to       pm/INFMARK            -----     11
+ 9999 99      11       O      V            T_fly       obj/FMAINV            -----      8
+ 9999 99      12       O   PREP               to         goa/ADVL            -----     11
+ 9999 99      13       O      A          certain           attr/A            -----     14
+ 9999 99      14       O      N           places          pcomp/P            -----     12
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N            Craig        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_put      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON              his           attr/A            -----      3
+ 9999 99       3       O      N          pigeons          obj/OBJ            -----      1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       5       O      N            cages          pcomp/P            -----      4
+ 9999 99       6       O     CC              and            cc/CC            -----      1
+ 9999 99       7       O      V           T_load        cc/FMAINV            -----      1
+ 9999 99       8       O   PRON             them          obj/OBJ            -----      7
+ 9999 99       9       O   PREP               on         loc/ADVL            -----      7
+ 9999 99      10       O   PRON              his           attr/A            -----     11
+ 9999 99      11       O      N             boat          pcomp/P            -----      9
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      2
+ 9999 99       1       O   PRON               he        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_sail      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV              far         loc/ADVL            -----      2
+ 9999 99       4       O    ADV              out      NOFUNC/ADVL            -----     -1
+ 9999 99       5       O   PREP               in          ha/ADVL            -----      2
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            ocean          pcomp/P            -----      5
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V           T_meet       cnt/FMAINV            -----      2
+ 9999 99      10       O    DET              the           det/DN            -----     11
+ 9999 99      11       O      N            ships          obj/OBJ            -----      9
+ 9999 99      12       O   PRON             that        subj/SUBJ            -----     13
+ 9999 99      13       O      V             T_be       v-ch/FAUXV            -----     14
+ 9999 99      14       O    ING         T_return       mod/FMAINV            -----     11
+ 9999 99      15       O   PREP             from         sou/ADVL            -----     14
+ 9999 99      16       O      N           Europe          pcomp/P            -----     15
+ 9999 99      17       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            ships        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              all           det/DN            -----      4
+ 9999 99       4       O    DET              the           det/DN            -----      6
+ 9999 99       5       O      A           latest           attr/A            -----      6
+ 9999 99       6       O      N             news          obj/OBJ            -----      2
+ 9999 99       7       O     EN          T_write        oc/FMAINV            -----      2
+ 9999 99       8       O    ADV             down          ha/ADVL            -----      7
+ 9999 99       9       O    SEP                .          ha/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_place      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N            paper          obj/OBJ            -----      1
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      1
+ 9999 99       5       O      N             jars          pcomp/P            -----      4
+ 9999 99       6       O   PRON             that        subj/SUBJ            -----      7
+ 9999 99       7       O      V             T_be       mod/FMAINV            -----      5
+ 9999 99       8       O      A       watertight           comp/S            -----      7
+ 9999 99       9       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      2
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_toss      main/FMAINV            -----     -1
+ 9999 99       3       O    DET            these           det/DN            -----      4
+ 9999 99       4       O      N             jars          obj/OBJ            -----      2
+ 9999 99       5       O    ADV        overboard      NOFUNC/ADVL            -----     -1
+ 9999 99       6       O   PREP               to       NOFUNC/NOM            -----     -1
+ 9999 99       7       O      N            Craig          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N            Craig        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_copy      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             news          obj/OBJ            -----      1
+ 9999 99       4       O   PREP             onto         goa/ADVL            -----      1
+ 9999 99       5       O      A             thin           attr/A            -----      6
+ 9999 99       6       O      N           pieces          pcomp/P            -----      4
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O      N            paper          pcomp/P            -----      7
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V         T_attach      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N           papers          obj/OBJ            -----      1
+ 9999 99       4       O   PREP               to         goa/ADVL            -----      1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N              leg          pcomp/P            -----      4
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O    DET                a           det/DN            -----      9
+ 9999 99       9       O      N           pigeon          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      2
+ 9999 99       1       O    ADV             then        meta/ADVL            -----      2
+ 9999 99       2       O      V           T_send      main/FMAINV            -----     -1
+ 9999 99       3       O    DET             that           det/DN            -----      4
+ 9999 99       4       O      N           pigeon          obj/OBJ            -----      2
+ 9999 99       5       O   PREP               on         loc/ADVL            -----      2
+ 9999 99       6       O   PRON              its           attr/A            -----      7
+ 9999 99       7       O      N              way          pcomp/P            -----      5
+ 9999 99       8       O    ADV             back      NOFUNC/ADVL            -----     -1
+ 9999 99       9       O   PREP               to          ad/ADVL            -----      8
+ 9999 99      10       O      A              New           attr/A            -----     11
+ 9999 99      11       O      N             York          pcomp/P            -----      9
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N           pigeon        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_fly      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               to         goa/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N        newspaper          pcomp/P            -----      3
+ 9999 99       6       O     CS             that            pm/CS            -----     10
+ 9999 99       7       O   PRON               it        subj/SUBJ            -----      8
+ 9999 99       8       O      V           T_have       v-ch/FAUXV            -----      9
+ 9999 99       9       O     EN             T_be       v-ch/FAUXV            -----     10
+ 9999 99      10       O     EN          T_train       mod/FMAINV            -----      5
+ 9999 99      11       O INFMARK               to       pm/INFMARK            -----     12
+ 9999 99      12       O      V           T_find       cnt/FMAINV            -----     10
+ 9999 99      13       O    SEP                .       cnt/FMAINV            ?????     -1
+
+ 9999 99       0       O     CS           Before            pm/CS            -----      5
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N             ship        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      5
+ 9999 99       4       O    ADV             even      NOFUNC/ADVL            -----     -1
+ 9999 99       5       O     EN           T_land       tmp/FMAINV            -----      9
+ 9999 99       6       O    SEP                ,       tmp/FMAINV            ?????     -1
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N            paper        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99      10       O   PRON              its           attr/A            -----     11
+ 9999 99      11       O      N             news          obj/OBJ            -----      9
+ 9999 99      12       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      N           Pigeon           attr/A            -----      2
+ 9999 99       2       O      N          Express        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_have       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN           T_make      main/FMAINV            -----     -1
+ 9999 99       5       O      A    long-distance           attr/A            -----      6
+ 9999 99       6       O      N            trips          obj/OBJ            -----      4
+ 9999 99       7       O   PREP             from         sou/ADVL            -----      4
+ 9999 99       8       O      N           Canada          pcomp/P            -----      7
+ 9999 99       9       O   PREP               to         pth/ADVL            -----      7
+ 9999 99      10       O      N       Washington          pcomp/P            -----      9
+ 9999 99      11       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99      12       O   ABBR              D.C          mod/APP            -----     10
+ 9999 99      13       O    SEP                .          mod/APP            ?????     -1
+
+ 9999 99       0       O   PREP               In         cla/ADVL            -----      6
+ 9999 99       1       O    DET             most           det/DN            -----      2
+ 9999 99       2       O      N            cases          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N            birds        subj/SUBJ            -----      6
+ 9999 99       6       O      V         T_arrive      main/FMAINV            -----     -1
+ 9999 99       7       O    ADV           safely         man/ADVL            -----      6
+ 9999 99       8       O   PREP             with          ha/ADVL            -----      6
+ 9999 99       9       O   PRON            their           attr/A            -----     10
+ 9999 99      10       O      A         precious           attr/A            -----     11
+ 9999 99      11       O      N         packages          pcomp/P            -----      8
+ 9999 99      12       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_start      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      N           Pigeon           attr/A            -----      4
+ 9999 99       4       O      N          Express          obj/OBJ            -----      1
+ 9999 99       5       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      N           Pigeon           attr/A            -----      4
+ 9999 99       4       O      N          Express           comp/S            -----      1
+ 9999 99       5       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON               he        subj/SUBJ            -----      1
+ 9999 99       3       O      V          T_start      main/FMAINV            -----     -1
+ 9999 99       4       O    DET              the           det/DN            -----      6
+ 9999 99       5       O      N           Pigeon           attr/A            -----      6
+ 9999 99       6       O      N          Express          obj/OBJ            -----      3
+ 9999 99       7       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N            Craig        subj/SUBJ            -----      1
+ 9999 99       3       O      V            T_get      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON              his           attr/A            -----      5
+ 9999 99       5       O      N             news          obj/OBJ            -----      3
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O   PRON             this        subj/SUBJ            -----      1
+ 9999 99       3       O    DET                a           det/DN            -----      5
+ 9999 99       4       O      A             fast           attr/A            -----      5
+ 9999 99       5       O      N              way           comp/S            -----      1
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V            T_get       mod/FMAINV            -----      5
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N             news          obj/OBJ            -----      7
+ 9999 99      10       O    SEP                ?          obj/OBJ            ?????     -1
+

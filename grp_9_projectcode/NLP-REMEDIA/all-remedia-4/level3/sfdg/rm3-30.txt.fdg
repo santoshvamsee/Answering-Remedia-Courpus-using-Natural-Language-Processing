@@ -1,0 +1,314 @@
+0		
+1	Columbus	Columbus	attr:>2	@A> N
+2	Returns	return	attr:>3	@A> N
+3	Home	home	main:>0	@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	Genoa	Genoa	main:>1	@NH N
+	$,	
+4	Italy	Italy	cc:>2	@NH N
+	$,	
+6	May	May		@NH N
+7	3	3	mod:>6	@<NOM NUM
+	$,	
+9	1493	1493	mod:>7	@<NOM NUM
+	$)	
+11	$-		
+12	Christopher	Christopher	attr:>13	@A> N
+13	Columbus	Columbus	subj:>14	@SUBJ N
+14	came	come	main:>0	@+FMAINV V
+15	home	home	goa:>14	@ADVL N
+16	to	to		@<NOM PREP	@ADVL PREP
+17	Italy	Italy	pcomp:>16	@<P N
+18	today	today	tmp:>14	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	almost	almost	ad:>4	@AD-A> ADV
+4	nine	nine	qn:>5	@QN> NUM
+5	months	month	comp:>2	@PCOMPL-S N
+6	after	after	pm:>8	@CS CS
+7	he	he	subj:>8	@SUBJ PRON
+8	sailed	sail	tmp:>2	@+FMAINV V
+9	away	away	loc:>8	@ADVL ADV
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	find	find	obj:>8	@-FMAINV V
+12	a	a	det:>13	@DN> DET
+13	shortcut	shortcut	obj:>11	@OBJ N
+14	to	to	dat:>11	@ADVL PREP
+15	India	India	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	As	as	pm:>3	@CS CS
+2	he	he	subj:>3	@SUBJ PRON
+3	arrived	arrive		@+FMAINV V
+	$,	
+5	crowds	crowd		@SUBJ N
+6	cheered	cheer		@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Few	few	subj:>2	@SUBJ PRON
+2	thought	think	main:>0	@+FMAINV V
+3	they	they	subj:>4	@SUBJ PRON
+4	would	would	v-ch:>5	@+FAUXV V
+5	see	see	obj:>2	@-FMAINV V
+6	him	he	obj:>5	@OBJ PRON
+7	alive	alive	copred:>5	@PCOMPL-O A	@OBJ A	@<NOM A
+8	again	again	frq:>5	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Columbus	Columbus	subj:>2	@SUBJ N
+2	says	say	main:>0	@+FMAINV V
+3	he	he	subj:>4	@SUBJ PRON
+4	did	do	v-ch:>5	@+FAUXV V
+5	find	find	obj:>2	@-FMAINV V
+6	a	a	det:>10	@DN> DET
+7	strange	strange	cc:>9	@A> A
+	$,	
+9	lovely	lovely	attr:>10	@A> A
+10	land	land	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	claims	claim	main:>0	@+FMAINV V
+3	it	it	subj:>4	@SUBJ PRON
+4	is	be	obj:>2	@+FMAINV V
+5	full	full	comp:>4	@PCOMPL-S A
+6	of	of	mod:>5	@<NOM-OF PREP
+7	people	people	pcomp:>6	@<P N
+8	with	with		@<NOM PREP	@ADVL PREP
+9	red	red	attr:>10	@A> A
+10	skin	skin	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	calls	call	main:>0	@+FMAINV V
+3	them	they	obj:>2	@OBJ PRON
+4	Indians	Indian	oc:>2	@PCOMPL-O N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	most	many	det:>4	@DN> DET
+3	map	map	attr:>4	@A> N
+4	makers	maker	subj:>5	@SUBJ N
+5	do	do	v-ch:>7	@+FAUXV V
+6	not	not	neg:>5	@ADVL NEG-PART
+7	believe	believe	main:>0	@-FMAINV V
+8	they	they	subj:>9	@SUBJ PRON
+9	are	be	obj:>7	@+FMAINV V
+10	from	from	sou:>9	@ADVL PREP
+11	India	India	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Instead	instead	meta:>4	@ADVL ADV
+	$,	
+3	they	they	subj:>4	@SUBJ PRON
+4	think	think	main:>0	@+FMAINV V
+5	Columbus	Columbus	subj:>6	@SUBJ N
+6	found	find	obj:>4	@+FMAINV V
+7	a	a	det:>9	@DN> DET
+8	new	new	attr:>9	@A> A
+9	land	land	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Columbus	Columbus	subj:>2	@SUBJ N
+2	set	set	main:>0	@+FMAINV V
+3	sail	sail	obj:>2	@OBJ N
+4	last	last	det:>5	@DN> DET
+5	August	August	tmp:>2	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	had	have	main:>0	@+FMAINV V
+3	three	three	qn:>4	@QN> NUM
+4	ships	ship	obj:>2	@OBJ N
+5	called	call	mod:>4	@-FMAINV EN
+6	the	the	det:>7	@DN> DET
+7	Nina	Nina	obj:>5	@OBJ N
+	$,	
+9	the	the	det:>10	@DN> DET
+10	Pinta	pinta	mod:>7	@APP N
+	$,	
+12	and	and		@CC CC
+13	the	the	det:>15	@DN> DET
+14	Santa	Santa	attr:>15	@A> N
+15	Maria	Maria		@SUBJ N	@OBJ N	@I-OBJ N	@PCOMPL-O N	@APP N
+	$.	
+	$<s>	
+
+0		
+1	For	for	tmp:>8	@ADVL PREP
+2	two	two	qn:>3	@QN> NUM
+3	months	month	pcomp:>1	@<P N
+	$,	
+5	his	he	attr:>6	@A> PRON
+6	ships	ship	subj:>7	@SUBJ N
+7	were	be	v-ch:>8	@+FAUXV V
+8	tossed	toss	main:>0	@-FMAINV EN
+9	by	by	agt:>8	@ADVL PREP
+10	storms	storm	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	food	food	attr:>3	@A> N
+3	supply	supply	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	small	small	comp:>4	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	men	man	subj:>3	@SUBJ N
+3	wanted	want	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	turn	turn	obj:>3	@-FMAINV V
+6	back	back	ha:>5	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	on	on	cla:>7	@ADVL PREP
+3	October	October	pcomp:>2	@<P N
+4	12	12	mod:>3	@<NOM NUM
+	$,	
+6	they	they	subj:>7	@SUBJ PRON
+7	spotted	spot	main:>0	@+FMAINV V
+8	land	land	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	stayed	stay	main:>0	@+FMAINV V
+3	on	on	loc:>2	@ADVL PREP
+4	the	the	det:>6	@DN> DET
+5	new	new	attr:>6	@A> A
+6	land	land	pcomp:>3	@<P N
+7	for	for	dur:>2	@ADVL PREP
+8	four	four	qn:>9	@QN> NUM
+9	months	month	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Columbus	Columbus	subj:>2	@SUBJ N
+2	says	say	main:>0	@+FMAINV V
+3	he	he	subj:>4	@SUBJ PRON
+4	wants	want	obj:>2	@+FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	return	return	obj:>4	@-FMAINV V
+7	to	to	goa:>6	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	new	new	attr:>10	@A> A
+10	land	land	pcomp:>7	@<P N
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	study	study	cnt:>6	@-FMAINV V
+13	its	it	attr:>14	@A> PRON
+14	size	size	obj:>12	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	set	set	main:>0	@+FMAINV V
+3	sail	sail	obj:>2	@OBJ N
+4	for	for	dat:>2	@ADVL PREP
+5	India	India	pcomp:>4	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	was	be	v-ch:>4	@+FAUXV V
+3	Columbus	Columbus	subj:>2	@SUBJ N
+4	trying	try	main:>0	@-FMAINV ING
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	find	find	cnt:>4	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	was	be	main:>0	@+FMAINV V
+3	Columbus	Columbus	subj:>2	@SUBJ N
+4	’		
+5	home	home	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	spot	spot	main:>0	@-FMAINV V
+5	land	land	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Columbus	Columbus	subj:>2	@SUBJ N
+4	want	want	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	return	return	obj:>4	@-FMAINV V
+7	to	to	goa:>6	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	new	new	attr:>10	@A> A
+10	land	land	pcomp:>7	@<P N
+	$?	
+	$<p>	
+

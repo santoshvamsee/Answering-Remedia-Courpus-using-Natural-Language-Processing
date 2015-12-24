@@ -1,0 +1,341 @@
+0		
+1	The	the		@DN> DET
+2	King	king	attr:>3	@A> N
+3	Gives	give	main:>0	@+FMAINV V
+4	Up	up	phr:>3	@ADVL ADV
+5	His	he	attr:>6	@A> PRON
+6	Throne	throne	obj:>3	@OBJ N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	LONDON	London		@NH N
+	$,	
+4	1937	1937		@NH NUM	@PCOMPL-S NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+6	$-		
+7	England	England	subj:>8	@SUBJ N
+8	is	be	main:>0	@+FMAINV V
+9	about	about	ha:>8	@ADVL ADV
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	have	have	comp:>8	@-FMAINV V
+12	a	a	det:>14	@DN> DET
+13	new	new	attr:>14	@A> A
+14	king	king	obj:>11	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	present	present	attr:>3	@A> A
+3	king	king	subj:>7	@SUBJ N
+	$,	
+5	Edward	Edward	mod:>3	@APP N
+	$,	
+7	has	have	v-ch:>8	@+FAUXV V
+8	said	say	main:>0	@-FMAINV EN
+9	he	he	subj:>10	@SUBJ PRON
+10	will	will	v-ch:>12	@+FAUXV V
+11	soon	soon	tmp:>12	@ADVL ADV
+12	leave	leave	obj:>8	@-FMAINV V
+13	the	the	det:>14	@DN> DET
+14	throne	throne	obj:>12	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	been	be	main:>0	@-FMAINV EN
+4	king	king	comp:>3	@PCOMPL-S N
+5	only	only	meta:>6	@ADVL ADV
+6	for	for	dur:>3	@ADVL PREP
+7	one	one	qn:>8	@QN> NUM
+8	year	year	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	happened	happen	main:>0	@-FMAINV EN
+5	in	in	dur:>4	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	thousand	thousand	qn:>8	@QN> NUM
+8	years	year	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Once	once	pm:>5	@CS CS
+2	a	a	det:>3	@DN> DET
+3	king	king	subj:>4	@SUBJ N
+4	is	be	v-ch:>5	@+FAUXV V
+5	crowned	crown	tmp:>8	@-FMAINV EN
+	$,	
+7	he	he	subj:>8	@SUBJ PRON
+8	rules	rule	main:>0	@+FMAINV V
+9	all	all	det:>11	@DN> DET
+10	his	he	attr:>11	@A> PRON
+11	life	life	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Edward's	Edward	attr:>2	@A> N
+2	brother	brother	subj:>6	@SUBJ N
+	$,	
+4	George	George	mod:>2	@APP N
+	$,	
+6	will	will	v-ch:>7	@+FAUXV V
+7	become	become	main:>0	@-FMAINV V
+8	king	king	comp:>7	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Edward's	Edward	attr:>2	@A> N
+2	father	father	subj:>3	@SUBJ N
+3	was	be	main:>0	@+FMAINV V
+4	king	king	comp:>3	@PCOMPL-S N
+5	until	until	pm:>7	@CS CS
+6	he	he	subj:>7	@SUBJ PRON
+7	died	die	tmp:>3	@+FMAINV V
+8	last	last	det:>9	@DN> DET
+9	year	year	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	Edward	Edward	subj:>3	@SUBJ N
+3	became	become	main:>0	@+FMAINV V
+4	king	king	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	said	say	main:>0	@-FMAINV EN
+4	that	that	pm:>7	@CS CS
+5	Edward	Edward	subj:>6	@SUBJ N
+6	is	be	obj:>3	@+FMAINV V
+7	giving	give	mod:>1	@-FMAINV ING
+8	up	up	phr:>7	@ADVL ADV
+9	the	the	det:>10	@DN> DET
+10	throne	throne	obj:>7	@OBJ N
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	get	get	cnt:>7	@-FMAINV V
+13	married	marry	comp:>12	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	woman	woman	subj:>8	@SUBJ N
+3	who	who	subj:>4	@SUBJ PRON
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	mod:>2	@-FMAINV V
+6	his	he	attr:>7	@A> PRON
+7	wife	wife	comp:>5	@PCOMPL-S N
+8	is	be	main:>0	@+FMAINV V
+9	not	not	neg:>10	@ADVL NEG-PART
+10	from	from	sou:>8	@ADVL PREP
+11	England	England	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	not	not	neg:>4	@ADVL NEG-PART
+4	from	from	sou:>2	@ADVL PREP
+5	a	a	det:>7	@DN> DET
+6	royal	royal	attr:>7	@A> A
+7	family	family	pcomp:>4	@<P N
+	$,	
+9	either	either	meta:>2	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	king	king	subj:>5	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	England	England	pcomp:>3	@<P N
+5	rules	rule	main:>0	@+FMAINV V
+6	over	over	ha:>5	@ADVL PREP
+7	millions	million	pcomp:>6	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	people	people	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Many	many	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	them	they	pcomp:>2	@<P PRON
+4	do_	do	v-ch:>7	@+FAUXV V
+5	n't	not	neg:>4	@ADVL NEG-PART
+6	even	even	meta:>7	@ADVL ADV
+7	live	live	main:>0	@-FMAINV V
+8	in	in	loc:>7	@ADVL PREP
+9	England	England	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Most	many	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	them	they	pcomp:>2	@<P PRON
+4	live	live	main:>0	@+FMAINV V
+5	in	in	loc:>4	@ADVL PREP
+6	India	India	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	George	George	subj:>3	@SUBJ N
+3	becomes	become	tmp:>8	@+FMAINV V
+4	king	king	comp:>3	@PCOMPL-S N
+	$,	
+6	he	he	subj:>7	@SUBJ PRON
+7	will	will	v-ch:>8	@+FAUXV V
+8	bring	bring	main:>0	@-FMAINV V
+9	his	he	attr:>10	@A> PRON
+10	family	family	obj:>8	@OBJ N
+11	with	with	com:>8	@ADVL PREP
+12	him	he	pcomp:>11	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	has	have	main:>0	@+FMAINV V
+3	two	two	qn:>4	@QN> NUM
+4	daughters	daughter	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Their	they	attr:>2	@A> PRON
+2	names	name	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	Elizabeth	Elizabeth	comp:>3	@PCOMPL-S N
+5	and	and	cc:>4	@CC CC
+6	Margaret	Margaret	attr:>7	@A> N
+7	Rose	rose	cc:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Someday	someday	tmp:>5	@ADVL ADV
+	$,	
+3	Elizabeth	Elizabeth	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	main:>0	@-FMAINV V
+6	queen	queen	comp:>5	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	There	there	subj:>2	@F-SUBJ ADV
+2	are	be	main:>0	@+FMAINV V
+3	no	no	det:>4	@DN> DET
+4	sons	son	comp:>2	@PCOMPL-S N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	take	take	mod:>4	@-FMAINV V
+7	over	over	ha:>6	@ADVL ADV
+8	the	the	det:>9	@DN> DET
+9	throne	throne	obj:>6	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	king	king	comp:>2	@PCOMPL-S N
+5	who	who	subj:>6	@SUBJ PRON
+6	is	be	v-ch:>7	@+FAUXV V
+7	giving	give	mod:>4	@-FMAINV ING
+8	up	up	phr:>7	@ADVL ADV
+9	his	he	attr:>10	@A> PRON
+10	throne	throne	obj:>7	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	reason	reason		@PCOMPL-S N
+5	he	he	subj:>6	@SUBJ PRON
+6	is	be	v-ch:>7	@+FAUXV V
+7	giving	give	mod:>4	@-FMAINV ING
+8	up	up	phr:>7	@ADVL ADV
+9	the	the	det:>10	@DN> DET
+10	throne	throne	obj:>7	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Edward	Edward	subj:>2	@SUBJ N
+4	become	become	main:>0	@-FMAINV V
+5	king	king	comp:>4	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	do	do	v-ch:>5	@+FAUXV V
+3	many	many	det:>4	@DN> DET
+4	people	people	subj:>2	@SUBJ N
+5	ruled	rule	main:>0	@-FMAINV EN
+6	by	by	ha:>5	@ADVL PREP
+7	England	England	attr:>8	@A> N
+8	live	live	pcomp:>6	@<P A
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	Elizabeth	Elizabeth	subj:>2	@SUBJ N
+4	someday	someday	tmp:>5	@ADVL ADV
+5	rule	rule	main:>0	@-FMAINV V
+6	England	England	obj:>5	@OBJ N
+	$?	
+	$<p>	
+

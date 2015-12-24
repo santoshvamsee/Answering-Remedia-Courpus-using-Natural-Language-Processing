@@ -1,0 +1,387 @@
+0		
+	$<p>	
+
+0		
+1	Secret	secret	attr:>2	@A> A
+2	Surprises	surprise	attr:>3	@A> N
+3	England	England	main:>0	@NH N
+	$<p>	
+
+0		
+	$(	
+2	ENGLAND	England	main:>1	@NH N
+	$,	
+4	July	July		@APP N	@NH N
+	$,	
+6	1865	1865	mod:>4	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	James	James	attr:>2	@A> N
+2	Barry	Barry	subj:>9	@SUBJ N
+	$,	
+4	the	the	det:>7	@DN> DET
+5	famous	fam	attr:>6	@A> A
+6	army	army	attr:>7	@A> N
+7	doctor	doctor	mod:>2	@APP N
+	$,	
+9	died	die	main:>0	@+FMAINV V
+10	a_few	a_few	det:>11	@DN> DET
+11	weeks	week	tmp:>9	@ADVL N
+12	ago	ago	ad:>11	@<AD-A ADV
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	been	be	main:>0	@-FMAINV EN
+4	well-known	well-known	comp:>3	@PCOMPL-S A
+5	in	in	mod:>4	@ADVL PREP
+6	England	England	pcomp:>5	@<P N
+7	for	for	dur:>3	@ADVL PREP
+8	50	50	qn:>9	@QN> NUM
+9	years	year	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	shocking	shock	attr:>3	@A> A
+3	news	news	subj:>4	@SUBJ N
+4	has	have	v-ch:>5	@+FAUXV V
+5	been	be	v-ch:>6	@-FAUXV EN
+6	learned	learn	main:>0	@-FMAINV EN
+7	since	since	ha:>6	@ADVL PREP
+8	his	he	attr:>9	@A> PRON
+9	death	death	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	seems	seem	main:>0	@+FMAINV V
+3	Dr.	Dr.	attr:>4	@A> ABBR
+4	Barry	Barry	subj:>5	@SUBJ N
+5	was	be		@+FMAINV V
+6	really	real	man:>5	@ADVL ADV
+7	a	a	det:>8	@DN> DET
+8	woman	woman	comp:>5	@PCOMPL-S N
+	$!	
+	$<p>	
+
+0		
+1	No	no	det:>2	@DN> DET
+2	one	one	subj:>3	@SUBJ PRON
+3	guessed	guess	main:>0	@+FMAINV V
+4	the	the	det:>6	@DN> DET
+5	doctor's	doctor	attr:>6	@A> N
+6	secret	secret	obj:>3	@OBJ N
+7	all	all	det:>8	@DN> DET
+8	those	that	det:>9	@DN> DET
+9	years	year	tmp:>3	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Women	woman	subj:>2	@SUBJ N
+2	are	be	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	allowed	allow	main:>0	@-FMAINV EN
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	serve	serve	cnt:>4	@-FMAINV V
+7	as	as	ha:>6	@ADVL PREP
+8	doctors	doctor	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	seems	seem	main:>0	@+FMAINV V
+3	Dr.	Dr.	attr:>4	@A> ABBR
+4	Barry	Barry	subj:>5	@SUBJ N
+5	hid	hide		@+FMAINV V
+6	the	the	det:>7	@DN> DET
+7	truth	truth	obj:>5	@OBJ N
+8	so	so	pm:>11	@CS CS
+9	she	she	subj:>10	@SUBJ PRON
+10	could	could	v-ch:>11	@+FAUXV V
+11	practice	practice	cnd:>5	@-FMAINV V
+12	her	she	attr:>13	@A> PRON
+13	love	love	obj:>11	@OBJ N
+14	of	of	mod:>13	@<NOM-OF PREP
+15	medicine	medicine	pcomp:>14	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Barry	Barry	subj:>3	@SUBJ N
+3	finished	finish	main:>0	@+FMAINV V
+4	her	she	attr:>5	@A> PRON
+5	training	train	obj:>3	@OBJ N
+6	in	in	loc:>3	@ADVL PREP
+7	medicine	medicine	pcomp:>6	@<P N
+8	at	at		@<NOM PREP	@ADVL PREP
+9	the	the	det:>11	@DN> DET
+10	young	young	attr:>11	@A> A
+11	age	age	pcomp:>8	@<P N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	15	15	pcomp:>12	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	began	begin	main:>0	@+FMAINV V
+4	her	she	attr:>5	@A> PRON
+5	many	many	det:>6	@DN> DET
+6	years	year	obj:>3	@OBJ N
+7	in	in	loc:>3	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	army	army	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>4	@+FAUXV V
+3	often	often	frq:>4	@ADVL ADV
+4	honored	honor	main:>0	@-FMAINV EN
+5	for	for	ha:>4	@ADVL PREP
+6	her	she	attr:>7	@A> PRON
+7	work	work	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	One	one	qn:>2	@QN> NUM
+2	time	time	tmp:>5	@ADVL N	@ADVL N	@ADVL N
+	$,	
+4	she	she	subj:>5	@SUBJ PRON
+5	risked	risk	main:>0	@+FMAINV V
+6	her	she	attr:>7	@A> PRON
+7	own	own	attr:>8	@A> A
+8	life	life	obj:>5	@OBJ N
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	treat	treat	cnt:>5	@-FMAINV V
+11	wounded	wound	attr:>12	@A> A
+12	soldiers	soldier	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	happened	happen	main:>0	@+FMAINV V
+3	at	at	loc:>2	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	Battle	battle	pcomp:>3	@<P N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	Waterloo	Waterloo	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Her	she	attr:>2	@A> PRON
+2	courage	courage	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	rewarded	reward	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	put	put	main:>0	@-FMAINV EN
+4	in	in	man:>3	@ADVL PREP
+5	charge	charge	pcomp:>4	@<P N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	all	all	det:>8	@DN> DET
+8	the	the		@DN> DET
+9	army	army		@A> N	@<P N
+10	doctors	doctor		@SUBJ N	@<P N
+11	in	in	mod:>10	@<NOM PREP
+12	the	the	det:>13	@DN> DET
+13	country	country	pcomp:>11	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Over	over		@ADVL ADV	@AD-A> ADV
+2	the	the	det:>3	@DN> DET
+3	years	year	tmp:>6	@ADVL N
+	$,	
+5	she	she	subj:>6	@SUBJ PRON
+6	went	go	main:>0	@+FMAINV V
+7	to	to	goa:>6	@ADVL PREP
+8	Europe	Europe	pcomp:>7	@<P N
+9	and	and	cc:>8	@CC CC
+10	Africa	Africa	cc:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	treated	treat	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	sick	sick	obj:>2	@OBJ A
+5	in	in	loc:>2	@ADVL PREP
+6	Canada	Canada	pcomp:>5	@<P N
+7	and	and	cc:>6	@CC CC
+8	India	India	cc:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	No	no	det:>2	@DN> DET
+2	place	place	subj:>3	@SUBJ N
+3	was	be	main:>0	@+FMAINV V
+4	too	too	ad:>5	@AD-A> ADV
+5	far	far	loc:>3	@ADVL ADV
+6	for	for	subj:>9	@ADVL PREP
+7	her	she	pcomp:>6	@<P PRON
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	travel	travel	obj:>3	@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	No	no	det:>2	@DN> DET
+2	one	one	subj:>3	@SUBJ PRON
+3	is	be	main:>0	@+FMAINV V
+4	sure	sure	comp:>3	@PCOMPL-S A
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>9	@DN> DET
+7	doctor's	doctor	attr:>8	@A> N
+8	real	real	attr:>9	@A> A
+9	name	name	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	One	one	qn:>2	@QN> NUM
+2	story	story	subj:>3	@SUBJ N
+3	says	say	main:>0	@+FMAINV V
+4	that	that	pm:>7	@CS CS
+5	she	she	subj:>6	@SUBJ PRON
+6	was	be	obj:>3	@+FMAINV V
+7	born	bear		@-FMAINV EN
+8	a	a	det:>9	@DN> DET
+9	princess	princess	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	she	she	subj:>3	@SUBJ PRON
+3	was	be	v-ch:>5	@+FAUXV V
+4	never	never	frq:>5	@ADVL ADV
+5	allowed	allow	main:>0	@-FMAINV EN
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	grow	grow	cnt:>5	@-FMAINV V
+8	up	up	phr:>7	@ADVL ADV
+9	in	in	ha:>7	@ADVL PREP
+10	the	the	det:>12	@DN> DET
+11	king's	king	attr:>12	@A> N
+12	castle	castle	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	story	story	subj:>3	@SUBJ N
+3	says	say	main:>0	@+FMAINV V
+4	she	she	subj:>5	@SUBJ PRON
+5	was	be	v-ch:>7	@+FAUXV V
+6	not	not	neg:>5	@ADVL NEG-PART
+7	allowed	allow	obj:>3	@-FMAINV EN
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	tell	tell	cnt:>7	@-FMAINV V
+10	her	she	dat:>9	@I-OBJ PRON
+11	true	true	attr:>12	@A> A
+12	name	name	obj:>9	@OBJ N
+13	and	and	cc:>12	@CC CC
+14	background	background	cc:>12	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	died	die	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	July	July	pcomp:>3	@<P N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	1865	1865	pcomp:>5	@<P NUM
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	Dr.	Dr.	attr:>4	@A> ABBR
+4	Barry's	Barry	attr:>5	@A> N
+5	secret	secret	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	James	James	attr:>4	@A> N
+4	Barry	Barry	subj:>2	@SUBJ N
+5	become	become	main:>0	@-FMAINV V
+6	a	a	det:>7	@DN> DET
+7	doctor	doctor	comp:>5	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	Dr.	Dr.	attr:>4	@A> ABBR
+4	Barry	Barry	subj:>2	@SUBJ N
+5	treat	treat	main:>0	@-FMAINV V
+6	wounded	wound	attr:>7	@A> A
+7	soldiers	soldier	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	Dr.	Dr.	attr:>4	@A> ABBR
+4	Barry	Barry	subj:>2	@SUBJ N
+5	keep	keep	main:>0	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	secret	secret	obj:>5	@OBJ N
+	$?	
+	$<p>	
+

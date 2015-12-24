@@ -1,0 +1,402 @@
+0		
+	$<p>	
+
+0		
+1	France	France	subj:>2	@SUBJ N
+2	Celebrates	celebrate	main:>0	@+FMAINV V
+3	Freedom	freedom	obj:>2	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	PARIS	Paris	main:>1	@NH N
+	$,	
+4	FRANCE	France		@NH N
+	$,	
+6	July	July		@APP N	@A> N	@ADVL N
+7	14,1989	14,1989		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Two	two	qn:>2	@QN> NUM
+2	hundred	hundred	qn:>3	@QN> NUM
+3	years	year		@ADVL N
+4	ago	ago	ad:>3	@<AD-A ADV
+5	today	today	tmp:>10	@ADVL N
+	$,	
+7	a	a	det:>9	@DN> DET
+8	big	big	attr:>9	@A> A
+9	event	event	subj:>10	@SUBJ N
+10	took	take	main:>0	@+FMAINV V
+11	place	place	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	people	people	subj:>5	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	France	France	pcomp:>3	@<P N
+5	removed	remove	main:>0	@+FMAINV V
+6	the	the	det:>7	@DN> DET
+7	king	king	obj:>5	@OBJ N
+8	and	and	cc:>7	@CC CC
+9	queen	queen	cc:>7	@OBJ N
+10	from	from	phr:>5	@ADVL PREP
+11	power	power	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	citizens	citizen	subj:>3	@SUBJ N
+3	chose	choose	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	be	be	obj:>3	@-FMAINV V
+6	free	free	comp:>5	@PCOMPL-S A
+7	and	and	cc:>5	@CC CC
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	vote	vote	cc:>5	@-FMAINV V
+10	for	for	ha:>9	@ADVL PREP
+11	their	they	attr:>12	@A> PRON
+12	leaders	leader	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	To	to	cla:>7	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	French	french	pcomp:>1	@<P N
+	$,	
+5	July	July	subj:>7	@SUBJ N
+6	14	14	mod:>5	@<NOM NUM
+7	has	have	main:>0	@+FMAINV V
+8	the	the	det:>10	@DN> DET
+9	same	same	attr:>10	@A> A
+10	meaning	mean	obj:>7	@OBJ N
+11	as	as	tmp:>7	@ADVL PREP
+12	July	July	pcomp:>11	@<P N
+13	4th	4th	mod:>12	@<NOM NUM
+14	does	do		@+FMAINV V
+15	to	to	ha:>14	@ADVL PREP
+16	the	the	det:>18	@DN> DET
+17	United	unite	attr:>18	@A> A
+18	States	state	pcomp:>15	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	did	do	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	French	french	attr:>5	@A> A
+5	people	people	subj:>2	@SUBJ N
+6	turn	turn	main:>0	@-FMAINV V
+7	against	against	ha:>6	@ADVL PREP
+8	their	they	attr:>9	@A> PRON
+9	rulers	ruler	pcomp:>7	@<P N
+	$?	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	unhappy	unhappy	comp:>2	@PCOMPL-S A
+4	with	with	mod:>3	@ADVL PREP
+5	their	they	attr:>6	@A> PRON
+6	lives	life	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	winter	winter	attr:>3	@A> N
+3	months	month	subj:>4	@SUBJ N
+4	had	have	v-ch:>5	@+FAUXV V
+5	been	be	main:>0	@-FMAINV EN
+6	very	very	ad:>7	@AD-A> ADV
+7	cold	cold	comp:>5	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>3	@DN> DET
+2	poor	poor	attr:>3	@A> A
+3	people	people	subj:>4	@SUBJ N
+4	did_	do	v-ch:>6	@+FAUXV V
+5	n't	not	neg:>4	@ADVL NEG-PART
+6	have	have	main:>0	@-FMAINV V
+7	homes	home		@SUBJ N	@OBJ N	@ADVL N
+	$,	
+9	so	so	pm:>11	@CS CS
+10	they	they	subj:>11	@SUBJ PRON
+11	lived	live	cnt:>6	@+FMAINV V
+12	on	on	ha:>11	@ADVL PREP
+13	the	the	det:>14	@DN> DET
+14	streets	street	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	built	build	main:>0	@+FMAINV V
+3	fires	fire	obj:>2	@OBJ N
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	keep	keep	cnt:>2	@-FMAINV V
+6	warm	warm	comp:>5	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Food	food	subj:>2	@SUBJ N
+2	was	be	main:>0	@+FMAINV V
+3	hard	hard	comp:>2	@PCOMPL-S A
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	find	find	mod:>3	@-FMAINV V
+	$,	
+7	and	and	cc:>2	@CC CC
+8	taxes	tax	subj:>9	@SUBJ N
+9	were	be	cc:>2	@+FMAINV V
+10	high	high	comp:>9	@PCOMPL-S A
+	$.	
+	$<p>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	in	in		@ADVL PREP
+3	the	the	det:>4	@DN> DET
+4	palace	palace	pcomp:>2	@<P N
+	$,	
+6	the	the	det:>7	@DN> DET
+7	king	king	cc:>4	@<P N
+8	and	and	cc:>7	@CC CC
+9	queen	queen	cc:>7	@<P N
+10	were	be	main:>0	@+FMAINV V
+11	warm	warm	comp:>10	@PCOMPL-S A
+12	and	and	cc:>11	@CC CC
+13	well-fed	well-fed	cc:>11	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	queen	queen	subj:>4	@SUBJ N
+4	was	be	v-ch:>5	@+FAUXV V
+5	told	tell	tmp:>13	@-FMAINV EN
+6	about	about	ha:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	poor	poor	pcomp:>6	@<P A
+	$,	
+10	she	she	subj:>11	@SUBJ PRON
+11	did	do	v-ch:>13	@+FAUXV V
+12	not	not	neg:>11	@ADVL NEG-PART
+13	feel	feel	main:>0	@-FMAINV V
+14	sorry	sorry	comp:>13	@PCOMPL-S A
+15	for	for	dat:>13	@ADVL PREP
+16	them	they	pcomp:>15	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	Instead	instead	meta:>4	@ADVL ADV
+	$,	
+3	she	she	subj:>4	@SUBJ PRON
+4	laughed	laugh	main:>0	@+FMAINV V
+5	and	and	cc:>4	@CC CC
+6	said	say	cc:>4	@+FMAINV V
+7	they	they	subj:>8	@SUBJ PRON
+8	should	should	v-ch:>9	@+FAUXV V
+9	eat	eat	obj:>6	@-FMAINV V
+10	cake	cake	obj:>9	@OBJ N
+11	for	for	mod:>10	@<NOM PREP
+12	food	food	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	upset	upset	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	citizens	citizen	obj:>2	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	So	so		@ADVL ADV
+	$,	
+3	one	one	qn:>4	@QN> NUM
+4	night	night	tmp:>8	@ADVL N
+	$,	
+6	the	the	det:>7	@DN> DET
+7	people	people	subj:>8	@SUBJ N
+8	stormed	storm	main:>0	@+FMAINV V
+9	the	the	det:>10	@DN> DET
+10	palace	palace	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	took	take	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	king	king	obj:>2	@OBJ N
+5	and	and	cc:>4	@CC CC
+6	queen	queen	cc:>4	@OBJ N
+7	to	to		@<NOM PREP	@ADVL PREP
+8	prison	prison	pcomp:>7	@<P N
+9	where	where	loc:>11	@ADVL ADV
+10	they	they	subj:>11	@SUBJ PRON
+11	died	die	mod:>8	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>7	@ADVL PREP
+2	their	they	attr:>3	@A> PRON
+3	place	place	pcomp:>1	@<P N
+	$,	
+5	the	the	det:>6	@DN> DET
+6	people	people	subj:>7	@SUBJ N
+7	chose	choose	main:>0	@+FMAINV V
+8	new	new	attr:>9	@A> A
+9	leaders	leader	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Since	since	tmp:>8	@ADVL PREP
+2	that	that	det:>3	@DN> DET
+3	time	time	pcomp:>1	@<P N
+	$,	
+5	the	the	det:>6	@DN> DET
+6	citizens	citizen	subj:>7	@SUBJ N
+7	have	have	v-ch:>8	@+FAUXV V
+8	voted	vote	main:>0	@-FMAINV EN
+9	for	for	ha:>8	@ADVL PREP
+10	their	they	attr:>11	@A> PRON
+11	leaders	leader	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	day	day	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	marked	mark	main:>0	@-FMAINV EN
+6	by	by	agt:>5	@ADVL PREP
+7	parades	parade	pcomp:>6	@<P N
+8	and	and	cc:>7	@CC CC
+9	singing	sing	cc:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Fireworks	firework	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	light	light	main:>0	@-FMAINV V
+4	the	the	det:>5	@DN> DET
+5	sky	sky	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	French	french	subj:>3	@SUBJ N
+3	enjoy	enjoy	main:>0	@+FMAINV V
+4	their	they	attr:>5	@A> PRON
+5	freedom	freedom	obj:>3	@OBJ N
+6	just	just	ad:>7	@AD-A> ADV
+7	as	as	pm:>13	@CS CS
+8	we	we	subj:>13	@SUBJ PRON
+9	in	in		@ADVL PREP
+10	the	the	det:>12	@DN> DET
+11	United	unite	attr:>12	@A> A
+12	States	state	pcomp:>9	@<P N
+13	do	do	man:>3	@+FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	upset	upset	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	French	french	attr:>5	@A> A
+5	citizens	citizen	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>6	@OBJ PRON
+2	did	do	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	French	french	attr:>5	@A> A
+5	people	people	subj:>2	@SUBJ N
+6	do	do	main:>0	@-FMAINV V
+7	in	in	tmp:>6	@ADVL PREP
+8	1789	1789	pcomp:>7	@<P NUM
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	do	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	French	french	subj:>2	@SUBJ N
+5	celebrate	celebrate	main:>0	@-FMAINV V
+6	their	they	attr:>7	@A> PRON
+7	freedom	freedom	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	people	people	subj:>2	@SUBJ N
+5	take	take	main:>0	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	king	king	obj:>5	@OBJ N
+8	and	and	cc:>7	@CC CC
+9	queen	queen	cc:>7	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	were	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	French	french	attr:>5	@A> A
+5	people	people	subj:>2	@SUBJ N
+6	unhappy	unhappy	comp:>2	@PCOMPL-S A
+	$?	
+	$<p>	
+

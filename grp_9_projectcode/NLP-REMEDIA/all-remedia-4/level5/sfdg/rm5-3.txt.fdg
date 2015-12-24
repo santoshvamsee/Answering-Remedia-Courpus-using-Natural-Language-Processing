@@ -1,0 +1,358 @@
+0		
+	$<p>	
+
+0		
+1	World	world	subj:>2	@SUBJ N
+2	Remembers	remember	main:>0	@+FMAINV V
+3	Famous	fam	attr:>4	@A> A
+4	Doctor	doctor	obj:>2	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	NEW	new	attr:>3	@A> A
+3	YORK	York	attr:>4	@A> N
+4	CITY	city		@APP N
+	$,	
+6	January	January	main:>1	@NH N	@APP N
+7	13,1977	13,1977	mod:>6	@<NOM NUM
+	$)	
+9	One	one	subj:>15	@SUBJ NUM
+10	of	of	mod:>9	@<NOM-OF PREP
+11	the	the	det:>12	@DN> DET
+12	world's	world	pcomp:>10	@<P N
+13	great	great	attr:>14	@A> A
+14	doctors	doctor		@SUBJ N	@APP N
+15	died	die	main:>0	@+FMAINV V
+16	today	today	tmp:>15	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Dr.	Dr.	attr:>2	@A> ABBR
+2	Myra	Myra	attr:>3	@A> N
+3	Logan	Logan	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	the	the	det:>7	@DN> DET
+6	first	first	attr:>7	@A> NUM
+7	woman	woman	comp:>4	@PCOMPL-S N
+8	to	to	pm:>10	@INFMARK> INFMARK>
+9	ever	ever	>10	@ADVL ADV
+10	operate	operate	mod:>7	@-FMAINV V
+11	on	on	ha:>10	@ADVL PREP
+12	human	human	attr:>13	@A> A
+13	hearts	heart	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	pioneer	pioneer	comp:>2	@PCOMPL-S N
+5	in	in	ha:>2	@ADVL PREP
+6	medicine	medicine	pcomp:>5	@<P N
+7	for	for	dur:>2	@ADVL PREP
+8	35	35	qn:>9	@QN> NUM
+9	years	year	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>3	@SUBJ PRON
+2	also	also	>3	@ADVL ADV
+3	treated	treat	main:>0	@+FMAINV V
+4	people	people	obj:>3	@OBJ N
+5	with	with	ins:>3	@ADVL PREP
+6	cancer	cancer	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	studied	study	main:>0	@+FMAINV V
+3	new	new	attr:>4	@A> A
+4	ways	way	obj:>2	@OBJ N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	treat	treat	mod:>4	@-FMAINV V
+7	their	they	attr:>8	@A> PRON
+8	sickness	sickness	obj:>6	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	As	as	cla:>8	@ADVL PREP
+2	a	a	det:>4	@DN> DET
+3	young	young	attr:>4	@A> A
+4	woman	woman	pcomp:>1	@<P N
+	$,	
+6	Dr.	Dr.	attr:>7	@A> ABBR
+7	Logan	Logan	subj:>8	@SUBJ N
+8	won	win	main:>0	@+FMAINV V
+9	a	a	det:>10	@DN> DET
+10	scholarship	scholarship	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	scholarship	scholarship	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	special	special	attr:>5	@A> A
+5	money	money	comp:>3	@PCOMPL-S N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	pay	pay	mod:>5	@-FMAINV V
+8	for	for	ha:>7	@ADVL PREP
+9	school	school	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	used	use	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	money	money	obj:>2	@OBJ N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	go	go	cnt:>2	@-FMAINV V
+7	to	to	goa:>6	@ADVL PREP
+8	medical	medical	attr:>9	@A> A
+9	school	school	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Her	she	attr:>2	@A> PRON
+2	first	first	attr:>3	@A> NUM
+3	job	job	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	in	in	loc:>4	@ADVL PREP
+6	a	a	det:>7	@DN> DET
+7	hospital	hospital	pcomp:>5	@<P N
+8	in	in	mod:>7	@<NOM PREP
+9	Harlem	Harlem	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	had	have	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	operate	operate	obj:>2	@-FMAINV V
+5	on	on	ha:>4	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	worst	bad	attr:>8	@A> A
+8	kinds	kind	pcomp:>5	@<P N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	wounds	wound	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Often	often	frq:>4	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	would	would	v-ch:>4	@+FAUXV V
+4	work	work	main:>0	@-FMAINV V
+5	all	all	det:>6	@DN> DET
+6	night	night	tmp:>4	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	did	do	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	earn	earn	main:>0	@-FMAINV V
+5	money	money	obj:>4	@OBJ N
+6	from	from	sou:>4	@ADVL PREP
+7	this	this	det:>8	@DN> DET
+8	job	job	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	supposed	suppose	main:>0	@-FMAINV EN
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	be	be	mod:>1	@-FMAINV V
+6	an	an	det:>7	@DN> DET
+7	honor	honor	comp:>5	@PCOMPL-S N
+8	to	to		@<NOM PREP	@ADVL PREP	@INFMARK> INFMARK>
+9	work	work		@SUBJ N	@PCOMPL-S N	@<P N
+10	there	there	mod:>9	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	got	get	tmp:>11	@+FMAINV V
+4	her	she		@PCOMPL-S PRON
+5	first	first	attr:>6	@A> NUM
+6	job	job		@SUBJ N	@OBJ N	@I-OBJ N
+	$,	
+8	not	not	neg:>10	@ADVL NEG-PART
+9	many	many	det:>10	@DN> DET
+10	women	woman	subj:>11	@SUBJ N
+11	were	be	main:>0	@+FMAINV V
+12	doctors	doctor	comp:>11	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Myra	Myra	subj:>2	@SUBJ N
+2	was	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	black	black	attr:>5	@A> A
+5	doctor	doctor	comp:>2	@PCOMPL-S N
+	$,	
+7	which	which	subj:>8	@SUBJ PRON
+8	was	be	meta:>2	@+FMAINV V
+9	also	also	man:>8	@ADVL ADV
+10	rare	rare	comp:>8	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Later	late	tmp:>7	@ADVL ADV
+2	in	in		@ADVL PREP
+3	life	life	pcomp:>2	@<P N
+	$,	
+5	she	she	subj:>6	@SUBJ PRON
+6	was	be	v-ch:>7	@+FAUXV V
+7	asked	ask	main:>0	@-FMAINV EN
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	work	work	cnt:>7	@-FMAINV V
+10	with	with	ha:>9	@ADVL PREP
+11	some	some	pcomp:>10	@<P PRON
+12	of	of	mod:>11	@<NOM-OF PREP
+13	the	the	det:>16	@DN> DET
+14	world's	world	attr:>15	@A> N
+15	best	good	attr:>16	@A> A
+16	doctors	doctor	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	black	black	attr:>6	@A> A
+6	woman	woman	comp:>2	@PCOMPL-S N
+7	chosen	choose	mod:>6	@-FMAINV EN
+8	as	as	ha:>7	@ADVL PREP
+9	a	a	det:>10	@DN> DET
+10	member	member	pcomp:>8	@<P N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	this	this	det:>14	@DN> DET
+13	special	special	attr:>14	@A> A
+14	group	group	pcomp:>11	@<P N
+	$.	
+	$<p>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	she	she	subj:>3	@SUBJ PRON
+3	was	be	tmp:>10	@+FMAINV V
+4	not	not	neg:>5	@ADVL NEG-PART
+5	at	at	loc:>3	@ADVL PREP
+6	work	work	pcomp:>5	@<P N
+	$,	
+8	Dr.	Dr.	attr:>9	@A> ABBR
+9	Logan	Logan	subj:>10	@SUBJ N
+10	liked	like	main:>0	@+FMAINV V
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	read	read	obj:>10	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>3	@SUBJ PRON
+2	also	also	>3	@ADVL ADV
+3	played	play	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	piano	piano	obj:>3	@OBJ N
+6	and	and	cc:>3	@CC CC
+7	enjoyed	enjoy	cc:>3	@+FMAINV V
+8	plays	play	obj:>7	@OBJ N
+9	at	at	ha:>7	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	theater	theater	pcomp:>9	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	a	a	det:>6	@DN> DET
+4	famous	fam	attr:>5	@A> A
+5	woman	woman	attr:>6	@A> N
+6	doctor	doctor	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	comp:>2	@PCOMPL-S PRON
+2	was	be	main:>0	@+FMAINV V
+3	she	she	subj:>2	@SUBJ PRON
+4	the	the	det:>6	@DN> DET
+5	first	first	attr:>6	@A> NUM
+6	woman	woman		@SUBJ N	@PCOMPL-S N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	do	do	cnt:>2	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	she	she	subj:>2	@SUBJ PRON
+4	die	die	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	was	be	main:>0	@+FMAINV V
+3	her	she		@PCOMPL-S PRON
+4	first	first	attr:>5	@A> NUM
+5	job	job	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	she	she	subj:>2	@SUBJ PRON
+4	work	work	main:>0	@-FMAINV V
+5	without	without	ha:>4	@ADVL PREP
+6	pay	pay	pcomp:>5	@<P N
+	$?	
+	$<p>	
+

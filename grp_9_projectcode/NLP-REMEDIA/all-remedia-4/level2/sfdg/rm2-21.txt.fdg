@@ -1,0 +1,383 @@
+0		
+1	Big	big	attr:>2	@A> A
+2	Spill	spill	attr:>3	@A> N
+3	Means	means	attr:>4	@A> N
+4	Big	big	attr:>5	@A> A
+5	Trouble	trouble	main:>0	@NH N
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	PRINCE	prince	attr:>3	@A> N
+3	WILLIAM	William	attr:>4	@A> N
+4	SOUND	sound		@APP N
+	$,	
+6	ALASKA	Alaska	mod:>4	@APP N	@NH N
+	$,	
+8	March	march	main:>1	@NH N
+9	24	24	mod:>8	@<NOM NUM
+	$,	
+11	1989	1989		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	huge	huge	attr:>3	@A> A
+3	ship	ship	subj:>4	@SUBJ N
+4	hit	hit	main:>0	@+FMAINV V
+5	some	some	det:>6	@DN> DET
+6	rocks	rock	obj:>4	@OBJ N
+7	today	today	tmp:>4	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	broke	break	main:>0	@+FMAINV V
+3	apart	apart	comp:>2	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ship	ship	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	carrying	carry	main:>0	@-FMAINV ING
+5	oil	oil	obj:>4	@OBJ N
+6	for	for	mod:>5	@<NOM PREP
+7	cars	car	pcomp:>6	@<P N
+8	and	and	cc:>7	@CC CC
+9	trucks	truck	cc:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>9	@ADVL ADV
+	$,	
+3	11	11	qn:>4	@QN> NUM
+4	million	million	qn:>5	@QN> NUM
+5	gallons	gallon	subj:>8	@SUBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	oil	oil	pcomp:>6	@<P N
+8	are	be	v-ch:>9	@+FAUXV V
+9	pouring	pour	main:>0	@-FMAINV ING
+10	into	into	goa:>9	@ADVL PREP
+11	the	the	det:>12	@DN> DET
+12	sea	sea	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ship	ship	subj:>3	@SUBJ N
+3	is	be	v-ch:>7	@+FAUXV V
+4	in	in		@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	place	place	pcomp:>4	@<P N
+7	called	call	mod:>6	@-FMAINV EN
+8	Prince	prince	attr:>9	@A> N
+9	William	William	attr:>10	@A> N
+10	Sound	sound	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	water	water	subj:>6	@SUBJ N
+3	in	in	mod:>2	@<NOM PREP
+4	the	the	det:>5	@DN> DET
+5	Sound	sound	pcomp:>3	@<P N
+6	is	be	v-ch:>7	@+FAUXV V
+7	turning	turn	main:>0	@-FMAINV ING
+8	black	black	comp:>7	@PCOMPL-S A
+9	from	from	sou:>7	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	oil	oil	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	animals	animal	subj:>3	@SUBJ N
+3	live	live	main:>0	@+FMAINV V
+4	nearby	nearby	loc:>3	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>3	@CS CS
+2	they	they	subj:>3	@SUBJ PRON
+3	enter	enter	cnd:>10	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	water	water	obj:>3	@OBJ N
+	$,	
+7	the	the	det:>8	@DN> DET
+8	oil	oil	subj:>9	@SUBJ N
+9	will	will	v-ch:>10	@+FAUXV V
+10	stick	stick	main:>0	@-FMAINV V
+11	to	to	ha:>10	@ADVL PREP
+12	their	they	attr:>13	@A> PRON
+13	fur	fur	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	fishermen	fisherman	subj:>3	@SUBJ N
+3	have	have	v-ch:>5	@+FAUXV V
+4	already	already	meta:>5	@ADVL ADV
+5	seen	see	main:>0	@-FMAINV EN
+6	sea	sea	attr:>7	@A> N
+7	otters	otter	obj:>5	@OBJ N
+8	in	in	ha:>5	@ADVL PREP
+9	trouble	trouble	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	sink	sink	main:>0	@-FMAINV V
+4	and	and	cc:>3	@CC CC
+5	drown	drown	cc:>3	@-FMAINV V
+6	from	from	sou:>5	@ADVL PREP
+7	too	too	ad:>8	@AD-A> ADV
+8	much	much	det:>9	@DN> DET
+9	oil	oil	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	makes	make	main:>0	@+FMAINV V
+3	it	it	obj:>2	@OBJ PRON
+4	hard	hard	oc:>2	@PCOMPL-O A
+5	for	for	phr:>2	@ADVL PREP
+6	them	they	pcomp:>5	@<P PRON
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	breathe	breathe	mod:>1	@-FMAINV V
+	$,	
+10	too	too	meta:>8	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	fish	fish	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	in	in	man:>3	@ADVL PREP
+5	danger	danger	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	can_	can	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	live	live	main:>0	@-FMAINV V
+5	because	because	pm:>8	@CS CS
+6	the	the	det:>7	@DN> DET
+7	oil	oil	subj:>8	@SUBJ N
+8	cuts	cut	cnt:>4	@+FMAINV V
+9	off	off	phr:>8	@ADVL ADV
+10	their	they	attr:>11	@A> PRON
+11	air	air	attr:>12	@A> N
+12	supply	supply	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Sea	sea	attr:>2	@A> N
+2	gulls	gull	cc:>5	@SUBJ N
+3	and	and	cc:>5	@CC CC
+4	other	other	det:>5	@DN> DET
+5	birds	bird	subj:>7	@SUBJ N
+6	often	often	frq:>7	@ADVL ADV
+7	grab	grab	main:>0	@+FMAINV V
+8	fish	fish	obj:>7	@OBJ N
+9	from	from	sou:>7	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	sea	sea	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Now	now	meta:>5	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	ca_	can	v-ch:>5	@+FAUXV V
+4	n't	not	neg:>3	@ADVL NEG-PART
+5	reach	reach	main:>0	@-FMAINV V
+6	through	through	ha:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	oil	oil	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	try	try	tmp:>6	@+FMAINV V
+	$,	
+5	it	it	subj:>6	@SUBJ PRON
+6	gets	get	main:>0	@+FMAINV V
+7	on	on	ha:>6	@ADVL PREP
+8	their	they	attr:>9	@A> PRON
+9	feathers	feather	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	big	big	attr:>3	@A> A
+3	clean-up	clean-up	subj:>4	@SUBJ N
+4	must	must	v-ch:>5	@+FAUXV V
+5	take	take	main:>0	@-FMAINV V
+6	place	place	obj:>5	@OBJ N
+7	right_away	right_away	ha:>5	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	oil	oil	attr:>3	@A> N
+3	spill	spill	subj:>4	@SUBJ N
+4	must	must	v-ch:>5	@+FAUXV V
+5	be	be	v-ch:>6	@-FAUXV V
+6	stopped	stop	main:>0	@-FMAINV EN
+7	or	or	cc:>6	@CC CC
+8	it	it	subj:>9	@SUBJ PRON
+9	will	will	v-ch:>10	@+FAUXV V
+10	spread	spread	cc:>6	@-FMAINV V
+11	for	for	ha:>10	@ADVL PREP
+12	miles	mile	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	oil	oil	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	sticky	sticky	comp:>3	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	has	have	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	be	be	v-ch:>5	@-FAUXV V
+5	scooped	scoop	obj:>2	@-FMAINV EN
+6	up	up	ha:>5	@ADVL ADV
+7	with	with		@ADVL PREP
+8	pails	pail	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	be	be	main:>0	@-FMAINV V
+4	quite	quite	ad:>5	@AD-A> ADV
+5	hard	hard	comp:>3	@PCOMPL-S A
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	clean	clean	mod:>1	@-FMAINV V
+8	up	up	man:>7	@ADVL ADV
+9	the	the	det:>10	@DN> DET
+10	mess	mess	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Other	other	det:>2	@DN> DET
+2	countries	country	subj:>3	@SUBJ N
+3	have	have	v-ch:>4	@+FAUXV V
+4	said	say	main:>0	@-FMAINV EN
+5	they	they	subj:>6	@SUBJ PRON
+6	will	will	v-ch:>7	@+FAUXV V
+7	come	come	obj:>4	@-FMAINV V
+8	to	to	goa:>7	@ADVL PREP
+9	Alaska	Alaska	pcomp:>8	@<P N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	help	help	cnt:>7	@-FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	offered	offer	main:>0	@-FMAINV EN
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	help	help	obj:>3	@-FMAINV V
+6	with	with	phr:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	clean-up	clean-up	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	animals	animal	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	in	in	man:>3	@ADVL PREP
+5	trouble	trouble	pcomp:>4	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	should	should	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	clean-up	clean-up	subj:>2	@SUBJ N
+5	take	take	main:>0	@-FMAINV V
+6	place	place	obj:>5	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	oil	oil	attr:>5	@A> N
+5	spill	spill	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>7	@ADVL ADV
+2	must	must	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	oil	oil	attr:>5	@A> N
+5	spill	spill	subj:>2	@SUBJ N
+6	be	be	v-ch:>7	@-FAUXV V
+7	stopped	stop	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+

@@ -1,0 +1,382 @@
+0		
+	$<p>	
+
+0		
+1	Special	special		@A> A
+2	Day	day		@NH N	@ADVL N
+3	for	for		@<NOM PREP
+4	Kids	kid	pcomp:>3	@<P N
+5	Set	set	mod:>4	@-FMAINV EN
+6	Aside	aside	ha:>5	@ADVL ADV
+	$<p>	
+
+0		
+	$(	
+2	Anytown	anytown	attr:>6	@A> N
+	$,	
+4	USA	USA	mod:>2	@<NOM ABBR
+	$,	
+6	September	September		@APP N	@NH N
+	$,	
+8	1989	1989	mod:>6	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Good	good	attr:>2	@A> A
+2	news	news	main:>0	@NH N
+3	for	for	mod:>2	@<NOM PREP
+4	all	all	det:>5	@DN> DET
+5	kids	kid	pcomp:>3	@<P N
+	$!	
+	$<s>	
+
+0		
+1	Did	do	v-ch:>3	@+FAUXV V
+2	you	you	subj:>1	@SUBJ PRON
+3	know	know	main:>0	@-FMAINV V
+4	that	that	pm:>8	@CS CS
+5	each	each	det:>6	@DN> DET
+6	year	year	tmp:>8	@ADVL N
+7	you	you	subj:>8	@SUBJ PRON
+8	have	have	obj:>3	@+FMAINV V
+9	your	you	attr:>10	@A> PRON
+10	own	own	attr:>11	@A> A
+11	special	special	attr:>12	@A> A
+12	day	day	obj:>8	@OBJ N
+	$?	
+	$<s>	
+
+0		
+1	It_	it	subj:>2	@SUBJ PRON
+2	's	be	v-ch:>3	@+FAUXV V
+3	held	hold	main:>0	@-FMAINV EN
+4	on	on	tmp:>3	@ADVL PREP
+5	the	the	det:>7	@DN> DET
+6	fourth	fourth	attr:>7	@A> NUM
+7	Saturday	Saturday	pcomp:>4	@<P N
+8	in	in	mod:>7	@ADVL PREP
+9	September	September	pcomp:>8	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Most	much		@SUBJ PRON	@PCOMPL-S PRON	@ADVL PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>4	@DN> DET
+4	time	time	pcomp:>2	@<P N
+	$,	
+6	kids	kid	subj:>7	@SUBJ N
+7	look	look	main:>0	@+FMAINV V
+8	up_to	up_to	goa:>7	@ADVL PREP
+9	adults	adult	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	On	on	tmp:>8	@ADVL PREP
+2	National	national	attr:>3	@A> A
+3	Kids	kid	attr:>4	@A> N
+4	Day	day	pcomp:>1	@<P N
+	$,	
+6	the	the	det:>7	@DN> DET
+7	grown-ups	grown-up	subj:>8	@SUBJ N
+8	show	show	main:>0	@+FMAINV V
+9	young	young	attr:>10	@A> A
+10	people	people	dat:>8	@I-OBJ N
+11	that	that	pm:>13	@CS CS
+12	they	they	subj:>13	@SUBJ PRON
+13	are	be	obj:>8	@+FMAINV V
+14	important	important	comp:>13	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	In	in	cla:>7	@ADVL PREP
+2	towns	town	pcomp:>1	@<P N
+3	everywhere	everywhere		@ADVL ADV
+	$,	
+5	fun	fun	attr:>6	@A> N
+6	events	event	subj:>7	@SUBJ N
+7	take	take	main:>0	@+FMAINV V
+8	place	place	obj:>7	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	towns	town	subj:>3	@SUBJ N
+3	may	may	v-ch:>4	@+FAUXV V
+4	hold	hold	main:>0	@-FMAINV V
+5	talent	talent	attr:>6	@A> N
+6	shows	show		@SUBJ N
+	$,	
+8	games	game	mod:>6	@APP N
+	$,	
+10	and	and		@CC CC
+11	contests	contest		@OBJ N	@PCOMPL-S N	@PCOMPL-O N	@APP N
+12	where	where	loc:>15	@ADVL ADV
+13	prizes	prize	subj:>14	@SUBJ N
+14	are	be	v-ch:>15	@+FAUXV V
+15	awarded	award	mod:>11	@-FMAINV EN
+16	and	and	cc:>15	@CC CC
+17	food	food	subj:>18	@SUBJ N
+18	is	be	cc:>15	@+FMAINV V
+19	free	free	comp:>18	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	All	all	det:>2	@DN> DET
+2	kinds	kind	subj:>5	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	sports	sports	pcomp:>3	@<P N
+5	are	be	v-ch:>6	@+FAUXV V
+6	played	play	main:>0	@-FMAINV EN
+7	at	at	loc:>6	@ADVL PREP
+8	playgrounds	playground	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Boys'	boy	cc:>4	@SUBJ N
+2	and	and	cc:>4	@CC CC
+3	girls'	girl	attr:>4	@A> N
+4	camps	camp	subj:>5	@SUBJ N
+5	take	take	main:>0	@+FMAINV V
+6	time	time	obj:>5	@OBJ N
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	show	show	mod:>6	@-FMAINV V
+9	kids	kid	dat:>8	@I-OBJ N
+10	that	that	pm:>12	@CS CS
+11	they	they	subj:>12	@SUBJ PRON
+12	are	be	obj:>8	@+FMAINV V
+13	the	the	det:>15	@DN> DET
+14	future	future	attr:>15	@A> N
+15	hope	hope	comp:>12	@PCOMPL-S N
+16	of	of	mod:>15	@<NOM-OF PREP
+17	the	the	det:>18	@DN> DET
+18	world	world	pcomp:>16	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Many	many	det:>2	@DN> DET
+2	adults	adult	subj:>3	@SUBJ N
+3	get	get	main:>0	@+FMAINV V
+4	together	together	meta:>3	@ADVL ADV
+5	and	and	cc:>3	@CC CC
+6	raise	raise	cc:>3	@+FMAINV V
+7	money	money	obj:>6	@OBJ N
+8	for	for	dur:>6	@ADVL PREP
+9	Kids	kid	attr:>10	@A> N
+10	Day	day	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	money	money	subj:>3	@SUBJ N
+3	helps	help	main:>0	@+FMAINV V
+4	orphans	orphan	obj:>3	@OBJ N
+5	and	and	cc:>4	@CC CC
+6	needy	needy	attr:>7	@A> A
+7	youngsters	youngster	cc:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	might	might	v-ch:>3	@+FAUXV V
+3	buy	buy	main:>0	@-FMAINV V
+4	wheelchairs	wheelchair	obj:>3	@OBJ N
+5	for	for	dat:>3	@ADVL PREP
+6	those	that	pcomp:>5	@<P PRON
+7	who	who	subj:>8	@SUBJ PRON
+8	ca_	can	v-ch:>10	@+FAUXV V
+9	n't	not	neg:>8	@ADVL NEG-PART
+10	walk	walk	mod:>6	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	may	may	v-ch:>4	@+FAUXV V
+3	also	also	>4	@ADVL ADV
+4	buy	buy	main:>0	@-FMAINV V
+5	baseballs	baseball		@SUBJ N	@OBJ N	@I-OBJ N
+6	and	and		@CC CC
+7	bats	bat		@SUBJ N	@OBJ N	@I-OBJ N
+8	for	for		@ADVL PREP
+9	a	a		@DN> DET
+10	neighborhood	neighborhood		@A> N	@<P N
+11	team	team		@SUBJ N	@OBJ N	@<P N
+	$.	
+	$<p>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	second	second	attr:>3	@A> NUM
+3	day	day	subj:>7	@SUBJ N
+4	for	for	mod:>3	@<NOM PREP
+5	young	young	attr:>6	@A> A
+6	people	people	pcomp:>4	@<P N
+7	is	be	v-ch:>8	@+FAUXV V
+8	held	hold	main:>0	@-FMAINV EN
+9	by	by	agt:>8	@ADVL PREP
+10	some	some	det:>11	@DN> DET
+11	churches	church	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Children's	child	attr:>2	@A> N
+2	Day	day	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	held	hold	main:>0	@-FMAINV EN
+5	on	on	tmp:>4	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	second	second	attr:>8	@A> NUM
+8	Sunday	Sunday	pcomp:>5	@<P N
+9	in	in	mod:>8	@ADVL PREP
+10	June	June	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Boys	boy	cc:>3	@SUBJ N
+2	and	and	cc:>3	@CC CC
+3	girls	girl	subj:>4	@SUBJ N
+4	bring	bring	main:>0	@+FMAINV V
+5	flowers	flower	obj:>4	@OBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	decorate	decorate	cnt:>4	@-FMAINV V
+8	the	the	det:>9	@DN> DET
+9	churches	church	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Kids'	kid	attr:>2	@A> N
+2	choirs	choir	subj:>3	@SUBJ N
+3	sing	sing	main:>0	@+FMAINV V
+4	for	for	ha:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	adults	adult	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	custom	custom	subj:>3	@SUBJ N
+3	can	can	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	traced	trace	main:>0	@-FMAINV EN
+6	back	back	>5	@ADVL ADV
+7	to	to	goa:>5	@ADVL PREP
+8	1856	1856	pcomp:>7	@<P NUM
+	$,	
+10	when	when	tmp:>13	@ADVL ADV
+11	it	it	subj:>12	@SUBJ PRON
+12	was	be	v-ch:>13	@+FAUXV V
+13	called	call	tmp:>5	@-FMAINV EN
+14	Rose	rose	attr:>15	@A> N
+15	Day	day	comp:>13	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>5	@+FAUXV V
+3	special	special	attr:>4	@A> A
+4	days	day		@SUBJ N	@OBJ N	@ADVL N
+5	set	set	main:>0	@-FMAINV EN
+6	aside	aside	man:>5	@ADVL ADV
+7	for	for	dat:>5	@ADVL PREP
+8	them	they	pcomp:>7	@<P PRON
+9	in	in	tmp:>5	@ADVL PREP
+10	September	September	pcomp:>9	@<P N
+11	and	and	cc:>10	@CC CC
+12	June	June	cc:>10	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	happens	happen	main:>0	@+FMAINV V
+3	in	in	tmp:>2	@ADVL PREP
+4	towns	town	pcomp:>3	@<P N
+5	everywhere	everywhere	loc:>2	@ADVL ADV
+6	on	on	mod:>5	@ADVL PREP
+7	National	national	attr:>8	@A> A
+8	Kids	kid	attr:>9	@A> N
+9	Day	day	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>2	@ADVL ADV
+2	are	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	two	two	qn:>5	@QN> NUM
+5	days	day	subj:>2	@SUBJ N
+6	for	for	mod:>5	@<NOM PREP
+7	kids	kid	pcomp:>6	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	will	will	v-ch:>4	@+FAUXV V
+3	you	you	subj:>2	@SUBJ PRON
+4	find	find	main:>0	@-FMAINV V
+5	many	many	det:>6	@DN> DET
+6	kids	kid	obj:>4	@OBJ N
+7	on	on	tmp:>4	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	second	second	attr:>10	@A> NUM
+10	Sunday	Sunday	pcomp:>7	@<P N
+11	in	in	mod:>10	@ADVL PREP
+12	June	June	pcomp:>11	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	do	do	v-ch:>4	@+FAUXV V
+3	adults	adult	subj:>2	@SUBJ N
+4	honor	honor	main:>0	@-FMAINV V
+5	kids	kid	obj:>4	@OBJ N
+6	with	with	ins:>4	@ADVL PREP
+7	their	they	attr:>8	@A> PRON
+8	own	own	attr:>9	@A> A
+9	day	day	pcomp:>6	@<P N
+	$?	
+	$<p>	
+

@@ -1,0 +1,342 @@
+0		
+	$<p>	
+
+0		
+1	Howe	Howe	main:>0	@NH N
+2	and	and	cc:>1	@CC CC
+3	Singer	singer	attr:>4	@A> N
+4	Become	become	attr:>5	@A> A
+5	Partners	partner	cc:>1	@NH N
+	$<p>	
+
+0		
+	$(	
+2	WESTERN	western	attr:>3	@A> A
+3	NEW	new	attr:>4	@A> A
+4	YORK	York	attr:>5	@A> N
+5	STATE	state		@APP N
+	$,	
+7	November	November	main:>1	@APP N
+	$,	
+9	1856	1856	mod:>7	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Two	two	qn:>3	@QN> NUM
+2	former	former	attr:>3	@A> A
+3	enemies	enemy	subj:>4	@SUBJ N
+4	have	have	v-ch:>5	@+FAUXV V
+5	joined	join	main:>0	@-FMAINV EN
+6	together	together	meta:>5	@ADVL ADV
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	make	make	obj:>5	@-FMAINV V
+9	sewing	sew	attr:>10	@A> N
+10	machines	machine	obj:>8	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Back	back		@ADVL ADV
+2	in	in	tmp:>7	@ADVL PREP
+3	1846	1846	pcomp:>2	@<P NUM
+	$,	
+5	Elias	Elias	attr:>6	@A> N
+6	Howe	Howe	subj:>7	@SUBJ N
+7	made	make	main:>0	@+FMAINV V
+8	the	the	det:>11	@DN> DET
+9	first	first	attr:>10	@A> NUM
+10	sewing	sew	attr:>11	@A> N
+11	machine	machine	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	His	he	attr:>2	@A> PRON
+2	idea	idea	subj:>3	@SUBJ N
+3	was	be	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	make	make	comp:>3	@-FMAINV V
+6	a	a	det:>7	@DN> DET
+7	machine	machine	obj:>5	@OBJ N
+8	that	that	subj:>9	@SUBJ PRON
+9	could	could	v-ch:>10	@+FAUXV V
+10	use	use	mod:>7	@-FMAINV V
+11	a	a	det:>12	@DN> DET
+12	needle	needle	obj:>10	@OBJ N
+13	and	and	cc:>12	@CC CC
+14	thread	thread	cc:>12	@OBJ N
+15	to	to	pm:>17	@INFMARK> INFMARK>
+16	quickly	quick	>17	@ADVL ADV
+17	sew	sew	cnt:>10	@-FMAINV V
+18	clothes	clothes	obj:>17	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	same	same	attr:>3	@A> A
+3	task	task	subj:>6	@SUBJ N
+4	by	by	mod:>3	@<NOM PREP
+5	hand	hand	pcomp:>4	@<P N
+6	would	would	v-ch:>7	@+FAUXV V
+7	take	take	main:>0	@-FMAINV V
+8	hours	hour	obj:>7	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	For	for	tmp:>8	@ADVL PREP
+2	a	a	det:>4	@DN> DET
+3	long	long	attr:>4	@A> A
+4	time	time	pcomp:>1	@<P N
+	$,	
+6	no	no	det:>7	@DN> DET
+7	one	one	subj:>8	@SUBJ PRON
+8	believed	believe	main:>0	@+FMAINV V
+9	the	the	det:>11	@DN> DET
+10	sewing	sew	attr:>11	@A> N
+11	machine	machine	subj:>13	@SUBJ N
+12	really	real	meta:>13	@ADVL ADV
+13	worked	work	obj:>8	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	In	in		@ADVL PREP
+2	fact	fact	pcomp:>1	@<P N
+	$,	
+4	a	a	det:>6	@DN> DET
+5	man	man	attr:>6	@A> N
+6	carried	carry	cc:>2	@<P A
+7	one	one	qn:>11	@QN> NUM
+8	around	around		@ADVL ADV	@AD-A> ADV
+9	in	in		@ADVL PREP
+10	a	a	det:>11	@DN> DET
+11	wagon	wagon	pcomp:>9	@<P N
+12	and	and		@CC CC
+13	charged	charge	attr:>14	@A> A
+14	people	people		@NH N	@A> N	@<P N
+15	12	12	qn:>16	@QN> NUM
+16	cents	cent		@NH N	@PCOMPL-S N	@A> N	@<P N
+17	just	just		@ADVL ADV	@AD-A> ADV
+18	to	to	pm:>19	@INFMARK> INFMARK>
+19	look	look		@-FMAINV V	@<P-FMAINV V
+20	at	at	ha:>19	@ADVL PREP
+21	it	it	pcomp:>20	@<P PRON
+	$.	
+	$<p>	
+
+0		
+1	In	in	tmp:>6	@ADVL PREP
+2	time	time	pcomp:>1	@<P N
+	$,	
+4	Isaac	Isaac	attr:>5	@A> N
+5	Singer	singer	subj:>6	@SUBJ N
+6	saw	see	main:>0	@+FMAINV V
+7	one	one	obj:>6	@OBJ NUM
+8	of	of	mod:>7	@<NOM-OF PREP
+9	these	this	det:>10	@DN> DET
+10	machines	machine	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	started	start	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	make	make	obj:>2	@-FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	own	own		@PCOMPL-O A	@OBJ A	@I-OBJ A
+7	and	and	cc:>4	@CC CC
+8	sell	sell	cc:>4	@-FMAINV V
+9	them	they	obj:>8	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	Howe	Howe	subj:>2	@SUBJ N
+2	got	get	main:>0	@+FMAINV V
+3	angry	angry	comp:>2	@PCOMPL-S A
+4	and	and	cc:>2	@CC CC
+5	took	take	cc:>2	@+FMAINV V
+6	Singer	singer	obj:>5	@OBJ N
+7	to	to	dat:>5	@ADVL PREP
+8	court	court	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	court	court	subj:>3	@SUBJ N
+3	said	say	main:>0	@+FMAINV V
+4	Singer	singer	subj:>5	@SUBJ N
+5	had	have	obj:>3	@+FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	pay	pay	obj:>5	@-FMAINV V
+8	Howe	Howe	attr:>9	@A> N
+9	money	money	obj:>7	@OBJ N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	use	use	cnt:>7	@-FMAINV V
+12	his	he	attr:>13	@A> PRON
+13	designs	design	obj:>11	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Now	now	tmp:>7	@ADVL ADV
+	$,	
+3	Singer	singer	cc:>5	@SUBJ N
+4	and	and	cc:>5	@CC CC
+5	Howe	Howe	subj:>6	@SUBJ N
+6	have	have	v-ch:>7	@+FAUXV V
+7	become	become	main:>0	@-FMAINV EN
+8	partners	partner	comp:>7	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Their	they	attr:>2	@A> PRON
+2	dream	dream	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	make	make	comp:>3	@-FMAINV V
+6	so	so	ad:>7	@AD-A> ADV
+7	many	many	det:>9	@DN> DET
+8	sewing	sew	attr:>9	@A> N
+9	machines	machine	obj:>5	@OBJ N
+10	that	that	pm:>14	@CS CS
+11	each	each	det:>12	@DN> DET
+12	home	home	subj:>13	@SUBJ N
+13	will	will	v-ch:>14	@+FAUXV V
+14	have	have	mod:>6	@-FMAINV V
+15	one	one	obj:>14	@OBJ PRON
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	see	see	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	great	great	attr:>5	@A> A
+5	need	need	obj:>2	@OBJ N
+6	for	for	mod:>5	@<NOM PREP
+7	families	family	pcomp:>6	@<P N
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	be	be	cnt:>2	@-FMAINV V
+10	able	able	comp:>9	@PCOMPL-S A
+11	to	to	pm:>12	@INFMARK> INFMARK>
+12	make	make	mod:>10	@-FMAINV V
+13	and	and	cc:>12	@CC CC
+14	repair	repair	cc:>12	@-FMAINV V
+15	their	they	attr:>16	@A> PRON
+16	own	own	attr:>17	@A> A
+17	clothes	clothes	obj:>14	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	Singer	singer	cc:>3	@SUBJ N
+2	and	and	cc:>3	@CC CC
+3	Howe	Howe	subj:>4	@SUBJ N
+4	say	say	main:>0	@+FMAINV V
+5	that	that		@CS CS
+	$,	
+7	in	in	cla:>14	@ADVL PREP
+8	15	15	qn:>9	@QN> NUM
+9	years	year	pcomp:>7	@<P N
+	$,	
+11	they	they	subj:>12	@SUBJ PRON
+12	will	will	v-ch:>13	@+FAUXV V
+13	be	be	v-ch:>14	@-FAUXV V
+14	selling	sell		@-FMAINV ING
+15	1/2	1/2	qn:>16	@QN> NUM
+16	million	million	qn:>17	@QN> NUM
+17	machines	machine		@SUBJ N	@OBJ N	@I-OBJ N	@PCOMPL-S N
+18	a	a	det:>19	@DN> DET
+19	year	year	mod:>17	@ADVL N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	have	have	v-ch:>3	@+FAUXV V
+3	become	become	main:>0	@-FMAINV EN
+4	partners	partner	comp:>3	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	do	do	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	make	make	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	do	do	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	think	think	main:>0	@-FMAINV V
+5	they	they	subj:>6	@SUBJ PRON
+6	can	can	v-ch:>7	@+FAUXV V
+7	sell	sell	obj:>4	@-FMAINV V
+8	1/2	1/2	qn:>9	@QN> NUM
+9	million	million	qn:>11	@QN> NUM
+10	sewing	sew	attr:>11	@A> N
+11	machines	machine		@SUBJ N	@OBJ N	@I-OBJ N
+12	a	a	det:>13	@DN> DET
+13	year	year	mod:>11	@ADVL N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	Howe	Howe	subj:>2	@SUBJ N
+4	take	take	main:>0	@-FMAINV V
+5	Singer	singer		@SUBJ N	@OBJ N	@I-OBJ N
+6	when	when	tmp:>8	@ADVL ADV
+7	Howe	Howe	subj:>8	@SUBJ N
+8	got	get	tmp:>4	@+FMAINV V
+9	angry	angry	comp:>8	@PCOMPL-S A
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>5	@DN> DET
+4	sewing	sew	attr:>5	@A> N
+5	machine	machine	subj:>2	@SUBJ N
+6	useful	useful	comp:>2	@PCOMPL-S A
+	$?	
+	$<p>	
+

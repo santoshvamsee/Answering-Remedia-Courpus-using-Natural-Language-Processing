@@ -1,0 +1,302 @@
+
+ 9999 99       0       O      N              Sun           attr/A            -----      1
+ 9999 99       1       O      N           Storms           attr/A            -----      2
+ 9999 99       2       O      N            Cause           attr/A            -----      3
+ 9999 99       3       O      N          Trouble          main/NH            -----     -1
+
+ 9999 99       0       O    SEP                (          main/NH            ?????     -1
+ 9999 99       1       O    DET              The           det/DN            -----      2
+ 9999 99       2       O      N              Sun       NOFUNC/APP            -----     -1
+ 9999 99       3       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       4       O      N            March          main/NH            -----      0
+ 9999 99       5       O    NUM               10          mod/NOM            -----      4
+ 9999 99       6       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       7       O    NUM             1989        NOFUNC/NH            -----     -1
+ 9999 99       8       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       9       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O    ADV             Some             ad/A            -----      1
+ 9999 99       1       O    NUM               93            qn/QN            -----      2
+ 9999 99       2       O    NUM          million            qn/QN            -----      3
+ 9999 99       3       O      N            miles        NOFUNC/NH            -----     -1
+ 9999 99       4       O   PREP             from       NOFUNC/NOM            -----     -1
+ 9999 99       5       O      N            Earth          pcomp/P            -----      4
+ 9999 99       6       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N              sun        subj/SUBJ            -----      9
+ 9999 99       9       O      V             T_be       v-ch/FAUXV            -----     10
+ 9999 99      10       O    ING          T_cause      main/FMAINV            -----     -1
+ 9999 99      11       O      N         problems          obj/OBJ            -----     10
+ 9999 99      12       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      1
+ 9999 99       1       O      N             week         tmp/ADVL            -----      5
+ 9999 99       2       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       3       O      A           fierce           attr/A            -----      4
+ 9999 99       4       O      N           storms        subj/SUBJ            -----      5
+ 9999 99       5       O      V          T_break      main/FMAINV            -----     -1
+ 9999 99       6       O    ADV              out         phr/ADVL            -----      5
+ 9999 99       7       O   PREP               on         loc/ADVL            -----      5
+ 9999 99       8       O    DET              the           det/DN            -----     10
+ 9999 99       9       O      N            sun's           attr/A            -----     10
+ 9999 99      10       O      N          surface          pcomp/P            -----      7
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV               so             ad/A            -----      3
+ 9999 99       3       O      A           strong           comp/S            -----      1
+ 9999 99       4       O     CS             that            pm/CS            -----      7
+ 9999 99       5       O   PRON             they        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_have       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN          T_cause       mod/FMAINV            -----      2
+ 9999 99       8       O   PRON             some          obj/OBJ            -----      7
+ 9999 99       9       O   PREP               of           mod/OF            -----      8
+ 9999 99      10       O   PRON              our           attr/A            -----     11
+ 9999 99      11       O      N       satellites          pcomp/P            -----      9
+ 9999 99      12       O   PREP               in          mod/NOM            -----     11
+ 9999 99      13       O      N            space          pcomp/P            -----     12
+ 9999 99      14       O INFMARK               to       pm/INFMARK            -----     15
+ 9999 99      15       O      V           T_slow       cnt/FMAINV            -----      7
+ 9999 99      16       O    ADV             down         phr/ADVL            -----     15
+ 9999 99      17       O    SEP                .         phr/ADVL            ?????     -1
+
+ 9999 99       0       O    DET            These           det/DN            -----      1
+ 9999 99       1       O      N           storms        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       4       O      A            solar           attr/A            -----      5
+ 9999 99       5       O      N           flares           comp/S            -----      3
+ 9999 99       6       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       7       O     CC              and            cc/CC            -----      3
+ 9999 99       8       O   PRON             they        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_seem        cc/FMAINV            -----      3
+ 9999 99      10       O INFMARK               to       pm/INFMARK            -----     11
+ 9999 99      11       O      V         T_happen      comp/FMAINV            -----      9
+ 9999 99      12       O    ADV            about             ad/A            -----     13
+ 9999 99      13       O    ADV             once         frq/ADVL            -----     11
+ 9999 99      14       O    DET            every           det/DN            -----     16
+ 9999 99      15       O    NUM               11            qn/QN            -----     16
+ 9999 99      16       O      N            years         tmp/ADVL            -----     11
+ 9999 99      17       O    SEP                .         tmp/ADVL            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O    DET             last           det/DN            -----      3
+ 9999 99       2       O      A              big           attr/A            -----      3
+ 9999 99       3       O      N           flares        subj/SUBJ            -----      4
+ 9999 99       4       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP               in         tmp/ADVL            -----      4
+ 9999 99       6       O    NUM             1979          pcomp/P            -----      5
+ 9999 99       7       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       8       O     CS               so            pm/CS            -----     11
+ 9999 99       9       O   PRON             they        subj/SUBJ            -----     10
+ 9999 99      10       O      V             T_be       v-ch/FAUXV            -----     11
+ 9999 99      11       O    ING         T_arrive       cnt/FMAINV            -----      4
+ 9999 99      12       O      A         a_little           comp/S            -----     11
+ 9999 99      13       O    ADV            early         tmp/ADVL            -----     11
+ 9999 99      14       O    DET             this           det/DN            -----     15
+ 9999 99      15       O      N             time         mod/ADVL            -----     13
+ 9999 99      16       O    SEP                .         mod/ADVL            ?????     -1
+
+ 9999 99       0       O   PREP           During         cla/ADVL            -----      6
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N            flare          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N              sun        subj/SUBJ            -----      6
+ 9999 99       6       O      V          T_shoot      main/FMAINV            -----     -1
+ 9999 99       7       O    ADV            forth          ha/ADVL            -----      6
+ 9999 99       8       O      N             tons          obj/OBJ            -----      6
+ 9999 99       9       O   PREP               of           mod/OF            -----      8
+ 9999 99      10       O      A              hot           attr/A            -----     11
+ 9999 99      11       O      N              gas          pcomp/P            -----      9
+ 9999 99      12       O   PREP               at       NOFUNC/NOM            -----     -1
+ 9999 99      13       O      A             high           attr/A            -----     14
+ 9999 99      14       O      N           speeds          pcomp/P            -----     12
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       2       O    ADV             only             ad/A            -----      3
+ 9999 99       3       O    NUM            eight            qn/QN            -----      4
+ 9999 99       4       O      N          minutes          obj/OBJ            -----      1
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V           T_feel       mod/FMAINV            -----      0
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N          results           comp/S            -----      6
+ 9999 99       9       O   PREP               on         loc/ADVL            -----      6
+ 9999 99      10       O      N            Earth          pcomp/P            -----      9
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            blast        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V          T_cause      main/FMAINV            -----     -1
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N            power         subj/OBJ            -----      7
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V           T_shut       obj/FMAINV            -----      3
+ 9999 99       8       O    ADV              off         phr/ADVL            -----      7
+ 9999 99       9       O    SEP                .         phr/ADVL            ?????     -1
+
+ 9999 99       0       O      A        Automatic           attr/A            -----      1
+ 9999 99       1       O      N           garage           attr/A            -----      2
+ 9999 99       2       O      N            doors        subj/SUBJ            -----      3
+ 9999 99       3       O      V            T_may       v-ch/FAUXV            -----      4
+ 9999 99       4       O      V           T_open      main/FMAINV            -----     -1
+ 9999 99       5       O     CC              and            cc/CC            -----      4
+ 9999 99       6       O      V          T_close        cc/FMAINV            -----      4
+ 9999 99       7       O   PREP               on         loc/ADVL            -----      6
+ 9999 99       8       O   PRON            their           attr/A            -----      9
+ 9999 99       9       O      A              own          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N           Radios        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_may       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      A             hard           comp/S            -----      2
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_hear       mod/FMAINV            -----      3
+ 9999 99       6       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM              One        subj/SUBJ            -----      8
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O    NUM            first           attr/A            -----      4
+ 9999 99       4       O      N            signs          pcomp/P            -----      1
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O      A            solar           attr/A            -----      7
+ 9999 99       7       O      N           flares          pcomp/P            -----      5
+ 9999 99       8       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       9       O      A             dark           attr/A            -----     10
+ 9999 99      10       O      N            spots           comp/S            -----      8
+ 9999 99      11       O   PREP               on          ha/ADVL            -----      8
+ 9999 99      12       O    DET              the           det/DN            -----     13
+ 9999 99      13       O      N              sun          pcomp/P            -----     11
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET            These           det/DN            -----      1
+ 9999 99       1       O      N         sunspots        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_can       main/FAUXV            -----     -1
+
+ 9999 99       0       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       1       O      A             huge           comp/S            -----      0
+ 9999 99       2       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O   PRON             ones      NOFUNC/SUBJ            -----     -1
+ 9999 99       2       O   PRON             that        subj/SUBJ            -----      6
+ 9999 99       3       O      N       scientists        subj/SUBJ            -----      4
+ 9999 99       4       O      V            T_can       v-ch/FAUXV            -----      5
+ 9999 99       5       O      V            T_see       mod/FMAINV            -----      1
+ 9999 99       6       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       7       O      A              big           comp/S            -----      6
+ 9999 99       8       O    ADV           enough             ad/A            -----      7
+ 9999 99       9       O INFMARK               to       pm/INFMARK            -----     10
+ 9999 99      10       O      V        T_contain       cnt/FMAINV            -----      6
+ 9999 99      11       O    NUM               70            qn/QN            -----     12
+ 9999 99      12       O      N          planets          obj/OBJ            -----     10
+ 9999 99      13       O    DET              the           det/DN            -----     14
+ 9999 99      14       O      N             size      NOFUNC/SUBJ            -----     -1
+ 9999 99      15       O   PREP               of           mod/OF            -----     14
+ 9999 99      16       O      N            Earth          pcomp/P            -----     15
+ 9999 99      17       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      A            solar           attr/A            -----      2
+ 9999 99       2       O      N           flares        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O NEG-PART              not         neg/ADVL            -----      3
+ 9999 99       5       O    DET              all           det/DN            -----      6
+ 9999 99       6       O      A              bad           comp/S            -----      3
+ 9999 99       7       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PRON             They        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_cause      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      N            night           attr/A            -----      4
+ 9999 99       4       O      N              sky         subj/OBJ            -----      6
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V          T_light       obj/FMAINV            -----      1
+ 9999 99       7       O    ADV               up          ha/ADVL            -----      6
+ 9999 99       8       O   PREP             with      NOFUNC/ADVL            -----     -1
+ 9999 99       9       O      A        beautiful           attr/A            -----     10
+ 9999 99      10       O      N           colors          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON            These        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O      A         northern           attr/A            -----      5
+ 9999 99       5       O      N           lights           comp/S            -----      2
+ 9999 99       6       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O    ING          T_cause      main/FMAINV            -----     -1
+ 9999 99       3       O      A        automatic           attr/A            -----      4
+ 9999 99       4       O      N           garage           attr/A            -----      5
+ 9999 99       5       O      N            doors         subj/OBJ            -----      7
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V           T_open       obj/FMAINV            -----      2
+ 9999 99       8       O     CC              and            cc/CC            -----      7
+ 9999 99       9       O      V          T_close        cc/FMAINV            -----      7
+ 9999 99      10       O   PREP               on         loc/ADVL            -----      9
+ 9999 99      11       O   PRON            their           attr/A            -----     12
+ 9999 99      12       O      A              own          pcomp/P            -----     10
+ 9999 99      13       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What          obj/OBJ            -----      4
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET            these           det/DN            -----      3
+ 9999 99       3       O      N           storms        subj/SUBJ            -----      1
+ 9999 99       4       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      7
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O    DET             last          attr/DN            -----      4
+ 9999 99       4       O      N             time         tmp/ADVL            -----      7
+ 9999 99       5       O    DET            these           det/DN            -----      6
+ 9999 99       6       O      N           storms        subj/SUBJ            -----      1
+ 9999 99       7       O     EN         T_happen      main/FMAINV            -----     -1
+ 9999 99       8       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N              sun        subj/SUBJ            -----      1
+ 9999 99       4       O    SEP                (        subj/SUBJ            ?????     -1
+ 9999 99       5       O    ADV              how             ad/A            -----      6
+ 9999 99       6       O    ADV              far      NOFUNC/ADVL            -----     -1
+ 9999 99       7       O   PREP             from      NOFUNC/ADVL            -----     -1
+ 9999 99       8       O      N            Earth          pcomp/P            -----      7
+ 9999 99       9       O    SEP                )          pcomp/P            ?????     -1
+ 9999 99      10       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET            these           det/DN            -----      3
+ 9999 99       3       O      N           storms        subj/SUBJ            -----      1
+ 9999 99       4       O NEG-PART              not         neg/ADVL            -----      6
+ 9999 99       5       O    DET              all           det/DN            -----      6
+ 9999 99       6       O      A              bad           comp/S            -----      1
+ 9999 99       7       O    SEP                ?           comp/S            ?????     -1
+

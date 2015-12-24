@@ -1,0 +1,324 @@
+0		
+	$<p>	
+
+0		
+1	Brooklyn	Brooklyn	attr:>2	@A> N
+2	Bridge	bridge	main:>0	@NH N
+3	to	to	mod:>2	@<NOM PREP
+4	Open	open	pcomp:>3	@<P A
+5	Today	today		@NH N	@ADVL N
+	$<p>	
+
+0		
+	$(	
+2	BROOKLYN	Brooklyn		@NH N	@APP N
+	$,	
+4	N	n	mod:>2	@APP ABBR
+	$.	
+	$<s>	
+
+0		
+1	Y.	y.	main:>0	@NH ABBR
+	$,	
+3	May	May		@NH N	@ADVL N
+4	24	24	mod:>3	@<NOM NUM
+	$,	
+6	1883	1883	mod:>4	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>4	@DN> DET
+2	world's	world	attr:>3	@A> N
+3	greatest	great	attr:>4	@A> A
+4	bridge	bridge	subj:>5	@SUBJ N
+5	will	will	v-ch:>6	@+FAUXV V
+6	open	open	main:>0	@-FMAINV V
+7	at	at	tmp:>6	@ADVL PREP
+8	1:30	1:30		@<P NUM	@ADVL NUM
+9	p.m.	p.m.	mod:>8	@<NOM ABBR
+10	today	today		@SUBJ N	@OBJ N	@<P N	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	United	unite	attr:>2	@A> A
+2	States	state	attr:>3	@A> N
+3	President	president	attr:>4	@A> N
+4	Chester	Chester	attr:>5	@A> N
+5	Arthur	Arthur	subj:>6	@SUBJ N
+6	will	will	v-ch:>7	@+FAUXV V
+7	be	be	main:>0	@-FMAINV V
+8	on	on	ha:>7	@ADVL PREP
+9	hand	hand	pcomp:>8	@<P N
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	honor	honor	cnt:>7	@-FMAINV V
+12	those	that	obj:>11	@OBJ PRON
+13	who	who	subj:>14	@SUBJ PRON
+14	helped	help	mod:>12	@+FMAINV V
+15	build	build	obj:>14	@-FMAINV V
+16	the	the	det:>18	@DN> DET
+17	Brooklyn	Brooklyn	attr:>18	@A> N
+18	Bridge	bridge	obj:>15	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	public	public	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	welcome	welcome	comp:>3	@PCOMPL-S A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	see	see	mod:>4	@-FMAINV V
+7	a	a	det:>8	@DN> DET
+8	display	display	obj:>6	@OBJ N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	fireworks	firework	pcomp:>9	@<P N
+11	at	at		@<NOM PREP	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	bridge	bridge	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Six	six	qn:>2	@QN> NUM
+2	warships	warship	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	fire	fire	main:>0	@-FMAINV V
+5	their	they	attr:>6	@A> PRON
+6	guns	gun	obj:>4	@OBJ N
+7	in	in	loc:>4	@ADVL PREP
+8	a	a	det:>9	@DN> DET
+9	salute	salute	pcomp:>7	@<P N
+10	to	to		@<NOM PREP	@ADVL PREP
+11	the	the	det:>12	@DN> DET
+12	bridge	bridge	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	man	man	subj:>12	@SUBJ N
+3	who	who	subj:>4	@SUBJ PRON
+4	has	have	v-ch:>5	@+FAUXV V
+5	done	do	mod:>2	@-FMAINV EN
+6	the	the	det:>7	@DN> DET
+7	most	much	qua:>5	@ADVL PRON
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	build	build	cnt:>5	@-FMAINV V
+10	this	this	det:>11	@DN> DET
+11	bridge	bridge	obj:>9	@OBJ N
+12	will	will	v-ch:>14	@+FAUXV V
+13	not	not	neg:>12	@ADVL NEG-PART
+14	be	be	main:>0	@-FMAINV V
+15	able	able	comp:>14	@PCOMPL-S A
+16	to	to	pm:>17	@INFMARK> INFMARK>
+17	see	see	mod:>15	@-FMAINV V
+18	the	the	det:>20	@DN> DET
+19	finished	finish	attr:>20	@A> A
+20	work	work	obj:>17	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	His	he	attr:>2	@A> PRON
+2	name	name	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	Washington	Washington	attr:>5	@A> N
+5	Roebling	roebl*	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	been	be	main:>0	@-FMAINV EN
+4	the	the	det:>5	@DN> DET
+5	one	one	comp:>3	@PCOMPL-S PRON
+6	in	in	ha:>3	@ADVL PREP
+7	charge	charge	pcomp:>6	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	the	the	det:>10	@DN> DET
+10	workers	worker	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Eleven	eleven	qn:>2	@QN> NUM
+2	years	year		@ADVL N
+3	ago	ago	ad:>2	@<AD-A ADV
+	$,	
+5	he	he	subj:>6	@SUBJ PRON
+6	had	have		@+FMAINV V
+7	an	an	det:>8	@DN> DET
+8	accident	accident	obj:>6	@OBJ N
+9	while	while	tmp:>11	@ADVL ADV
+10	he	he	subj:>11	@SUBJ PRON
+11	was	be	tmp:>6	@+FMAINV V
+12	at	at	loc:>11	@ADVL PREP
+13	work	work	pcomp:>12	@<P N
+14	on	on	mod:>13	@<NOM PREP
+15	the	the	det:>16	@DN> DET
+16	bridge	bridge	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	fire	fire	subj:>3	@SUBJ N
+3	broke	break	main:>0	@+FMAINV V
+4	out	out	phr:>3	@ADVL ADV
+5	and	and	cc:>3	@CC CC
+6	the	the	det:>7	@DN> DET
+7	smoke	smoke	subj:>9	@SUBJ N
+8	almost	almost		@ADVL ADV
+9	killed	kill	cc:>3	@+FMAINV V
+10	him	he	obj:>9	@OBJ PRON
+	$.	
+	$<p>	
+
+0		
+1	Since	since	tmp:>7	@ADVL PREP
+2	that	that	det:>3	@DN> DET
+3	time	time	pcomp:>1	@<P N
+	$,	
+5	Roebling	roebl*	subj:>6	@SUBJ A
+6	has	have	v-ch:>7	@+FAUXV V
+7	been	be	main:>0	@-FMAINV EN
+8	in	in	loc:>7	@ADVL PREP
+9	a	a	det:>10	@DN> DET
+10	wheelchair	wheelchair	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	he	he	subj:>3	@SUBJ PRON
+3	has	have	v-ch:>4	@+FAUXV V
+4	continued	continue	main:>0	@-FMAINV EN
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	work	work	obj:>4	@-FMAINV V
+7	on	on	phr:>6	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	bridge	bridge	pcomp:>7	@<P N
+	$,	
+11	with	with	ha:>6	@ADVL PREP
+12	help	help	pcomp:>11	@<P N
+13	from	from	sou:>6	@ADVL PREP
+14	his	he	attr:>15	@A> PRON
+15	wife	wife	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	carried	carry	main:>0	@-FMAINV EN
+4	his	he	attr:>5	@A> PRON
+5	written	write	attr:>6	@A> A
+6	orders	order	obj:>3	@OBJ N
+7	to	to	goa:>3	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	workers	worker	pcomp:>7	@<P N
+10	for	for	dat:>3	@ADVL PREP
+11	him	he	pcomp:>10	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	Arthur	Arthur	subj:>2	@SUBJ N
+2	will	will	v-ch:>3	@+FAUXV V
+3	stop	stop	main:>0	@-FMAINV V
+4	by	by	loc:>3	@ADVL PREP
+5	Roebling's	Roebling	attr:>6	@A> N
+6	home	home	pcomp:>4	@<P N
+7	after	after	pm:>10	@CS CS
+8	the	the	det:>9	@DN> DET
+9	bridge	bridge	subj:>10	@SUBJ N
+10	opens	open	tmp:>3	@+FMAINV V
+11	today	today	tmp:>10	@ADVL N
+12	to	to	pm:>13	@INFMARK> INFMARK>
+13	wish	wish	cnt:>10	@-FMAINV V
+14	him	he	obj:>13	@OBJ PRON
+15	well	well	man:>13	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>3	@SUBJ PRON
+2	almost	almost	>3	@ADVL ADV
+3	died	die	main:>0	@+FMAINV V
+4	building	build		@-FMAINV ING
+5	the	the	det:>6	@DN> DET
+6	bridge	bridge	comp:>3	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	bridge	bridge	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	bridge	bridge	subj:>2	@SUBJ N
+5	open	open	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>5	@ADVL ADV
+2	will	will	v-ch:>5	@+FAUXV V
+3	President	president	attr:>4	@A> N
+4	Arthur	Arthur	subj:>2	@SUBJ N
+5	go	go	main:>0	@-FMAINV V
+6	after	after	pm:>9	@CS CS
+7	the	the	det:>8	@DN> DET
+8	bridge	bridge	subj:>9	@SUBJ N
+9	opens	open	mod:>4	@+FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	Roebling	roebl*	subj:>2	@SUBJ A
+4	almost	almost		@AD-A> ADV
+5	die	die	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+

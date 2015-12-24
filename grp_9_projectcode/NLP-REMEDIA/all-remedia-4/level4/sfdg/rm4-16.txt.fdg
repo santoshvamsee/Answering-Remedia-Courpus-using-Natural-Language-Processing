@@ -1,0 +1,340 @@
+0		
+	$<p>	
+
+0		
+1	Watch	watch	main:>0	@+FMAINV V
+2	Out	out	phr:>1	@ADVL ADV
+3	for	for		@ADVL PREP
+4	Sears	sear		@+FMAINV V
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	North	north	attr:>3	@A> N
+3	Redwood	redwood		@APP N
+	$,	
+5	Minn.	Minn.	mod:>3	@<NOM ABBR
+	$,	
+7	September	September	main:>1	@APP N	@NH N
+	$,	
+9	1889	1889	mod:>7	@ADVL NUM
+	$)	
+11	A	a	det:>12	@DN> DET
+12	man	man	subj:>15	@SUBJ N
+13	named	name	mod:>12	@-FMAINV EN
+14	Richard	Richard	obj:>13	@OBJ N
+15	Sears	sear	subj:>16	@+FMAINV V
+16	has	have	v-ch:>17	@+FAUXV V
+17	been	be	v-ch:>18	@-FAUXV EN
+18	playing	play	main:>0	@-FMAINV ING
+19	a	a	det:>20	@DN> DET
+20	joke	joke	comp:>18	@PCOMPL-S N
+21	on	on	phr:>18	@ADVL PREP
+22	shoppers	shopper	pcomp:>21	@<P N
+	$.	
+	$<p>	
+
+0		
+1	Sears	sear	main:>0	@+FMAINV V
+2	likes	like	obj:>1	@OBJ N
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	sell	sell	cnt:>1	@-FMAINV V
+5	items	item	obj:>4	@OBJ N
+6	by	by	man:>4	@ADVL PREP
+7	mail	mail	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Not	not	neg:>2	@ADVL NEG-PART
+2	long_ago	long_ago	meta:>5	@ADVL ADV
+	$,	
+4	he	he	subj:>5	@SUBJ PRON
+5	ran	run	main:>0	@+FMAINV V
+6	an	an	det:>7	@DN> DET
+7	ad	ad	obj:>5	@OBJ N
+8	in	in	loc:>5	@ADVL PREP
+9	some	some	det:>10	@DN> DET
+10	newspapers	newspaper	pcomp:>8	@<P N
+11	In	in	mod:>10	@<NOM PREP
+12	small	small	attr:>13	@A> A
+13	towns	town	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ad	ad	subj:>3	@SUBJ N
+3	showed	show	main:>0	@+FMAINV V
+4	a	a	det:>5	@DN> DET
+5	drawing	draw	obj:>3	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	lovely	lovely	attr:>8	@A> A
+8	furniture	furniture	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	There	there	subj:>2	@F-SUBJ ADV
+2	was	be	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	sofa	sofa	comp:>2	@PCOMPL-S N
+5	and	and	cc:>4	@CC CC
+6	two	two	qn:>7	@QN> NUM
+7	chairs	chair	cc:>4	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ad	ad	subj:>3	@SUBJ N
+3	said	say	main:>0	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	furniture	furniture	subj:>6	@SUBJ N
+6	was	be	obj:>3	@+FMAINV V
+7	for	for	ha:>6	@ADVL PREP
+8	sale	sale	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	said	say	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	pieces	piece	subj:>5	@SUBJ N
+5	were	be	v-ch:>6	@+FAUXV V
+6	made	make	obj:>2	@-FMAINV EN
+7	of	of	phr:>6	@ADVL PREP
+8	fine	fine	attr:>9	@A> A
+9	metal	metal	attr:>10	@A> N
+10	frames	frame	pcomp:>7	@<P N
+11	and	and	cc:>6	@CC CC
+12	were	be	cc:>6	@+FMAINV V
+13	beautiful	beautiful	comp:>12	@PCOMPL-S A
+14	to	to	pm:>15	@INFMARK> INFMARK>
+15	see	see	mod:>13	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ad	ad	subj:>3	@SUBJ N
+3	said	say	main:>0	@+FMAINV V
+4	that	that	pm:>15	@CS CS
+5	for	for	cla:>15	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	short	short	attr:>8	@A> A
+8	time	time	pcomp:>5	@<P N
+9	only	only		@ADVL ADV
+	$,	
+11	these	this	det:>12	@DN> DET
+12	chairs	chair	subj:>13	@SUBJ N
+13	would	would	v-ch:>14	@+FAUXV V
+14	be	be	v-ch:>15	@-FAUXV V
+15	shipped	ship	obj:>3	@-FMAINV EN
+16	to	to	ha:>15	@ADVL PREP
+17	all	all	pcomp:>16	@<P PRON
+18	who	who	subj:>19	@SUBJ PRON
+19	paid	pay	mod:>17	@+FMAINV V
+20	95	95	qn:>21	@QN> NUM
+21	cents	cent	obj:>19	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	message	message	subj:>3	@SUBJ N
+3	sounded	sound	main:>0	@+FMAINV V
+4	too	too	ad:>5	@AD-A> ADV
+5	good	good	comp:>3	@PCOMPL-S A
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	be	be	mod:>5	@-FMAINV V
+8	true	true	comp:>7	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Still	still	meta:>5	@ADVL ADV
+	$,	
+3	a_lot_of	a_lot_of	det:>4	@DN> DET
+4	people	people	subj:>5	@SUBJ N
+5	sent	send	main:>0	@+FMAINV V
+6	in	in	loc:>5	@ADVL PREP
+7	their	they	attr:>8	@A> PRON
+8	money	money	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Imagine	imagine	main:>0	@+FMAINV V
+2	their	they	attr:>3	@A> PRON
+3	surprise	surprise	obj:>1	@OBJ N
+4	when	when	tmp:>6	@ADVL ADV
+5	they	they	subj:>6	@SUBJ PRON
+6	received	receive	tmp:>1	@+FMAINV V
+7	the	the	det:>8	@DN> DET
+8	furniture	furniture	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	furniture	furniture	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	made	make	main:>0	@-FMAINV EN
+5	for	for	ha:>4	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	doll	doll	attr:>8	@A> N
+8	house	house	obj:>4	@OBJ N
+	$!	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	tiny	tiny	attr:>4	@A> A
+4	pieces	piece	comp:>2	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	complained	complain	main:>0	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	That_	that	subj:>2	@SUBJ PRON
+2	's	be	main:>0	@+FMAINV V
+3	when	when	tmp:>4	@ADVL ADV
+4	Sears	sear	tmp:>2	@+FMAINV V
+5	showed	show	comp:>2	@+FMAINV V
+6	them	they	dat:>5	@I-OBJ PRON
+7	the	the	det:>9	@DN> DET
+8	tiny	tiny	attr:>9	@A> A
+9	print	print	obj:>5	@OBJ N
+10	in	in	loc:>5	@ADVL PREP
+11	his	he	attr:>12	@A> PRON
+12	ad	ad	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	In	in	cla:>8	@ADVL PREP
+2	very	very	ad:>3	@AD-A> ADV
+3	small	small	attr:>4	@A> A
+4	letters	letter	pcomp:>1	@<P N
+	$,	
+6	he	he	subj:>7	@SUBJ PRON
+7	had	have	v-ch:>8	@+FAUXV V
+8	included	include	main:>0	@-FMAINV EN
+9	the	the	det:>10	@DN> DET
+10	word	word	obj:>8	@OBJ N
+	$"_	
+12	miniature	miniature	mod:>10	@APP N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	That	that	subj:>2	@SUBJ PRON
+2	means	mean	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	furniture	furniture	subj:>5	@SUBJ N
+5	was	be	obj:>2	@+FMAINV V
+6	not	not	neg:>5	@ADVL NEG-PART
+7	full	full	attr:>8	@A> A
+8	size	size	comp:>5	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Sears	sear	subj:>2	@+FMAINV V
+2	says	say	main:>0	@+FMAINV V
+3	he	he	subj:>4	@SUBJ PRON
+4	did	do	obj:>2	@+FMAINV V
+5	this	this	obj:>4	@OBJ PRON
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	get	get	cnt:>4	@-FMAINV V
+8	attention	attention	obj:>7	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	played	play	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	joke	joke	obj:>2	@OBJ N
+5	on	on	phr:>2	@ADVL PREP
+6	shoppers	shopper	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>6	@OBJ PRON
+2	does	do	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	Sears	sear	attr:>5	@A> N
+5	ad	ad	subj:>2	@SUBJ N
+6	offer	offer	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	did	do	v-ch:>3	@+FAUXV V
+3	Sears	sear	main:>0	@+FMAINV V
+4	play	play	obj:>3	@OBJ N
+5	this	this	det:>6	@DN> DET
+6	joke	joke	subj:>3	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	word	word	subj:>2	@SUBJ N
+	$"_	
+6	miniature	miniature	comp:>2	@PCOMPL-S N
+	$_"	
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why		@ADVL ADV
+2	did	do	v-ch:>3	@+FAUXV V
+3	Sears	sear	main:>0	@+FMAINV V
+4	play	play	obj:>3	@OBJ N
+5	this	this	det:>6	@DN> DET
+6	joke	joke	subj:>3	@SUBJ N
+	$?	
+	$<p>	
+

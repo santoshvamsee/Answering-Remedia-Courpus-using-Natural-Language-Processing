@@ -1,0 +1,328 @@
+
+ 9999 99       0       O      N            Stock           attr/A            -----      1
+ 9999 99       1       O      N           Market           attr/A            -----      2
+ 9999 99       2       O      N          Crashes          main/NH            -----     -1
+ 9999 99       3       O    SEP                !          main/NH            ?????     -1
+
+ 9999 99       0       O    SEP                (          main/NH            ?????     -1
+ 9999 99       1       O      A              NEW           attr/A            -----      2
+ 9999 99       2       O      N             YORK       NOFUNC/APP            -----     -1
+ 9999 99       3       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       4       O      N          October       NOFUNC/APP            -----     -1
+ 9999 99       5       O    NUM          29,1929        NOFUNC/NH            -----     -1
+ 9999 99       6       O    SEP                )        NOFUNC/NH            ?????     -1
+ 9999 99       7       O    SEP                .        NOFUNC/NH            ?????     -1
+
+ 9999 99       0       O      N            Today        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_go      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV             down          ha/ADVL            -----      2
+ 9999 99       4       O   PREP               in         loc/ADVL            -----      2
+ 9999 99       5       O      N          history          pcomp/P            -----      4
+ 9999 99       6       O   PREP               as      copred/ADVL            -----      2
+ 9999 99       7       O    NUM              one          pcomp/P            -----      6
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O    DET              the           det/DN            -----     11
+ 9999 99      10       O      A            worst           attr/A            -----     11
+ 9999 99      11       O      N             days          pcomp/P            -----      8
+ 9999 99      12       O    ADV             ever         frq/ADVL            -----      2
+ 9999 99      13       O    SEP                .         frq/ADVL            ?????     -1
+
+ 9999 99       0       O      N         Millions        subj/SUBJ            -----      3
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O      N           people          pcomp/P            -----      1
+ 9999 99       3       O      V           T_lose      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON             some          obj/OBJ            -----      3
+ 9999 99       5       O     CC               or            cc/CC            -----      4
+ 9999 99       6       O   PRON              all           cc/OBJ            -----      4
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O   PRON            their           attr/A            -----      9
+ 9999 99       9       O      N            money          pcomp/P            -----      7
+ 9999 99      10       O   PREP               in          mod/NOM            -----      9
+ 9999 99      11       O    DET              the           det/DN            -----     13
+ 9999 99      12       O      N            stock           attr/A            -----     13
+ 9999 99      13       O      N           market          pcomp/P            -----     10
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      2
+ 9999 99       1       O      N            stock           attr/A            -----      2
+ 9999 99       2       O      N           market        subj/SUBJ            -----      3
+ 9999 99       3       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       4       O   PRON        something           comp/S            -----      3
+ 9999 99       5       O   PREP             like         man/ADVL            -----      3
+ 9999 99       6       O    DET                a           det/DN            -----      7
+ 9999 99       7       O      N            store          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP       Instead_of         cla/ADVL            -----      7
+ 9999 99       1       O    ING            T_buy     pcomp/FMAINV            -----      0
+ 9999 99       2       O      N             food          obj/OBJ            -----      1
+ 9999 99       3       O     CC              and            cc/CC            -----      2
+ 9999 99       4       O      N          clothes           cc/OBJ            -----      2
+ 9999 99       5       O    SEP                ,           cc/OBJ            ?????     -1
+ 9999 99       6       O      N           people        subj/SUBJ            -----      7
+ 9999 99       7       O      V            T_buy      main/FMAINV            -----     -1
+ 9999 99       8       O     CC              and            cc/CC            -----      7
+ 9999 99       9       O      V           T_sell        cc/FMAINV            -----      7
+ 9999 99      10       O      A            small           attr/A            -----     11
+ 9999 99      11       O      N            parts          obj/OBJ            -----      9
+ 9999 99      12       O   PREP               of           mod/OF            -----     11
+ 9999 99      13       O      N        companies          pcomp/P            -----     12
+ 9999 99      14       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Each           det/DN            -----      1
+ 9999 99       1       O      N             part        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N            share           comp/S            -----      3
+ 9999 99       6       O    SEP                ,           comp/S            ?????     -1
+ 9999 99       7       O     CC               or        NOFUNC/CC            -----     -1
+ 9999 99       8       O    DET                a           det/DN            -----      9
+ 9999 99       9       O      N            stock      NOFUNC/SUBJ            -----     -1
+ 9999 99      10       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O   PRON            Those      NOFUNC/SUBJ            -----     -1
+ 9999 99       1       O   PRON              who      NOFUNC/SUBJ            -----     -1
+ 9999 99       2       O      A              own           attr/A            -----      3
+ 9999 99       3       O      N            stock        subj/SUBJ            -----      4
+ 9999 99       4       O      V         T_become      main/FMAINV            -----     -1
+ 9999 99       5       O      N             part           attr/A            -----      6
+ 9999 99       6       O      N           owners           comp/S            -----      4
+ 9999 99       7       O   PREP               of           mod/OF            -----      6
+ 9999 99       8       O    DET              the           det/DN            -----      9
+ 9999 99       9       O      N        companies          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N          company        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_make    NOFUNC/FMAINV            -----     -1
+ 9999 99       4       O      N            money          obj/OBJ            -----      3
+ 9999 99       5       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N           people      NOFUNC/SUBJ            -----     -1
+ 9999 99       8       O   PRON              who          obj/OBJ            -----     11
+ 9999 99       9       O      A              own           attr/A            -----     10
+ 9999 99      10       O      N            stock        subj/SUBJ            -----     11
+ 9999 99      11       O      V           T_make       mod/FMAINV            -----      7
+ 9999 99      12       O      N            money             oc/O            -----     11
+ 9999 99      13       O    SEP                ,             oc/O            ?????     -1
+ 9999 99      14       O    ADV              too        meta/ADVL            -----     11
+ 9999 99      15       O    SEP                .        meta/ADVL            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      3
+ 9999 99       1       O    DET                a           det/DN            -----      2
+ 9999 99       2       O      N          company        subj/SUBJ            -----      3
+ 9999 99       3       O      V           T_lose       tmp/FMAINV            -----     10
+ 9999 99       4       O      N            money          obj/OBJ            -----      3
+ 9999 99       5       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       6       O   PRON            those        subj/SUBJ            -----     10
+ 9999 99       7       O   PRON              who        subj/SUBJ            -----      8
+ 9999 99       8       O      V           T_hold       mod/FMAINV            -----      6
+ 9999 99       9       O      N            stock          obj/OBJ            -----      8
+ 9999 99      10       O      V           T_lose      main/FMAINV            -----     -1
+ 9999 99      11       O      N            money          obj/OBJ            -----     10
+ 9999 99      12       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99      13       O    ADV              too        meta/ADVL            -----     10
+ 9999 99      14       O    SEP                .        meta/ADVL            ?????     -1
+
+ 9999 99       0       O      N            Today         tmp/ADVL            -----      5
+ 9999 99       1       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       2       O    ADV       just_about      NOFUNC/ADVL            -----     -1
+ 9999 99       3       O    DET            every           det/DN            -----      4
+ 9999 99       4       O      N          company        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_lose      main/FMAINV            -----     -1
+ 9999 99       6       O      N            money          obj/OBJ            -----      5
+ 9999 99       7       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON             Many        subj/SUBJ            -----      5
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      N            stock           attr/A            -----      4
+ 9999 99       4       O      N           owners          pcomp/P            -----      1
+ 9999 99       5       O      V             T_go      main/FMAINV            -----     -1
+ 9999 99       6       O      V          T_broke      comp/FMAINV            -----      5
+ 9999 99       7       O   PREP       because_of          ha/ADVL            -----      6
+ 9999 99       8       O   PRON               it          pcomp/P            -----      7
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N           People        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O    ING            T_say      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      5
+ 9999 99       4       O      N            stock           attr/A            -----      5
+ 9999 99       5       O      N           market        subj/SUBJ            -----      6
+ 9999 99       6       O      V          T_crash       obj/FMAINV            -----      2
+ 9999 99       7       O    SEP                .       obj/FMAINV            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_do      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O      N            stock           attr/A            -----      4
+ 9999 99       4       O      N           market           attr/A            -----      5
+ 9999 99       5       O      N            crash          obj/OBJ            -----      1
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV           Lately         tmp/ADVL            -----      6
+ 9999 99       1       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       2       O      A    more_and_more           attr/A            -----      3
+ 9999 99       3       O      N           people        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_have       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN             T_be       v-ch/FAUXV            -----      6
+ 9999 99       6       O    ING            T_buy      main/FMAINV            -----     -1
+ 9999 99       7       O      N           stocks          obj/OBJ            -----      6
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O     CS               As            pm/CS            -----      2
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_do       man/FMAINV            -----      7
+ 9999 99       3       O    ADV               so          ha/ADVL            -----      2
+ 9999 99       4       O    SEP                ,          ha/ADVL            ?????     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N           prices        subj/SUBJ            -----      7
+ 9999 99       7       O      V             T_go      main/FMAINV            -----     -1
+ 9999 99       8       O    ADV               up         phr/ADVL            -----      7
+ 9999 99       9       O    SEP                .         phr/ADVL            ?????     -1
+
+ 9999 99       0       O INFMARK               To       pm/INFMARK            -----      1
+ 9999 99       1       O      V           T_earn       cnt/FMAINV            -----      9
+ 9999 99       2       O    DET             more           det/DN            -----      3
+ 9999 99       3       O      N            money          obj/OBJ            -----      1
+ 9999 99       4       O    SEP                ,          obj/OBJ            ?????     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N     stockholders        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_have       v-ch/FAUXV            -----      8
+ 9999 99       8       O     EN             T_be       v-ch/FAUXV            -----      9
+ 9999 99       9       O    ING           T_sell      main/FMAINV            -----     -1
+ 9999 99      10       O   PRON            their           attr/A            -----     11
+ 9999 99      11       O      N           stocks          obj/OBJ            -----      9
+ 9999 99      12       O   PREP               to         dat/ADVL            -----      9
+ 9999 99      13       O      A              new           attr/A            -----     14
+ 9999 99      14       O      N     stockholders          pcomp/P            -----     12
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP             With         cla/ADVL            -----      4
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N            money          pcomp/P            -----      0
+ 9999 99       3       O   PRON             they        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_earn      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ,      main/FMAINV            ?????     -1
+ 9999 99       6       O   PRON             they        subj/SUBJ            -----      7
+ 9999 99       7       O      V            T_buy    NOFUNC/FMAINV            -----     -1
+ 9999 99       8       O    DET             more           det/DN            -----      9
+ 9999 99       9       O      N           stocks          obj/OBJ            -----      7
+ 9999 99      10       O   PREP               at         loc/ADVL            -----      7
+ 9999 99      11       O      A           higher           attr/A            -----     12
+ 9999 99      12       O      N           prices          pcomp/P            -----     10
+ 9999 99      13       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O    SEP                ,            cc/CC            ?????     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N           people        subj/SUBJ            -----      5
+ 9999 99       4       O    ADV          finally         man/ADVL            -----      5
+ 9999 99       5       O      V            T_run      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP           out_of         sou/ADVL            -----      5
+ 9999 99       7       O      N            money          pcomp/P            -----      6
+ 9999 99       8       O INFMARK               to       pm/INFMARK            -----      9
+ 9999 99       9       O      V          T_spend       cnt/FMAINV            -----      5
+ 9999 99      10       O    SEP                .       cnt/FMAINV            ?????     -1
+
+ 9999 99       0       O   PREP       Instead_of         cla/ADVL            -----      4
+ 9999 99       1       O      A           buying          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O   PRON         everyone        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_want      main/FMAINV            -----     -1
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V           T_sell       obj/FMAINV            -----      4
+ 9999 99       7       O   PRON            their           attr/A            -----      8
+ 9999 99       8       O      N           stocks          obj/OBJ            -----      6
+ 9999 99       9       O    ADV          at_once        meta/ADVL            -----      6
+ 9999 99      10       O    SEP                .        meta/ADVL            ?????     -1
+
+ 9999 99       0       O   PRON             This        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N           prices          obj/OBJ            -----      1
+ 9999 99       4       O      V           T_drop    NOFUNC/FMAINV            -----     -1
+ 9999 99       5       O    SEP                .    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O   PREP               In         tmp/ADVL            -----      8
+ 9999 99       1       O      N             time          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N           prices        subj/SUBJ            -----      7
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O      N           stocks          pcomp/P            -----      5
+ 9999 99       7       O      V            T_may       v-ch/FAUXV            -----      8
+ 9999 99       8       O      V          T_climb      main/FMAINV            -----     -1
+ 9999 99       9       O    ADV            again         frq/ADVL            -----      8
+ 9999 99      10       O    SEP                .         frq/ADVL            ?????     -1
+
+ 9999 99       0       O   PREP              For      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O   PRON             many          pcomp/P            -----      0
+ 9999 99       2       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       3       O    ADV          however        meta/ADVL            -----      6
+ 9999 99       4       O    SEP                ,        meta/ADVL            ?????     -1
+ 9999 99       5       O      N            today        subj/SUBJ            -----      6
+ 9999 99       6       O      V             T_be    NOFUNC/FMAINV            -----     -1
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N              day         tmp/ADVL            -----     10
+ 9999 99       9       O   PRON             they        subj/SUBJ            -----     10
+ 9999 99      10       O      V           T_lose    NOFUNC/FMAINV            -----     -1
+ 9999 99      11       O   PRON            their           attr/A            -----     12
+ 9999 99      12       O      N             life           attr/A            -----     13
+ 9999 99      13       O      N          savings          obj/OBJ            -----     10
+ 9999 99      14       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O      N     stockholders           comp/S            -----      1
+ 9999 99       3       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      N            stock           attr/A            -----      4
+ 9999 99       4       O      N           market           comp/S            -----      1
+ 9999 99       5       O    SEP                ?           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      1
+ 9999 99       1       O      V             T_do     NOFUNC/FAUXV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O      N            stock           attr/A            -----      4
+ 9999 99       4       O      N           market           attr/A            -----      5
+ 9999 99       5       O      N            crash        subj/SUBJ            -----      1
+ 9999 99       6       O    SEP                ?        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O      N            stock           attr/A            -----      4
+ 9999 99       4       O      N           market        subj/SUBJ            -----      1
+ 9999 99       5       O    SEP                ?        subj/SUBJ            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_do      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      5
+ 9999 99       3       O      N            stock           attr/A            -----      4
+ 9999 99       4       O      N           market           attr/A            -----      5
+ 9999 99       5       O      N            crash          obj/OBJ            -----      1
+ 9999 99       6       O    SEP                ?          obj/OBJ            ?????     -1
+

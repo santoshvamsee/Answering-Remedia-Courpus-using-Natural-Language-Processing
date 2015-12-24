@@ -1,0 +1,324 @@
+0		
+1	Rare	rare	attr:>2	@A> A
+2	Egg	egg	main:>0	@NH N
+3	Found	find	mod:>2	@-FMAINV EN
+	$<p>	
+
+0		
+	$(	
+2	UTAH	Utah		@NH N
+	$,	
+4	March	march	main:>1	@NH N	@APP N
+5	31,1989	31,1989	mod:>4	@<NOM NUM
+	$)	
+7	$-		
+8	A	a	det:>10	@DN> DET
+9	rare	rare	attr:>10	@A> A
+10	egg	egg	subj:>11	@SUBJ N
+11	has	have	v-ch:>12	@+FAUXV V
+12	been	be	v-ch:>13	@-FAUXV EN
+13	found	find	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	found	find	main:>0	@-FMAINV EN
+5	in	in	loc:>4	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	bird's	bird	attr:>8	@A> N
+8	nest	nest	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>2	@DN> DET
+2	egg	egg	subj:>3	@SUBJ N
+3	will	will	v-ch:>5	@+FAUXV V
+4	never	never	frq:>5	@ADVL ADV
+5	hatch	hatch	main:>0	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	contains	contain	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	remains	remains	obj:>2	@OBJ N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	a	a	det:>8	@DN> DET
+7	tiny	tiny	attr:>8	@A> A
+8	dinosaur	dinosaur	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	one	one	comp:>2	@PCOMPL-S NUM
+4	of	of	mod:>3	@<NOM-OF PREP
+5	the	the	det:>8	@DN> DET
+6	oldest	old	attr:>7	@A> A
+7	dinosaur	dinosaur	attr:>8	@A> N
+8	eggs	egg	pcomp:>4	@<P N
+9	ever	ever	frq:>10	@ADVL ADV
+10	found	find		@-FMAINV EN	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	about	about	ad:>4	@AD-A> ADV
+4	100	100	qn:>5	@QN> NUM
+5	million	million	qn:>6	@QN> NUM
+6	years_old	years_old	comp:>2	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	scientists	scientist	subj:>3	@SUBJ N
+3	were	be	v-ch:>4	@+FAUXV V
+4	digging	dig	main:>0	@-FMAINV ING
+5	in	in	loc:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	ground	ground	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	a	a	det:>5	@DN> DET
+5	spot	spot	pcomp:>3	@<P N
+6	where	where	loc:>12	@ADVL ADV
+7	12,000	12,000	qn:>9	@QN> NUM
+8	dinosaur	dinosaur	attr:>9	@A> N
+9	bones	bone	subj:>10	@SUBJ N
+10	have	have	v-ch:>11	@+FAUXV V
+11	been	be	v-ch:>12	@-FAUXV EN
+12	found	find	mod:>5	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	So	so	meta:>6	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	were	be	v-ch:>6	@+FAUXV V
+4	not	not	neg:>5	@ADVL NEG-PART
+5	too	too	>6	@ADVL ADV
+6	surprised	surprise	main:>0	@-FMAINV EN
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	find	find	cnt:>6	@-FMAINV V
+9	the	the	det:>10	@DN> DET
+10	egg	egg	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	egg	egg	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	found	find	main:>0	@-FMAINV EN
+5	in	in	loc:>4	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	dry	dry	attr:>8	@A> A
+8	spot	spot	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	at	at	cla:>8	@ADVL PREP
+3	one	one	qn:>4	@QN> NUM
+4	time	time	pcomp:>2	@<P N
+	$,	
+6	the	the	det:>7	@DN> DET
+7	area	area	subj:>8	@SUBJ N
+8	was	be	main:>0	@+FMAINV V
+9	a	a	det:>11	@DN> DET
+10	shallow	shallow	attr:>11	@A> A
+11	lake	lake	comp:>8	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	dinosaur's	dinosaur	attr:>3	@A> N
+3	mother	mother	subj:>4	@SUBJ N
+4	must	must	v-ch:>5	@+FAUXV V
+5	have	have	v-ch:>6	@-FAUXV V
+6	been	be	v-ch:>7	@-FAUXV EN
+7	standing	stand	main:>0	@-FMAINV ING
+8	in	in	loc:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	lake	lake	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	got	get	main:>0	@+FMAINV V
+3	stuck	stick	comp:>2	@PCOMPL-S A
+4	in	in	loc:>2	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	mud	mud	pcomp:>4	@<P N
+7	and	and	cc:>2	@CC CC
+8	could	could	v-ch:>10	@+FAUXV V
+9	not	not	neg:>8	@ADVL NEG-PART
+10	get	get	cc:>2	@-FMAINV V
+11	out	out	phr:>10	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	Some	some	det:>2	@DN> DET
+2	people	people	subj:>3	@SUBJ N
+3	took	take	main:>0	@+FMAINV V
+4	a	a	det:>6	@DN> DET
+5	special	special	attr:>6	@A> A
+6	picture	picture	obj:>3	@OBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	the	the	det:>9	@DN> DET
+9	egg	egg	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	an	an	det:>5	@DN> DET
+5	X-ray	x-ray	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	lets	let	main:>0	@+FMAINV V
+3	them	they	subj:>4	@OBJ PRON
+4	see	see	obj:>2	@-FMAINV V
+5	inside	inside	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	egg	egg	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	shell	shell	subj:>3	@SUBJ N
+3	does	do	v-ch:>5	@+FAUXV V
+4	not	not	neg:>3	@ADVL NEG-PART
+5	have	have	main:>0	@-FMAINV V
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	be	be	v-ch:>8	@-FAUXV V
+8	cracked	crack	obj:>5	@-FMAINV EN
+9	open	open	comp:>8	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Inside	inside	cla:>7	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	egg	egg	pcomp:>1	@<P N
+	$,	
+5	they	they	subj:>6	@SUBJ PRON
+6	can	can	v-ch:>7	@+FAUXV V
+7	see	see	main:>0	@-FMAINV V
+8	a	a	det:>9	@DN> DET
+9	creature	creature	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	size	size	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	a	a	det:>8	@DN> DET
+7	small	small	attr:>8	@A> A
+8	animal	animal	pcomp:>5	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	found	find	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	egg	egg	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	inside	inside	ha:>2	@ADVL PREP
+4	the	the	det:>5	@DN> DET
+5	egg	egg	pcomp:>3	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	did	do	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	mother	mother	attr:>5	@A> N
+5	dinosaur	dinosaur	subj:>2	@SUBJ N
+6	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	did	do	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	mother	mother	dat:>2	@I-OBJ N
+5	dinosaur	dinosaur	attr:>6	@A> N
+6	die	die	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	did_	do	v-ch:>6	@+FAUXV V
+3	n't	not	neg:>2	@ADVL NEG-PART
+4	the	the	det:>5	@DN> DET
+5	shell	shell	subj:>2	@SUBJ N
+6	have	have	main:>0	@-FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	be	be	v-ch:>9	@-FAUXV V
+9	cracked	crack	obj:>6	@-FMAINV EN
+10	open	open	comp:>9	@PCOMPL-S A
+	$?	
+	$<p>	
+

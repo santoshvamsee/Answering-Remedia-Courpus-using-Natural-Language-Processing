@@ -1,0 +1,331 @@
+0		
+1	Jet	jet	attr:>2	@A> N
+2	Airplanes	airplane		@A> N
+3	Take	take	main:>0	@+FMAINV V
+4	Off	off	phr:>3	@ADVL ADV
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	LOS	Los	attr:>3	@A> N
+3	ANGELES	Angeles		@APP N
+	$,	
+5	1950	1950		@NH NUM	@PCOMPL-S NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+7	$-		
+8	Airplanes	airplane	subj:>9	@SUBJ N
+9	are	be	v-ch:>10	@+FAUXV V
+10	getting	get	main:>0	@-FMAINV ING
+11	bigger	big	comp:>10	@PCOMPL-S A
+12	and	and	cc:>11	@CC CC
+13	better	good	attr:>14	@A> A
+14	all_the_time	all_the_time	cc:>11	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	new	new	attr:>3	@A> A
+3	plane	plane	subj:>4	@SUBJ N
+4	has	have	v-ch:>6	@+FAUXV V
+5	just	just	ha:>7	@ADVL ADV
+6	been	be	v-ch:>7	@-FAUXV EN
+7	built	build	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	a	a	det:>5	@DN> DET
+5	jet	jet	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	does	do	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	need	need	main:>0	@-FMAINV V
+5	propellers	propeller	subj:>7	@OBJ N
+6	to	to	pm:>7	@INFMARK> INFMARK>
+7	stay	stay	obj:>4	@-FMAINV V
+8	in	in	loc:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	air	air	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	jet	jet	subj:>3	@SUBJ N
+3	has	have	main:>0	@+FMAINV V
+4	a	a	det:>6	@DN> DET
+5	special	special	attr:>6	@A> A
+6	engine	engine	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	sucks	suck	main:>0	@+FMAINV V
+3	in	in	ha:>2	@ADVL PREP
+4	air	air	pcomp:>3	@<P N
+5	at	at		@<NOM PREP	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	front	front	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	the	the	det:>10	@DN> DET
+10	plane	plane	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	air	air	subj:>3	@SUBJ N
+3	gets	get	main:>0	@+FMAINV V
+4	pushed	push	comp:>3	@PCOMPL-S A
+5	out	out		@ADVL ADV
+6	at	at	ha:>3	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	back	back	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	helps	help	main:>0	@+FMAINV V
+3	it	it	subj:>5	@OBJ PRON
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	stay	stay	obj:>2	@-FMAINV V
+6	high	high	comp:>5	@PCOMPL-S A
+7	in	in	loc:>5	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	sky	sky	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	An	an	det:>3	@DN> DET
+2	older	old	attr:>3	@A> A
+3	plane	plane	subj:>4	@SUBJ N
+4	may	may	v-ch:>5	@+FAUXV V
+5	have	have	main:>0	@-FMAINV V
+6	a	a	det:>7	@DN> DET
+7	propeller	propeller	obj:>5	@OBJ N
+8	that	that	subj:>9	@SUBJ PRON
+9	quits	quit	mod:>7	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	happen	happen	main:>0	@-FMAINV V
+5	with	with	ha:>4	@ADVL PREP
+6	jets	jet	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Pilots	pilot		@NH N	@SUBJ N
+2	like	like	mod:>1	@<NOM PREP
+3	jets	jet	pcomp:>2	@<P N
+4	because	because	pm:>6	@CS CS
+5	they	they	subj:>6	@SUBJ PRON
+6	lift	lift	main:>0	@+FMAINV V
+7	off	off	ha:>6	@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	ground	ground	pcomp:>7	@<P N
+10	with	with		@<NOM PREP	@ADVL PREP
+11	ease	ease	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Airplanes	airplane	subj:>2	@SUBJ N
+2	are	be	v-ch:>4	@+FAUXV V
+3	also	also	>4	@ADVL ADV
+4	getting	get	main:>0	@-FMAINV ING
+5	bigger	big	comp:>4	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>3	@DN> DET
+2	160-foot-long	160-foot-long	attr:>3	@A> A
+3	plane	plane	subj:>4	@SUBJ N
+4	was	be	v-ch:>6	@+FAUXV V
+5	just	just	>6	@ADVL ADV
+6	built	build	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	If	if	pm:>4	@CS CS
+2	you	you	subj:>3	@SUBJ PRON
+3	could	could	v-ch:>4	@+FAUXV V
+4	stand	stand	cnd:>12	@-FMAINV V
+5	it	it	obj:>4	@OBJ PRON
+6	on	on	loc:>4	@ADVL PREP
+7	its	it	attr:>8	@A> PRON
+8	end	end	pcomp:>6	@<P N
+	$,	
+10	it	it	subj:>11	@SUBJ PRON
+11	would	would	v-ch:>12	@+FAUXV V
+12	be	be	main:>0	@-FMAINV V
+13	16	16	qn:>14	@QN> NUM
+14	stories	story	comp:>12	@PCOMPL-S N
+15	tall	tall	copred:>12	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Planes	plane	subj:>2	@SUBJ N
+2	are	be	v-ch:>3	@+FAUXV V
+3	flying	fly	main:>0	@-FMAINV ING
+4	faster	fast	man:>3	@ADVL ADV
+5	now	now	ad:>4	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	plane	plane	subj:>3	@SUBJ N
+3	can	can	v-ch:>4	@+FAUXV V
+4	fly	fly	main:>0	@-FMAINV V
+5	faster	fast	man:>4	@ADVL ADV
+6	than	than	mod:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	speed	speed	pcomp:>6	@<P N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	sound	sound	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>2	@SUBJ N
+2	thought	think	main:>0	@+FMAINV V
+3	this	this	subj:>4	@SUBJ PRON
+4	could	could	v-ch:>6	@+FAUXV V
+5	not	not	neg:>4	@ADVL NEG-PART
+6	be	be	v-ch:>7	@-FAUXV V
+7	done	do	obj:>2	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>3	@ADVL ADV
+2	planes	plane	subj:>3	@SUBJ N
+3	fly	fly	tmp:>8	@+FMAINV V
+4	that	that	pm:>5	@CS CS
+5	fast	fast	man:>3	@ADVL A	@ADVL ADV
+	$,	
+7	they	they	subj:>8	@SUBJ PRON
+8	make	make	main:>0	@+FMAINV V
+9	a	a	det:>11	@DN> DET
+10	big	big	attr:>11	@A> A
+11	boom	boom	obj:>8	@OBJ N
+12	in	in	mod:>11	@<NOM PREP
+13	the	the	det:>14	@DN> DET
+14	sky	sky	pcomp:>12	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	boom	boom	subj:>3	@SUBJ N
+3	can	can	v-ch:>4	@+FAUXV V
+4	be	be	v-ch:>5	@-FAUXV V
+5	heard	hear	main:>0	@-FMAINV EN
+6	on	on	ha:>5	@ADVL PREP
+7	the	the	det:>9	@DN> DET
+8	ground	ground	attr:>9	@A> N
+9	miles	mile	pcomp:>6	@<P N
+10	away	away	loc:>5	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	likes	like	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	fly	fly	obj:>2	@-FMAINV V
+5	jets	jet	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>4	@OBJ PRON
+2	do	do	v-ch:>4	@+FAUXV V
+3	jets	jet	subj:>2	@SUBJ N
+4	have	have	main:>0	@-FMAINV V
+5	instead_of	instead_of	ha:>4	@ADVL PREP
+6	propellers	propeller	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	was	be	v-ch:>6	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	jet	jet	subj:>2	@SUBJ N
+5	first	first		@SUBJ NUM	@OBJ NUM	@ADVL NUM	@<NOM NUM	@ADVL NUM
+6	used	use	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	can	can	v-ch:>4	@+FAUXV V
+3	you	you	subj:>2	@SUBJ PRON
+4	hear	hear	main:>0	@-FMAINV V
+5	a	a	det:>6	@DN> DET
+6	boom	boom	obj:>4	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>5	@ADVL ADV
+2	does	do	v-ch:>5	@+FAUXV V
+3	a	a	det:>4	@DN> DET
+4	jet	jet	subj:>2	@SUBJ N
+5	suck	suck	main:>0	@-FMAINV V
+6	in	in	ha:>5	@ADVL PREP
+7	air	air		@<P N	@<P-FMAINV V
+8	and	and	cc:>5	@CC CC
+9	push	push	cc:>5	@-FMAINV V
+10	it	it	obj:>9	@OBJ PRON
+11	back	back		@ADVL ADV
+12	out	out	loc:>9	@ADVL ADV
+	$?	
+	$<p>	
+

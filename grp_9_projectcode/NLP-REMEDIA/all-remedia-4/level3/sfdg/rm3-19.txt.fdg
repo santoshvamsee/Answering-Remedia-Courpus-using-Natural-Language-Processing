@@ -1,0 +1,340 @@
+0		
+1	A	a	det:>3	@DN> DET
+2	Perfect	perfect	attr:>3	@A> A
+3	Ten	ten	main:>0	@NH NUM	@ADVL NUM
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	MONTREAL	Montreal	main:>1	@NH N
+	$,	
+4	July	July		@APP N	@NH N
+	$,	
+6	1976	1976	mod:>4	@ADVL NUM
+	$)	
+8	$-		
+9	The	the	det:>10	@DN> DET
+10	world	world	subj:>11	@SUBJ N
+11	is	be	v-ch:>12	@+FAUXV V
+12	watching	watch	main:>0	@-FMAINV ING
+13	a	a	det:>17	@DN> DET
+14	young	young	attr:>15	@A> A
+15	girl	girl	attr:>16	@A> N
+16	named	name	attr:>17	@A> A
+17	Nadia	Nadia	obj:>12	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	say	say	main:>0	@+FMAINV V
+3	she	she	subj:>4	@SUBJ PRON
+4	is	be	obj:>2	@+FMAINV V
+5	perfect	perfect	comp:>4	@PCOMPL-S A
+6	at	at		@ADVL PREP
+7	what	what	obj:>9	@OBJ PRON
+8	she	she	subj:>9	@SUBJ PRON
+9	does	do	pcomp:>6	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Nadia	Nadia	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>4	@DN> DET
+4	gymnast	gymnast	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	be	be	v-ch:>4	@-FAUXV V
+4	seen	see	main:>0	@-FMAINV EN
+5	on	on	loc:>4	@ADVL PREP
+6	TV	tv	pcomp:>5	@<P N
+7	all	all	det:>8	@DN> DET
+8	this	this	det:>9	@DN> DET
+9	week	week	tmp:>4	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	taking	take	main:>0	@-FMAINV ING
+4	part	part	obj:>3	@OBJ N
+5	in	in	loc:>3	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	Olympics	Olympic	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	So_far	so_far	meta:>5	@ADVL ADV
+	$,	
+3	she	she	subj:>4	@SUBJ PRON
+4	has	have	v-ch:>5	@+FAUXV V
+5	received	receive	main:>0	@-FMAINV EN
+6	four	four	qn:>8	@QN> NUM
+7	gold	gold	attr:>8	@A> N
+8	medals	medal	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	More	many	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>5	@+FAUXV V
+3	no	no	det:>4	@DN> DET
+4	doubt	doubt		@SUBJ N	@ADVL N
+5	come	come	main:>0	@-FMAINV V
+6	her	she	attr:>7	@A> PRON
+7	way	way		@SUBJ N	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	time	time		@NH N	@SUBJ N	@OBJ N	@<P N	@ADVL N
+3	she	she	subj:>4	@SUBJ PRON
+4	performs	perform		@+FMAINV V
+	$,	
+6	the	the	det:>7	@DN> DET
+7	judges	judge	subj:>8	@SUBJ N
+8	can_	can	v-ch:>10	@+FAUXV V
+9	not	not	neg:>8	@ADVL NEG-PART
+10	find	find		@-FMAINV V
+11	one	one	qn:>12	@QN> NUM
+12	thing	thing	obj:>10	@OBJ N
+13	wrong	wrong	oc:>10	@PCOMPL-O A
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	give	give	main:>0	@+FMAINV V
+3	her	she	dat:>2	@I-OBJ PRON
+4	a	a	det:>6	@DN> DET
+5	perfect	perfect	attr:>6	@A> A
+6	score	score	obj:>2	@OBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	ten	ten	pcomp:>7	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	Nadia	Nadia	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	only	only	ad:>4	@AD-A> ADV
+4	15	15	qn:>5	@QN> NUM
+5	years_old	years_old	comp:>2	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	been	be	v-ch:>4	@-FAUXV EN
+4	practicing	practice	main:>0	@-FMAINV ING
+5	for	for	ha:>4	@ADVL PREP
+6	more	more	pcomp:>5	@<P PRON
+7	than	than	mod:>6	@<NOM PREP	@ADVL PREP
+8	ten	ten	qn:>9	@QN> NUM
+9	years	year	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Her	she	attr:>2	@A> PRON
+2	home	home	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	in	in	loc:>3	@ADVL PREP
+5	Russia	Russia	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	turn	turn	main:>0	@-FMAINV V
+4	somersaults	somersault	comp:>3	@PCOMPL-S N
+5	on	on	loc:>3	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	thin	thin	attr:>8	@A> A
+8	board	board	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	board	board	subj:>3	@SUBJ N
+3	is	be	v-ch:>4	@+FAUXV V
+4	called	call	main:>0	@-FMAINV EN
+5	a	a	det:>7	@DN> DET
+6	balance	balance	attr:>7	@A> N
+7	beam	beam	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	does	do	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	lose	lose	main:>0	@-FMAINV V
+5	her	she	attr:>6	@A> PRON
+6	balance	balance	obj:>4	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Nadia	Nadia	subj:>2	@SUBJ N
+2	can	can	v-ch:>3	@+FAUXV V
+3	leap	leap		@-FMAINV V
+4	into	into	goa:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	air	air	pcomp:>4	@<P N
+7	and	and	cc:>3	@CC CC
+8	do	do	cc:>3	@-FMAINV V
+9	back	back	>8	@ADVL ADV
+10	flips	flip		@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	does	do	main:>0	@+FMAINV V
+3	this	this	obj:>2	@OBJ PRON
+4	as	as	copred:>2	@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	part	part	pcomp:>4	@<P N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	a	a	det:>9	@DN> DET
+9	dance	dance	pcomp:>7	@<P N
+10	with	with		@<NOM PREP	@ADVL PREP
+11	music	music	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	swing	swing	main:>0	@-FMAINV V
+4	round_and_round	round_and_round	ha:>3	@ADVL ADV
+5	on	on	loc:>3	@ADVL PREP
+6	bars	bar	pcomp:>5	@<P N
+7	high	high	mod:>6	@<NOM A
+8	above	above	meta:>3	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	ground	ground	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>3	@SUBJ PRON
+2	never	never	frq:>3	@ADVL ADV
+3	falls	fall	main:>0	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Nadia	Nadia	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	very	very	ad:>5	@AD-A> ADV
+5	tall	tall	comp:>2	@PCOMPL-S A
+6	or	or	cc:>5	@CC CC
+7	big	big	cc:>5	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	she	she	subj:>3	@SUBJ PRON
+3	is	be	main:>0	@+FMAINV V
+4	big	big	comp:>3	@PCOMPL-S A
+5	in	in	mod:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	eyes	eye	pcomp:>5	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	those	that	pcomp:>8	@<P PRON
+10	who	who	subj:>11	@SUBJ PRON
+11	are	be	v-ch:>12	@+FAUXV V
+12	watching	watch	mod:>9	@-FMAINV ING
+13	her	she	subj:>14	@OBJ PRON
+14	do	do	obj:>12	@-FMAINV V
+15	her	she	obj:>14	@OBJ PRON
+16	best	well	man:>14	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	obj:>4	@OBJ PRON
+2	is	be	v-ch:>4	@+FAUXV V
+3	everyone	everyone	subj:>2	@SUBJ PRON
+4	watching	watch		@-FMAINV ING
+5	at	at	ha:>4	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	Olympics	Olympic	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	comp:>2	@PCOMPL-S PRON
+2	is	be	main:>0	@+FMAINV V
+3	she	she	subj:>2	@SUBJ PRON
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	she	she	subj:>2	@SUBJ PRON
+4	begin	begin	main:>0	@-FMAINV V
+5	practicing	practice	obj:>4	@-FMAINV ING
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	she	she	subj:>2	@SUBJ PRON
+4	live	live	main:>0	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	are	be	main:>0	@+FMAINV V
+3	her	she	attr:>4	@A> PRON
+4	scores	score	subj:>2	@SUBJ N
+5	perfect	perfect	comp:>2	@PCOMPL-S A
+6	10's	10		@PCOMPL-S NUM	@ADVL NUM
+	$?	
+	$<p>	
+

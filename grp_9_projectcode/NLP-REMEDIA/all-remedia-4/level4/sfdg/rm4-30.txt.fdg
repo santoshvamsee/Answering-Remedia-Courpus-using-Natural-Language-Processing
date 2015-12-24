@@ -1,0 +1,348 @@
+0		
+	$<p>	
+
+0		
+	$(	
+2	Queens	queen		@NH N
+	$,	
+4	New	new	attr:>5	@A> A
+5	York	York	main:>1	@NH N	@APP N
+	$,	
+7	July	July		@NH N
+8	1	1	mod:>7	@<NOM NUM
+	$,	
+10	1989	1989	mod:>8	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Attention	attention	subj:>2	@SUBJ N
+2	video	video	main:>0	@+FMAINV V
+3	game	game	attr:>4	@A> N
+4	lovers	lover	obj:>2	@OBJ N
+	$!	
+	$<s>	
+
+0		
+1	Have	have	v-ch:>4	@+FAUXV V
+2	you	you	subj:>1	@SUBJ PRON
+3	ever	ever	frq:>4	@ADVL ADV
+4	spent	spend	main:>0	@-FMAINV EN
+5	hours	hour	dur:>4	@O-ADVL N
+6	putting	put	mod:>5	@-FMAINV ING
+7	quarters	quarter	obj:>6	@OBJ N
+8	in	in	ha:>6	@ADVL PREP
+9	machines	machine	pcomp:>8	@<P N
+10	like	like	mod:>9	@<NOM PREP
+11	Pac	Pac	attr:>12	@A> ABBR
+12	Man	man	pcomp:>10	@<P N
+	$?	
+	$<s>	
+
+0		
+1	Does	do	v-ch:>8	@+FAUXV V
+2	the	the	det:>3	@DN> DET
+3	name	name	subj:>1	@SUBJ N
+	$"_	
+5	Donkey	donkey		@A> N
+6	Kong	Kong	main:>4	@SUBJ N	@OBJ N	@I-OBJ N	@APP N
+	$_"	
+8	have	have	main:>0	@-FMAINV V
+9	a	a	det:>11	@DN> DET
+10	special	special	attr:>11	@A> A
+11	meaning	mean	obj:>8	@OBJ N
+12	for	for	dat:>8	@ADVL PREP
+13	you	you	pcomp:>12	@<P PRON
+	$?	
+	$<p>	
+
+0		
+1	If	if	pm:>2	@CS CS
+2	so	so	cnd:>6	@ADVL ADV
+	$,	
+4	you	you	subj:>5	@SUBJ PRON
+5	will	will	v-ch:>6	@+FAUXV V
+6	enjoy	enjoy	main:>0	@-FMAINV V
+7	a	a	det:>9	@DN> DET
+8	new	new	attr:>9	@A> A
+9	show	show	obj:>6	@OBJ N
+10	at	at	loc:>6	@ADVL PREP
+11	the	the	det:>14	@DN> DET
+12	Moving	move	attr:>13	@A> A
+13	Image	image	attr:>14	@A> N
+14	Museum	museum	pcomp:>10	@<P N
+15	in	in	mod:>14	@<NOM PREP
+16	Queens	queen	pcomp:>15	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	has	have	main:>0	@+FMAINV V
+3	50	50	obj:>2	@OBJ NUM
+4	of	of	mod:>3	@<NOM-OF PREP
+5	the	the	det:>9	@DN> DET
+6	most	much	ad:>7	@AD-A> ADV
+7	popular	popular	attr:>8	@A> A
+8	video	video	attr:>9	@A> N
+9	games	game	pcomp:>4	@<P N
+10	on	on	mod:>9	@<NOM PREP
+11	display	display	pcomp:>10	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>4	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	video	video	attr:>4	@A> N
+4	game	game	subj:>5	@SUBJ N
+5	was	be	v-ch:>6	@+FAUXV V
+6	sold	sell	main:>0	@-FMAINV EN
+7	in	in	tmp:>6	@ADVL PREP
+8	1971	1971	pcomp:>7	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	Computer	computer	attr:>5	@A> N
+5	Space	space	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	next	next	attr:>3	@DN> DET
+3	year	year	tmp:>10	@ADVL N
+	$,	
+5	the	the	det:>6	@DN> DET
+6	game	game	subj:>9	@SUBJ N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	Pong	pong	pcomp:>7	@<P N
+9	was	be	v-ch:>10	@+FAUXV V
+10	sold	sell	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	could	could	v-ch:>3	@+FAUXV V
+3	be	be	v-ch:>4	@-FAUXV V
+4	played	play	main:>0	@-FMAINV EN
+5	on	on	phr:>4	@ADVL PREP
+6	TV	tv	attr:>7	@A> N
+7	screens	screen	pcomp:>5	@<P N
+8	at	at		@ADVL PREP
+9	home	home	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Players	player	subj:>2	@SUBJ N
+2	tried	try	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	score	score	obj:>2	@-FMAINV V
+5	points	point	obj:>4	@OBJ N
+6	by	by	man:>4	@ADVL PREP
+7	hitting	hit	pcomp:>6	@<P-FMAINV ING
+8	a	a	det:>9	@DN> DET
+9	ball	ball	obj:>7	@OBJ N
+10	back_and_forth	back_and_forth	ha:>7	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	Pac	Pac	attr:>2	@A> ABBR
+2	Man	man	subj:>3	@SUBJ N
+3	had	have	main:>0	@+FMAINV V
+4	lovable	lovable	attr:>5	@A> A
+5	blob	blob	attr:>6	@A> N
+6	characters	character	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	were	be	v-ch:>3	@+FAUXV V
+3	named	name	main:>0	@-FMAINV EN
+4	Pinky	Pinky	obj:>3	@OBJ N
+	$,	
+6	Blinky	Blinky	cc:>4	@OBJ N
+	$,	
+8	Inky	inky	cc:>6	@OBJ N
+	$,	
+10	and	and	cc:>8	@CC CC
+11	Clyde	Clyde	cc:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	would	would	v-ch:>3	@+FAUXV V
+3	chase	chase	main:>0	@-FMAINV V
+4	and	and		@CC CC
+5	be	be	v-ch:>6	@-FAUXV V
+6	chased	chase		@-FMAINV EN
+7	through	through	ha:>6	@ADVL PREP
+8	a	a	det:>9	@DN> DET
+9	maze	maze	pcomp:>7	@<P N
+	$.	
+	$<p>	
+
+0		
+1	One	one	subj:>7	@SUBJ NUM
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>6	@DN> DET
+4	biggest	big	attr:>5	@A> A
+5	video	video	attr:>6	@A> N
+6	hits	hit	pcomp:>2	@<P N
+7	was	be	main:>0	@+FMAINV V
+8	Space	space	attr:>9	@A> N
+9	Invaders	invader	comp:>7	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Kids	kid	subj:>2	@SUBJ N
+2	would	would	v-ch:>3	@+FAUXV V
+3	play	play	main:>0	@-FMAINV V
+4	for	for	dur:>3	@ADVL PREP
+5	so	so	ad:>6	@AD-A> ADV
+6	many	many	det:>7	@DN> DET
+7	hours	hour	pcomp:>4	@<P N
+8	that	that	pm:>11	@CS CS
+9	their	they	attr:>10	@A> PRON
+10	muscles	muscle	subj:>11	@SUBJ N
+11	became	become	mod:>5	@+FMAINV V
+12	sore	sore	comp:>11	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	Soon	soon	tmp:>4	@ADVL ADV
+2	doctors	doctor	subj:>3	@SUBJ N
+3	were	be	v-ch:>4	@+FAUXV V
+4	treating	treat	main:>0	@-FMAINV ING
+5	hundreds	hundred	obj:>4	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	cases	case	pcomp:>6	@<P N
+8	of	of	mod:>7	@<NOM-OF PREP
+	$"_	
+10	Space	space	attr:>11	@A> N
+11	Invaders	invader	attr:>12	@A> N
+12	wrist	wrist	pcomp:>8	@<P N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	All	all	det:>2	@DN> DET
+2	these	this	det:>3	@DN> DET
+3	games	game	cc:>5	@SUBJ N
+4	and	and	cc:>5	@CC CC
+5	more	many	subj:>6	@SUBJ PRON	@SUBJ PRON
+6	can	can	v-ch:>7	@+FAUXV V
+7	be	be	v-ch:>8	@-FAUXV V
+8	seen	see	main:>0	@-FMAINV EN
+9	at	at	loc:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	museum	museum	pcomp:>9	@<P N
+12	for	for	dur:>8	@ADVL PREP
+13	the	the	det:>14	@DN> DET
+14	next	next	det:>16	@DN> DET
+15	five	five	qn:>16	@QN> NUM
+16	months	month	pcomp:>12	@<P N
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	were	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	characters	character	comp:>2	@PCOMPL-S N
+5	in	in	ha:>2	@ADVL PREP
+6	Pac	Pac	attr:>7	@A> ABBR
+7	Man	man	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	video	video		@NH N	@SUBJ N	@PCOMPL-S N	@<P N
+3	game	game		@SUBJ N	@OBJ N	@PCOMPL-S N
+4	could	could	v-ch:>5	@+FAUXV V
+5	be	be	v-ch:>6	@-FAUXV V
+6	played	play	main:>0	@-FMAINV EN
+7	on	on	phr:>6	@ADVL PREP
+8	TV	tv	attr:>9	@A> N
+9	screens	screen	pcomp:>7	@<P N
+10	at	at		@ADVL PREP
+11	home	home	pcomp:>10	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>7	@ADVL ADV
+2	was	be	v-ch:>7	@+FAUXV V
+3	the	the	det:>6	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	video	video	attr:>6	@A> N
+6	game	game	subj:>2	@SUBJ N
+7	sold	sell	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>7	@ADVL ADV
+2	are	be	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	video	video	attr:>5	@A> N
+5	games	game	subj:>2	@SUBJ N
+6	being	be	v-ch:>7	@-FAUXV ING
+7	displayed	display	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>7	@ADVL ADV
+2	did	do	v-ch:>7	@+FAUXV V
+3	some	some	det:>6	@DN> DET
+4	video	video	attr:>5	@A> N
+5	game	game	attr:>6	@A> N
+6	players	player	subj:>2	@SUBJ N
+7	have	have	main:>0	@-FMAINV V
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	see	see	obj:>7	@-FMAINV V
+10	a	a	det:>11	@DN> DET
+11	doctor	doctor	obj:>9	@OBJ N
+	$?	
+	$<p>	
+

@@ -1,0 +1,327 @@
+0		
+1	World's	world	attr:>2	@A> N
+2	Tallest	tall	attr:>3	@A> A	@A> N
+3	Building	build	subj:>4	@SUBJ A
+4	Opens	open	main:>0	@+FMAINV V
+5	Its	it	attr:>6	@A> PRON
+6	Doors	door	obj:>4	@OBJ N
+	$<p>	
+
+0		
+	$(	
+2	NEW	new	attr:>3	@A> A
+3	YORK	York		@NH N
+	$:	
+5	May	May	mod:>3	@NH N
+6	1	1	mod:>5	@<NOM NUM
+	$,	
+8	1931	1931	mod:>6	@<NOM NUM
+	$)	
+10	$-		
+11	The	the	det:>14	@DN> DET
+12	world's	world	attr:>13	@A> N
+13	tallest	tall	attr:>14	@A> A
+14	building	build	subj:>15	@SUBJ N
+15	opened	open	main:>0	@+FMAINV V
+16	today	today	tmp:>15	@ADVL N
+17	in	in	ha:>15	@ADVL PREP
+18	New	new	attr:>19	@A> A
+19	York	York	attr:>20	@A> N
+20	City	city	pcomp:>17	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	v-ch:>3	@+FAUXV V
+3	called	call	main:>0	@-FMAINV EN
+4	the	the	det:>7	@DN> DET
+5	Empire	empire	attr:>6	@A> N
+6	State	state	attr:>7	@A> N
+7	Building	build	comp:>3	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	At	at	tmp:>7	@ADVL PREP
+2	noon	noon	pcomp:>1	@<P N
+	$,	
+4	two	two	qn:>6	@QN> NUM
+5	small	small	attr:>6	@A> A
+6	children	child	subj:>7	@SUBJ N
+7	cut	cut	main:>0	@+FMAINV V
+8	a	a	det:>9	@DN> DET
+9	ribbon	ribbon	obj:>7	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	front	front	pcomp:>3	@<P N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>8	@DN> DET
+7	main	main	attr:>8	@A> A
+8	door	door	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	ribbon	ribbon	subj:>3	@SUBJ N
+3	was	be	v-ch:>4	@+FAUXV V
+4	made	make	main:>0	@-FMAINV EN
+5	from	from	sou:>4	@ADVL PREP
+6	paper	paper	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	After	after	pm:>4	@CS CS
+2	it	it	subj:>3	@SUBJ PRON
+3	was	be	v-ch:>4	@+FAUXV V
+4	cut	cut		@-FMAINV EN
+	$,	
+6	people	people		@SUBJ N	@OBJ N
+7	walked	walk		@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V
+8	through	through	ha:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	door	door	pcomp:>8	@<P N
+11	for	for	dur:>7	@ADVL PREP
+12	the	the	det:>14	@DN> DET
+13	first	first	attr:>14	@A> NUM
+14	time	time	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Hundreds	hundred	subj:>4	@SUBJ N
+2	of	of	mod:>1	@<NOM-OF PREP
+3	people	people	pcomp:>2	@<P N
+4	were	be	main:>0	@+FMAINV V
+5	there	there	ha:>4	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	All	all	det:>2	@DN> DET
+2	day	day	tmp:>6	@ADVL N
+3	long	long	ad:>2	@ADVL ADV
+	$,	
+5	they	they	subj:>6	@SUBJ PRON
+6	took	take	main:>0	@+FMAINV V
+7	part	part	obj:>6	@OBJ N
+8	in	in	loc:>6	@ADVL PREP
+9	a	a	det:>11	@DN> DET
+10	big	big	attr:>11	@A> A
+11	party	party	pcomp:>8	@<P N
+12	on	on	mod:>11	@<NOM PREP
+13	a	a	det:>14	@DN> DET
+14	floor	floor	pcomp:>12	@<P N
+15	86	86	qn:>16	@QN> NUM
+16	stories	story		@SUBJ N
+17	high	high	mod:>16	@<NOM A
+	$.	
+	$<s>	
+
+0		
+1	This	this	det:>3	@DN> DET
+2	building	build	attr:>3	@A> N
+3	holds	hold		@SUBJ N	@PCOMPL-S N
+4	as	as	ad:>5	@AD-A> ADV
+5	many	many	det:>6	@DN> DET
+6	people	people		@NH N	@SUBJ N	@PCOMPL-S N
+7	as	as	pm:>9	@CS CS
+8	there	there	subj:>9	@F-SUBJ ADV
+9	are	be	main:>0	@+FMAINV V
+10	in	in	loc:>9	@ADVL PREP
+11	some	some	det:>12	@DN> DET
+12	cities	city	pcomp:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	day	day		@NH N	@SUBJ N	@OBJ N
+	$,	
+4	25,000	25,000	qn:>5	@QN> NUM
+5	workers	worker	subj:>6	@SUBJ N
+6	will	will	v-ch:>7	@+FAUXV V
+7	ride	ride	main:>0	@-FMAINV V
+8	one	one	obj:>7	@OBJ NUM
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>12	@DN> DET
+11	63	63	qn:>12	@QN> NUM
+12	elevators	elevator	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Another	another	det:>3	@DN> DET
+2	15,000	15,000	qn:>3	@QN> NUM
+3	people	people	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	visit	visit	main:>0	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	might	might	v-ch:>3	@+FAUXV V
+3	shop	shop	main:>0	@-FMAINV V
+4	or	or	cc:>3	@CC CC
+5	get	get	cc:>3	@-FMAINV V
+6	their	they	attr:>7	@A> PRON
+7	hair	hair		@SUBJ N	@OBJ N	@I-OBJ N	@A> N
+8	cut	cut		@NH N	@SUBJ N	@OBJ N	@I-OBJ N	@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>4	@DN> DET
+2	Empire	empire	attr:>3	@A> N
+3	State	state	attr:>4	@A> N
+4	Building	build	subj:>5	@SUBJ N
+5	is	be	main:>0	@+FMAINV V
+6	a	a	det:>7	@DN> DET
+7	skyscraper	skyscraper	comp:>5	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be		@+FMAINV V
+3	so	so	ad:>4	@AD-A> ADV
+4	tall	tall	comp:>2	@PCOMPL-S A
+5	that	that	pm:>7	@CS CS
+6	it	it	subj:>7	@SUBJ PRON
+7	seems	seem	mod:>3	@+FMAINV V
+8	to	to	pm:>9	@INFMARK> INFMARK>
+9	scrape	scrape	comp:>7	@-FMAINV V
+10	the	the	det:>11	@DN> DET
+11	skies	sky	obj:>9	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	At	at	loc:>5	@ADVL PREP
+2	the	the	det:>4	@DN> DET
+3	very	very	attr:>4	@A> A
+4	top	top	pcomp:>1	@<P N
+5	is	be	main:>0	@+FMAINV V
+6	a	a	det:>10	@DN> DET
+7	tall	tall	cc:>9	@A> A
+	$,	
+9	pointed	point	attr:>10	@A> A
+10	tower	tower	comp:>5	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>2	@SUBJ N
+2	can	can	v-ch:>3	@+FAUXV V
+3	go	go	main:>0	@-FMAINV V
+4	to	to	goa:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	top	top	pcomp:>4	@<P N
+7	and	and	cc:>3	@CC CC
+8	look	look	cc:>3	@-FMAINV V
+9	at	at	ha:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	views	view	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	see	see	main:>0	@-FMAINV V
+4	at_least	at_least	ad:>5	@AD-A> ADV
+5	50	50	qn:>6	@QN> NUM
+6	miles	mile		@SUBJ N	@OBJ N	@ADVL N
+7	away	away	ad:>6	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	cut	cut	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	ribbon	ribbon	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>7	@DN> DET
+7	building	build	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	was	be	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	ribbon	ribbon	subj:>2	@SUBJ N
+5	cut	cut	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	building	build	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	do	do	v-ch:>4	@+FAUXV V
+3	you	you	subj:>2	@SUBJ PRON
+4	think	think	main:>0	@-FMAINV V
+5	people	people	subj:>6	@SUBJ N
+6	can_	can	v-ch:>8	@+FAUXV V
+7	not	not	neg:>6	@ADVL NEG-PART
+8	see	see	obj:>4	@-FMAINV V
+9	the	the	det:>10	@DN> DET
+10	top	top	obj:>8	@OBJ N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	the	the	det:>13	@DN> DET
+13	building	build	pcomp:>11	@<P N
+14	on	on	tmp:>8	@ADVL PREP
+15	some	some	det:>16	@DN> DET
+16	days	day	pcomp:>14	@<P N
+	$?	
+	$<p>	
+

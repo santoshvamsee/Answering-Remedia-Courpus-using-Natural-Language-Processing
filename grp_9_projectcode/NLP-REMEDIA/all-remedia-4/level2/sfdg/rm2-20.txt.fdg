@@ -1,0 +1,320 @@
+0		
+1	The	the	det:>2	@DN> DET
+2	Sun	sun	subj:>3	@SUBJ N
+3	Will	will	v-ch:>4	@+FAUXV V
+4	Rise	rise	main:>0	@-FMAINV V
+5	But	but		@ADVL ADV	@AD-A> ADV	@CC CC
+6	Not	not	neg:>7	@ADVL NEG-PART
+7	Set	set		@<P-FMAINV EN	@-FMAINV EN
+8	Today	today	tmp:>7	@ADVL N
+	$<p>	
+
+0		
+	$(	
+2	GREENLAND	Greenland	main:>1	@NH N
+	$,	
+4	April	April		@NH N
+5	21	21	mod:>4	@<NOM NUM
+	$,	
+7	1989	1989	mod:>5	@<NOM NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Today	today		@NH N	@SUBJ N	@OBJ N	@ADVL N
+2	the	the	det:>3	@DN> DET
+3	sun	sun		@SUBJ N	@OBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	rise	rise		@-FMAINV V
+6	but	but		@CC CC
+7	it	it	subj:>8	@SUBJ PRON
+8	wo_	will	v-ch:>10	@+FAUXV V
+9	n't	not	neg:>8	@ADVL NEG-PART
+10	set	set		@-FMAINV V
+11	for	for	dur:>10	@ADVL PREP
+12	four	four	qn:>13	@QN> NUM
+13	months	month	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>3	@+FAUXV V
+3	see	see	main:>0	@-FMAINV V
+4	this	this	obj:>3	@OBJ PRON
+5	only	only	ha:>3	@ADVL ADV
+6	if	if	pm:>8	@CS CS
+7	you	you	subj:>8	@SUBJ PRON
+8	live	live	cnd:>3	@+FMAINV V
+9	in	in	loc:>8	@ADVL PREP
+10	Greenland	Greenland	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Greenland	Greenland	subj:>2	@SUBJ N
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	cold	cold	attr:>5	@A> A
+5	place	place	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Because	because	pm:>3	@CS CS
+2	it	it	subj:>3	@SUBJ PRON
+3	is	be	cnt:>8	@+FMAINV V
+4	far	far	loc:>3	@ADVL ADV
+5	north	north	comp:>3	@PCOMPL-S N
+	$,	
+7	it	it	subj:>8	@SUBJ PRON
+8	has	have	main:>0	@+FMAINV V
+9	four	four	qn:>10	@QN> NUM
+10	months	month	obj:>8	@OBJ N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	sunlight	sunlight	pcomp:>11	@<P N
+13	each	each	det:>14	@DN> DET
+14	year	year	tmp:>8	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	sun	sun	subj:>3	@SUBJ N
+3	will	will	v-ch:>5	@+FAUXV V
+4	not	not	neg:>3	@ADVL NEG-PART
+5	set	set	main:>0	@-FMAINV V
+6	until	until	tmp:>5	@ADVL PREP
+7	August	August	pcomp:>6	@<P N
+8	21	21	mod:>7	@<NOM NUM
+	$.	
+	$<s>	
+
+0		
+1	There	there	subj:>2	@F-SUBJ ADV
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>5	@DN> DET
+4	dark	dark	attr:>5	@A> A
+5	side	side	comp:>2	@PCOMPL-S N
+6	to	to		@<NOM PREP	@ADVL PREP
+7	this	this	det:>8	@DN> DET
+8	story	story	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	About	about	ad:>2	@AD-A> ADV
+2	October	October		@NH N	@SUBJ N	@ADVL N
+3	1	1	mod:>2	@<NOM NUM
+	$,	
+5	the	the	det:>6	@DN> DET
+6	sun	sun	mod:>3	@APP N
+7	will	will	v-ch:>8	@+FAUXV V
+8	start	start	main:>0	@-FMAINV V
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	set	set	obj:>8	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>4	@ADVL ADV
+2	it	it	subj:>3	@SUBJ PRON
+3	will	will	v-ch:>4	@+FAUXV V
+4	stay	stay	main:>0	@-FMAINV V
+5	low	low	comp:>4	@PCOMPL-S A
+6	in	in	loc:>4	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	sky	sky	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	will	will	v-ch:>4	@+FAUXV V
+3	not	not	neg:>2	@ADVL NEG-PART
+4	rise	rise	main:>0	@-FMAINV V
+5	for	for	dur:>4	@ADVL PREP
+6	four	four	qn:>7	@QN> NUM
+7	months	month	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	land	land	subj:>3	@SUBJ N
+3	will	will	v-ch:>4	@+FAUXV V
+4	be	be	main:>0	@-FMAINV V
+5	in	in	ha:>4	@ADVL PREP
+6	darkness	darkness	pcomp:>5	@<P N
+7	until	until	tmp:>4	@ADVL PREP
+8	February	February	pcomp:>7	@<P N
+9	22	22	mod:>8	@<NOM NUM
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	only	only	attr:>3	@A> A
+3	light	light	subj:>4	@SUBJ N
+4	will	will	v-ch:>5	@+FAUXV V
+5	be	be	main:>0	@-FMAINV V
+6	from	from	ha:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	moon	moon	pcomp:>6	@<P N
+	$,	
+10	stars	star	cc:>8	@<P N
+	$,	
+12	and	and	cc:>10	@CC CC
+13	snow	snow	cc:>10	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	why	why	cnt:>7	@ADVL ADV
+4	Greenland	Greenland	subj:>5	@SUBJ N
+5	is	be	v-ch:>7	@+FAUXV V
+6	often	often	frq:>7	@ADVL ADV
+7	called	call	comp:>2	@-FMAINV EN
+	$,	
+	$"_	
+10	the	the	det:>11	@DN> DET
+11	land	land		@SUBJ N	@APP N	@<P N
+12	of	of	mod:>11	@<NOM-OF PREP
+13	the	the	det:>15	@DN> DET
+14	midnight	midnight	attr:>15	@A> N
+15	sun	sun	pcomp:>12	@<P N
+	$.	
+	$_"	
+	$<s>	
+
+0		
+1	You	you	subj:>2	@SUBJ PRON
+2	might	might	v-ch:>3	@+FAUXV V
+3	wonder	wonder	main:>0	@-FMAINV V
+4	who	who	subj:>5	@SUBJ PRON
+5	could	could	v-ch:>6	@+FAUXV V
+6	live	live	obj:>3	@-FMAINV V
+7	in	in	loc:>6	@ADVL PREP
+8	such	such	det:>9	@DN> DET
+9	a	a	det:>11	@DN> DET
+10	strange	strange	attr:>11	@A> A
+11	place	place	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Eskimos	Eskimo	subj:>2	@SUBJ N
+2	live	live	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	Greenland	Greenland	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	live	live	main:>0	@+FMAINV V
+3	close	close	ha:>2	@ADVL ADV
+4	to	to	mod:>3	@<NOM PREP
+5	the	the	det:>6	@DN> DET
+6	water	water	pcomp:>4	@<P N
+	$,	
+8	where	where	loc:>10	@ADVL ADV
+9	they	they	subj:>10	@SUBJ PRON
+10	fish	fish	mod:>6	@+FMAINV V
+11	for	for	ha:>10	@ADVL PREP
+12	food	food	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	wear	wear	main:>0	@+FMAINV V
+3	animal	animal	attr:>4	@A> N
+4	furs	fur	obj:>2	@OBJ N
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	keep	keep	cnt:>2	@-FMAINV V
+7	warm	warm	comp:>6	@PCOMPL-S A
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	lives	live	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	Greenland	Greenland	pcomp:>3	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	happens	happen	main:>0	@+FMAINV V
+3	on	on	phr:>2	@ADVL PREP
+4	April	April	pcomp:>3	@<P N
+5	21	21	mod:>4	@<NOM NUM
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	does	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	sun	sun	subj:>2	@SUBJ N
+5	set	set	main:>0	@-FMAINV V
+6	and	and	cc:>5	@CC CC
+7	not	not	neg:>8	@ADVL NEG-PART
+8	rise	rise	cc:>5	@-FMAINV V
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+	$"_	
+4	the	the	det:>5	@DN> DET
+5	land	land	subj:>2	@SUBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	the	the	det:>9	@DN> DET
+8	midnight	midnight	attr:>9	@A> N
+9	sun	sun	pcomp:>6	@<P N
+	$_"	
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	does	do	v-ch:>4	@+FAUXV V
+3	Greenland	Greenland	subj:>2	@SUBJ N
+4	have	have	main:>0	@-FMAINV V
+5	strange	strange	attr:>6	@A> A
+6	seasons	season	tmp:>4	@ADVL N
+	$?	
+	$<p>	
+

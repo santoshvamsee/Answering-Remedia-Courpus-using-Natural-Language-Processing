@@ -1,0 +1,345 @@
+0		
+1	Special	special	attr:>2	@A> A
+2	School	school	attr:>3	@A> N
+3	Trains	train	attr:>4	@A> N
+4	Faithful	faithful	attr:>5	@A> A
+5	Friends	friend	main:>0	@NH N
+	$<p>	
+
+0		
+	$(	
+2	MORRISTOWN	morristown	main:>1	@NH N
+	$,	
+4	NEW	new	attr:>5	@A> A
+5	JERSEY	jersey		@NH N
+	$,	
+7	1952	1952		@NH NUM	@SUBJ NUM	@PCOMPL-S NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+9	$-		
+10	A	a	det:>12	@DN> DET
+11	famous	fam	attr:>12	@A> A
+12	school	school	subj:>13	@SUBJ N
+13	is	be	main:>0	@+FMAINV V
+14	25	25	qn:>15	@QN> NUM
+15	years_old	years_old	comp:>13	@PCOMPL-S A
+16	this	this	det:>17	@DN> DET
+17	year	year	tmp:>13	@ADVL N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	this	this	det:>3	@DN> DET
+3	school	school	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	not	not	neg:>6	@ADVL NEG-PART
+6	for	for		@ADVL PREP
+7	children	child	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	for	for	ha:>2	@ADVL PREP
+4	dogs	dog	pcomp:>3	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>6	@DN> DET
+4	Seeing	see	attr:>5	@A> A
+5	Eye	eye	attr:>6	@A> N
+6	School	school	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Only	only	meta:>3	@ADVL ADV
+2	special	special	attr:>3	@A> A
+3	dogs	dog	subj:>4	@SUBJ N
+4	can	can	v-ch:>5	@+FAUXV V
+5	go	go	main:>0	@-FMAINV V
+6	to	to	goa:>5	@ADVL PREP
+7	the	the	det:>8	@DN> DET
+8	school	school	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	learn	learn	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	see	see	obj:>2	@-FMAINV V
+5	for	for	ha:>4	@ADVL PREP
+6	their	they	attr:>7	@A> PRON
+7	owners	owner	pcomp:>5	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	dogs	dog	subj:>3	@SUBJ N
+3	belong	belong	main:>0	@+FMAINV V
+4	to	to	ha:>3	@ADVL PREP
+5	people	people	pcomp:>4	@<P N
+6	who	who	subj:>7	@SUBJ PRON
+7	are	be	mod:>5	@+FMAINV V
+8	blind	blind	comp:>7	@PCOMPL-S A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>5	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	Seeing	see	attr:>4	@A> A
+4	Eye	eye	attr:>5	@A> N
+5	dog	dog	subj:>6	@SUBJ N
+6	was	be	main:>0	@+FMAINV V
+7	a	a	det:>9	@DN> DET
+8	German	German	attr:>9	@A> A
+9	shepherd	shepherd	comp:>6	@PCOMPL-S N
+10	named	name	mod:>9	@-FMAINV EN
+11	Buddy	buddy	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	born	bear	main:>0	@-FMAINV EN
+4	in	in	loc:>3	@ADVL PREP
+5	Switzerland	Switzerland	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Because	because	pm:>3	@CS CS
+2	he	he	subj:>3	@SUBJ PRON
+3	was	be	cnt:>9	@+FMAINV V
+4	so	so	ad:>5	@AD-A> ADV
+5	smart	smart	comp:>3	@PCOMPL-S A
+	$,	
+7	he	he	subj:>8	@SUBJ PRON
+8	was	be	v-ch:>9	@+FAUXV V
+9	sent	send	main:>0	@-FMAINV EN
+10	to	to	dat:>9	@ADVL PREP
+11	the	the	det:>13	@DN> DET
+12	United	unite	attr:>13	@A> A
+13	States	state	pcomp:>10	@<P N
+14	to	to	pm:>15	@INFMARK> INFMARK>
+15	be	be	v-ch:>16	@-FAUXV V
+16	trained	train	mod:>13	@-FMAINV EN
+17	at	at	loc:>16	@ADVL PREP
+18	this	this	det:>20	@DN> DET
+19	special	special	attr:>20	@A> A
+20	school	school	pcomp:>17	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Buddy	buddy	subj:>2	@SUBJ N
+2	learned	learn	main:>0	@+FMAINV V
+3	to	to	pm:>4	@INFMARK> INFMARK>
+4	lead	lead	obj:>2	@-FMAINV V
+5	his	he	attr:>6	@A> PRON
+6	blind	blind	attr:>7	@A> A
+7	owner	owner	obj:>4	@OBJ N
+	$,	
+9	Morris	Morris	voc:>4	@VOC N
+	$.	
+	$<s>	
+
+0		
+1	Buddy	buddy	subj:>2	@SUBJ N
+2	would	would	v-ch:>3	@+FAUXV V
+3	tell	tell	main:>0	@-FMAINV V
+4	Morris	Morris	dat:>3	@I-OBJ N
+5	when	when	tmp:>7	@ADVL ADV
+6	it	it	subj:>7	@SUBJ PRON
+7	was	be	tmp:>3	@+FMAINV V
+8	safe	safe	comp:>7	@PCOMPL-S A
+9	to	to	pm:>10	@INFMARK> INFMARK>
+10	cross	cross	mod:>8	@-FMAINV V
+11	the	the	det:>12	@DN> DET
+12	street	street	obj:>10	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	He	he	subj:>2	@SUBJ PRON
+2	would	would	v-ch:>3	@+FAUXV V
+3	lead	lead	main:>0	@-FMAINV V
+4	him	he	obj:>3	@OBJ PRON
+5	around	around	ha:>3	@ADVL PREP
+6	things	thing	pcomp:>5	@<P N
+7	that	that	subj:>8	@SUBJ PRON
+8	were	be	mod:>6	@+FMAINV V
+9	in	in	man:>8	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	way	way	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Morris	Morris	subj:>2	@SUBJ N
+2	kept	keep	main:>0	@+FMAINV V
+3	Buddy	buddy	obj:>2	@OBJ N
+4	close	close	mod:>3	@<NOM A
+5	by	by		@ADVL ADV
+6	on	on	ha:>2	@ADVL PREP
+7	a	a	det:>8	@DN> DET
+8	leash	leash	pcomp:>6	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Ten	ten	qn:>2	@QN> NUM
+2	years	year		@NH N	@SUBJ N	@PCOMPL-S N	@ADVL N
+3	after	after		@<NOM PREP	@ADVL PREP	@CS CS
+4	the	the		@DN> DET
+5	school	school		@NH N	@SUBJ N	@PCOMPL-S N	@A> N
+6	opened	open		@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V	@PCOMPL-S A	@SUBJ A	@<P A	@NH A
+	$,	
+8	there	there	subj:>9	@F-SUBJ ADV
+9	were	be		@+FMAINV V
+10	250	250	qn:>13	@QN> NUM
+11	Seeing	see	attr:>12	@A> A
+12	Eye	eye	attr:>13	@A> N
+13	dogs	dog	comp:>9	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Today	today	tmp:>4	@ADVL N
+	$,	
+3	there	there	subj:>4	@F-SUBJ ADV
+4	are	be	main:>0	@+FMAINV V
+5	thousands	thousand	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	that	that	subj:>4	@SUBJ PRON
+3	still	still	meta:>4	@ADVL ADV
+4	is	be	main:>0	@+FMAINV V
+5	not	not	neg:>4	@ADVL NEG-PART
+6	enough	enough		@ADVL ADV	@SUBJ PRON	@OBJ PRON	@PCOMPL-S PRON	@ADVL PRON
+7	for	for		@ADVL PREP
+8	the	the	det:>9	@DN> DET
+9	many	many	det:>11	@DN> DET
+10	blind	blind	attr:>11	@A> A
+11	people	people	pcomp:>7	@<P N
+12	who	who	subj:>13	@SUBJ PRON
+13	need	need	mod:>11	@+FMAINV V
+14	help	help	obj:>13	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>5	@DN> DET
+2	good	good	attr:>3	@A> A
+3	Seeing	see	attr:>4	@A> A
+4	Eye	eye	attr:>5	@A> N
+5	dog	dog	subj:>6	@SUBJ N
+6	will	will	v-ch:>7	@+FAUXV V
+7	give	give	main:>0	@-FMAINV V
+8	its	it	attr:>9	@A> PRON
+9	own	own	attr:>10	@A> A
+10	life	life		@SUBJ N	@OBJ N	@I-OBJ N
+11	before	before	pm:>13	@CS CS
+12	it	it	subj:>13	@SUBJ PRON
+13	lets	let	tmp:>7	@+FMAINV V
+14	its	it	attr:>15	@A> PRON
+15	owner	owner	obj:>13	@OBJ N
+16	be	be	v-ch:>17	@-FAUXV V
+17	hurt	hurt	mod:>15	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	faithful	faithful	attr:>4	@A> A
+4	friends	friend	comp:>2	@PCOMPL-S N
+5	forever	forever	tmp:>2	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	Buddy	buddy	comp:>2	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	det:>2	@DN> DET
+2	kind	kind	main:>0	@NH N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	dog	dog	pcomp:>3	@<P N
+5	was	be		@+FMAINV V
+6	Buddy	buddy	comp:>5	@PCOMPL-S N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>7	@ADVL ADV
+2	was	be	v-ch:>7	@+FAUXV V
+3	the	the	det:>6	@DN> DET
+4	Seeing	see	attr:>5	@A> A
+5	Eye	eye	attr:>6	@A> N
+6	School	school	subj:>2	@SUBJ N
+7	started	start	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	was	be	v-ch:>4	@+FAUXV V
+3	Buddy	buddy	subj:>2	@SUBJ N
+4	born	bear	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	is	be	main:>0	@+FMAINV V
+3	a	a	det:>6	@DN> DET
+4	seeing	see	attr:>5	@A> A
+5	eye	eye	attr:>6	@A> N
+6	dog	dog		@SUBJ N
+7	a	a	det:>9	@DN> DET
+8	faithful	faithful	attr:>9	@A> A
+9	friend	friend	subj:>2	@SUBJ N
+	$?	
+	$<p>	
+

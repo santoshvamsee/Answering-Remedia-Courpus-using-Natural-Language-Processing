@@ -1,0 +1,320 @@
+
+ 9999 99       0       O      A          Special         NOFUNC/A            -----     -1
+ 9999 99       1       O      N              Day        NOFUNC/NH            -----     -1
+ 9999 99       2       O   PREP              for       NOFUNC/NOM            -----     -1
+ 9999 99       3       O      N             Kids          pcomp/P            -----      2
+ 9999 99       4       O     EN            T_set       mod/FMAINV            -----      3
+ 9999 99       5       O    ADV            Aside          ha/ADVL            -----      4
+
+ 9999 99       0       O    SEP                (          ha/ADVL            ?????     -1
+ 9999 99       1       O      N          Anytown           attr/A            -----      5
+ 9999 99       2       O    SEP                ,           attr/A            ?????     -1
+ 9999 99       3       O   ABBR              USA          mod/NOM            -----      1
+ 9999 99       4       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       5       O      N        September       NOFUNC/APP            -----     -1
+ 9999 99       6       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       7       O    NUM             1989         mod/ADVL            -----      5
+ 9999 99       8       O    SEP                )         mod/ADVL            ?????     -1
+ 9999 99       9       O    SEP                .         mod/ADVL            ?????     -1
+
+ 9999 99       0       O      A             Good           attr/A            -----      1
+ 9999 99       1       O      N             news          main/NH            -----     -1
+ 9999 99       2       O   PREP              for          mod/NOM            -----      1
+ 9999 99       3       O    DET              all           det/DN            -----      4
+ 9999 99       4       O      N             kids          pcomp/P            -----      2
+ 9999 99       5       O    SEP                !          pcomp/P            ?????     -1
+
+ 9999 99       0       O      V             T_do       v-ch/FAUXV            -----      2
+ 9999 99       1       O   PRON              you        subj/SUBJ            -----      0
+ 9999 99       2       O      V           T_know      main/FMAINV            -----     -1
+ 9999 99       3       O     CS             that            pm/CS            -----      7
+ 9999 99       4       O    DET             each           det/DN            -----      5
+ 9999 99       5       O      N             year         tmp/ADVL            -----      7
+ 9999 99       6       O   PRON              you        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_have       obj/FMAINV            -----      2
+ 9999 99       8       O   PRON             your           attr/A            -----      9
+ 9999 99       9       O      A              own           attr/A            -----     10
+ 9999 99      10       O      A          special           attr/A            -----     11
+ 9999 99      11       O      N              day          obj/OBJ            -----      7
+ 9999 99      12       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON              It_        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN           T_hold      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP               on         tmp/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      6
+ 9999 99       5       O    NUM           fourth           attr/A            -----      6
+ 9999 99       6       O      N         Saturday          pcomp/P            -----      3
+ 9999 99       7       O   PREP               in         mod/ADVL            -----      6
+ 9999 99       8       O      N        September          pcomp/P            -----      7
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PRON             Most      NOFUNC/SUBJ            -----     -1
+ 9999 99       1       O   PREP               of           mod/OF            -----      0
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N             time          pcomp/P            -----      1
+ 9999 99       4       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       5       O      N             kids        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_look      main/FMAINV            -----     -1
+ 9999 99       7       O   PREP            up_to         goa/ADVL            -----      6
+ 9999 99       8       O      N           adults          pcomp/P            -----      7
+ 9999 99       9       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP               On         tmp/ADVL            -----      7
+ 9999 99       1       O      A         National           attr/A            -----      2
+ 9999 99       2       O      N             Kids           attr/A            -----      3
+ 9999 99       3       O      N              Day          pcomp/P            -----      0
+ 9999 99       4       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       5       O    DET              the           det/DN            -----      6
+ 9999 99       6       O      N        grown-ups        subj/SUBJ            -----      7
+ 9999 99       7       O      V           T_show      main/FMAINV            -----     -1
+ 9999 99       8       O      A            young           attr/A            -----      9
+ 9999 99       9       O      N           people          dat/OBJ            -----      7
+ 9999 99      10       O     CS             that            pm/CS            -----     12
+ 9999 99      11       O   PRON             they        subj/SUBJ            -----     12
+ 9999 99      12       O      V             T_be       obj/FMAINV            -----      7
+ 9999 99      13       O      A        important           comp/S            -----     12
+ 9999 99      14       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O   PREP               In         cla/ADVL            -----      6
+ 9999 99       1       O      N            towns          pcomp/P            -----      0
+ 9999 99       2       O    ADV       everywhere      NOFUNC/ADVL            -----     -1
+ 9999 99       3       O    SEP                ,      NOFUNC/ADVL            ?????     -1
+ 9999 99       4       O      N              fun           attr/A            -----      5
+ 9999 99       5       O      N           events        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       7       O      N            place          obj/OBJ            -----      6
+ 9999 99       8       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET             Some           det/DN            -----      1
+ 9999 99       1       O      N            towns        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_may       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V           T_hold      main/FMAINV            -----     -1
+ 9999 99       4       O      N           talent           attr/A            -----      5
+ 9999 99       5       O      N            shows      NOFUNC/SUBJ            -----     -1
+ 9999 99       6       O    SEP                ,      NOFUNC/SUBJ            ?????     -1
+ 9999 99       7       O      N            games          mod/APP            -----      5
+ 9999 99       8       O    SEP                ,          mod/APP            ?????     -1
+ 9999 99       9       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99      10       O      N         contests       NOFUNC/OBJ            -----     -1
+ 9999 99      11       O    ADV            where         loc/ADVL            -----     14
+ 9999 99      12       O      N           prizes        subj/SUBJ            -----     13
+ 9999 99      13       O      V             T_be       v-ch/FAUXV            -----     14
+ 9999 99      14       O     EN          T_award       mod/FMAINV            -----     10
+ 9999 99      15       O     CC              and            cc/CC            -----     14
+ 9999 99      16       O      N             food        subj/SUBJ            -----     17
+ 9999 99      17       O      V             T_be        cc/FMAINV            -----     14
+ 9999 99      18       O      A             free           comp/S            -----     17
+ 9999 99      19       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    DET              All           det/DN            -----      1
+ 9999 99       1       O      N            kinds        subj/SUBJ            -----      4
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O      N           sports          pcomp/P            -----      2
+ 9999 99       4       O      V             T_be       v-ch/FAUXV            -----      5
+ 9999 99       5       O     EN           T_play      main/FMAINV            -----     -1
+ 9999 99       6       O   PREP               at         loc/ADVL            -----      5
+ 9999 99       7       O      N      playgrounds          pcomp/P            -----      6
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N            Boys'          cc/SUBJ            -----      3
+ 9999 99       1       O     CC              and            cc/CC            -----      3
+ 9999 99       2       O      N           girls'           attr/A            -----      3
+ 9999 99       3       O      N            camps        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_take      main/FMAINV            -----     -1
+ 9999 99       5       O      N             time          obj/OBJ            -----      4
+ 9999 99       6       O INFMARK               to       pm/INFMARK            -----      7
+ 9999 99       7       O      V           T_show       mod/FMAINV            -----      5
+ 9999 99       8       O      N             kids          dat/OBJ            -----      7
+ 9999 99       9       O     CS             that            pm/CS            -----     11
+ 9999 99      10       O   PRON             they        subj/SUBJ            -----     11
+ 9999 99      11       O      V             T_be       obj/FMAINV            -----      7
+ 9999 99      12       O    DET              the           det/DN            -----     14
+ 9999 99      13       O      N           future           attr/A            -----     14
+ 9999 99      14       O      N             hope           comp/S            -----     11
+ 9999 99      15       O   PREP               of           mod/OF            -----     14
+ 9999 99      16       O    DET              the           det/DN            -----     17
+ 9999 99      17       O      N            world          pcomp/P            -----     15
+ 9999 99      18       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Many           det/DN            -----      1
+ 9999 99       1       O      N           adults        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_get      main/FMAINV            -----     -1
+ 9999 99       3       O    ADV         together        meta/ADVL            -----      2
+ 9999 99       4       O     CC              and            cc/CC            -----      2
+ 9999 99       5       O      V          T_raise        cc/FMAINV            -----      2
+ 9999 99       6       O      N            money          obj/OBJ            -----      5
+ 9999 99       7       O   PREP              for         dur/ADVL            -----      5
+ 9999 99       8       O      N             Kids           attr/A            -----      9
+ 9999 99       9       O      N              Day          pcomp/P            -----      7
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N            money        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_help      main/FMAINV            -----     -1
+ 9999 99       3       O      N          orphans          obj/OBJ            -----      2
+ 9999 99       4       O     CC              and            cc/CC            -----      3
+ 9999 99       5       O      A            needy           attr/A            -----      6
+ 9999 99       6       O      N       youngsters           cc/OBJ            -----      3
+ 9999 99       7       O    SEP                .           cc/OBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V          T_might       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V            T_buy      main/FMAINV            -----     -1
+ 9999 99       3       O      N      wheelchairs          obj/OBJ            -----      2
+ 9999 99       4       O   PREP              for         dat/ADVL            -----      2
+ 9999 99       5       O   PRON            those          pcomp/P            -----      4
+ 9999 99       6       O   PRON              who        subj/SUBJ            -----      7
+ 9999 99       7       O      V            T_can       v-ch/FAUXV            -----      9
+ 9999 99       8       O NEG-PART              n't         neg/ADVL            -----      7
+ 9999 99       9       O      V           T_walk       mod/FMAINV            -----      5
+ 9999 99      10       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V            T_may       v-ch/FAUXV            -----      3
+ 9999 99       2       O    ADV             also      NOFUNC/ADVL            -----     -1
+ 9999 99       3       O      V            T_buy      main/FMAINV            -----     -1
+ 9999 99       4       O      N        baseballs      NOFUNC/SUBJ            -----     -1
+ 9999 99       5       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99       6       O      N             bats      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O   PREP              for      NOFUNC/ADVL            -----     -1
+ 9999 99       8       O    DET                a        NOFUNC/DN            -----     -1
+ 9999 99       9       O      N     neighborhood         NOFUNC/A            -----     -1
+ 9999 99      10       O      N             team      NOFUNC/SUBJ            -----     -1
+ 9999 99      11       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      2
+ 9999 99       1       O    NUM           second           attr/A            -----      2
+ 9999 99       2       O      N              day        subj/SUBJ            -----      6
+ 9999 99       3       O   PREP              for          mod/NOM            -----      2
+ 9999 99       4       O      A            young           attr/A            -----      5
+ 9999 99       5       O      N           people          pcomp/P            -----      3
+ 9999 99       6       O      V             T_be       v-ch/FAUXV            -----      7
+ 9999 99       7       O     EN           T_hold      main/FMAINV            -----     -1
+ 9999 99       8       O   PREP               by         agt/ADVL            -----      7
+ 9999 99       9       O    DET             some           det/DN            -----     10
+ 9999 99      10       O      N         churches          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N       Children's           attr/A            -----      1
+ 9999 99       1       O      N              Day        subj/SUBJ            -----      2
+ 9999 99       2       O      V             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O     EN           T_hold      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP               on         tmp/ADVL            -----      3
+ 9999 99       5       O    DET              the           det/DN            -----      7
+ 9999 99       6       O    NUM           second           attr/A            -----      7
+ 9999 99       7       O      N           Sunday          pcomp/P            -----      4
+ 9999 99       8       O   PREP               in         mod/ADVL            -----      7
+ 9999 99       9       O      N             June          pcomp/P            -----      8
+ 9999 99      10       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N             Boys          cc/SUBJ            -----      2
+ 9999 99       1       O     CC              and            cc/CC            -----      2
+ 9999 99       2       O      N            girls        subj/SUBJ            -----      3
+ 9999 99       3       O      V          T_bring      main/FMAINV            -----     -1
+ 9999 99       4       O      N          flowers          obj/OBJ            -----      3
+ 9999 99       5       O INFMARK               to       pm/INFMARK            -----      6
+ 9999 99       6       O      V       T_decorate       cnt/FMAINV            -----      3
+ 9999 99       7       O    DET              the           det/DN            -----      8
+ 9999 99       8       O      N         churches          obj/OBJ            -----      6
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O      N            Kids'           attr/A            -----      1
+ 9999 99       1       O      N           choirs        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_sing      main/FMAINV            -----     -1
+ 9999 99       3       O   PREP              for          ha/ADVL            -----      2
+ 9999 99       4       O    DET              the           det/DN            -----      5
+ 9999 99       5       O      N           adults          pcomp/P            -----      3
+ 9999 99       6       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      1
+ 9999 99       1       O      N           custom        subj/SUBJ            -----      2
+ 9999 99       2       O      V            T_can       v-ch/FAUXV            -----      3
+ 9999 99       3       O      V             T_be       v-ch/FAUXV            -----      4
+ 9999 99       4       O     EN          T_trace      main/FMAINV            -----     -1
+ 9999 99       5       O    ADV             back      NOFUNC/ADVL            -----     -1
+ 9999 99       6       O   PREP               to         goa/ADVL            -----      4
+ 9999 99       7       O    NUM             1856          pcomp/P            -----      6
+ 9999 99       8       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       9       O    ADV             when         tmp/ADVL            -----     12
+ 9999 99      10       O   PRON               it        subj/SUBJ            -----     11
+ 9999 99      11       O      V             T_be       v-ch/FAUXV            -----     12
+ 9999 99      12       O     EN           T_call       tmp/FMAINV            -----      4
+ 9999 99      13       O      N             Rose           attr/A            -----     14
+ 9999 99      14       O      N              Day           comp/S            -----     12
+ 9999 99      15       O    SEP                .           comp/S            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      4
+ 9999 99       2       O      A          special           attr/A            -----      3
+ 9999 99       3       O      N             days      NOFUNC/SUBJ            -----     -1
+ 9999 99       4       O     EN            T_set      main/FMAINV            -----     -1
+ 9999 99       5       O    ADV            aside         man/ADVL            -----      4
+ 9999 99       6       O   PREP              for         dat/ADVL            -----      4
+ 9999 99       7       O   PRON             them          pcomp/P            -----      6
+ 9999 99       8       O   PREP               in         tmp/ADVL            -----      4
+ 9999 99       9       O      N        September          pcomp/P            -----      8
+ 9999 99      10       O     CC              and            cc/CC            -----      9
+ 9999 99      11       O      N             June             cc/P            -----      9
+ 9999 99      12       O    SEP                ?             cc/P            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V         T_happen      main/FMAINV            -----     -1
+ 9999 99       2       O   PREP               in         tmp/ADVL            -----      1
+ 9999 99       3       O      N            towns          pcomp/P            -----      2
+ 9999 99       4       O    ADV       everywhere         loc/ADVL            -----      1
+ 9999 99       5       O   PREP               on         mod/ADVL            -----      4
+ 9999 99       6       O      A         National           attr/A            -----      7
+ 9999 99       7       O      N             Kids           attr/A            -----      8
+ 9999 99       8       O      N              Day          pcomp/P            -----      5
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      4
+ 9999 99       3       O    NUM              two            qn/QN            -----      4
+ 9999 99       4       O      N             days        subj/SUBJ            -----      1
+ 9999 99       5       O   PREP              for          mod/NOM            -----      4
+ 9999 99       6       O      N             kids          pcomp/P            -----      5
+ 9999 99       7       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV            Where         loc/ADVL            -----      3
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON              you        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_find      main/FMAINV            -----     -1
+ 9999 99       4       O    DET             many           det/DN            -----      5
+ 9999 99       5       O      N             kids          obj/OBJ            -----      3
+ 9999 99       6       O   PREP               on         tmp/ADVL            -----      3
+ 9999 99       7       O    DET              the           det/DN            -----      9
+ 9999 99       8       O    NUM           second           attr/A            -----      9
+ 9999 99       9       O      N           Sunday          pcomp/P            -----      6
+ 9999 99      10       O   PREP               in         mod/ADVL            -----      9
+ 9999 99      11       O      N             June          pcomp/P            -----     10
+ 9999 99      12       O    SEP                ?          pcomp/P            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why         cnt/ADVL            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O      N           adults        subj/SUBJ            -----      1
+ 9999 99       3       O      V          T_honor      main/FMAINV            -----     -1
+ 9999 99       4       O      N             kids          obj/OBJ            -----      3
+ 9999 99       5       O   PREP             with         ins/ADVL            -----      3
+ 9999 99       6       O   PRON            their           attr/A            -----      7
+ 9999 99       7       O      A              own           attr/A            -----      8
+ 9999 99       8       O      N              day          pcomp/P            -----      5
+ 9999 99       9       O    SEP                ?          pcomp/P            ?????     -1
+

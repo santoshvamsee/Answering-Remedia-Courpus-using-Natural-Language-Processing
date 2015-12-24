@@ -1,0 +1,292 @@
+
+ 9999 99       0       O      A            Human           attr/A            -----      1
+ 9999 99       1       O      N           Voices          main/NH            -----     -1
+ 9999 99       2       O     EN          T_carry       mod/FMAINV            -----      1
+ 9999 99       3       O   PREP           Across          ha/ADVL            -----      2
+ 9999 99       4       O    DET              The           det/DN            -----      5
+ 9999 99       5       O      N              Sea          pcomp/P            -----      3
+
+ 9999 99       0       O    SEP                (          pcomp/P            ?????     -1
+ 9999 99       1       O    DET              The           det/DN            -----      3
+ 9999 99       2       O      A         Atlantic           attr/A            -----      3
+ 9999 99       3       O      N            Ocean       NOFUNC/APP            -----     -1
+ 9999 99       4       O    SEP                ,       NOFUNC/APP            ?????     -1
+ 9999 99       5       O      N         December          main/NH            -----      0
+ 9999 99       6       O    NUM               25          mod/NOM            -----      5
+ 9999 99       7       O    SEP                ,          mod/NOM            ?????     -1
+ 9999 99       8       O    NUM             1906          mod/NOM            -----      6
+ 9999 99       9       O    SEP                )          mod/NOM            ?????     -1
+ 9999 99      10       O    SEP                .          mod/NOM            ?????     -1
+
+ 9999 99       0       O    DET             Last           det/DN            -----      1
+ 9999 99       1       O      N            night         tmp/ADVL            -----      7
+ 9999 99       2       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       3       O    DET             most           det/DN            -----      4
+ 9999 99       4       O      N          sailors        subj/SUBJ            -----      7
+ 9999 99       5       O   PREP               at          mod/NOM            -----      4
+ 9999 99       6       O      N              sea          pcomp/P            -----      5
+ 9999 99       7       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       8       O    ADV              too             ad/A            -----      9
+ 9999 99       9       O      A             busy           comp/S            -----      7
+ 9999 99      10       O INFMARK               to       pm/INFMARK            -----     11
+ 9999 99      11       O      V          T_think       mod/FMAINV            -----      9
+ 9999 99      12       O   PREP            about         phr/ADVL            -----     11
+ 9999 99      13       O      N        Christmas           attr/A            -----     14
+ 9999 99      14       O      N              Eve          pcomp/P            -----     12
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O     CC              But            cc/CC            -----     -1
+ 9999 99       1       O   PRON        something        subj/SUBJ            -----      3
+ 9999 99       2       O      A       remarkable          mod/NOM            -----      1
+ 9999 99       3       O      V         T_happen      main/FMAINV            -----     -1
+ 9999 99       4       O     CS               as            pm/CS            -----      6
+ 9999 99       5       O   PRON             they        subj/SUBJ            -----      6
+ 9999 99       6       O      V           T_work       man/FMAINV            -----      3
+ 9999 99       7       O    SEP                .       man/FMAINV            ?????     -1
+
+ 9999 99       0       O   PREP          Through         cla/ADVL            -----      5
+ 9999 99       1       O   PRON            their           attr/A            -----      2
+ 9999 99       2       O      N        earphones          pcomp/P            -----      0
+ 9999 99       3       O    SEP                ,          pcomp/P            ?????     -1
+ 9999 99       4       O   PRON             they        subj/SUBJ            -----      5
+ 9999 99       5       O      V           T_hear      main/FMAINV            -----     -1
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            sound          obj/OBJ            -----      5
+ 9999 99       8       O   PREP               of           mod/OF            -----      7
+ 9999 99       9       O      A            human           attr/A            -----     10
+ 9999 99      10       O      N           voices          pcomp/P            -----      8
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O   PREP       Instead_of      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    DET              the           det/DN            -----      2
+ 9999 99       2       O      N             code          pcomp/P            -----      0
+ 9999 99       3       O   PREP               of           mod/OF            -----      2
+ 9999 99       4       O      N             dots          pcomp/P            -----      3
+ 9999 99       5       O     CC              and        NOFUNC/CC            -----     -1
+ 9999 99       6       O      N           dashes      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O   PRON             they        subj/SUBJ            -----      9
+ 9999 99       8       O    ADV          usually         frq/ADVL            -----      9
+ 9999 99       9       O      V           T_hear       obj/FMAINV            -----     13
+ 9999 99      10       O    SEP                ,       obj/FMAINV            ?????     -1
+ 9999 99      11       O   PRON             they        subj/SUBJ            -----     13
+ 9999 99      12       O    ADV         actually        meta/ADVL            -----     13
+ 9999 99      13       O      V           T_hear      main/FMAINV            -----     -1
+ 9999 99      14       O      N            words      NOFUNC/SUBJ            -----     -1
+ 9999 99      15       O     EN          T_speak       mod/FMAINV            -----     14
+ 9999 99      16       O    SEP                .       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    ADV            Never      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O    ADV           before      NOFUNC/ADVL            -----     -1
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O    DET              the           det/DN            -----      4
+ 9999 99       4       O      N            sound          obj/OBJ            -----      2
+ 9999 99       5       O   PREP               of           mod/OF            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      8
+ 9999 99       7       O      A            human           attr/A            -----      8
+ 9999 99       8       O      N            voice          pcomp/P            -----      5
+ 9999 99       9       O     EN             T_be       v-ch/FAUXV            -----     10
+ 9999 99      10       O     EN          T_carry       mod/FMAINV            -----      8
+ 9999 99      11       O   PREP             over          ha/ADVL            -----     10
+ 9999 99      12       O   PRON            their           attr/A            -----     13
+ 9999 99      13       O      A         wireless           attr/A            -----     14
+ 9999 99      14       O      N         machines          pcomp/P            -----     11
+ 9999 99      15       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET              The           det/DN            -----      1
+ 9999 99       1       O      N          sailors        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_hear      main/FMAINV            -----     -1
+ 9999 99       3       O    DET                a           det/DN            -----      4
+ 9999 99       4       O      N            woman         subj/OBJ            -----      5
+ 9999 99       5       O      V           T_sing       obj/FMAINV            -----      2
+ 9999 99       6       O    DET                a           det/DN            -----      8
+ 9999 99       7       O      N        Christmas           attr/A            -----      8
+ 9999 99       8       O      N            carol          obj/OBJ            -----      5
+ 9999 99       9       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      2
+ 9999 99       1       O   PRON             they        subj/SUBJ            -----      2
+ 9999 99       2       O      V           T_hear      main/FMAINV            -----     -1
+ 9999 99       3       O      N            music          obj/OBJ            -----      2
+ 9999 99       4       O   PREP             from         sou/ADVL            -----      2
+ 9999 99       5       O    DET                a           det/DN            -----      6
+ 9999 99       6       O      N           violin          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      2
+ 9999 99       1       O    NUM           second           attr/A            -----      2
+ 9999 99       2       O      N           person        NOFUNC/NH            -----     -1
+ 9999 99       3       O     EN           T_read      subj/FMAINV            -----      4
+ 9999 99       4       O      V           T_line      main/FMAINV            -----     -1
+ 9999 99       5       O   PREP             from          ha/ADVL            -----      4
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N            Bible          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    ADV             Then        meta/ADVL            -----      4
+ 9999 99       1       O    DET                a           det/DN            -----      3
+ 9999 99       2       O    NUM            third           attr/A            -----      3
+ 9999 99       3       O      N            voice        subj/SUBJ            -----      4
+ 9999 99       4       O      V           T_wish      main/FMAINV            -----     -1
+ 9999 99       5       O   PRON             them          dat/OBJ            -----      4
+ 9999 99       6       O   PRON              all          mod/APP            -----      5
+ 9999 99       7       O    DET                a           det/DN            -----     10
+ 9999 99       8       O    SEP               "_           det/DN            ?????     -1
+ 9999 99       9       O      A            Merry           attr/A            -----     10
+ 9999 99      10       O      N        Christmas      NOFUNC/SUBJ            -----     -1
+ 9999 99      11       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+ 9999 99      12       O    SEP               _"      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O    DET                A           det/DN            -----      1
+ 9999 99       1       O      N              man        subj/SUBJ            -----      4
+ 9999 99       2       O     EN           T_name       mod/FMAINV            -----      1
+ 9999 99       3       O      N        Fessenden          obj/OBJ            -----      2
+ 9999 99       4       O      V           T_make      main/FMAINV            -----     -1
+ 9999 99       5       O    DET             this           det/DN            -----      6
+ 9999 99       6       O      N            event          obj/OBJ            -----      4
+ 9999 99       7       O      V         T_happen    NOFUNC/FMAINV            -----     -1
+ 9999 99       8       O    SEP                .    NOFUNC/FMAINV            ?????     -1
+
+ 9999 99       0       O   PRON               He        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_have       v-ch/FAUXV            -----      2
+ 9999 99       2       O     EN             T_be       v-ch/FAUXV            -----      3
+ 9999 99       3       O    ING           T_work      main/FMAINV            -----     -1
+ 9999 99       4       O   PREP             with          ha/ADVL            -----      3
+ 9999 99       5       O      A            sound           attr/A            -----      6
+ 9999 99       6       O      N            waves          pcomp/P            -----      4
+ 9999 99       7       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O    DET             Last           det/DN            -----      1
+ 9999 99       1       O      N            night         tmp/ADVL            -----      4
+ 9999 99       2       O    SEP                ,         tmp/ADVL            ?????     -1
+ 9999 99       3       O   PRON               he        subj/SUBJ            -----      4
+ 9999 99       4       O      V          T_prove      main/FMAINV            -----     -1
+ 9999 99       5       O     CS             that            pm/CS            -----     11
+ 9999 99       6       O      N           speech          cc/SUBJ            -----      8
+ 9999 99       7       O     CC              and            cc/CC            -----      8
+ 9999 99       8       O      N            music        subj/SUBJ            -----      9
+ 9999 99       9       O      V            T_can       v-ch/FAUXV            -----     10
+ 9999 99      10       O      V             T_be       v-ch/FAUXV            -----     11
+ 9999 99      11       O     EN          T_carry      comp/FMAINV            -----      4
+ 9999 99      12       O      A             long           attr/A            -----     13
+ 9999 99      13       O      N        distances          obj/OBJ            -----     11
+ 9999 99      14       O   PREP          without         man/ADVL            -----     11
+ 9999 99      15       O    ING            T_use     pcomp/FMAINV            -----     14
+ 9999 99      16       O      N            wires          obj/OBJ            -----     15
+ 9999 99      17       O    SEP                .          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    DET             This           det/DN            -----      1
+ 9999 99       1       O      N           method        subj/SUBJ            -----      7
+ 9999 99       2       O   PREP               of           mod/OF            -----      1
+ 9999 99       3       O    ING           T_send     pcomp/FMAINV            -----      2
+ 9999 99       4       O      N           voices          obj/OBJ            -----      3
+ 9999 99       5       O     CC              and            cc/CC            -----      4
+ 9999 99       6       O      N            music             cc/P            -----      4
+ 9999 99       7       O      V             T_be       v-ch/FAUXV            -----      8
+ 9999 99       8       O     EN           T_call      main/FMAINV            -----     -1
+ 9999 99       9       O    DET                a           det/DN            -----     11
+ 9999 99      10       O    SEP               "_           det/DN            ?????     -1
+ 9999 99      11       O      N        broadcast      NOFUNC/SUBJ            -----     -1
+ 9999 99      12       O    SEP                .      NOFUNC/SUBJ            ?????     -1
+ 9999 99      13       O    SEP               _"      NOFUNC/SUBJ            ?????     -1
+
+ 9999 99       0       O   PRON               It        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V           T_have      main/FMAINV            -----     -1
+ 9999 99       3       O    DET             many           det/DN            -----      4
+ 9999 99       4       O      N             uses          obj/OBJ            -----      2
+ 9999 99       5       O   PREP               in         dur/ADVL            -----      2
+ 9999 99       6       O    DET              the           det/DN            -----      7
+ 9999 99       7       O      N           future          pcomp/P            -----      5
+ 9999 99       8       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N          Sailors        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_will       v-ch/FAUXV            -----      2
+ 9999 99       2       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       3       O      A             able           comp/S            -----      2
+ 9999 99       4       O INFMARK               to       pm/INFMARK            -----      5
+ 9999 99       5       O      V           T_send       mod/FMAINV            -----      3
+ 9999 99       6       O      N         messages          obj/OBJ            -----      5
+ 9999 99       7       O    ADV             much             ad/A            -----      8
+ 9999 99       8       O      A           faster         NOFUNC/O            -----     -1
+ 9999 99       9       O    SEP                .         NOFUNC/O            ?????     -1
+
+ 9999 99       0       O      N           People        subj/SUBJ            -----      4
+ 9999 99       1       O   PREP               in          mod/NOM            -----      0
+ 9999 99       2       O    NUM              two            qn/QN            -----      3
+ 9999 99       3       O      N           cities          pcomp/P            -----      1
+ 9999 99       4       O      V           T_will       v-ch/FAUXV            -----      5
+ 9999 99       5       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       6       O      A             able           comp/S            -----      5
+ 9999 99       7       O INFMARK               to       pm/INFMARK            -----      8
+ 9999 99       8       O      V           T_talk       mod/FMAINV            -----      6
+ 9999 99       9       O   PREP               to          ha/ADVL            -----      8
+ 9999 99      10       O   PRON       each_other          pcomp/P            -----      9
+ 9999 99      11       O    SEP                .          pcomp/P            ?????     -1
+
+ 9999 99       0       O      N        Fessenden        subj/SUBJ            -----      1
+ 9999 99       1       O      V           T_give      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N          sailors          obj/OBJ            -----      1
+ 9999 99       4       O    DET                a           det/DN            -----      6
+ 9999 99       5       O      N        Christmas           attr/A            -----      6
+ 9999 99       6       O      N          present      NOFUNC/SUBJ            -----     -1
+ 9999 99       7       O   PRON             they        subj/SUBJ            -----      8
+ 9999 99       8       O      V           T_will       v-ch/FAUXV            -----     10
+ 9999 99       9       O    ADV            never         frq/ADVL            -----     10
+ 9999 99      10       O      V         T_forget       mod/FMAINV            -----      6
+ 9999 99      11       O    SEP                !       mod/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                1          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON              Who        subj/SUBJ            -----      1
+ 9999 99       1       O      V        T_receive      main/FMAINV            -----     -1
+ 9999 99       2       O    DET                a           det/DN            -----      3
+ 9999 99       3       O      N         surprise          obj/OBJ            -----      1
+ 9999 99       4       O    SEP                ?          obj/OBJ            ?????     -1
+
+ 9999 99       0       O    NUM                2          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What          obj/OBJ            -----      3
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      3
+ 9999 99       2       O   PRON             they        subj/SUBJ            -----      1
+ 9999 99       3       O      V           T_hear      main/FMAINV            -----     -1
+ 9999 99       4       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                3          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV             When         tmp/ADVL            -----      4
+ 9999 99       1       O      V             T_do       v-ch/FAUXV            -----      4
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N         surprise        subj/SUBJ            -----      1
+ 9999 99       4       O      V         T_happen      main/FMAINV            -----     -1
+ 9999 99       5       O    SEP                ?      main/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                4          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O   PRON             What        subj/SUBJ            -----      1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET             this           det/DN            -----      3
+ 9999 99       3       O      N           method           comp/S            -----      1
+ 9999 99       4       O   PREP               of           mod/OF            -----      3
+ 9999 99       5       O    ING           T_send     pcomp/FMAINV            -----      4
+ 9999 99       6       O      N           voices          obj/OBJ            -----      5
+ 9999 99       7       O     CC              and            cc/CC            -----      1
+ 9999 99       8       O      N            music        subj/SUBJ            -----      9
+ 9999 99       9       O      V           T_call        cc/FMAINV            -----      1
+ 9999 99      10       O    SEP                ?        cc/FMAINV            ?????     -1
+
+ 9999 99       0       O    NUM                5          main/NH            -----     -1
+ 9999 99       1       O    SEP                .          main/NH            ?????     -1
+
+ 9999 99       0       O    ADV              Why      NOFUNC/ADVL            -----     -1
+ 9999 99       1       O      V             T_be      main/FMAINV            -----     -1
+ 9999 99       2       O    DET              the           det/DN            -----      3
+ 9999 99       3       O      N           sounds      NOFUNC/SUBJ            -----     -1
+ 9999 99       4       O    DET                a           det/DN            -----      5
+ 9999 99       5       O      N         surprise        subj/SUBJ            -----      1
+ 9999 99       6       O    SEP                ?        subj/SUBJ            ?????     -1
+

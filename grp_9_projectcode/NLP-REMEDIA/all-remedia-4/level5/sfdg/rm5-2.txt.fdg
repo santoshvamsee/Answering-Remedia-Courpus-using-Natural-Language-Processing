@@ -1,0 +1,358 @@
+0		
+	$<p>	
+
+0		
+1	Library	library	subj:>4	@SUBJ N
+2	of	of	mod:>1	@<NOM-OF PREP
+3	Congress	congress	pcomp:>2	@<P N
+4	Has	have	main:>0	@+FMAINV V
+5	Books	book	obj:>4	@OBJ N
+6	for	for	dat:>4	@ADVL PREP
+7	Everyone	everyone	pcomp:>6	@<P PRON
+	$<p>	
+
+0		
+	$(	
+2	WASHINGTON	Washington		@NH N	@APP N
+	$,	
+4	D	d	mod:>2	@APP ABBR
+	$.	
+	$<s>	
+
+0		
+1	C.	c.		@A> ABBR	@NH ABBR	@<NOM ABBR
+	$,	
+3	1964	1964		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	150	150	qn:>4	@QN> NUM
+4	years	year	tmp:>2	@ADVL N
+5	ago	ago	ad:>4	@<AD-A ADV
+6	this	this	det:>7	@DN> DET
+7	year	year	comp:>2	@PCOMPL-S N
+8	that	that	pm:>13	@CS CS
+9	our	we	attr:>10	@A> PRON
+10	nation's	nation	attr:>11	@A> N
+11	biggest	big	attr:>12	@A> A
+12	library	library	subj:>13	@SUBJ N
+13	burned	burn	mod:>1	@+FMAINV V
+14	to	to	ha:>13	@ADVL PREP
+15	the	the	det:>16	@DN> DET
+16	ground	ground	pcomp:>14	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Copies	copy	subj:>10	@SUBJ N
+2	of	of	mod:>1	@<NOM-OF PREP
+3	all	all	det:>4	@DN> DET
+4	the	the	det:>6	@DN> DET
+5	written	write	attr:>6	@A> A
+6	books	book	pcomp:>2	@<P N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	the	the	det:>9	@DN> DET
+9	time	time	pcomp:>7	@<P N
+10	were	be	v-ch:>11	@+FAUXV V
+11	kept	keep	main:>0	@-FMAINV EN
+12	in	in	loc:>11	@ADVL PREP
+13	the	the	det:>14	@DN> DET
+14	Library	library	pcomp:>12	@<P N
+15	of	of	mod:>14	@<NOM-OF PREP
+16	Congress	congress	pcomp:>15	@<P N
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	they	they	subj:>3	@SUBJ PRON
+3	were	be	v-ch:>4	@+FAUXV V
+4	destroyed	destroy	main:>0	@-FMAINV EN
+5	by	by	agt:>4	@ADVL PREP
+6	fire	fire	pcomp:>5	@<P N
+7	in	in	tmp:>4	@ADVL PREP
+8	1814	1814	pcomp:>7	@<P NUM
+9	during	during	mod:>8	@<NOM PREP
+10	a	a	det:>11	@DN> DET
+11	war	war	pcomp:>9	@<P N
+12	with	with		@<NOM PREP	@ADVL PREP
+13	the	the	det:>14	@DN> DET
+14	British	British	pcomp:>12	@<P N
+	$.	
+	$<p>	
+
+0		
+1	That	that	det:>2	@DN> DET
+2	fire	fire	subj:>3	@SUBJ N
+3	did_	do	v-ch:>5	@+FAUXV V
+4	n't	not	neg:>3	@ADVL NEG-PART
+5	stop	stop	main:>0	@-FMAINV V
+6	book	book	attr:>7	@A> N
+7	lovers	lover	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	next	next	attr:>3	@DN> DET
+3	year	year	tmp:>6	@ADVL N
+	$,	
+5	they	they	subj:>6	@SUBJ PRON
+6	began	begin	main:>0	@+FMAINV V
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	rebuild	rebuild	obj:>6	@-FMAINV V
+9	the	the	det:>10	@DN> DET
+10	library	library	obj:>8	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	To	to	pm:>2	@INFMARK> INFMARK>
+2	give	give	cnt:>9	@-FMAINV V
+3	it	it	dat:>2	@I-OBJ PRON
+4	a	a	det:>5	@DN> DET
+5	boost	boost	obj:>2	@OBJ N
+	$,	
+7	Thomas	Thomas	attr:>8	@A> N
+8	Jefferson	Jefferson	subj:>9	@SUBJ N
+9	gave	give	main:>0	@+FMAINV V
+10	6,457	6,457	obj:>9	@OBJ NUM
+11	of	of	mod:>10	@<NOM-OF PREP
+12	his	he	attr:>13	@A> PRON
+13	books	book	pcomp:>11	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	libraries	library	subj:>8	@SUBJ N
+4	in	in	mod:>3	@<NOM PREP
+5	the	the	det:>7	@DN> DET
+6	United	unite	attr:>7	@A> A
+7	States	state	pcomp:>4	@<P N
+8	could	could	v-ch:>9	@+FAUXV V
+9	be	be	v-ch:>10	@-FAUXV V
+10	used	use	main:>0	@-FMAINV EN
+11	by	by	agt:>10	@ADVL PREP
+12	members	member	pcomp:>11	@<P N
+13	only	only		@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	But	but	cc:>0	@CC CC
+2	the	the	det:>3	@DN> DET
+3	Library	library	subj:>6	@SUBJ N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	Congress	congress	pcomp:>4	@<P N
+6	was	be	v-ch:>7	@+FAUXV V
+7	built	build	main:>0	@-FMAINV EN
+8	for	for	ha:>7	@ADVL PREP
+9	all	all	det:>10	@DN> DET
+10	the	the	det:>11	@DN> DET
+11	people	people	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	From	from	cla:>6	@ADVL PREP
+2	the	the	det:>3	@DN> DET
+3	start	start	pcomp:>1	@<P N
+	$,	
+5	it	it	subj:>6	@SUBJ PRON
+6	was	be	main:>0	@+FMAINV V
+7	our	we	attr:>8	@A> PRON
+8	national	national	attr:>9	@A> A
+9	library	library	comp:>6	@PCOMPL-S N
+	$.	
+	$<p>	
+
+0		
+1	Today	today	subj:>7	@SUBJ N
+	$,	
+3	the	the	det:>4	@DN> DET
+4	Library	library	mod:>1	@APP N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	Congress	congress	pcomp:>5	@<P N
+7	is	be	main:>0	@+FMAINV V
+8	one	one	comp:>7	@PCOMPL-S NUM
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>12	@DN> DET
+11	largest	large	attr:>12	@A> A
+12	libraries	library	pcomp:>9	@<P N
+13	in	in	mod:>12	@<NOM PREP
+14	the	the	det:>15	@DN> DET
+15	world	world	pcomp:>13	@<P N
+	$.	
+	$<s>	
+
+0		
+1	People	people	subj:>2	@SUBJ N
+2	can	can	v-ch:>3	@+FAUXV V
+3	find	find	main:>0	@-FMAINV V
+4	a	a	det:>5	@DN> DET
+5	copy	copy	obj:>3	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	just_about	just_about		@ADVL ADV
+8	every	every	det:>9	@DN> DET
+9	book	book	oc:>3	@PCOMPL-O N
+10	and	and		@CC CC
+11	magazine	magazine		@SUBJ N	@OBJ N	@PCOMPL-O N	@<P N
+12	printed	print		@<P-FMAINV EN	@-FMAINV EN	@+FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	Libraries	library	subj:>2	@SUBJ N
+2	have	have	v-ch:>3	@+FAUXV V
+3	been	be	main:>0	@-FMAINV EN
+4	with	with	com:>3	@ADVL PREP
+5	us	we	pcomp:>4	@<P PRON
+6	since	since		@ADVL PREP	@CS CS
+7	people	people		@SUBJ N	@OBJ N	@PCOMPL-S N	@<P N
+8	first	first	frq:>9	@ADVL NUM	@ADVL NUM
+9	learned	learn		@+FMAINV V
+10	to	to	pm:>11	@INFMARK> INFMARK>
+11	write	write	cnt:>9	@-FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	One	one	subj:>17	@SUBJ NUM
+2	of	of	mod:>1	@<NOM-OF PREP
+3	the	the	det:>4	@DN> DET
+4	oldest	old	pcomp:>2	@<P A
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	be	be	v-ch:>7	@-FAUXV V
+7	found	find		@-FMAINV EN
+8	dates	date	obj:>7	@OBJ N
+9	back	back		@ADVL ADV
+10	to	to	dat:>7	@ADVL PREP
+11	about	about	ad:>12	@AD-A> ADV
+12	800	800	qn:>13	@QN> NUM
+13	years	year	attr:>14	@A> N
+14	B.C.	B.C.	pcomp:>10	@<P ABBR
+15	The	the	det:>16	@DN> DET
+16	books	book		@SUBJ N	@PCOMPL-O N
+17	were	be	v-ch:>18	@+FAUXV V
+18	written	write	main:>0	@-FMAINV EN
+19	on	on	loc:>18	@ADVL PREP
+20	tablets	tablet	pcomp:>19	@<P N
+21	made	make	mod:>20	@-FMAINV EN
+22	from	from	sou:>21	@ADVL PREP
+23	clay	clay	pcomp:>22	@<P N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	people	people	subj:>9	@SUBJ N
+3	who	who	subj:>4	@SUBJ PRON
+4	took	take	mod:>2	@+FMAINV V
+5	care	care	obj:>4	@OBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	the	the	det:>8	@DN> DET
+8	books	book	pcomp:>6	@<P N
+9	were	be	v-ch:>10	@+FAUXV V
+10	called	call	main:>0	@-FMAINV EN
+	$"_	
+12	men	man		@SUBJ N
+13	of	of	mod:>12	@<NOM-OF PREP
+14	the	the	det:>16	@DN> DET
+15	written	write	attr:>16	@A> A
+16	tablets	tablet	pcomp:>13	@<P N
+	$.	
+	$_"	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	gave	give	main:>0	@+FMAINV V
+3	6,457	6,457	qn:>4	@QN> NUM
+4	books	book	obj:>2	@OBJ N
+5	to	to	dat:>2	@ADVL PREP
+6	the	the	det:>8	@DN> DET
+7	new	new	attr:>8	@A> A
+8	library	library	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	our	we	attr:>7	@A> PRON
+7	national	national	attr:>8	@A> A
+8	library	library	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	library	library	subj:>2	@SUBJ N
+5	burn	burn	main:>0	@-FMAINV V
+6	down	down	phr:>5	@ADVL ADV
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>6	@ADVL ADV
+2	can	can	v-ch:>5	@+FAUXV V
+3	this	this	det:>4	@DN> DET
+4	library	library	subj:>2	@SUBJ N
+5	be	be	v-ch:>6	@-FAUXV V
+6	found	find	main:>0	@-FMAINV EN
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>6	@ADVL ADV
+2	were	be	v-ch:>6	@+FAUXV V
+3	some	some	det:>5	@DN> DET
+4	early	early	attr:>5	@A> A
+5	people	people	subj:>2	@SUBJ N
+6	called	call	main:>0	@-FMAINV EN
+	$"_	
+8	men	man		@SUBJ N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	the	the	det:>12	@DN> DET
+11	written	write	attr:>12	@A> A
+12	tablets	tablet	pcomp:>9	@<P N
+	$_"	
+	$?	
+	$<p>	
+

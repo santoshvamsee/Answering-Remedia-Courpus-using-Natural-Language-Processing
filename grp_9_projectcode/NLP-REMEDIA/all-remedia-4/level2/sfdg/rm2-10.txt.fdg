@@ -1,0 +1,350 @@
+0		
+1	Park	park	main:>0	@+FMAINV V
+2	Ride	ride	attr:>3	@A> N
+3	Turns	turn	attr:>4	@A> N
+4	100	100	obj:>1	@OBJ NUM
+	$!	
+	$<p>	
+
+0		
+	$(	
+2	SALEM	Salem	main:>1	@NH N
+	$,	
+4	MASSACHUSETTS	Massachusetts		@NH N
+	$,	
+6	1899	1899		@NH NUM	@A> NUM	@<NOM NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	merry-go-round	merry-go-round	subj:>3	@SUBJ N
+3	is	be	main:>0	@+FMAINV V
+4	100	100	qn:>5	@QN> NUM
+5	years_old	years_old	comp:>3	@PCOMPL-S A
+6	this	this	det:>7	@DN> DET
+7	year	year	tmp:>3	@ADVL N
+	$!	
+	$<s>	
+
+0		
+1	No	no	det:>2	@DN> DET
+2	other	other	det:>4	@DN> DET
+3	park	park	attr:>4	@A> N
+4	ride	ride	subj:>5	@SUBJ N
+5	has	have	v-ch:>6	@+FAUXV V
+6	lasted	last	main:>0	@-FMAINV EN
+7	so	so	ad:>8	@AD-A> ADV
+8	long	long	obj:>6	@OBJ A
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	first	first	attr:>3	@A> NUM
+3	merry-go-round	merry-go-round	subj:>8	@SUBJ N
+4	in	in	mod:>3	@<NOM PREP
+5	the	the	det:>7	@DN> DET
+6	United	unite	attr:>7	@A> A
+7	States	state	pcomp:>4	@<P N
+8	was	be	v-ch:>9	@+FAUXV V
+9	built	build	main:>0	@-FMAINV EN
+10	in	in	tmp:>9	@ADVL PREP
+11	1799	1799	pcomp:>10	@<P NUM
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	was	be	v-ch:>3	@+FAUXV V
+3	built	build	main:>0	@-FMAINV EN
+4	in	in	loc:>3	@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	park	park	pcomp:>4	@<P N
+7	in	in	mod:>6	@<NOM PREP
+8	Salem	Salem	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	merry-go-round	merry-go-round	subj:>3	@SUBJ N
+3	has	have	main:>0	@+FMAINV V
+4	wooden	wooden	attr:>5	@A> A
+5	animals	animal	obj:>3	@OBJ N
+6	on	on	loc:>3	@ADVL PREP
+7	it	it	pcomp:>6	@<P PRON
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>3	@DN> DET
+2	most	many	qn:>3	@QN> PRON	@QN> PRON
+3	favorite	favorite	subj:>4	@SUBJ N
+4	are	be	main:>0	@+FMAINV V
+5	the	the	det:>6	@DN> DET
+6	horses	horse	comp:>4	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	v-ch:>3	@+FAUXV V
+3	attached	attach	main:>0	@-FMAINV EN
+4	to	to	ha:>3	@ADVL PREP
+5	poles	pole	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	can	can	v-ch:>3	@+FAUXV V
+3	move	move	main:>0	@-FMAINV V
+4	up_and_down	up_and_down	ha:>3	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	animals	animal	subj:>3	@SUBJ N
+3	are	be	main:>0	@+FMAINV V
+4	on	on	loc:>3	@ADVL PREP
+5	a	a	det:>6	@DN> DET
+6	platform	platform	pcomp:>4	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	turns	turn	main:>0	@+FMAINV V
+3	in	in	ha:>2	@ADVL ADV
+4	a	a	det:>5	@DN> DET
+5	circle	circle	comp:>2	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	merry-go-round	merry-go-round	subj:>3	@SUBJ N
+3	spins	spin	main:>0	@+FMAINV V
+4	to	to	ha:>3	@ADVL PREP
+5	the	the	det:>6	@DN> DET
+6	sound	sound	pcomp:>4	@<P N
+7	of	of	mod:>6	@<NOM-OF PREP
+8	music	music	pcomp:>7	@<P N
+	$.	
+	$<s>	
+
+0		
+1	In	in	tmp:>6	@ADVL PREP
+2	time	time	pcomp:>1	@<P N
+	$,	
+4	the	the	det:>5	@DN> DET
+5	weather	weather	subj:>6	@SUBJ N
+6	damages	damage	main:>0	@+FMAINV V
+7	the	the	det:>8	@DN> DET
+8	animals	animal	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	lose	lose	main:>0	@+FMAINV V
+3	their	they	attr:>4	@A> PRON
+4	bright	bright	attr:>5	@A> A
+5	colors	color	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	tmp:>5	@ADVL ADV
+	$,	
+3	workers	worker	subj:>4	@SUBJ N
+4	must	must	v-ch:>5	@+FAUXV V
+5	fix	fix	main:>0	@-FMAINV V
+6	the	the	det:>7	@DN> DET
+7	animals	animal	obj:>5	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they		@SUBJ PRON
+2	sand	sand		@NH N
+3	away	away	ad:>2	@ADVL ADV
+4	all	all	det:>5	@DN> DET
+5	the	the	det:>7	@DN> DET
+6	old	old	attr:>7	@A> A
+7	paint	paint		@NH N
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>3	@ADVL ADV
+2	they	they	subj:>3	@SUBJ PRON
+3	patch	patch	main:>0	@+FMAINV V
+4	the	the	det:>6	@DN> DET
+5	broken	break	attr:>6	@A> A
+6	parts	part	obj:>3	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	next	next	attr:>3	@DN> DET
+3	step	step	subj:>4	@SUBJ N
+4	is	be	main:>0	@+FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	paint	paint	comp:>4	@-FMAINV V
+7	the	the	det:>8	@DN> DET
+8	animals	animal	obj:>6	@OBJ N
+9	white	white	oc:>6	@PCOMPL-O A
+	$.	
+	$<s>	
+
+0		
+1	After	after	tmp:>9	@ADVL PREP
+2	this	this	pcomp:>1	@<P PRON
+	$,	
+4	bright	bright	attr:>5	@A> A
+5	colors	color	subj:>8	@SUBJ N
+6	of	of	mod:>5	@<NOM-OF PREP
+7	paint	paint	pcomp:>6	@<P N
+8	are	be	v-ch:>9	@+FAUXV V
+9	added	add	main:>0	@-FMAINV EN
+	$.	
+	$<s>	
+
+0		
+1	Then	then	meta:>6	@ADVL ADV
+2	the	the	det:>3	@DN> DET
+3	animals	animal	subj:>4	@SUBJ N
+4	are	be	v-ch:>6	@+FAUXV V
+5	carefully	careful	>6	@ADVL ADV
+6	put	put	main:>0	@-FMAINV EN
+7	back	back	ha:>6	@ADVL ADV
+8	in	in	loc:>6	@ADVL PREP
+9	place	place	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Another	another	det:>2	@DN> DET
+2	name	name	subj:>6	@SUBJ N
+3	for	for	mod:>2	@<NOM PREP
+4	a	a	det:>5	@DN> DET
+5	merry-go-round	merry-go-round	pcomp:>3	@<P N
+6	is	be	main:>0	@+FMAINV V
+	$"_	
+8	carousel	carousel	comp:>6	@PCOMPL-S N
+	$_"	
+	$(	
+11	CAR-uh-sel	car-uh-sel	mod:>8	@NH N
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	Call	call	main:>0	@+FMAINV V
+2	it	it	obj:>1	@OBJ PRON
+3	what	what	obj:>5	@OBJ PRON
+4	you	you	subj:>5	@SUBJ PRON
+5	like	like		@+FMAINV V
+	$.	
+	$<s>	
+
+0		
+1	By	by	cla:>6	@ADVL PREP
+2	any	any	det:>3	@DN> DET
+3	name	name	pcomp:>1	@<P N
+	$,	
+5	it_	it	subj:>6	@SUBJ PRON
+6	's	be	main:>0	@+FMAINV V
+7	great	great	attr:>8	@A> A
+8	fun	fun	comp:>6	@PCOMPL-S N
+	$!	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	fixes	fix	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	merry-go-round	merry-go-round	obj:>2	@OBJ N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	subj:>2	@SUBJ PRON
+2	is	be	main:>0	@+FMAINV V
+3	another	another	det:>4	@DN> DET
+4	name	name	comp:>2	@PCOMPL-S N
+5	for	for	mod:>4	@<NOM PREP
+6	a	a	det:>7	@DN> DET
+7	merry-go-round	merry-go-round	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>6	@ADVL ADV
+2	was	be	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	one	one	subj:>2	@SUBJ NUM	@SUBJ PRON
+6	built	build	main:>0	@-FMAINV EN
+7	in	in	ha:>6	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	United	unite	attr:>10	@A> A
+10	States	state	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>6	@ADVL ADV
+2	was	be	v-ch:>6	@+FAUXV V
+3	the	the	det:>5	@DN> DET
+4	first	first	attr:>5	@A> NUM
+5	one	one	subj:>2	@SUBJ NUM	@SUBJ PRON
+6	built	build	main:>0	@-FMAINV EN
+7	in	in	ha:>6	@ADVL PREP
+8	the	the	det:>10	@DN> DET
+9	United	unite	attr:>10	@A> A
+10	States	state	pcomp:>7	@<P N
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	cnt:>4	@ADVL ADV
+2	do	do	v-ch:>4	@+FAUXV V
+3	merry-go-rounds	merry-go-round	subj:>2	@SUBJ N
+4	need	need	main:>0	@-FMAINV V
+5	to	to	pm:>6	@INFMARK> INFMARK>
+6	be	be	v-ch:>7	@-FAUXV V
+7	fixed	fix	obj:>4	@-FMAINV EN
+	$?	
+	$<p>	
+

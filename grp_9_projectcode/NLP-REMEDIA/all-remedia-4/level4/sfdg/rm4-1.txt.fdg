@@ -1,0 +1,374 @@
+0		
+	$<p>	
+
+0		
+1	Divers	diver	subj:>2	@SUBJ N
+2	Spend	spend	main:>0	@+FMAINV V
+3	Two	two	qn:>4	@QN> NUM
+4	Weeks	week	tmp:>2	@ADVL N
+5	Underwater	underwater	loc:>2	@ADVL ADV
+	$<p>	
+
+0		
+	$(	
+2	ST.	st.	attr:>3	@A> ABBR
+3	JOHN	John		@APP N
+	$,	
+5	Virgin	virgin	attr:>6	@A> N
+6	Islands	island	mod:>3	@APP N
+	$,	
+8	July	July		@APP N	@A> N	@ADVL N
+9	20,1970	20,1970		@NH NUM	@APP NUM	@ADVL NUM
+	$)	
+	$.	
+	$<s>	
+
+0		
+1	A	a	det:>2	@DN> DET
+2	team	team	subj:>6	@SUBJ N
+3	of	of	mod:>2	@<NOM-OF PREP
+4	five	five	qn:>5	@QN> NUM
+5	women	woman	pcomp:>3	@<P N
+6	surfaced	surface	main:>0	@+FMAINV V
+7	today	today	tmp:>6	@ADVL N
+8	after	after	tmp:>7	@ADVL PREP
+9	spending	spend	pcomp:>8	@<P-FMAINV ING
+10	two	two	qn:>11	@QN> NUM
+11	weeks	week	tmp:>9	@ADVL N
+12	underwater	underwater	loc:>9	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	are	be	main:>0	@+FMAINV V
+3	part	part	comp:>2	@PCOMPL-S N
+4	of	of	mod:>3	@<NOM-OF PREP
+5	a	a	det:>6	@DN> DET
+6	team	team	pcomp:>4	@<P N
+7	that	that	subj:>8	@SUBJ PRON
+8	studies	study	mod:>6	@+FMAINV V
+9	ocean	ocean	attr:>10	@A> N
+10	plants	plant	obj:>8	@OBJ N
+11	and	and	cc:>10	@CC CC
+12	animals	animal	cc:>10	@OBJ N
+	$.	
+	$<p>	
+
+0		
+1	On	on	loc:>6	@ADVL PREP
+2	July	July	pcomp:>1	@<P N
+3	6	6	mod:>2	@<NOM NUM
+	$,	
+5	they	they	subj:>6	@SUBJ PRON
+6	entered	enter	main:>0	@+FMAINV V
+7	the	the	det:>8	@DN> DET
+8	water	water	obj:>6	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	lived	live	main:>0	@+FMAINV V
+3	in	in	loc:>2	@ADVL PREP
+4	two	two	qn:>6	@QN> NUM
+5	white	white	attr:>6	@A> A
+6	tanks	tank	pcomp:>3	@<P N
+7	placed	place	mod:>6	@-FMAINV EN
+8	below	below	ha:>7	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	surface	surface	pcomp:>8	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	day	day		@NH N	@SUBJ N	@OBJ N
+	$,	
+4	they	they	subj:>5	@SUBJ PRON
+5	left	leave		@+FMAINV V
+6	the	the	det:>7	@DN> DET
+7	tanks	tank	obj:>5	@OBJ N
+8	for	for	dur:>5	@ADVL PREP
+9	several	several	det:>10	@DN> DET
+10	hours	hour	pcomp:>8	@<P N
+11	to	to	dat:>5	@ADVL PREP
+12	scuba	scuba	attr:>13	@A> N
+13	dive	dive	pcomp:>11	@<P N
+	$.	
+	$"_	
+16	Scuba	scuba	attr:>18	@A> N
+	$_"	
+18	means	means		@PCOMPL-O N
+19	to	to	pm:>20	@INFMARK> INFMARK>
+20	swim	swim	mod:>18	@-FMAINV V
+21	underwater	underwater	loc:>20	@ADVL ADV
+22	using	use	obj:>20	@-FMAINV ING
+23	air	air	obj:>22	@OBJ N
+24	from	from	sou:>22	@ADVL PREP
+25	a	a	det:>26	@DN> DET
+26	machine	machine	pcomp:>24	@<P N
+	$.	
+	$<p>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	team	team	subj:>3	@SUBJ N
+3	would	would	v-ch:>4	@+FAUXV V
+4	swim	swim	main:>0	@-FMAINV V
+5	as	as	ad:>6	@AD-A> ADV
+6	far	far	loc:>4	@ADVL ADV
+7	as	as	copred:>4	@ADVL PREP
+8	1,500	1,500	qn:>9	@QN> NUM
+9	feet	foot	pcomp:>7	@<P N
+10	away	away	ad:>9	@ADVL ADV
+11	from	from	sou:>4	@ADVL PREP
+12	the	the	det:>13	@DN> DET
+13	tanks	tank	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Each	each	det:>2	@DN> DET
+2	dive	dive	subj:>3	@SUBJ N
+3	lasted	last	main:>0	@+FMAINV V
+4	about	about	ad:>5	@AD-A> ADV
+5	four	four	qn:>6	@QN> NUM
+6	hours	hour	dur:>3	@O-ADVL N
+	$.	
+	$<s>	
+
+0		
+1	The	the	det:>2	@DN> DET
+2	women	woman	subj:>3	@SUBJ N
+3	breathed	breathe	main:>0	@+FMAINV V
+4	air	air	obj:>3	@OBJ N
+5	through	through	ha:>3	@ADVL PREP
+6	a	a	det:>8	@DN> DET
+7	new	new	attr:>8	@A> A
+8	kind	kind	pcomp:>5	@<P N
+9	of	of	mod:>8	@<NOM-OF PREP
+10	machine	machine	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	It	it	subj:>2	@SUBJ PRON
+2	weighs	weigh	main:>0	@+FMAINV V
+3	65	65	qn:>4	@QN> NUM
+4	pounds	pound	obj:>2	@OBJ N
+	$.	
+	$<s>	
+
+0		
+1	However	however	meta:>6	@ADVL ADV
+	$,	
+3	it	it	subj:>4	@SUBJ PRON
+4	does	do	v-ch:>6	@+FAUXV V
+5	not	not	neg:>4	@ADVL NEG-PART
+6	send	send	main:>0	@-FMAINV V
+7	air	air	attr:>8	@A> N
+8	bubbles	bubble	obj:>6	@OBJ N
+9	to	to	dat:>6	@ADVL PREP
+10	the	the	det:>11	@DN> DET
+11	surface	surface	pcomp:>9	@<P N
+	$.	
+	$<s>	
+
+0		
+1	This	this	subj:>2	@SUBJ PRON
+2	lets	let	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	divers	diver	obj:>2	@OBJ N
+5	swim	swim		@-FMAINV V	@<P-FMAINV V
+6	close	close	ha:>5	@ADVL ADV
+7	to	to	pm:>8	@INFMARK> INFMARK>
+8	fish	fish	obj:>5	@-FMAINV V
+9	without	without	man:>8	@ADVL PREP
+10	scaring	scare	pcomp:>9	@<P-FMAINV ING
+11	them	they	obj:>10	@OBJ PRON
+	$.	
+	$<p>	
+
+0		
+1	Their	they	attr:>2	@A> PRON
+2	hard	hard	attr:>3	@A> A
+3	work	work	subj:>4	@SUBJ N
+4	paid	pay	main:>0	@+FMAINV V
+5	off	off	phr:>4	@ADVL ADV
+	$.	
+	$<s>	
+
+0		
+1	They	they	subj:>2	@SUBJ PRON
+2	studied	study	main:>0	@+FMAINV V
+3	35	35	qn:>4	@QN> NUM
+4	kinds	kind	obj:>2	@OBJ N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	fish	fish	pcomp:>5	@<P N
+7	and	and	cc:>2	@CC CC
+8	found	find	cc:>2	@+FMAINV V
+9	150	150	qn:>10	@QN> NUM
+10	types	type	obj:>8	@OBJ N
+11	of	of	mod:>10	@<NOM-OF PREP
+12	plants	plant	pcomp:>11	@<P N
+	$.	
+	$<s>	
+
+0		
+1	Many	many	subj:>4	@SUBJ PRON
+2	of	of	mod:>1	@<NOM-OF PREP
+3	these	this	pcomp:>2	@<P PRON
+4	had	have	v-ch:>6	@+FAUXV V
+5	never	never	frq:>7	@ADVL ADV
+6	been	be	v-ch:>7	@-FAUXV EN
+7	seen	see	main:>0	@-FMAINV EN
+8	before	before	tmp:>7	@ADVL ADV
+	$.	
+	$<p>	
+
+0		
+1	Their	they	attr:>2	@A> PRON
+2	team	team	attr:>3	@A> N
+3	leader	leader	subj:>4	@SUBJ N
+4	was	be	main:>0	@+FMAINV V
+5	Dr.	Dr.	attr:>6	@A> ABBR
+6	Sylvia	Sylvia	attr:>7	@A> N
+7	Earle	Earle	attr:>8	@A> N
+8	Mead	mead	comp:>4	@PCOMPL-S N
+	$,	
+10	age	age	attr:>11	@A> N
+11	35	35		@SUBJ NUM	@PCOMPL-S NUM	@APP NUM	@ADVL NUM
+	$.	
+	$<s>	
+
+0		
+1	She	she	subj:>2	@SUBJ PRON
+2	has	have	v-ch:>3	@+FAUXV V
+3	been	be	main:>0	@-FMAINV EN
+4	a	a	det:>6	@DN> DET
+5	scuba	scuba	attr:>6	@A> N
+6	diver	diver	comp:>3	@PCOMPL-S N
+7	since	since	pm:>9	@CS CS
+8	she	she	subj:>9	@SUBJ PRON
+9	was	be	tmp:>3	@+FMAINV V
+10	a	a	det:>11	@DN> DET
+11	teenager	teenager	comp:>9	@PCOMPL-S N
+	$.	
+	$<s>	
+
+0		
+1	Was	be	v-ch:>3	@+FAUXV V
+2	Sylvia	Sylvia	subj:>1	@SUBJ N
+3	scared	scare	main:>0	@-FMAINV EN
+4	to	to	pm:>5	@INFMARK> INFMARK>
+5	have	have	cnt:>3	@-FMAINV V
+6	her	she	attr:>7	@A> PRON
+7	feet	foot	obj:>5	@OBJ N
+8	off	off	ha:>5	@ADVL PREP
+9	the	the	det:>10	@DN> DET
+10	ground	ground	pcomp:>8	@<P N
+11	for	for	mod:>10	@<NOM PREP
+12	so	so	ad:>13	@AD-A> ADV
+13	long	long	pcomp:>11	@<P A
+	$?	
+	$<s>	
+
+0		
+	$"_	
+2	it	it	subj:>3	@SUBJ PRON
+3	was	be	obj:>14	@+FMAINV V
+4	the	the	det:>5	@DN> DET
+5	safest	safe	comp:>3	@PCOMPL-S A
+6	two	two	qn:>7	@QN> NUM
+7	weeks	week		@SUBJ N	@PCOMPL-S N
+8	of	of	mod:>7	@<NOM-OF PREP
+9	my	I	attr:>10	@A> PRON
+10	life	life	pcomp:>8	@<P N
+	$,	
+	$_"	
+13	she	she	subj:>14	@SUBJ PRON
+14	said	say	main:>0	@+FMAINV V
+	$.	
+	$<p>	
+
+0		
+1	1	1	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Who	who	subj:>2	@SUBJ PRON
+2	was	be	main:>0	@+FMAINV V
+3	the	the	det:>4	@DN> DET
+4	leader	leader	comp:>2	@PCOMPL-S N
+5	of	of	mod:>4	@<NOM-OF PREP
+6	the	the	det:>9	@DN> DET
+7	under	under	attr:>8	@A> A
+8	water	water	attr:>9	@A> N
+9	team	team	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
+0		
+1	2	2	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	What	what	obj:>5	@OBJ PRON
+2	did	do	v-ch:>5	@+FAUXV V
+3	the	the	det:>4	@DN> DET
+4	team	team	subj:>2	@SUBJ N
+5	do	do	main:>0	@-FMAINV V
+6	that	that	dat:>5	@I-OBJ PRON
+7	was	be		@+FMAINV V
+8	different	different	comp:>7	@PCOMPL-S A
+	$?	
+	$<p>	
+
+0		
+1	3	3	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	When	when	tmp:>5	@ADVL ADV
+2	did	do	v-ch:>5	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	first	first		@PCOMPL-S NUM	@OBJ NUM	@I-OBJ NUM	@ADVL NUM	@ADVL NUM
+5	go	go	main:>0	@-FMAINV V
+6	underwater	underwater	loc:>5	@ADVL ADV
+	$?	
+	$<p>	
+
+0		
+1	4	4	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Where	where	loc:>4	@ADVL ADV
+2	did	do	v-ch:>4	@+FAUXV V
+3	they	they	subj:>2	@SUBJ PRON
+4	live	live	main:>0	@-FMAINV V
+5	underwater	underwater	man:>4	@ADVL ADV
+	$?	
+	$<p>	
+
+0		
+1	5	5	main:>0	@NH NUM
+	$.	
+	$<s>	
+
+0		
+1	Why	why	>2	@ADVL ADV
+2	was	be	main:>0	@+FMAINV V
+3	their	they	attr:>4	@A> PRON
+4	trip	trip	subj:>2	@SUBJ N
+5	worth	worth	ha:>2	@ADVL PREP
+6	the	the	det:>7	@DN> DET
+7	work	work	pcomp:>5	@<P N
+	$?	
+	$<p>	
+
